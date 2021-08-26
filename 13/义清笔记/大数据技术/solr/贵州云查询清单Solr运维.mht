@@ -1,0 +1,209 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?ufPW3dTGsunRr8fltaVTb2xy1MvOrA==?=
+Date: Date: Fri, 23 Jul 2021 05:51:08 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000645984.958"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000645984.958
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000215328.722"
+
+
+------=_Next_Part_0000215328.722
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000215328.722
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>=B9=F3=D6=DD=D4=C6=B2=E9=D1=AF=C7=E5=
+=B5=A5Solr=D4=CB=CE=AC</title>=0A=0A=0A=0A=0A<style type=3D"text/=
+css" id=3D"wiz_todo_style_id" wiz_link_version=3D"01.00.09">.wiz-=
+todo, .wiz-todo-img {width: 16px; height: 16px; cursor: default;=20=
+padding: 0 10px 0 2px; vertical-align: -10%;-webkit-user-select:=20=
+none;} .wiz-todo-label { display: inline-block; padding-top: 7px;=
+ padding-bottom: 6px; line-height: 1.5;} .wiz-todo-label-checked=20=
+{  color: #666;} .wiz-todo-label-unchecked {text-decoration: init=
+ial;} .wiz-todo-completed-info {padding-left: 44px; display: inli=
+ne-block; } .wiz-todo-avatar { width:20px; height: 20px; vertical=
+-align: -20%; margin-right:10px; border-radius: 2px;} .wiz-todo-a=
+ccount, .wiz-todo-dt { color: #666; }</style>=0A=0A=0A=0A=0A<styl=
+e type=3D"text/css" id=3D"wiz_custom_css">=0Abody=0A{=0A    font-=
+family: Arial;=0A    font-size: 10.5pt;=0A    line-height: 1.5;=0A=
+}=0Ahtml, body=0A{=0A    color: ;=0A    background-color: ;=0A}=0A=
+h1 {=0A    font-size:1.5em;=0A    font-weight:bold;=0A}=0Ah2 {=0A=
+    font-size:1.4em;=0A    font-weight:bold;=0A}=0Ah3 {=0A    fon=
+t-size:1.3em;=0A    font-weight:bold;=0A}=0Ah4 {=0A    font-size:=
+1.2em;=0A    font-weight:bold;=0A}=0Ah5 {=0A    font-size:1.1em;=0A=
+    font-weight:bold;=0A}=0Ah6 {=0A    font-size:1.0em;=0A    fon=
+t-weight:bold;=0A}=0Aimg {=0A    border:0;=0A    max-width: 100%;=
+=0A    height: auto !important;=0A}=0Ablockquote {=0A    margin-t=
+op:0px;=0A    margin-bottom:0px;=0A}=0Atable {=0A    border-colla=
+pse:collapse;=0A    border:1px solid #bbbbbb;=0A}=0Atd {=0A    bo=
+rder-collapse:collapse;=0A    border:1px solid #bbbbbb;=0A}=0A</s=
+tyle>=0A</head>=0A=0A<body style><div>=B7=D6=C6=AC=B4=B4=BD=A8=BD=
+=C5=B1=BEslice</div><div><table style=3D"width: 100%;"><tbody><tr=
+><td style=3D"width: 100%;"><div>hosts=3D([0]=3D135.1.9.143:8983=20=
+[1]=3D135.1.9.144:8983 [2]=3D135.1.9.145:8983 [3]=3D135.1.9.146:8=
+983)</div><div>#dirs=3D([0]=3D/data/solrData/callIndex [1]=3D/dat=
+a/solrData/netIndex [2]=3D/data/solrData/smsIndex [3]=3D/data/sol=
+rData/mmsIndex [4]=3D/data/solrData/vasIndex)</div><div>shardNum=3D=
+30</div><div>routerField=3Dpartition</div><div><br></div><div>ech=
+o "=BC=AF=BA=CF=C3=FB=B3=C6=A3=BA" $1</div><div>echo "=BC=AF=BA=CF=
+=C5=E4=D6=C3=A3=BA" $2</div><div>echo "=CA=B5=C0=FD=C2=B7=BE=B6=A3=
+=BA" $3</div><div>collectionName=3D$1</div><div>configName=3D$2</=
+div><div>instanceDir=3D$3</div><div><br></div><div>hostNum=3D${#h=
+osts[@]}</div><div>echo "=D6=F7=BB=FA=CA=FD=A3=BA" $hostNum</div>=
+<div>for ((shardName=3D1; shardName&lt;=3D${shardNum};shardName++=
+))</div><div>do</div><div>&nbsp; echo "=B7=D6=C6=AC=C3=FB=B3=C6=A3=
+=BA" &nbsp;${shardName}</div><div>&nbsp; #=CD=A8=B9=FD=C8=D5=C6=DA=
+=C3=FB=B3=C6=B6=D4=D6=F7=BB=FA=CA=FD=C1=BF=C8=A1=C4=A3=BB=F1=C8=A1=
+=CA=FD=D7=E9=CF=C2=B1=EA</div><div>&nbsp; leaderHostIdx=3D`expr $=
+{shardName} \% ${#hosts[@]}`</div><div>&nbsp; #=C8=B7=B6=A8shard=B7=
+=D6=C6=AC=B7=D6=B2=BC=D4=DA=C4=C4=CC=A8=D6=F7=BB=FA=C9=CF</div><d=
+iv>&nbsp; leaderHost=3D${hosts[${leaderHostIdx}]}</div><div>&nbsp=
+; echo "=D6=F7=B7=D6=C6=AC=D6=F7=BB=FA=A3=BA" $leaderHost</div><d=
+iv>&nbsp; echo "=D6=F7=B7=D6=C6=AC=C4=BF=C2=BC=A3=BA" ${instanceD=
+ir}</div><div><br></div><div>&nbsp; #=C5=D0=B6=CF=BC=AF=BA=CF=CA=C7=
+=B7=F1=B4=B4=BD=A8</div><div>&nbsp; echo `curl -s http://${hosts[=
+0]}/solr/admin/collections?action=3DLIST` | grep -q $collectionNa=
+me</div><div>&nbsp; if [ $? -eq 0 ]</div><div>&nbsp; then</div><d=
+iv>&nbsp; &nbsp; &nbsp;#=B4=B4=BD=A8=B7=D6=C6=AC</div><div>&nbsp;=
+ &nbsp; &nbsp;echo "http://${leaderHost}/solr/admin/collections?a=
+ction=3DCREATESHARD&amp;collection=3D${collectionName}&amp;shard=3D=
+${shardName}&amp;maxShardsPerNode=3D300&amp;property.instanceDir=3D=
+${instanceDir}/${collectionName}_${shardName}_replica1&amp;proper=
+ty.dataDir=3Ddata&amp;createNodeSet=3D${leaderHost}_solr"</div><d=
+iv>&nbsp; &nbsp; &nbsp;curl "http://${leaderHost}/solr/admin/coll=
+ections?action=3DCREATESHARD&amp;collection=3D${collectionName}&a=
+mp;shard=3D${shardName}&amp;maxShardsPerNode=3D300&amp;property.i=
+nstanceDir=3D${instanceDir}/${collectionName}_${shardName}_replic=
+a1&amp;property.dataDir=3Ddata&amp;createNodeSet=3D${leaderHost}_=
+solr"</div><div><span style=3D"font-size: 10.5pt; line-height: 1.=
+5;">&nbsp; else</span></div><div>&nbsp; &nbsp; &nbsp;#=B4=B4=BD=A8=
+=BC=AF=BA=CF</div><div>&nbsp; &nbsp; &nbsp;echo "http://${leaderH=
+ost}/solr/admin/collections?action=3DCREATE&amp;name=3D${collecti=
+onName}&amp;collection.configName=3D${configName}&amp;router.name=
+=3Dimplicit&amp;router.field=3D${routerField}&amp;replicationFact=
+or=3D1&amp;maxShardsPerNode=3D300&amp;shards=3D${shardName}&amp;p=
+roperty.instanceDir=3D${instanceDir}/${collectionName}_${shardNam=
+e}_replica1&amp;property.dataDir=3Ddata&amp;createNodeSet=3D${lea=
+derHost}_solr"</div><div>&nbsp; &nbsp; &nbsp;curl "http://${leade=
+rHost}/solr/admin/collections?action=3DCREATE&amp;name=3D${collec=
+tionName}&amp;collection.configName=3D${configName}&amp;router.na=
+me=3Dimplicit&amp;router.field=3D${routerField}&amp;replicationFa=
+ctor=3D1&amp;maxShardsPerNode=3D300&amp;shards=3D${shardName}&amp=
+;property.instanceDir=3D${instanceDir}/${collectionName}_${shardN=
+ame}_replica1&amp;property.dataDir=3Ddata&amp;createNodeSet=3D${l=
+eaderHost}_solr"</div><div>&nbsp; fi</div><div><br></div><div>&nb=
+sp; maxHostIdx=3D$(expr ${#hosts[@]} - 1)</div><div>&nbsp; #=C8=B7=
+=B6=A8=B8=B1=B1=BE1=B7=D6=C6=AC=C4=BF=C2=BC=CF=C2=B1=EA</div><div=
+>&nbsp; replica1HostIdx=3D$(expr ${leaderHostIdx} + 1)</div><div>=
+&nbsp; if [ "${replica1HostIdx}" -gt "${maxHostIdx}" ]</div><div>=
+&nbsp; then</div><div>&nbsp; &nbsp; replica1HostIdx=3D$(expr ${re=
+plica1HostIdx} - ${hostNum})</div><div>&nbsp; fi</div><div>&nbsp;=
+ replica1Host=3D${hosts[${replica1HostIdx}]}</div><div>&nbsp; ech=
+o "=B7=D6=C6=AC=B8=B1=B1=BE1=D6=F7=BB=FA=A3=BA" $replica1Host</di=
+v><div>&nbsp; echo "=B7=D6=C6=AC=C4=BF=C2=BC=A3=BA" ${instanceDir=
+}</div><div><br></div><div>&nbsp; #=B4=B4=BD=A8=B8=B1=B1=BE1</div=
+><div>&nbsp; echo "http://${replica1Host}/solr/admin/collections?=
+action=3DADDREPLICA&amp;collection=3D${collectionName}&amp;shard=3D=
+${shardName}&amp;instanceDir=3D${instanceDir}/${collectionName}_$=
+{shardName}_replica2&amp;dataDir=3Ddata&amp;node=3D${replica1Host=
+}_solr"</div><div>&nbsp; curl "http://${replica1Host}/solr/admin/=
+collections?action=3DADDREPLICA&amp;collection=3D${collectionName=
+}&amp;shard=3D${shardName}&amp;instanceDir=3D${instanceDir}/${col=
+lectionName}_${shardName}_replica2&amp;dataDir=3Ddata&amp;node=3D=
+${replica1Host}_solr"</div><div><br></div><div>&nbsp; #=C8=B7=B6=A8=
+=B8=B1=B1=BE2=B7=D6=C6=AC=C4=BF=C2=BC=CF=C2=B1=EA</div><div>&nbsp=
+; replica2HostIdx=3D$(expr ${leaderHostIdx} + 2)</div><div>&nbsp;=
+ if [ "${replica2HostIdx}" -gt "${maxHostIdx}" ]</div><div>&nbsp;=
+ then</div><div>&nbsp; &nbsp; replica2HostIdx=3D$(expr ${replica2=
+HostIdx} - ${hostNum})</div><div>&nbsp; fi</div><div>&nbsp; repli=
+ca2Host=3D${hosts[${replica2HostIdx}]}</div><div>&nbsp; echo "=B7=
+=D6=C6=AC=B8=B1=B1=BE2=D6=F7=BB=FA=A3=BA" $replica2Host</div><div=
+>&nbsp; echo "=B7=D6=C6=AC=C4=BF=C2=BC=A3=BA" ${instanceDir}</div=
+><div><br></div><div>&nbsp; #=B4=B4=BD=A8=B8=B1=B1=BE2</div><div>=
+&nbsp; echo "http://${replica2Host}/solr/admin/collections?action=
+=3DADDREPLICA&amp;collection=3D${collectionName}&amp;shard=3D${sh=
+ardName}&amp;instanceDir=3D${instanceDir}/${collectionName}_${sha=
+rdName}_replica3&amp;dataDir=3Ddata&amp;node=3D${replica2Host}_so=
+lr"</div><div>&nbsp; curl "http://${replica2Host}/solr/admin/coll=
+ections?action=3DADDREPLICA&amp;collection=3D${collectionName}&am=
+p;shard=3D${shardName}&amp;instanceDir=3D${instanceDir}/${collect=
+ionName}_${shardName}_replica3&amp;dataDir=3Ddata&amp;node=3D${re=
+plica2Host}_solr"</div><div><br></div><div>done</div></td></tr></=
+tbody></table></div><div><div><br></div></div>=BC=AF=BA=CF=B4=B4=BD=
+=A8<div><table style=3D"width: 100%;"><tbody><tr><td style=3D"wid=
+th: 100%;"><div>for i in {1..7}</div><div>do</div><div>&nbsp; #=CD=
+=A8=BB=B0=C7=E5=B5=A5</div><div>&nbsp; slice call_fp_0${i} call /=
+data/solrData/callIndex</div><div>&nbsp; slice call_mp_0${i} call=
+ /data/solrData/callIndex</div><div>&nbsp; #=CA=FD=BE=DD=C7=E5=B5=
+=A5</div><div>&nbsp; slice net_fp_0${i} net /data/solrData/netInd=
+ex</div><div>&nbsp; slice net_mp_0${i} net /data/solrData/netInde=
+x</div><div>&nbsp; #=B2=CA=D0=C5=C7=E5=B5=A5 &nbsp;</div><div>&nb=
+sp; slice mms_mp_0${i} mms /data/solrData/mmsIndex</div><div>&nbs=
+p; #=B6=CC=D0=C5=C7=E5=B5=A5 &nbsp;</div><div>&nbsp; slice sms_mp=
+_0${i} sms /data/solrData/smsIndex</div><div>&nbsp; #=D4=F6=D6=B5=
+=C7=E5=B5=A5 &nbsp;</div><div>&nbsp; slice vas_fp_0${i} vas /data=
+/solrData/vasIndex</div><div>&nbsp; slice vas_mp_0${i} call /data=
+/solrData/vasIndex</div><div>done</div></td></tr></tbody></table>=
+</div><div><br></div><div>=C9=BE=B3=FD=CB=F9=D3=D0=BC=AF=BA=CF</d=
+iv><div><table style=3D"width: 100%;"><tbody><tr><td style=3D"wid=
+th: 100%;"><div><div>for i in {1..7}</div><div>do</div><div>&nbsp=
+; #=CD=A8=BB=B0=C7=E5=B5=A5 &nbsp;</div><div><span class=3D"Apple=
+-tab-span" style=3D"white-space: pre;">	</span>curl "http://nn80:=
+8983/solr/admin/collections?action=3DDELETE&amp;name=3Dcall_0${i}=
+"</div><div>&nbsp; #=CA=FD=BE=DD=C7=E5=B5=A5 &nbsp;</div><div><sp=
+an class=3D"Apple-tab-span" style=3D"white-space: pre;">	</span>c=
+url "http://nn80:8983/solr/admin/collections?action=3DDELETE&amp;=
+name=3Dnet_0${i}"</div><div>&nbsp; #=B2=CA=D0=C5=C7=E5=B5=A5</div=
+><div>&nbsp; curl "http://nn80:8983/solr/admin/collections?action=
+=3DDELETE&amp;name=3Dmms_0${i}" &nbsp; &nbsp; &nbsp;</div><div>&n=
+bsp; #=B6=CC=D0=C5=C7=E5=B5=A5&nbsp;</div><div>&nbsp; curl "http:=
+//nn80:8983/solr/admin/collections?action=3DDELETE&amp;name=3Dsms=
+_0${i}" &nbsp; &nbsp;</div><div>&nbsp; #=D4=F6=D6=B5=C7=E5=B5=A5=20=
+&nbsp;</div><div><span class=3D"Apple-tab-span" style=3D"white-sp=
+ace: pre;">	</span>curl "http://nn80:8983/solr/admin/collections?=
+action=3DDELETE&amp;name=3Dvas_0${i}"</div><div>done &nbsp; &nbsp=
+;</div></div></td></tr></tbody></table></div><div><div><br></div>=
+</div><div>=C9=BE=B3=FDshard=B7=D6=C6=AC</div><div><table style=3D=
+"width: 100%;"><tbody><tr><td style=3D"width: 100%;"><div>for i i=
+n {1..7}</div><div>do</div><div>curl "http://CLOUDS-SOLR-01:8983/=
+solr/admin/collections?action=3DDELETESHARD&amp;shard=3D31&amp;co=
+llection=3Dvas_fp_0${i}"</div><div>done&nbsp;</div></td></tr></tb=
+ody></table><br>=C9=BE=B3=FD=BC=AF=BA=CF</div><div><table style=3D=
+"width: 100%;"><tbody><tr><td style=3D"width: 100%;"><div>for i i=
+n {1..7}</div><div>do</div><div><span class=3D"Apple-tab-span" st=
+yle=3D"white-space: pre;">	</span>curl "http://CLOUDS-SOLR-01:898=
+3/solr/admin/collections?action=3DDELETE&amp;name=3Dvas_fp_0${i}"=
+</div><div>done &nbsp;</div></td></tr></tbody></table><br><div><d=
+iv>=BC=AF=BA=CFoptimized</div><div><table style=3D"width: 759.047=
+6684570313px;"><tbody><tr><td style=3D"width: 758.0952758789063px=
+;"><div><span style=3D"font-size: 10.5pt; line-height: 1.5;">#!/b=
+in/bash</span></div><div><div>for((i=3D1;i&lt;20;i++))</div><div>=
+do</div><div>{</div><div><span class=3D"Apple-tab-span" style=3D"=
+white-space: pre;">	</span>curl "http://192.168.14.81:8984/solr/c=
+all_01_${i}_replica1/update?optimize=3Dtrue&amp;waitFlush=3Dtrue"=
+</div><div>}&amp;</div><div>done</div></div></td></tr></tbody></t=
+able><br><div><br></div></div></div><div><div><br></div></div><br=
+><br><br><br><br><table style=3D"width: 775.2381591796875px;"><tb=
+ody></tbody></table></div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000215328.722--
+
+------=_Next_Part_0000645984.958--
+

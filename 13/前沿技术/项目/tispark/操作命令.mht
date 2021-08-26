@@ -1,0 +1,156 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?stnX98P8we4=?=
+Date: Date: Fri, 23 Jul 2021 05:50:51 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000595779.485"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000595779.485
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000198593.556"
+
+
+------=_Next_Part_0000198593.556
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000198593.556
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A<title>=B2=D9=D7=F7=C3=FC=C1=EE</title>=0A    =0A=
+<style id=3D"wiz_custom_css">html, body {font-size: 12pt;}body {f=
+ont-family: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=ED=D1=C5=BA=
+=DA', 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif;lin=
+e-height: 1.6;margin: 0 auto;padding: 20px 16px;padding: 1.25rem=20=
+1rem;}h1, h2, h3, h4, h5, h6 {margin:20px 0 10px;margin:1.25rem 0=
+ 0.625rem;padding: 0;font-weight: bold;}h1 {font-size:20pt;font-s=
+ize:1.67rem;}h2 {font-size:18pt;font-size:1.5rem;}h3 {font-size:1=
+5pt;font-size:1.25rem;}h4 {font-size:14pt;font-size:1.17rem;}h5 {=
+font-size:12pt;font-size:1rem;}h6 {font-size:12pt;font-size:1rem;=
+color: #777777;margin: 1rem 0;}div, p, ul, ol, dl, li {margin:0;}=
+blockquote, table, pre, code {margin:8px 0;}ul, ol {padding-left:=
+32px;padding-left:2rem;}ol.wiz-list-level1 > li {list-style-type:=
+decimal;}ol.wiz-list-level2 > li {list-style-type:lower-latin;}ol=
+.wiz-list-level3 > li {list-style-type:lower-roman;}blockquote {p=
+adding:0 12px;padding:0 0.75rem;}blockquote > :first-child {margi=
+n-top:0;}blockquote > :last-child {margin-bottom:0;}img {border:0=
+;max-width:100%;height:auto !important;margin:2px 0;}table {borde=
+r-collapse:collapse;border:1px solid #bbbbbb;}td, th {padding:4px=
+ 8px;border-collapse:collapse;border:1px solid #bbbbbb;min-height=
+:28px;word-break:break-all;box-sizing: border-box;}.wiz-hide {dis=
+play:none !important;}</style></head>=0A=0A<body class spellcheck=
+=3D"false"><div><meta charset=3D"utf-8"><div style=3D"text-align:=
+left;font-size:0.875rem;">bin/spark-submit --master local[1] --ja=
+rs /home/zzl/tispark/lib/antlr-2.7.7.jar,/home/zzl/tispark/lib/an=
+tlr4-runtime-4.5.3.jar,/home/zzl/tispark/lib/antlr-runtime-3.4.ja=
+r,/home/zzl/tispark/lib/aopalliance-1.0.jar,/home/zzl/tispark/lib=
+/aopalliance-repackaged-2.4.0-b34.jar,/home/zzl/tispark/lib/apach=
+e-log4j-extras-1.2.17.jar,/home/zzl/tispark/lib/avro-1.7.7.jar,/h=
+ome/zzl/tispark/lib/avro-ipc-1.7.7.jar,/home/zzl/tispark/lib/avro=
+-ipc-1.7.7-tests.jar,/home/zzl/tispark/lib/avro-mapred-1.7.7-hado=
+op2.jar,/home/zzl/tispark/lib/bonecp-0.8.0.RELEASE.jar,/home/zzl/=
+tispark/lib/calcite-avatica-1.2.0-incubating.jar,/home/zzl/tispar=
+k/lib/calcite-core-1.2.0-incubating.jar,/home/zzl/tispark/lib/cal=
+cite-linq4j-1.2.0-incubating.jar,/home/zzl/tispark/lib/chill_2.11=
+-0.8.0.jar,/home/zzl/tispark/lib/chill-java-0.8.0.jar,/home/zzl/t=
+ispark/lib/commons-beanutils-1.7.0.jar,/home/zzl/tispark/lib/comm=
+ons-beanutils-core-1.8.0.jar,/home/zzl/tispark/lib/commons-cli-1.=
+2.jar,/home/zzl/tispark/lib/commons-codec-1.10.jar,/home/zzl/tisp=
+ark/lib/commons-collections-3.2.1.jar,/home/zzl/tispark/lib/commo=
+ns-compiler-3.0.0.jar,/home/zzl/tispark/lib/commons-compress-1.4.=
+1.jar,/home/zzl/tispark/lib/commons-configuration-1.6.jar,/home/z=
+zl/tispark/lib/commons-crypto-1.0.0.jar,/home/zzl/tispark/lib/com=
+mons-dbcp-1.4.jar,/home/zzl/tispark/lib/commons-digester-1.8.jar,=
+/home/zzl/tispark/lib/commons-httpclient-3.1.jar,/home/zzl/tispar=
+k/lib/commons-io-2.4.jar,/home/zzl/tispark/lib/commons-lang-2.6.j=
+ar,/home/zzl/tispark/lib/commons-lang3-3.5.jar,/home/zzl/tispark/=
+lib/commons-logging-1.1.3.jar,/home/zzl/tispark/lib/commons-math-=
+2.1.jar,/home/zzl/tispark/lib/commons-math3-3.4.1.jar,/home/zzl/t=
+ispark/lib/commons-net-2.2.jar,/home/zzl/tispark/lib/commons-pool=
+-1.5.4.jar,/home/zzl/tispark/lib/compress-lzf-1.0.3.jar,/home/zzl=
+/tispark/lib/curator-client-2.4.0.jar,/home/zzl/tispark/lib/curat=
+or-framework-2.4.0.jar,/home/zzl/tispark/lib/curator-recipes-2.4.=
+0.jar,/home/zzl/tispark/lib/datanucleus-api-jdo-3.2.6.jar,/home/z=
+zl/tispark/lib/datanucleus-core-3.2.10.jar,/home/zzl/tispark/lib/=
+datanucleus-rdbms-3.2.9.jar,/home/zzl/tispark/lib/derby-10.10.2.0=
+.jar,/home/zzl/tispark/lib/eigenbase-properties-1.1.5.jar,/home/z=
+zl/tispark/lib/guava-14.0.1.jar,/home/zzl/tispark/lib/guice-3.0.j=
+ar,/home/zzl/tispark/lib/hk2-api-2.4.0-b34.jar,/home/zzl/tispark/=
+lib/hk2-locator-2.4.0-b34.jar,/home/zzl/tispark/lib/hk2-utils-2.4=
+.0-b34.jar,/home/zzl/tispark/lib/httpclient-4.5.2.jar,/home/zzl/t=
+ispark/lib/httpcore-4.4.4.jar,/home/zzl/tispark/lib/ivy-2.4.0.jar=
+,/home/zzl/tispark/lib/jackson-annotations-2.6.5.jar,/home/zzl/ti=
+spark/lib/jackson-core-2.6.5.jar,/home/zzl/tispark/lib/jackson-co=
+re-asl-1.9.13.jar,/home/zzl/tispark/lib/jackson-databind-2.6.5.ja=
+r,/home/zzl/tispark/lib/jackson-mapper-asl-1.9.13.jar,/home/zzl/t=
+ispark/lib/jackson-module-paranamer-2.6.5.jar,/home/zzl/tispark/l=
+ib/jackson-module-scala_2.11-2.6.5.jar,/home/zzl/tispark/lib/jani=
+no-3.0.0.jar,/home/zzl/tispark/lib/JavaEWAH-0.3.2.jar,/home/zzl/t=
+ispark/lib/javassist-3.18.1-GA.jar,/home/zzl/tispark/lib/javax.an=
+notation-api-1.2.jar,/home/zzl/tispark/lib/javax.inject-1.jar,/ho=
+me/zzl/tispark/lib/javax.inject-2.4.0-b34.jar,/home/zzl/tispark/l=
+ib/javax.servlet-api-3.1.0.jar,/home/zzl/tispark/lib/javax.ws.rs-=
+api-2.0.1.jar,/home/zzl/tispark/lib/javolution-5.5.1.jar,/home/zz=
+l/tispark/lib/jcl-over-slf4j-1.7.16.jar,/home/zzl/tispark/lib/jdo=
+-api-3.0.1.jar,/home/zzl/tispark/lib/jersey-client-2.22.2.jar,/ho=
+me/zzl/tispark/lib/jersey-common-2.22.2.jar,/home/zzl/tispark/lib=
+/jersey-container-servlet-2.22.2.jar,/home/zzl/tispark/lib/jersey=
+-container-servlet-core-2.22.2.jar,/home/zzl/tispark/lib/jersey-g=
+uava-2.22.2.jar,/home/zzl/tispark/lib/jersey-media-jaxb-2.22.2.ja=
+r,/home/zzl/tispark/lib/jersey-server-2.22.2.jar,/home/zzl/tispar=
+k/lib/jets3t-0.7.1.jar,/home/zzl/tispark/lib/jetty-util-6.1.26.ja=
+r,/home/zzl/tispark/lib/joda-time-2.9.3.jar,/home/zzl/tispark/lib=
+/jodd-core-3.5.2.jar,/home/zzl/tispark/lib/json4s-ast_2.11-3.2.11=
+.jar,/home/zzl/tispark/lib/json4s-core_2.11-3.2.11.jar,/home/zzl/=
+tispark/lib/json4s-jackson_2.11-3.2.11.jar,/home/zzl/tispark/lib/=
+jsr305-1.3.9.jar,/home/zzl/tispark/lib/jta-1.1.jar,/home/zzl/tisp=
+ark/lib/jul-to-slf4j-1.7.16.jar,/home/zzl/tispark/lib/kryo-shaded=
+-3.0.3.jar,/home/zzl/tispark/lib/leveldbjni-all-1.8.jar,/home/zzl=
+/tispark/lib/libfb303-0.9.2.jar,/home/zzl/tispark/lib/libthrift-0=
+.9.2.jar,/home/zzl/tispark/lib/log4j-1.2.17.jar,/home/zzl/tispark=
+/lib/log4j-api-2.8.1.jar,/home/zzl/tispark/lib/log4j-core-2.8.1.j=
+ar,/home/zzl/tispark/lib/lz4-1.3.0.jar,/home/zzl/tispark/lib/metr=
+ics-core-3.1.2.jar,/home/zzl/tispark/lib/metrics-graphite-3.1.2.j=
+ar,/home/zzl/tispark/lib/metrics-json-3.1.2.jar,/home/zzl/tispark=
+/lib/metrics-jvm-3.1.2.jar,/home/zzl/tispark/lib/minlog-1.3.0.jar=
+,/home/zzl/tispark/lib/netty-3.8.0.Final.jar,/home/zzl/tispark/li=
+b/netty-all-4.0.42.Final.jar,/home/zzl/tispark/lib/objenesis-2.1.=
+jar,/home/zzl/tispark/lib/opencsv-2.3.jar,/home/zzl/tispark/lib/o=
+ro-2.0.8.jar,/home/zzl/tispark/lib/osgi-resource-locator-1.0.1.ja=
+r,/home/zzl/tispark/lib/paranamer-2.3.jar,/home/zzl/tispark/lib/p=
+arquet-column-1.8.1.jar,/home/zzl/tispark/lib/parquet-common-1.8.=
+1.jar,/home/zzl/tispark/lib/parquet-encoding-1.8.1.jar,/home/zzl/=
+tispark/lib/parquet-format-2.3.0-incubating.jar,/home/zzl/tispark=
+/lib/parquet-hadoop-1.8.1.jar,/home/zzl/tispark/lib/parquet-hadoo=
+p-bundle-1.6.0.jar,/home/zzl/tispark/lib/parquet-jackson-1.8.1.ja=
+r,/home/zzl/tispark/lib/protobuf-java-2.5.0.jar,/home/zzl/tispark=
+/lib/py4j-0.10.4.jar,/home/zzl/tispark/lib/pyrolite-4.13.jar,/hom=
+e/zzl/tispark/lib/RoaringBitmap-0.5.11.jar,/home/zzl/tispark/lib/=
+slf4j-api-1.7.16.jar,/home/zzl/tispark/lib/slf4j-log4j12-1.7.16.j=
+ar,/home/zzl/tispark/lib/snappy-0.2.jar,/home/zzl/tispark/lib/sna=
+ppy-java-1.1.2.6.jar,/home/zzl/tispark/lib/ST4-4.0.4.jar,/home/zz=
+l/tispark/lib/stax-api-1.0.1.jar,/home/zzl/tispark/lib/stream-2.7=
+.0.jar,/home/zzl/tispark/lib/stringtemplate-3.2.1.jar,/home/zzl/t=
+ispark/lib/tikv-client-0.1.0-SNAPSHOT.jar,/home/zzl/tispark/lib/u=
+nivocity-parsers-2.2.1.jar,/home/zzl/tispark/lib/unused-1.0.0.jar=
+,/home/zzl/tispark/lib/validation-api-1.1.0.Final.jar,/home/zzl/t=
+ispark/lib/xbean-asm5-shaded-4.4.jar,/home/zzl/tispark/lib/xmlenc=
+-0.52.jar,/home/zzl/tispark/lib/xz-1.0.jar,/home/zzl/tispark/lib/=
+zookeeper-3.4.5.jar  --class test.TisparkTest /home/zzl/tispark/t=
+ispark.jar </div><br></div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000198593.556--
+
+------=_Next_Part_0000595779.485--
+

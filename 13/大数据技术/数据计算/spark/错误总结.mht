@@ -1,0 +1,115 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?tO3O89fcveE=?=
+Date: Date: Fri, 23 Jul 2021 05:54:37 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0001273029.195"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0001273029.195
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000424343.566"
+
+
+------=_Next_Part_0000424343.566
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000424343.566
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A<title>=B4=ED=CE=F3=D7=DC=BD=E1</title>=0A    =0A<sty=
+le id=3D"wiz_custom_css">html, body {font-size: 12pt;}body {font-=
+family: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=ED=D1=C5=BA=DA'=
+, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif;line-he=
+ight: 1.6;margin: 0 auto;padding: 20px 16px;padding: 1.25rem 1rem=
+;}h1, h2, h3, h4, h5, h6 {margin:20px 0 10px;margin:1.25rem 0 0.6=
+25rem;padding: 0;font-weight: bold;}h1 {font-size:20pt;font-size:=
+1.67rem;}h2 {font-size:18pt;font-size:1.5rem;}h3 {font-size:15pt;=
+font-size:1.25rem;}h4 {font-size:14pt;font-size:1.17rem;}h5 {font=
+-size:12pt;font-size:1rem;}h6 {font-size:12pt;font-size:1rem;colo=
+r: #777777;margin: 1rem 0;}div, p, ul, ol, dl, li {margin:0;}bloc=
+kquote, table, pre, code {margin:8px 0;}ul, ol {padding-left:32px=
+;padding-left:2rem;}ol.wiz-list-level1 > li {list-style-type:deci=
+mal;}ol.wiz-list-level2 > li {list-style-type:lower-latin;}ol.wiz=
+-list-level3 > li {list-style-type:lower-roman;}blockquote {paddi=
+ng:0 12px;padding:0 0.75rem;}blockquote > :first-child {margin-to=
+p:0;}blockquote > :last-child {margin-bottom:0;}img {border:0;max=
+-width:100%;height:auto !important;margin:2px 0;}table {border-co=
+llapse:collapse;border:1px solid #bbbbbb;}td, th {padding:4px 8px=
+;border-collapse:collapse;border:1px solid #bbbbbb;min-height:28p=
+x;word-break:break-all;box-sizing: border-box;}.wiz-hide {display=
+:none !important;}</style></head>=0A=0A<body class spellcheck=3D"=
+false"><div>1=A1=A2spark =D4=DAyarn client=C4=A3=CA=BD=D4=CB=D0=D0=
+=CA=B1=A3=AC=B3=F6=CF=D6=C8=E7=CF=C2=B4=ED=CE=F3=A3=BA</div><div>=
+<pre style=3D"margin:0px 0px 1em;padding:5px;border:0px;font-styl=
+e:normal;font-weight:normal;font-family:Consolas, Menlo, Monaco,=20=
+&quot;Lucida Console&quot;, &quot;Liberation Mono&quot;, &quot;De=
+jaVu Sans Mono&quot;, &quot;Bitstream Vera Sans Mono&quot;, &quot=
+;Courier New&quot;, monospace, sans-serif;font-size:0.813rem;widt=
+h:auto;background-color:rgb(239, 240, 241);color:rgb(36, 39, 41);=
+text-align:left;text-indent:0px;"><code style=3D"margin:0px;paddi=
+ng:0px;border:0px;font-family:Consolas, Menlo, Monaco, &quot;Luci=
+da Console&quot;, &quot;Liberation Mono&quot;, &quot;DejaVu Sans=20=
+Mono&quot;, &quot;Bitstream Vera Sans Mono&quot;, &quot;Courier N=
+ew&quot;, monospace, sans-serif;font-size:0.813rem;background-col=
+or:rgb(239, 240, 241);">launch_container.sh: line 24: $PWD:$PWD/_=
+_hadoop_conf__:$PWD/__spark__.jar:$HADOOP_CONF_DIR:=0A/usr/hdp/cu=
+rrent/hadoop-client/*::$PWD/mr-framework/hadoop/share/hadoop/tool=
+s/lib/*:=0A/usr/hdp/${hdp.version}/hadoop/lib/hadoop-lzo-.6.0.${h=
+dp.version}.jar:=0A/etc/hadoop/conf/secure: bad subspark-defaults=
+.conf stitution</code></pre></div><div>=D0=DE=B8=C4spark-defaults=
+.conf=C5=E4=D6=C3=CE=C4=BC=FE=A3=BA</div><div>spark.executor.extr=
+aJavaOptions&nbsp; -Dhdp.verion=3D2.4.2.0-258<br></div><div>spark=
+.driver.extraJavaOptions -Dhdp.version=3D2.4.2.0-258<br></div><di=
+v>spark.yarn.am.extraJavaOptions -Dhdp.version=3D2.4.2.0-258</div=
+><div><span style=3D"color: inherit; font-size: 1rem; line-height=
+: 1.6;">=C8=E7=B9=FB=CA=C7yarn cluster=C4=A3=CA=BD=BB=B9=D2=AA=C8=
+=E7=CF=C2=D0=DE=B8=C4=A3=BA</span></div><div><span style=3D"color=
+: inherit; font-size: 1rem; line-height: 1.6;">=D4=DAambari=D6=D0=
+=CC=ED=BC=D3=D7=D4=B6=A8=D2=E5=C5=E4=D6=C3&nbsp;hdp.version=3D2.4=
+.2.0-258</span></div><div><span style=3D"color: inherit; font-siz=
+e: 1rem; line-height: 1.6;"><br></span></div><div><span style=3D"=
+color: inherit; font-size: 1rem; line-height: 1.6;">2=A1=A2Caused=
+ by: java.io.IOException: Mkdirs failed to create file:/home/zzl/=
+sparkmllib/test_table/key=3D1/_temporary/0/_temporary/attempt_201=
+80606161158_0013_m_000000_3 (exists=3Dfalse, cwd=3D<a href=3D"htt=
+p://file:/home/hadoop/nodemanager/usercache/root/appcache/applica=
+tion_1526265995619_0043/container_e01_1526265995619_0043_01_00000=
+2)">file:/home/hadoop/nodemanager/usercache/root/appcache/applica=
+tion_1526265995619_0043/container_e01_1526265995619_0043_01_00000=
+2)</a> </span></div><div>=B2=BB=C4=DC=D3=C3root=D3=C3=BB=A7=D4=CB=
+=D0=D0spark</div><div><br></div><div>3=A1=A2Exception in thread "=
+main" org.apache.spark.sql.AnalysisException: Unable to infer sch=
+ema for Parquet. It must be specified manually.;</div><div>=B5=CD=
+=B0=E6=B1=BE=B2=BB=D6=A7=B3=D6<pre style=3D"background-color:#fff=
+fff;color:#000000;font-family:'Courier New';font-size:0.75rem;">s=
+park.read.option(<span style=3D"color:#008000;font-weight:bold;">=
+"mergeSchema"</span>, <span style=3D"color:#008000;font-weight:bo=
+ld;">"true"</span>).parquet(<span style=3D"color:#008000;font-wei=
+ght:bold;">"test_table"</span>)=D2=AA=B8=C4=B3=C9=A3=BA</pre><pre=
+ style=3D"background-color:#ffffff;color:#000000;font-family:'Cou=
+rier New';font-size:0.75rem;">spark.read.option(<span style=3D"co=
+lor:#008000;font-weight:bold;">"mergeSchema"</span>, <span style=3D=
+"color:#008000;font-weight:bold;">"true"</span>).parquet(<span st=
+yle=3D"color:#008000;font-weight:bold;">"test_table/*"</span>)</p=
+re><pre style=3D"background-color:#ffffff;color:#000000;font-fami=
+ly:'Courier New';font-size:0.75rem;"><br></pre><pre style=3D"back=
+ground-color:#ffffff;color:#000000;font-family:'Courier New';font=
+-size:0.75rem;"><br></pre></div><div><br></div><div><br></div></b=
+ody></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A
+
+------=_Next_Part_0000424343.566--
+
+------=_Next_Part_0001273029.195--
+

@@ -1,0 +1,98 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?T3BlblRTREKwstew?=
+Date: Date: Fri, 23 Jul 2021 05:53:13 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0001021545.271"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0001021545.271
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000340515.813"
+
+
+------=_Next_Part_0000340515.813
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000340515.813
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<title>OpenTSDB=B0=B2=D7=B0</title>=0A    =0A=
+=0A=0A=0A=0A<style id=3D"wiz_custom_css">html, body {font-size: 1=
+2pt;}body {font-family: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=
+=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun, SimHei, arial, sa=
+ns-serif;line-height: 1.6;margin: 0 auto;padding: 20px 16px;paddi=
+ng: 1.25rem 1rem;}h1, h2, h3, h4, h5, h6 {margin:20px 0 10px;marg=
+in:1.25rem 0 0.625rem;padding: 0;font-weight: bold;}h1 {font-size=
+:20pt;font-size:1.67rem;}h2 {font-size:18pt;font-size:1.5rem;}h3=20=
+{font-size:15pt;font-size:1.25rem;}h4 {font-size:14pt;font-size:1=
+.17rem;}h5 {font-size:12pt;font-size:1rem;}h6 {font-size:12pt;fon=
+t-size:1rem;color: #777777;margin: 1rem 0;}div, p, ul, ol, dl, li=
+ {margin:0;}blockquote, table, pre, code {margin:8px 0;}ul, ol {p=
+adding-left:32px;padding-left:2rem;}ol.wiz-list-level1 > li {list=
+-style-type:decimal;}ol.wiz-list-level2 > li {list-style-type:low=
+er-latin;}ol.wiz-list-level3 > li {list-style-type:lower-roman;}b=
+lockquote {padding:0 12px;padding:0 0.75rem;}blockquote > :first-=
+child {margin-top:0;}blockquote > :last-child {margin-bottom:0;}i=
+mg {border:0;max-width:100%;height:auto !important;margin:2px 0;}=
+table {border-collapse:collapse;border:1px solid #bbbbbb;}td, th=20=
+{padding:4px 8px;border-collapse:collapse;border:1px solid #bbbbb=
+b;min-height:28px;word-break:break-all;box-sizing: border-box;}.w=
+iz-hide {display:none !important;}</style></head>=0A=0A<body styl=
+e class spellcheck=3D"false"><div style=3D"text-align: center;"><=
+span style=3D"line-height: 1.6;">OpenTSDB=B0=B2=D7=B0</span></div=
+><div style=3D"text-align: left;">=B0=B2=D7=B0=D2=C0=C0=B5<span s=
+tyle=3D"line-height: 1.6;">gnuplot</span></div><div style=3D"text=
+-align: left;">=CF=C2=D4=D8 gnuplot-5.0.4.tar.gz<br></div><div st=
+yle=3D"text-align: left;">=BD=E2=D1=B9=BA=F3 =C8=BB=BA=F3=D6=B4=D0=
+=D0 ./configure</div><div style=3D"text-align: left;">=D6=B4=D0=D0=
+ make&amp;&amp;make install</div><div style=3D"text-align: left;"=
+>&nbsp;=B0=B2=D7=B0opentsdb</div><div style=3D"text-align: left;"=
+>=CF=C2=D4=D8opentsdb-2.2.0.tar.gz</div><div style=3D"text-align:=
+ left;">=BD=E2=D1=B9=BA=F3=D6=B4=D0=D0&nbsp;./configure --prefix=3D=
+/home/zzl/softinstall/opentsdb</div><div style=3D"text-align: lef=
+t;">=D6=B4=D0=D0 make&amp;&amp;make install<br></div><div style=3D=
+"text-align: left;"><br></div><div style=3D"text-align: left;">=D0=
+=DE=B8=C4=C5=E4=D6=C3=CE=C4=BC=FE:<span style=3D"line-height: 1.6=
+;">/home/zzl/softinstall/opentsdb/share/opentsdb/etc/init.d/</spa=
+n><span style=3D"line-height: 1.6;">opentsdb</span></div><div sty=
+le=3D"text-align: left;"><span style=3D"line-height: 1.6;">=D0=DE=
+=B8=C4</span>PROG=3D/home/zzl/softinstall/opentsdb/bin/tsdb<br></=
+div><div style=3D"text-align: left;"><div>CONFIG=3D/home/zzl/soft=
+install/opentsdb/share/opentsdb/etc/opentsdb/${NAME}.conf</div><d=
+iv><span style=3D"line-height: 1.6;">cp&nbsp;</span><span style=3D=
+"line-height: 1.6;">/home/zzl/softinstall/opentsdb/share/opentsdb=
+/etc/init.d/</span><span style=3D"line-height: 1.6;">opentsdb /et=
+c/init.d/</span><br></div><div><span style=3D"line-height: 1.6;">=
+<br></span></div><div>=D0=DE=B8=C4=C5=E4=D6=C3=CE=C4=BC=FE<span s=
+tyle=3D"line-height: 1.6;">/home/zzl/softinstall/opentsdb/share/o=
+pentsdb/etc/opentsdb/</span>opentsdb.conf&nbsp;</div><div>=D0=DE=B8=
+=C4<br></div><div>tsd.core.plugin_path =3D/home/zzl/softinstall/o=
+pentsdb/share/opentsdb/plugins<br></div><div>tsd.http.staticroot=20=
+=3D<span style=3D"line-height: 1.6;">/home/zzl/softinstall/opents=
+db/share/opentsdb</span><span style=3D"line-height: 1.6;">/static=
+/</span></div><div>tsd.storage.hbase.zk_quorum =3Ddn79:2185,nn80:=
+2185,dn81:2185<span style=3D"line-height: 1.6;"><br></span></div>=
+<div><br></div><div>=B8=B4=D6=C6=C5=E4=D6=C3=CE=C4=BC=FE cp -r&nb=
+sp;<span style=3D"line-height: 1.6;">/home/zzl/softinstall/opents=
+db</span><span style=3D"line-height: 1.6;">/share/opentsdb/etc/op=
+entsdb &nbsp;/etc/</span></div></div><div style=3D"text-align: le=
+ft;"><span style=3D"line-height: 1.6;"><br></span></div><div styl=
+e=3D"text-align: left;"><br></div><div style=3D"text-align: left;=
+"><br></div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000340515.813--
+
+------=_Next_Part_0001021545.271--
+

@@ -1,0 +1,891 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?bGludXggIHNlZCDM5ru7o6jV+9DQzOa7u6Ossr+31szmu7ujqaGiyb6z/WRlbGV0ZaGi0MLU9mFkZKGi0aHIoQ==?=
+Date: Date: Fri, 23 Jul 2021 05:50:57 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000613452.847"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000613452.847
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000204484.604"
+
+
+------=_Next_Part_0000204484.604
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000204484.604
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>linux  sed =CC=E6=BB=BB=A3=A8=D5=FB=D0=
+=D0=CC=E6=BB=BB=A3=AC=B2=BF=B7=D6=CC=E6=BB=BB=A3=A9=A1=A2=C9=BE=B3=
+=FDdelete=A1=A2=D0=C2=D4=F6add=A1=A2=D1=A1=C8=A1</title>=0A=0A=0A=
+=0A=0A<style type=3D"text/css" id=3D"wiz_todo_style_id" wiz_link_=
+version=3D"01.00.09">.wiz-todo, .wiz-todo-img {width: 16px; heigh=
+t: 16px; cursor: default; padding: 0 10px 0 2px; vertical-align:=20=
+-10%;-webkit-user-select: none;} .wiz-todo-label { display: inlin=
+e-block; padding-top: 7px; padding-bottom: 6px; line-height: 1.5;=
+} .wiz-todo-label-checked {  color: #666;} .wiz-todo-label-unchec=
+ked {text-decoration: initial;} .wiz-todo-completed-info {padding=
+-left: 44px; display: inline-block; } .wiz-todo-avatar { width:20=
+px; height: 20px; vertical-align: -20%; margin-right:10px; border=
+-radius: 2px;} .wiz-todo-account, .wiz-todo-dt { color: #666; }</=
+style>=0A<style type=3D"text/css" id=3D"wiz_custom_css">=0Abody=0A=
+{=0A    font-family: Arial;=0A    font-size: 10.5pt;=0A    line-h=
+eight: 1.5;=0A}=0Ahtml, body=0A{=0A    color: ;=0A    background-=
+color: ;=0A}=0Ah1 {=0A    font-size:1.5em;=0A    font-weight:bold=
+;=0A}=0Ah2 {=0A    font-size:1.4em;=0A    font-weight:bold;=0A}=0A=
+h3 {=0A    font-size:1.3em;=0A    font-weight:bold;=0A}=0Ah4 {=0A=
+    font-size:1.2em;=0A    font-weight:bold;=0A}=0Ah5 {=0A    fon=
+t-size:1.1em;=0A    font-weight:bold;=0A}=0Ah6 {=0A    font-size:=
+1.0em;=0A    font-weight:bold;=0A}=0Aimg {=0A    border:0;=0A   =20=
+max-width: 100%;=0A    height: auto !important;=0A}=0Ablockquote=20=
+{=0A    margin-top:0px;=0A    margin-bottom:0px;=0A}=0Atable {=0A=
+    border-collapse:collapse;=0A    border:1px solid #bbbbbb;=0A}=
+=0Atd {=0A    border-collapse:collapse;=0A    border:1px solid #b=
+bbbbb;=0A}=0A</style>=0A</head>=0A=0A<body style><div id=3D"sina_=
+keyword_ad_area2" class=3D"articalContent">=0A<div>=0A<div><a hre=
+f=3D"http://blog.chinaunix.net/uid-8656705-id-2017937.html" targe=
+t=3D"_blank">http://blog.chinaunix.net/uid-8656705-id-2017937.htm=
+l</a></div>=0A<div><a href=3D"http://www.cnblogs.com/dong008259/a=
+rchive/2011/12/07/2279897.html" name=3D"cb_post_title_url">linux=D6=
+=AEsed=D3=C3=B7=A8</a></div></div>=0A<div>=0A<div>=0A<div>=0A<div=
+>=0A<p>sed=CA=C7=D2=BB=B8=F6=BA=DC=BA=C3=B5=C4=CE=C4=BC=FE=B4=A6=C0=
+=ED=B9=A4=BE=DF=A3=AC=B1=BE=C9=ED=CA=C7=D2=BB=B8=F6=B9=DC=B5=C0=C3=
+=FC=C1=EE=A3=AC=D6=F7=D2=AA=CA=C7=D2=D4=D0=D0=CE=AA=B5=A5=CE=BB=BD=
+=F8=D0=D0=B4=A6=C0=ED=A3=AC=BF=C9=D2=D4=BD=AB=CA=FD=BE=DD=D0=D0=BD=
+=F8=D0=D0=CC=E6=BB=BB=A1=A2=C9=BE=B3=FD=A1=A2=D0=C2=D4=F6=A1=A2=D1=
+=A1=C8=A1=B5=C8=CC=D8=B6=A8=B9=A4=D7=F7=A3=AC=CF=C2=C3=E6=CF=C8=C1=
+=CB=BD=E2=D2=BB=CF=C2sed=B5=C4=D3=C3=B7=A8<br>sed=C3=FC=C1=EE=D0=D0=
+=B8=F1=CA=BD=CE=AA=A3=BA<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbs=
+p;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr><sp=
+an style=3D"COLOR: #ff0000">sed [-nefri] =A1=AEcommand=A1=AF =0A=CA=
+=E4=C8=EB=CE=C4=B1=BE&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>=
+&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr></span></p>=0A<p><spa=
+n style=3D"COLOR: #ff0000"><span style=3D"COLOR: #0000ff">=B3=A3=D3=
+=C3=D1=A1=CF=EE=A3=BA<br></span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>=
+&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr></span>-n=A1=
+=C3=CA=B9=D3=C3=B0=B2=BE=B2(silent)=C4=A3=CA=BD=A1=A3=D4=DA=D2=BB=
+=B0=E3 =0Ased =B5=C4=D3=C3=B7=A8=D6=D0=A3=AC=CB=F9=D3=D0=C0=B4=D7=
+=D4 STDIN=B5=C4=D7=CA=C1=CF=D2=BB=B0=E3=B6=BC=BB=E1=B1=BB=C1=D0=B3=
+=F6=B5=BD=D3=A9=C4=BB=C9=CF=A1=A3<b>=B5=AB=C8=E7=B9=FB=BC=D3=C9=CF=
+ -n =B2=CE=CA=FD=BA=F3=A3=AC=D4=F2=D6=BB=D3=D0=BE=AD=B9=FDsed =0A=
+=CC=D8=CA=E2=B4=A6=C0=ED=B5=C4=C4=C7=D2=BB=D0=D0(=BB=F2=D5=DF=B6=AF=
+=D7=F7)=B2=C5=BB=E1=B1=BB=C1=D0=B3=F6=C0=B4=A1=A3</b><br>&nbsp;<w=
+br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<=
+wbr> =0A-e=A1=C3=D6=B1=BD=D3=D4=DA=D6=B8=C1=EE=C1=D0=C4=A3=CA=BD=C9=
+=CF=BD=F8=D0=D0 sed =B5=C4=B6=AF=D7=F7=B1=E0=BC=AD=A3=BB<br>&nbsp=
+;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbs=
+p;<wbr> -f=A1=C3=D6=B1=BD=D3=BD=AB =0Ased =B5=C4=B6=AF=D7=F7=D0=B4=
+=D4=DA=D2=BB=B8=F6=B5=B5=B0=B8=C4=DA=A3=AC -f filename =D4=F2=BF=C9=
+=D2=D4=D6=B4=D0=D0 filename =C4=DA=B5=C4sed =0A=B6=AF=D7=F7=A3=BB=
+<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr> -r=A1=C3sed =0A=B5=C4=B6=AF=D7=F7=D6=A7=D4=AE=B5=
+=C4=CA=C7=D1=D3=C9=EC=D0=CD=D5=FD=B9=E6=B1=ED=CA=BE=B7=A8=B5=C4=D3=
+=EF=B7=A8=A1=A3(=D4=A4=C9=E8=CA=C7=BB=F9=B4=A1=D5=FD=B9=E6=B1=ED=CA=
+=BE=B7=A8=D3=EF=B7=A8)<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A-i=A1=C3=D6=B1=BD=D3=D0=
+=DE=B8=C4=B6=C1=C8=A1=B5=C4=B5=B5=B0=B8=C4=DA=C8=DD=A3=AC=B6=F8=B2=
+=BB=CA=C7=D3=C9=D3=A9=C4=BB=CA=E4=B3=F6=A1=A3&nbsp;<wbr>&nbsp;<wb=
+r>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr></p>=0A<=
+p><span style=3D"COLOR: #0000ff">=B3=A3=D3=C3=C3=FC=C1=EE=A3=BA</=
+span><br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&=
+nbsp;<wbr>&nbsp;<wbr> =0Aa&nbsp;<wbr>&nbsp;<wbr> =A1=C3=D0=C2=D4=F6=
+=A3=AC a =0A=B5=C4=BA=F3=C3=E6=BF=C9=D2=D4=BD=D3=D7=D6=B4=AE=A3=AC=
+=B6=F8=D5=E2=D0=A9=D7=D6=B4=AE=BB=E1=D4=DA=D0=C2=B5=C4=D2=BB=D0=D0=
+=B3=F6=CF=D6(=C4=BF=C7=B0=B5=C4=CF=C2=D2=BB=D0=D0)=A1=AB<br>&nbsp=
+;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbs=
+p;<wbr> =0Ac&nbsp;<wbr>&nbsp;<wbr> =A1=C3=C8=A1=B4=FA=A3=AC c =B5=
+=C4=BA=F3=C3=E6=BF=C9=D2=D4=BD=D3=D7=D6=B4=AE=A3=AC=D5=E2=D0=A9=D7=
+=D6=B4=AE=BF=C9=D2=D4=C8=A1=B4=FA n1,n2 =0A=D6=AE=BC=E4=B5=C4=D0=D0=
+=A3=A1<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>=
+&nbsp;<wbr>&nbsp;<wbr> d&nbsp;<wbr>&nbsp;<wbr> =A1=C3=C9=BE=B3=FD=
+=A3=AC=D2=F2=CE=AA=CA=C7=C9=BE=B3=FD=B0=A1=A3=AC=CB=F9=D2=D4 =0Ad=
+ =BA=F3=C3=E6=CD=A8=B3=A3=B2=BB=BD=D3=C8=CE=BA=CE=DF=CB=DF=CB=A3=BB=
+<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr>&nbsp;<wbr> i&nbsp;<wbr>&nbsp;<wbr> =0A=A1=C3=B2=E5=
+=C8=EB=A3=AC i =0A=B5=C4=BA=F3=C3=E6=BF=C9=D2=D4=BD=D3=D7=D6=B4=AE=
+=A3=AC=B6=F8=D5=E2=D0=A9=D7=D6=B4=AE=BB=E1=D4=DA=D0=C2=B5=C4=D2=BB=
+=D0=D0=B3=F6=CF=D6(=C4=BF=C7=B0=B5=C4=C9=CF=D2=BB=D0=D0)=A3=BB<br=
+>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wb=
+r>&nbsp;<wbr>&nbsp;<wbr> =0Ap&nbsp;<wbr>&nbsp;<wbr>=A1=C3=C1=D0=D3=
+=A1=A3=AC=D2=E0=BC=B4=BD=AB=C4=B3=B8=F6=D1=A1=D4=F1=B5=C4=D7=CA=C1=
+=CF=D3=A1=B3=F6=A1=A3=CD=A8=B3=A3 p =BB=E1=D3=EB=B2=CE=CA=FD sed=20=
+-n =0A=D2=BB=C6=F0=D4=CB=D7=F7=A1=AB<br>&nbsp;<wbr>&nbsp;<wbr>&nb=
+sp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A=
+s&nbsp;<wbr>&nbsp;<wbr>=A1=C3=C8=A1=B4=FA=A3=AC=BF=C9=D2=D4=D6=B1=
+=BD=D3=BD=F8=D0=D0=C8=A1=B4=FA=B5=C4=B9=A4=D7=F7=C1=A8=A3=A1=CD=A8=
+=B3=A3=D5=E2=B8=F6 s =B5=C4=B6=AF=D7=F7=BF=C9=D2=D4=B4=EE=C5=E4=D5=
+=FD=B9=E6=B1=ED=CA=BE=B7=A8=A3=A1=C0=FD=C8=E7 1,20s/old/new/g =BE=
+=CD=CA=C7=C0=B2=A3=A1</p>=0A<p><span style=3D"COLOR: #0000ff">=BE=
+=D9=C0=FD</span>=A3=BA=A3=A8=BC=D9=C9=E8=CE=D2=C3=C7=D3=D0=D2=BB=CE=
+=C4=BC=FE=C3=FB=CE=AAab=A3=A9<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr=
+><font color=3D"#ff0000">&nbsp;<wbr>&nbsp;<wbr>=C9=BE=B3=FD=C4=B3=
+=D0=D0</font><br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A=
+[root@localhost ruby<span style=3D"COLOR: #ff0000"><span style=3D=
+"COLOR: #000000">]</span> # sed '1d' =0Aab</span>&nbsp;<wbr>&nbsp=
+;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbs=
+p;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A=
+#=C9=BE=B3=FD=B5=DA=D2=BB=D0=D0&nbsp;<wbr><br>&nbsp;<wbr>&nbsp;<w=
+br>&nbsp;<wbr>&nbsp;<wbr> [root@localhost ruby] <span style=3D"CO=
+LOR: #ff0000"># sed '$d' =0Aab</span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp=
+;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>#=C9=
+=BE=B3=FD=D7=EE=BA=F3=D2=BB=D0=D0<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr> =0A[root@localhost ruby] <span style=3D"COLOR: #=
+ff0000"># sed '1,2d' =0Aab</span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr=
+>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wb=
+r>&nbsp;<wbr>&nbsp;<wbr>#=C9=BE=B3=FD=B5=DA=D2=BB=D0=D0=B5=BD=B5=DA=
+=B6=FE=D0=D0<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A[=
+root@localhost ruby] <span style=3D"COLOR: #ff0000"># sed '2,$d'=20=
+=0Aab</span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wb=
+r>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A&nbsp;<wbr>#=C9=
+=BE=B3=FD=B5=DA=B6=FE=D0=D0=B5=BD=D7=EE=BA=F3=D2=BB=D0=D0</p>=0A<=
+p>=A1=A1=A1=A1<font color=3D"#ff0000">=CF=D4=CA=BE=C4=B3=D0=D0</f=
+ont><br>.&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> [root@localhost =0Arub=
+y<span style=3D"COLOR: #ff0000"><span style=3D"COLOR: #000000">]<=
+/span> # sed -n =0A'1p' =0Aab</span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<=
+wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr>&nbsp;<wbr>#=CF=D4=CA=BE=B5=DA=D2=BB=D0=D0&nbsp;<=
+wbr><br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A[root@loc=
+alhost ruby] <span style=3D"COLOR: #ff0000"># sed -n '$p' =0Aab</=
+span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp=
+;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A#=CF=D4=CA=BE=
+=D7=EE=BA=F3=D2=BB=D0=D0<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbs=
+p;<wbr> [root@localhost ruby] <span style=3D"COLOR: #ff0000"># se=
+d -n '1,2p' =0Aab</span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<w=
+br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A#=CF=D4=CA=BE=B5=DA=D2=BB=
+=D0=D0=B5=BD=B5=DA=B6=FE=D0=D0<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wb=
+r>&nbsp;<wbr> [root@localhost ruby] <span style=3D"COLOR: #ff0000=
+"># sed -n '2,$p' =0Aab</span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&n=
+bsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> #=CF=D4=CA=BE=B5=DA=B6=
+=FE=D0=D0=B5=BD=D7=EE=BA=F3=D2=BB=D0=D0</p>=0A<p>=A1=A1=A1=A1=CA=B9=
+=D3=C3=C4=A3=CA=BD=BD=F8=D0=D0<font color=3D"#ff0000">=B2=E9=D1=AF=
+</font><br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A[root@=
+localhost ruby] <span style=3D"COLOR: #ff0000"># sed -n '/ruby/p'=
+ =0Aab</span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> #=B2=E9=D1=AF=B0=FC=
+=C0=A8=B9=D8=BC=FC=D7=D6ruby=CB=F9=D4=DA=CB=F9=D3=D0=D0=D0<br>&nb=
+sp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A[root@localhost ruby=
+] <span style=3D"COLOR: #ff0000"># sed -n '/\$/p' =0Aab</span>&nb=
+sp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&n=
+bsp;<wbr> =0A#=B2=E9=D1=AF=B0=FC=C0=A8=B9=D8=BC=FC=D7=D6$=CB=F9=D4=
+=DA=CB=F9=D3=D0=D0=D0=A3=AC=CA=B9=D3=C3=B7=B4=D0=B1=CF=DF\=C6=C1=B1=
+=CE=CC=D8=CA=E2=BA=AC=D2=E5</p>=0A<p>=A1=A1=A1=A1<font color=3D"#=
+ff0000">=D4=F6=BC=D3=D2=BB=D0=D0=BB=F2=B6=E0=D0=D0=D7=D6=B7=FB=B4=
+=AE</font><br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A[ro=
+ot@localhost ruby]# cat ab<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&n=
+bsp;<wbr> =0AHello!<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wb=
+r> ruby is me,welcome to my =0Ablog.<br>&nbsp;<wbr>&nbsp;<wbr>&nb=
+sp;<wbr>&nbsp;<wbr> end<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp=
+;<wbr> =0A[root@localhost ruby] <span style=3D"COLOR: #ff0000">#=20=
+sed '1a drink tea' =0Aab&nbsp;<wbr></span> #=B5=DA=D2=BB=D0=D0=BA=
+=F3=D4=F6=BC=D3=D7=D6=B7=FB=B4=AE"drink tea"<br>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr>&nbsp;<wbr> =0AHello!<br>&nbsp;<wbr>&nbsp;<wbr>&n=
+bsp;<wbr>&nbsp;<wbr> drink tea<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wb=
+r>&nbsp;<wbr> ruby is =0Ame,welcome to my =0Ablog.&nbsp;<wbr><br>=
+&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>end<br>&nb=
+sp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A[root@localhost ruby=
+] <span style=3D"COLOR: #ff0000"># sed '1,3a drink tea' =0Aab</sp=
+an> #=B5=DA=D2=BB=D0=D0=B5=BD=B5=DA=C8=FD=D0=D0=BA=F3=D4=F6=BC=D3=
+=D7=D6=B7=FB=B4=AE"drink tea"<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr=
+>&nbsp;<wbr> =0AHello!<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr>drink tea<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nb=
+sp;<wbr> =0Aruby is me,welcome to my blog.<br>&nbsp;<wbr>&nbsp;<w=
+br>&nbsp;<wbr>&nbsp;<wbr> drink =0Atea<br>&nbsp;<wbr>&nbsp;<wbr>&=
+nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>end<br>&nbsp;<wbr>&nbsp;<wbr>&nbs=
+p;<wbr>&nbsp;<wbr> drink =0Atea<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<w=
+br>&nbsp;<wbr> [root@localhost ruby] <span style=3D"COLOR: #ff000=
+0"># sed '1a drink tea<span style=3D"COLOR: #0000ff">\n</span>or=20=
+coffee' ab&nbsp;<wbr>&nbsp;<wbr></span> =0A#=B5=DA=D2=BB=D0=D0=BA=
+=F3=D4=F6=BC=D3=B6=E0=D0=D0=A3=AC=CA=B9=D3=C3=BB=BB=D0=D0=B7=FB\n=
+<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0AHello!<br>&nb=
+sp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>drink tea<br>=
+&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> or =0Acoffee<br>&nbs=
+p;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> ruby is me,welcome to my=
+ =0Ablog.<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> end</p>=
+=0A<p>=A1=A1=A1=A1<b><font color=3D"#ff0000">=B4=FA=CC=E6=D2=BB=D0=
+=D0=BB=F2=B6=E0=D0=D0</font></b><br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<=
+wbr>&nbsp;<wbr> =0A[root@localhost ruby] <span style=3D"COLOR: #f=
+f0000"># sed '1c Hi' =0Aab&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp=
+;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr></sp=
+an> =0A#=B5=DA=D2=BB=D0=D0=B4=FA=CC=E6=CE=AAHi<br>&nbsp;<wbr>&nbs=
+p;<wbr>&nbsp;<wbr>&nbsp;<wbr> Hi<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<=
+wbr>&nbsp;<wbr> ruby is =0Ame,welcome to my blog.<br>&nbsp;<wbr>&=
+nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0Aend<br>&nbsp;<wbr>&nbsp;<wbr>=
+&nbsp;<wbr>&nbsp;<wbr> [root@localhost ruby] <span style=3D"COLOR=
+: #ff0000"># sed '1,2c Hi' =0Aab&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>=
+&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr=
+>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr></span> =0A#=B5=DA=D2=BB=D0=D0=B5=
+=BD=B5=DA=B6=FE=D0=D0=B4=FA=CC=E6=CE=AAHi<br>&nbsp;<wbr>&nbsp;<wb=
+r>&nbsp;<wbr>&nbsp;<wbr> Hi<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&=
+nbsp;<wbr> end</p>=0A<p>=A1=A1=A1=A1<font color=3D"#ff0000"><b>=CC=
+=E6=BB=BB=D2=BB=D0=D0=D6=D0=B5=C4=C4=B3=B2=BF=B7=D6</b></font><br=
+>=A1=A1=A1=A1=B8=F1=CA=BD=A3=BA<b><u>sed <span style=3D"COLOR: #f=
+f0000">'s/</span>=D2=AA=CC=E6=BB=BB=B5=C4=D7=D6=B7=FB=B4=AE<span=20=
+style=3D"COLOR: #ff0000">/</span>=D0=C2=B5=C4=D7=D6=B7=FB=B4=AE<s=
+pan style=3D"COLOR: #ff0000">/g</span>'&nbsp;<wbr></u>&nbsp;<wbr>=
+</b> =0A=A3=A8=D2=AA=CC=E6=BB=BB=B5=C4=D7=D6=B7=FB=B4=AE=BF=C9=D2=
+=D4=D3=C3=D5=FD=D4=F2=B1=ED=B4=EF=CA=BD=A3=A9<br>&nbsp;<wbr>&nbsp=
+;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>[root@localhost ruby] <spa=
+n style=3D"COLOR: #ff0000"># sed -n '/ruby/p' ab | sed =0A's/ruby=
+/bird/g'</span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> #=CC=E6=BB=BBrub=
+y=CE=AAbird<br>=A1=A1&nbsp;<wbr> [root@localhost =0Aruby] <span s=
+tyle=3D"COLOR: #ff0000"># sed -n '/ruby/p' ab | sed =0A's/ruby//g=
+'</span>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&n=
+bsp;<wbr>&nbsp;<wbr> #=C9=BE=B3=FDruby</p>=0A<p>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr>&nbsp;<wbr> <b><font color=3D"#ff0000">=B2=E5=C8=EB=
+</font></b><br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> [root=
+@localhost ruby] =0A<span style=3D"COLOR: #ff0000"># sed -i '$a b=
+ye' =0Aab&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&=
+nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr></span> =0A#=D4=DA=CE=C4=BC=FEab=D6=
+=D0=D7=EE=BA=F3=D2=BB=D0=D0=D6=B1=BD=D3=CA=E4=C8=EB"bye"<br>&nbsp=
+;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> [root@localhost ruby]# ca=
+t =0Aab<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> Hello!<br=
+>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> ruby is =0Ame,welco=
+me to my blog.<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A=
+end<br>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr> bye</p>=0A<p>=
+<br></p>=0A<h1><a href=3D"http://www.cnblogs.com/edwardlost/archi=
+ve/2010/09/17/1829145.html" name=3D"cb_post_title_url">sed=C3=FC=C1=
+=EE=CF=EA=BD=E2</a></h1>=0A<div><span style=3D"FONT-SIZE: 10pt"><=
+strong>=D7=AA=D4=D8=A3=BA<a href=3D"http://blog.chinaunix.net/u/2=
+2677/showart_1076318.html">http://blog.chinaunix.net/u/22677/show=
+art_1076318.html</a></strong></span></div>=0A<div><span style=3D"=
+FONT-SIZE: 12pt"><strong>&nbsp;<wbr></strong></span></div>=0A<div=
+><span style=3D"FONT-SIZE: 12pt"><strong>1.=BC=F2=BD=E9</strong><=
+/span></div>=0A<div>sed=CA=C7=B7=C7=BD=BB=BB=A5=CA=BD=B5=C4=B1=E0=
+=BC=AD=C6=F7=A1=A3=CB=FC=B2=BB=BB=E1=D0=DE=B8=C4=CE=C4=BC=FE=A3=AC=
+=B3=FD=B7=C7=CA=B9=D3=C3shell=D6=D8=B6=A8=CF=F2=C0=B4=B1=A3=B4=E6=
+=BD=E1=B9=FB=A1=A3=C4=AC=C8=CF=C7=E9=BF=F6=CF=C2=A3=AC=CB=F9=D3=D0=
+=B5=C4=CA=E4=B3=F6=D0=D0=B6=BC=B1=BB=B4=F2=D3=A1=B5=BD=C6=C1=C4=BB=
+=C9=CF=A1=A3</div>=0A<div>sed=B1=E0=BC=AD=C6=F7=D6=F0=D0=D0=B4=A6=
+=C0=ED=CE=C4=BC=FE=A3=A8=BB=F2=CA=E4=C8=EB=A3=A9=A3=AC=B2=A2=BD=AB=
+=BD=E1=B9=FB=B7=A2=CB=CD=B5=BD=C6=C1=C4=BB=A1=A3=BE=DF=CC=E5=B9=FD=
+=B3=CC=C8=E7=CF=C2=A3=BA=CA=D7=CF=C8sed=B0=D1=B5=B1=C7=B0=D5=FD=D4=
+=DA=B4=A6=C0=ED=B5=C4=D0=D0=B1=A3=B4=E6=D4=DA=D2=BB=B8=F6=C1=D9=CA=
+=B1=BB=BA=B4=E6=C7=F8=D6=D0=A3=A8=D2=B2=B3=C6=CE=AA=C4=A3=CA=BD=BF=
+=D5=BC=E4=A3=A9=A3=AC=C8=BB=BA=F3=B4=A6=C0=ED=C1=D9=CA=B1=BB=BA=B3=
+=E5=C7=F8=D6=D0=B5=C4=D0=D0=A3=AC=CD=EA=B3=C9=BA=F3=B0=D1=B8=C3=D0=
+=D0=B7=A2=CB=CD=B5=BD=C6=C1=C4=BB=C9=CF=A1=A3sed=C3=BF=B4=A6=C0=ED=
+=CD=EA=D2=BB=D0=D0=BE=CD=BD=AB=C6=E4=B4=D3=C1=D9=CA=B1=BB=BA=B3=E5=
+=C7=F8=C9=BE=B3=FD=A3=AC=C8=BB=BA=F3=BD=AB=CF=C2=D2=BB=D0=D0=B6=C1=
+=C8=EB=A3=AC=BD=F8=D0=D0=B4=A6=C0=ED=BA=CD=CF=D4=CA=BE=A1=A3=B4=A6=
+=C0=ED=CD=EA=CA=E4=C8=EB=CE=C4=BC=FE=B5=C4=D7=EE=BA=F3=D2=BB=D0=D0=
+=BA=F3=A3=ACsed=B1=E3=BD=E1=CA=F8=D4=CB=D0=D0=A1=A3sed=B0=D1=C3=BF=
+=D2=BB=D0=D0=B6=BC=B4=E6=D4=DA=C1=D9=CA=B1=BB=BA=B3=E5=C7=F8=D6=D0=
+=A3=AC=B6=D4=D5=E2=B8=F6=B8=B1=B1=BE=BD=F8=D0=D0=B1=E0=BC=AD=A3=AC=
+=CB=F9=D2=D4=B2=BB=BB=E1=D0=DE=B8=C4=D4=AD=CE=C4=BC=FE=A1=A3</div=
+>=0A<div>&nbsp;<wbr></div>=0A<div><span style=3D"FONT-SIZE: 12pt"=
+><strong>2.=B6=A8=D6=B7</strong></span></div>=0A<div>=B6=A8=D6=B7=
+=D3=C3=D3=DA=BE=F6=B6=A8=B6=D4=C4=C4=D0=A9=D0=D0=BD=F8=D0=D0=B1=E0=
+=BC=AD=A1=A3=B5=D8=D6=B7=B5=C4=D0=CE=CA=BD=BF=C9=D2=D4=CA=C7=CA=FD=
+=D7=D6=A1=A2=D5=FD=D4=F2=B1=ED=B4=EF=CA=BD=A1=A2=BB=F2=B6=FE=D5=DF=
+=B5=C4=BD=E1=BA=CF=A1=A3=C8=E7=B9=FB=C3=BB=D3=D0=D6=B8=B6=A8=B5=D8=
+=D6=B7=A3=ACsed=BD=AB=B4=A6=C0=ED=CA=E4=C8=EB=CE=C4=BC=FE=B5=C4=CB=
+=F9=D3=D0=D0=D0=A1=A3</div>=0A<div>&nbsp;<wbr></div>=0A<div>=B5=D8=
+=D6=B7=CA=C7=D2=BB=B8=F6=CA=FD=D7=D6=A3=AC=D4=F2=B1=ED=CA=BE=D0=D0=
+=BA=C5=A3=BB=CA=C7=A1=B0$"=B7=FB=BA=C5=A3=AC=D4=F2=B1=ED=CA=BE=D7=
+=EE=BA=F3=D2=BB=D0=D0=A1=A3=C0=FD=C8=E7=A3=BA&nbsp;<wbr></div>=0A=
+<div>=0A<table border=3D"1" width=3D"95%">=0A<tbody>=0A<tr>=0A<td=
+>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D"FO=
+NT-SIZE: 10pt"><code>sed <span style=3D"COLOR: #0000cc">-</span>n=
+ <span style=3D"COLOR: #ff00ff">'3p'</span> =0Adatafile<br>=D6=BB=
+=B4=F2=D3=A1=B5=DA=C8=FD=D0=D0</code></span></p></td></tr></tbody=
+></table></div>=0A<p>&nbsp;<wbr></p>=0A<p>&nbsp;<wbr>=D6=BB=CF=D4=
+=CA=BE=D6=B8=B6=A8=D0=D0=B7=B6=CE=A7=B5=C4=CE=C4=BC=FE=C4=DA=C8=DD=
+=A3=AC=C0=FD=C8=E7=A3=BA</p>=0A<div>=0A<div>#&nbsp;<wbr>=D6=BB=B2=
+=E9=BF=B4=CE=C4=BC=FE=B5=C4=B5=DA100=D0=D0=B5=BD=B5=DA200=D0=D0<b=
+r>sed&nbsp;<wbr>-n&nbsp;<wbr>'100,200p'&nbsp;<wbr>mysql_slow_quer=
+y.log</div></div>=0A<p>&nbsp;<wbr></p>=0A<p>=B5=D8=D6=B7=CA=C7=B6=
+=BA=BA=C5=B7=D6=B8=F4=B5=C4=A3=AC=C4=C7=C3=B4=D0=E8=D2=AA=B4=A6=C0=
+=ED=B5=C4=B5=D8=D6=B7=CA=C7=D5=E2=C1=BD=D0=D0=D6=AE=BC=E4=B5=C4=B7=
+=B6=CE=A7=A3=A8=B0=FC=C0=A8=D5=E2=C1=BD=D0=D0=D4=DA=C4=DA=A3=A9=A1=
+=A3=B7=B6=CE=A7=BF=C9=D2=D4=D3=C3=CA=FD=D7=D6=A1=A2=D5=FD=D4=F2=B1=
+=ED=B4=EF=CA=BD=A1=A2=BB=F2=B6=FE=D5=DF=B5=C4=D7=E9=BA=CF=B1=ED=CA=
+=BE=A1=A3=C0=FD=C8=E7=A3=BA</p>=0A<div>=0A<table border=3D"1" wid=
+th=3D"95%">=0A<tbody>=0A<tr>=0A<td>=0A<p style=3D"LINE-HEIGHT: 15=
+0%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code>sed <span=20=
+style=3D"COLOR: #ff00ff">'2,5d'</span> datafile<br>#=C9=BE=B3=FD=B5=
+=DA=B6=FE=B5=BD=B5=DA=CE=E5=D0=D0<br>sed <span style=3D"COLOR: #f=
+f00ff">'/My/,/You/d'</span> datafile<br>#=C9=BE=B3=FD=B0=FC=BA=AC=
+<span style=3D"COLOR: #ff00ff">"My"<span style=3D"COLOR: #000000"=
+>=B5=C4</span></span>=D0=D0=B5=BD=B0=FC=BA=AC<span style=3D"COLOR=
+: #ff00ff">"You"<span style=3D"COLOR: #000000">=B5=C4</span></spa=
+n>=D0=D0=D6=AE=BC=E4=B5=C4=D0=D0<br>sed <span style=3D"COLOR: #ff=
+00ff">'/My/,10d'</span> datafile<br>#=C9=BE=B3=FD=B0=FC=BA=AC<spa=
+n style=3D"COLOR: #ff00ff">"My"<span style=3D"COLOR: #000000">=B5=
+=C4</span></span>=D0=D0=B5=BD=B5=DA=CA=AE=D0=D0=B5=C4=C4=DA=C8=DD=
+</code></span></p></td></tr></tbody></table></div>=0A<p><span sty=
+le=3D"FONT-SIZE: 12pt"><strong>&nbsp;<wbr></strong></span></p>=0A=
+<p><span style=3D"FONT-SIZE: 12pt"><strong>&nbsp;<wbr></strong></=
+span></p>=0A<p><span style=3D"FONT-SIZE: 12pt"><strong>3.=C3=FC=C1=
+=EE=D3=EB=D1=A1=CF=EE</strong></span></p>=0A<p>sed=C3=FC=C1=EE=B8=
+=E6=CB=DFsed=C8=E7=BA=CE=B4=A6=C0=ED=D3=C9=B5=D8=D6=B7=D6=B8=B6=A8=
+=B5=C4=B8=F7=CA=E4=C8=EB=D0=D0=A3=AC=C8=E7=B9=FB=C3=BB=D3=D0=D6=B8=
+=B6=A8=B5=D8=D6=B7=D4=F2=B4=A6=C0=ED=CB=F9=D3=D0=B5=C4=CA=E4=C8=EB=
+=D0=D0=A1=A3</p>=0A<p>&nbsp;<wbr></p>=0A<p><strong>3.1 sed=C3=FC=C1=
+=EE</strong></p>=0A<div>=0A<table border=3D"1" width=3D"500">=0A<=
+tbody>=0A<tr>=0A<td>&nbsp;<wbr><span style=3D"FONT-SIZE: 10pt">=C3=
+=FC=C1=EE</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp=
+;<wbr>=B9=A6=C4=DC</span></td></tr>=0A<tr>=0A<td><span style=3D"F=
+ONT-SIZE: 10pt">&nbsp;<wbr>a\</span></td>=0A<td>=0A<p><span style=
+=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=D4=DA=B5=B1=C7=B0=D0=D0=BA=F3=CC=
+=ED=BC=D3=D2=BB=D0=D0=BB=F2=B6=E0=D0=D0=A1=A3=B6=E0=D0=D0=CA=B1=B3=
+=FD=D7=EE=BA=F3=D2=BB=D0=D0=CD=E2=A3=AC=C3=BF=D0=D0=C4=A9=CE=B2=D0=
+=E8=D3=C3=A1=B0\=A1=B1=D0=F8=D0=D0</span></p></td></tr>=0A<tr>=0A=
+<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>c\</span></td>=0A<=
+td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=D3=C3=B4=CB=B7=FB=BA=
+=C5=BA=F3=B5=C4=D0=C2=CE=C4=B1=BE=CC=E6=BB=BB=B5=B1=C7=B0=D0=D0=D6=
+=D0=B5=C4=CE=C4=B1=BE=A1=A3=B6=E0=D0=D0=CA=B1=B3=FD=D7=EE=BA=F3=D2=
+=BB=D0=D0=CD=E2=A3=AC=C3=BF=D0=D0=C4=A9=CE=B2=D0=E8=D3=C3"\"=D0=F8=
+=D0=D0</span></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10=
+pt">&nbsp;<wbr>i\</span></td>=0A<td><span style=3D"FONT-SIZE: 10p=
+t">&nbsp;<wbr>=D4=DA=B5=B1=C7=B0=D0=D0=D6=AE=C7=B0=B2=E5=C8=EB=CE=
+=C4=B1=BE=A1=A3=B6=E0=D0=D0=CA=B1=B3=FD=D7=EE=BA=F3=D2=BB=D0=D0=CD=
+=E2=A3=AC=C3=BF=D0=D0=C4=A9=CE=B2=D0=E8=D3=C3"\"=D0=F8=D0=D0</spa=
+n></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<=
+wbr>d</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wb=
+r>=C9=BE=B3=FD=D0=D0</span></td></tr>=0A<tr>=0A<td><span style=3D=
+"FONT-SIZE: 10pt">&nbsp;<wbr>h</span></td>=0A<td><span style=3D"F=
+ONT-SIZE: 10pt">&nbsp;<wbr>=B0=D1=C4=A3=CA=BD=BF=D5=BC=E4=C0=EF=B5=
+=C4=C4=DA=C8=DD=B8=B4=D6=C6=B5=BD=D4=DD=B4=E6=BB=BA=B3=E5=C7=F8</=
+span></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbs=
+p;<wbr>H</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;=
+<wbr>=B0=D1=C4=A3=CA=BD=BF=D5=BC=E4=C0=EF=B5=C4=C4=DA=C8=DD=D7=B7=
+=BC=D3=B5=BD=D4=DD=B4=E6=BB=BA=B3=E5=C7=F8</span></td></tr>=0A<tr=
+>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>g</span></td>=0A=
+<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=B0=D1=D4=DD=B4=E6=
+=BB=BA=B3=E5=C7=F8=C0=EF=B5=C4=C4=DA=C8=DD=B8=B4=D6=C6=B5=BD=C4=A3=
+=CA=BD=BF=D5=BC=E4=A3=AC=B8=B2=B8=C7=D4=AD=D3=D0=B5=C4=C4=DA=C8=DD=
+</span></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&n=
+bsp;<wbr>G</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbs=
+p;<wbr>=B0=D1=D4=DD=B4=E6=BB=BA=B3=E5=C7=F8=B5=C4=C4=DA=C8=DD=D7=B7=
+=BC=D3=B5=BD=C4=A3=CA=BD=BF=D5=BC=E4=C0=EF=A3=AC=D7=B7=BC=D3=D4=DA=
+=D4=AD=D3=D0=C4=DA=C8=DD=B5=C4=BA=F3=C3=E6</span></td></tr>=0A<tr=
+>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>l</span></td>=0A=
+<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=C1=D0=B3=F6=B7=C7=
+=B4=F2=D3=A1=D7=D6=B7=FB</span></td></tr>=0A<tr>=0A<td><span styl=
+e=3D"FONT-SIZE: 10pt">&nbsp;<wbr>p</span></td>=0A<td><span style=3D=
+"FONT-SIZE: 10pt">&nbsp;<wbr>=B4=F2=D3=A1=D0=D0</span></td></tr>=0A=
+<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>n</span></t=
+d>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=B6=C1=C8=EB=CF=
+=C2=D2=BB=CA=E4=C8=EB=D0=D0=A3=AC=B2=A2=B4=D3=CF=C2=D2=BB=CC=F5=C3=
+=FC=C1=EE=B6=F8=B2=BB=CA=C7=B5=DA=D2=BB=CC=F5=C3=FC=C1=EE=BF=AA=CA=
+=BC=B6=D4=C6=E4=B5=C4=B4=A6=C0=ED</span></td></tr>=0A<tr>=0A<td><=
+span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>q</span></td>=0A<td><sp=
+an style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=BD=E1=CA=F8=BB=F2=CD=CB=B3=
+=F6sed</span></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10=
+pt">&nbsp;<wbr>r</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt=
+">&nbsp;<wbr>=B4=D3=CE=C4=BC=FE=D6=D0=B6=C1=C8=A1=CA=E4=C8=EB=D0=D0=
+</span></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&n=
+bsp;<wbr>!</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbs=
+p;<wbr>=B6=D4=CB=F9=D1=A1=D0=D0=D2=D4=CD=E2=B5=C4=CB=F9=D3=D0=D0=D0=
+=D3=A6=D3=C3=C3=FC=C1=EE</span></td></tr>=0A<tr>=0A<td><span styl=
+e=3D"FONT-SIZE: 10pt">&nbsp;<wbr>s</span></td>=0A<td><span style=3D=
+"FONT-SIZE: 10pt">&nbsp;<wbr>=D3=C3=D2=BB=B8=F6=D7=D6=B7=FB=B4=AE=
+=CC=E6=BB=BB=C1=ED=D2=BB=B8=F6</span></td></tr>=0A<tr>=0A<td><spa=
+n style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>g</span></td>=0A<td><span=20=
+style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=D4=DA=D0=D0=C4=DA=BD=F8=D0=D0=
+=C8=AB=BE=D6=CC=E6=BB=BB</span></td></tr>=0A<tr>=0A<td><span styl=
+e=3D"FONT-SIZE: 10pt">&nbsp;<wbr></span></td>=0A<td><br></td></tr=
+>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>w</span=
+></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=BD=AB=CB=
+=F9=D1=A1=B5=C4=D0=D0=D0=B4=C8=EB=CE=C4=BC=FE</span></td></tr>=0A=
+<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>x</span></t=
+d>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=BD=BB=BB=BB=D4=
+=DD=B4=E6=BB=BA=B3=E5=C7=F8=D3=EB=C4=A3=CA=BD=BF=D5=BC=E4=B5=C4=C4=
+=DA=C8=DD</span></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE:=
+ 10pt">&nbsp;<wbr>y</span></td>=0A<td><span style=3D"FONT-SIZE: 1=
+0pt">&nbsp;<wbr>=BD=AB=D7=D6=B7=FB=CC=E6=BB=BB=CE=AA=C1=ED=D2=BB=D7=
+=D6=B7=FB=A3=A8=B2=BB=C4=DC=B6=D4=D5=FD=D4=F2=B1=ED=B4=EF=CA=BD=CA=
+=B9=D3=C3y=C3=FC=C1=EE=A3=A9</span></td></tr></tbody></table></di=
+v>=0A<p><strong>&nbsp;<wbr></strong></p>=0A<p><strong>3.2 sed=D1=A1=
+=CF=EE</strong></p>=0A<div>=0A<table border=3D"1" width=3D"500">=0A=
+<tbody>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=D1=
+=A1=CF=EE</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp=
+;<wbr>=B9=A6=C4=DC</span></td></tr>=0A<tr>=0A<td><span style=3D"F=
+ONT-SIZE: 10pt">&nbsp;<wbr>-e</span></td>=0A<td><span style=3D"FO=
+NT-SIZE: 10pt">&nbsp;<wbr>=BD=F8=D0=D0=B6=E0=CF=EE=B1=E0=BC=AD=A3=
+=AC=BC=B4=B6=D4=CA=E4=C8=EB=D0=D0=D3=A6=D3=C3=B6=E0=CC=F5sed=C3=FC=
+=C1=EE=CA=B1=CA=B9=D3=C3</span></td></tr>=0A<tr>=0A<td><span styl=
+e=3D"FONT-SIZE: 10pt">&nbsp;<wbr>-n</span></td>=0A<td><span style=
+=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=C8=A1=CF=FB=C4=AC=C8=CF=B5=C4=CA=
+=E4=B3=F6</span></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE:=
+ 10pt">&nbsp;<wbr>-f</span></td>=0A<td><span style=3D"FONT-SIZE:=20=
+10pt">&nbsp;<wbr>=D6=B8=B6=A8sed=BD=C5=B1=BE=B5=C4=CE=C4=BC=FE=C3=
+=FB</span></td></tr></tbody></table></div>=0A<div><span style=3D"=
+FONT-SIZE: 12pt"><strong>&nbsp;<wbr></strong></span></div>=0A<div=
+><span style=3D"FONT-SIZE: 12pt"><strong>&nbsp;<wbr></strong></sp=
+an></div>=0A<div><span style=3D"FONT-SIZE: 12pt"><strong>4.=CD=CB=
+=B3=F6=D7=B4=CC=AC</strong></span></div>=0A<div>sed=B2=BB=CF=F2gr=
+ep=D2=BB=D1=F9=A3=AC=B2=BB=B9=DC=CA=C7=B7=F1=D5=D2=B5=BD=D6=B8=B6=
+=A8=B5=C4=C4=A3=CA=BD=A3=AC=CB=FC=B5=C4=CD=CB=B3=F6=D7=B4=CC=AC=B6=
+=BC=CA=C70=A1=A3=D6=BB=D3=D0=B5=B1=C3=FC=C1=EE=B4=E6=D4=DA=D3=EF=B7=
+=A8=B4=ED=CE=F3=CA=B1=A3=ACsed=B5=C4=CD=CB=B3=F6=D7=B4=CC=AC=B2=C5=
+=B2=BB=CA=C70=A1=A3</div>=0A<div><span style=3D"FONT-SIZE: 12pt">=
+<strong>5.=D5=FD=D4=F2=B1=ED=B4=EF=CA=BD=D4=AA=D7=D6=B7=FB</stron=
+g></span></div>=0A<div>&nbsp;<wbr>=D3=EBgrep=D2=BB=D1=F9=A3=ACsed=
+=D2=B2=D6=A7=B3=D6=CC=D8=CA=E2=D4=AA=D7=D6=B7=FB=A3=AC=C0=B4=BD=F8=
+=D0=D0=C4=A3=CA=BD=B2=E9=D5=D2=A1=A2=CC=E6=BB=BB=A1=A3=B2=BB=CD=AC=
+=B5=C4=CA=C7=A3=ACsed=CA=B9=D3=C3=B5=C4=D5=FD=D4=F2=B1=ED=B4=EF=CA=
+=BD=CA=C7=C0=A8=D4=DA=D0=B1=B8=DC=CF=DF"/"=D6=AE=BC=E4=B5=C4=C4=A3=
+=CA=BD=A1=A3</div>=0A<div>=C8=E7=B9=FB=D2=AA=B0=D1=D5=FD=D4=F2=B1=
+=ED=B4=EF=CA=BD=B7=D6=B8=F4=B7=FB"/"=B8=C4=CE=AA=C1=ED=D2=BB=B8=F6=
+=D7=D6=B7=FB=A3=AC=B1=C8=C8=E7o=A3=AC=D6=BB=D2=AA=D4=DA=D5=E2=B8=F6=
+=D7=D6=B7=FB=C7=B0=BC=D3=D2=BB=B8=F6=B7=B4=D0=B1=CF=DF=A3=AC=D4=DA=
+=D7=D6=B7=FB=BA=F3=B8=FA=C9=CF=D5=FD=D4=F2=B1=ED=B4=EF=CA=BD=A3=AC=
+=D4=D9=B8=FA=C9=CF=D5=E2=B8=F6=D7=D6=B7=FB=BC=B4=BF=C9=A1=A3=C0=FD=
+=C8=E7=A3=BAsed -n =0A'\o^Myop' datafile</div>=0A<div>&nbsp;<wbr>=
+</div>=0A<div>=0A<table border=3D"1" width=3D"500">=0A<tbody>=0A<=
+tr>=0A<td>&nbsp;<wbr><span style=3D"FONT-SIZE: 10pt">=D4=AA=D7=D6=
+=B7=FB</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<w=
+br>=B9=A6=C4=DC</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt"=
+>&nbsp;<wbr>=CA=BE=C0=FD</span></td></tr>=0A<tr>=0A<td><span styl=
+e=3D"FONT-SIZE: 10pt">&nbsp;<wbr>^</span></td>=0A<td><span style=3D=
+"FONT-SIZE: 10pt">&nbsp;<wbr>=D0=D0=CA=D7=B6=A8=CE=BB=B7=FB</span=
+></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>/^my/&nbs=
+p;<wbr> =C6=A5=C5=E4=CB=F9=D3=D0=D2=D4my=BF=AA=CD=B7=B5=C4=D0=D0<=
+/span></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&nb=
+sp;<wbr>$</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp=
+;<wbr>=D0=D0=CE=B2=B6=A8=CE=BB=B7=FB</span></td>=0A<td><span styl=
+e=3D"FONT-SIZE: 10pt">&nbsp;<wbr>/my$/&nbsp;<wbr> =C6=A5=C5=E4=CB=
+=F9=D3=D0=D2=D4my=BD=E1=CE=B2=B5=C4=D0=D0</span></td></tr>=0A<tr>=
+=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>.</span></td>=0A=
+<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=C6=A5=C5=E4=B3=FD=
+=BB=BB=D0=D0=B7=FB=D2=D4=CD=E2=B5=C4=B5=A5=B8=F6=D7=D6=B7=FB</spa=
+n></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>/m..y/&n=
+bsp;<wbr> =0A=C6=A5=C5=E4=B0=FC=BA=AC=D7=D6=C4=B8m=A3=AC=BA=F3=B8=
+=FA=C1=BD=B8=F6=C8=CE=D2=E2=D7=D6=B7=FB=A3=AC=D4=D9=B8=FA=D7=D6=C4=
+=B8y=B5=C4=D0=D0</span></td></tr>=0A<tr>=0A<td><span style=3D"FON=
+T-SIZE: 10pt">&nbsp;<wbr>*</span></td>=0A<td><span style=3D"FONT-=
+SIZE: 10pt">&nbsp;<wbr>=C6=A5=C5=E4=C1=E3=B8=F6=BB=F2=B6=E0=B8=F6=
+=C7=B0=B5=BC=D7=D6=B7=FB</span></td>=0A<td><span style=3D"FONT-SI=
+ZE: 10pt">&nbsp;<wbr>/my*/&nbsp;<wbr> =0A=C6=A5=C5=E4=B0=FC=BA=AC=
+=D7=D6=C4=B8m,=BA=F3=B8=FA=C1=E3=B8=F6=BB=F2=B6=E0=B8=F6y=D7=D6=C4=
+=B8=B5=C4=D0=D0</span></td></tr>=0A<tr>=0A<td><span style=3D"FONT=
+-SIZE: 10pt">&nbsp;<wbr>[]</span></td>=0A<td><span style=3D"FONT-=
+SIZE: 10pt">&nbsp;<wbr>=C6=A5=C5=E4=D6=B8=B6=A8=D7=D6=B7=FB=D7=E9=
+=C4=DA=B5=C4=C8=CE=D2=BB=D7=D6=B7=FB</span></td>=0A<td><span styl=
+e=3D"FONT-SIZE: 10pt">&nbsp;<wbr>/[Mm]y/&nbsp;<wbr> =0A=C6=A5=C5=E4=
+=B0=FC=BA=ACMy=BB=F2my=B5=C4=D0=D0</span></td></tr>=0A<tr>=0A<td>=
+<span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>[^]</span></td>=0A<td>=
+<span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=C6=A5=C5=E4=B2=BB=D4=DA=
+=D6=B8=B6=A8=D7=D6=B7=FB=D7=E9=C4=DA=B5=C4=C8=CE=D2=BB=D7=D6=B7=FB=
+</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>/[^=
+Mm]y/&nbsp;<wbr> =0A=C6=A5=C5=E4=B0=FC=BA=ACy=A3=AC=B5=ABy=D6=AE=C7=
+=B0=B5=C4=C4=C7=B8=F6=D7=D6=B7=FB=B2=BB=CA=C7M=BB=F2m=B5=C4=D0=D0=
+</span></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&n=
+bsp;<wbr>\(..\)</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt"=
+>&nbsp;<wbr>=B1=A3=B4=E6=D2=D1=C6=A5=C5=E4=B5=C4=D7=D6=B7=FB</spa=
+n></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>1,20s/\(=
+you\)self/\1r/&nbsp;<wbr> =0A=B1=EA=BC=C7=D4=AA=D7=D6=B7=FB=D6=AE=
+=BC=E4=B5=C4=C4=A3=CA=BD=A3=AC=B2=A2=BD=AB=C6=E4=B1=A3=B4=E6=CE=AA=
+=B1=EA=C7=A91=A3=AC=D6=AE=BA=F3=BF=C9=D2=D4=CA=B9=D3=C3\1=C0=B4=D2=
+=FD=D3=C3=CB=FC=A1=A3=D7=EE=B6=E0=BF=C9=D2=D4=B6=A8=D2=E59=B8=F6=B1=
+=EA=C7=A9=A3=AC=B4=D3=D7=F3=B1=DF=BF=AA=CA=BC=B1=E0=BA=C5=A3=AC=D7=
+=EE=D7=F3=B1=DF=B5=C4=CA=C7=B5=DA=D2=BB=B8=F6=A1=A3=B4=CB=C0=FD=D6=
+=D0=A3=AC=B6=D4=B5=DA1=B5=BD=B5=DA =0A20=D0=D0=BD=F8=D0=D0=B4=A6=C0=
+=ED=A3=ACyou=B1=BB=B1=A3=B4=E6=CE=AA=B1=EA=C7=A91=A3=AC=C8=E7=B9=FB=
+=B7=A2=CF=D6youself=A3=AC=D4=F2=CC=E6=BB=BB=CE=AAyour=A1=A3</span=
+></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<w=
+br>&amp;</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;=
+<wbr>=B1=A3=B4=E6=B2=E9=D5=D2=B4=AE=D2=D4=B1=E3=D4=DA=CC=E6=BB=BB=
+=B4=AE=D6=D0=D2=FD=D3=C3</span></td>=0A<td><span style=3D"FONT-SI=
+ZE: 10pt">&nbsp;<wbr>s/my&nbsp;<wbr>&nbsp;<wbr>=B7=FB=BA=C5&amp;=B4=
+=FA=B1=ED=B2=E9=D5=D2=B4=AE=A1=A3my=BD=AB=B1=BB=CC=E6=BB=BB=CE=AA=
+**my**</span></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10=
+pt">&nbsp;<wbr>\&lt;&lt;/span&gt;</span></td>=0A<td><span style=3D=
+"FONT-SIZE: 10pt">&nbsp;<wbr>=B4=CA=CA=D7=B6=A8=CE=BB=B7=FB</span=
+></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>/\</span>=
+</td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wb=
+r>\&gt;</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<=
+wbr>=B4=CA=CE=B2=B6=A8=CE=BB=B7=FB</span></td>=0A<td><span style=3D=
+"FONT-SIZE: 10pt">&nbsp;<wbr>/my\&gt;/&nbsp;<wbr> =0A=C6=A5=C5=E4=
+=B0=FC=BA=AC=D2=D4my=BD=E1=CE=B2=B5=C4=B5=A5=B4=CA=B5=C4=D0=D0</s=
+pan></td></tr>=0A<tr>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp=
+;<wbr>x\{m\}</span></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&n=
+bsp;<wbr>=C1=AC=D0=F8m=B8=F6x</span></td>=0A<td><span style=3D"FO=
+NT-SIZE: 10pt">&nbsp;<wbr>/9\{5\}/ =C6=A5=C5=E4=B0=FC=BA=AC=C1=AC=
+=D0=F85=B8=F69=B5=C4=D0=D0</span></td></tr>=0A<tr>=0A<td><span st=
+yle=3D"FONT-SIZE: 10pt">&nbsp;<wbr>x\{m,\}</span></td>=0A<td><spa=
+n style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>=D6=C1=C9=D9m=B8=F6x</span=
+></td>=0A<td><span style=3D"FONT-SIZE: 10pt">&nbsp;<wbr>/9\{5,\}/=
+&nbsp;<wbr> =0A=C6=A5=C5=E4=B0=FC=BA=AC=D6=C1=C9=D9=C1=AC=D0=F85=B8=
+=F69=B5=C4=D0=D0</span></td></tr>=0A<tr>=0A<td><span style=3D"FON=
+T-SIZE: 10pt">&nbsp;<wbr>x\{m,n\}</span></td>=0A<td><span style=3D=
+"FONT-SIZE: 10pt">&nbsp;<wbr>=D6=C1=C9=D9m=B8=F6=A3=AC=B5=AB=B2=BB=
+=B3=AC=B9=FDn=B8=F6x</span></td>=0A<td><span style=3D"FONT-SIZE:=20=
+10pt">&nbsp;<wbr>/9\{5,7\}/&nbsp;<wbr> =0A=C6=A5=C5=E4=B0=FC=BA=AC=
+=C1=AC=D0=F85=B5=BD7=B8=F69=B5=C4=D0=D0</span></td></tr></tbody><=
+/table></div>=0A<div>&nbsp;<wbr></div>=0A<div><span style=3D"FONT=
+-SIZE: 12pt"><strong>6.=B7=B6=C0=FD</strong></span></div>=0A<div>=
+&nbsp;<wbr></div>=0A<div><strong>6.1 p=C3=FC=C1=EE</strong></div>=
+=0A<div>=C3=FC=C1=EEp=D3=C3=D3=DA=CF=D4=CA=BE=C4=A3=CA=BD=BF=D5=BC=
+=E4=B5=C4=C4=DA=C8=DD=A1=A3=C4=AC=C8=CF=C7=E9=BF=F6=CF=C2=A3=ACse=
+d=B0=D1=CA=E4=C8=EB=D0=D0=B4=F2=D3=A1=D4=DA=C6=C1=C4=BB=C9=CF=A3=AC=
+=D1=A1=CF=EE-n=D3=C3=D3=DA=C8=A1=CF=FB=C4=AC=C8=CF=B5=C4=B4=F2=D3=
+=A1=B2=D9=D7=F7=A1=A3=B5=B1=D1=A1=CF=EE-n=BA=CD=C3=FC=C1=EEp=CD=AC=
+=CA=B1=B3=F6=CF=D6=CA=B1,sed=BF=C9=B4=F2=D3=A1=D1=A1=B6=A8=B5=C4=C4=
+=DA=C8=DD=A1=A3</div>=0A<div>&nbsp;<wbr></div>=0A<table border=3D=
+"1" width=3D"95%">=0A<tbody>=0A<tr>=0A<td>=0A<p style=3D"LINE-HEI=
+GHT: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code>sed=
+ <span style=3D"COLOR: #ff00ff">'/my/p'</span> =0Adatafile<br>#=C4=
+=AC=C8=CF=C7=E9=BF=F6=CF=C2=A3=ACsed=B0=D1=CB=F9=D3=D0=CA=E4=C8=EB=
+=D0=D0=B6=BC=B4=F2=D3=A1=D4=DA=B1=EA=D7=BC=CA=E4=B3=F6=C9=CF=A1=A3=
+=C8=E7=B9=FB=C4=B3=D0=D0=C6=A5=C5=E4=C4=A3=CA=BDmy=A3=ACp=C3=FC=C1=
+=EE=BD=AB=B0=D1=B8=C3=D0=D0=C1=ED=CD=E2=B4=F2=D3=A1=D2=BB=B1=E9=A1=
+=A3</code></span></p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5p=
+x"><span style=3D"FONT-SIZE: 10pt"><code><br>sed <span style=3D"C=
+OLOR: #0000cc">-</span>n <span style=3D"COLOR: #ff00ff">'/my/p'</=
+span> =0Adatafile<br>#=D1=A1=CF=EE<span style=3D"COLOR: #0000cc">=
+-</span>n=C8=A1=CF=FBsed=C4=AC=C8=CF=B5=C4=B4=F2=D3=A1=A3=ACp=C3=FC=
+=C1=EE=B0=D1=C6=A5=C5=E4=C4=A3=CA=BDmy=B5=C4=D0=D0=B4=F2=D3=A1=D2=
+=BB=B1=E9=A1=A3<br></code></span></p></td></tr></tbody></table>=0A=
+<p><strong>&nbsp;<wbr></strong></p>=0A<p><strong>6.2 d=C3=FC=C1=EE=
+</strong></p>=0A<p>=C3=FC=C1=EEd=D3=C3=D3=DA=C9=BE=B3=FD=CA=E4=C8=
+=EB=D0=D0=A1=A3sed=CF=C8=BD=AB=CA=E4=C8=EB=D0=D0=B4=D3=CE=C4=BC=FE=
+=B8=B4=D6=C6=B5=BD=C4=A3=CA=BD=BF=D5=BC=E4=C0=EF=A3=AC=C8=BB=BA=F3=
+=B6=D4=B8=C3=D0=D0=D6=B4=D0=D0sed=C3=FC=C1=EE=A3=AC=D7=EE=BA=F3=BD=
+=AB=C4=A3=CA=BD=BF=D5=BC=E4=C0=EF=B5=C4=C4=DA=C8=DD=CF=D4=CA=BE=D4=
+=DA=C6=C1=C4=BB=C9=CF=A1=A3=C8=E7=B9=FB=B7=A2=B3=F6=B5=C4=CA=C7=C3=
+=FC=C1=EEd=A3=AC=B5=B1=C7=B0=C4=A3=CA=BD=BF=D5=BC=E4=C0=EF=B5=C4=CA=
+=E4=C8=EB=D0=D0=BB=E1=B1=BB=C9=BE=B3=FD=A3=AC=B2=BB=B1=BB=CF=D4=CA=
+=BE=A1=A3</p>=0A<table border=3D"1" width=3D"95%">=0A<tbody>=0A<t=
+r>=0A<td>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><span sty=
+le=3D"FONT-SIZE: 10pt"><code>sed <span style=3D"COLOR: #ff00ff">'=
+$d'</span> datafile<br>#=C9=BE=B3=FD=D7=EE=BA=F3=D2=BB=D0=D0=A3=AC=
+=C6=E4=D3=E0=B5=C4=B6=BC=B1=BB=CF=D4=CA=BE<br><br>sed <span style=
+=3D"COLOR: #ff00ff">'/my/d'</span> =0Adatafile<br>#=C9=BE=B3=FD=B0=
+=FC=BA=ACmy=B5=C4=D0=D0=A3=AC=C6=E4=D3=E0=B5=C4=B6=BC=B1=BB=CF=D4=
+=CA=BE</code></span></p></td></tr></tbody></table>=0A<p><strong>&=
+nbsp;<wbr></strong></p>=0A<p><strong>6.3 s=C3=FC=C1=EE</strong></=
+p>=0A<table border=3D"1" width=3D"95%">=0A<tbody>=0A<tr>=0A<td>=0A=
+<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D"FONT-S=
+IZE: 10pt"><code>sed <span style=3D"COLOR: #ff00ff">'s/^My/You/g'=
+</span> =0Adatafile<br>#=C3=FC=C1=EE=C4=A9=B6=CB=B5=C4g=B1=ED=CA=BE=
+=D4=DA=D0=D0=C4=DA=BD=F8=D0=D0=C8=AB=BE=D6=CC=E6=BB=BB=A3=AC=D2=B2=
+=BE=CD=CA=C7=CB=B5=C8=E7=B9=FB=C4=B3=D0=D0=B3=F6=CF=D6=B6=E0=B8=F6=
+My=A3=AC=CB=F9=D3=D0=B5=C4My=B6=BC=B1=BB=CC=E6=BB=BB=CE=AAYou=A1=A3=
+<br><br>sed <span style=3D"COLOR: #0000cc">-</span>n <span style=3D=
+"COLOR: #ff00ff">'1,20s/My$/You/gp'</span> =0Adatafile<br>#=C8=A1=
+=CF=FB=C4=AC=C8=CF=CA=E4=B3=F6=A3=AC=B4=A6=C0=ED1=B5=BD20=D0=D0=C0=
+=EF=C6=A5=C5=E4=D2=D4My=BD=E1=CE=B2=B5=C4=D0=D0=A3=AC=B0=D1=D0=D0=
+=C4=DA=CB=F9=D3=D0=B5=C4My=CC=E6=BB=BB=CE=AAYou=A3=AC=B2=A2=B4=F2=
+=D3=A1=B5=BD=C6=C1=C4=BB=C9=CF=A1=A3</code></span></p></td></tr><=
+/tbody></table>=0A<div>&nbsp;<wbr>&nbsp;<wbr></div>=0A<table bord=
+er=3D"1" width=3D"95%">=0A<tbody>=0A<tr>=0A<td>=0A<p style=3D"LIN=
+E-HEIGHT: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><cod=
+e>sed <span style=3D"COLOR: #ff00ff">'s#My#Your#g'</span> =0Adata=
+file<br>#=BD=F4=B8=FA=D4=DAs=C3=FC=C1=EE=BA=F3=B5=C4=D7=D6=B7=FB=BE=
+=CD=CA=C7=B2=E9=D5=D2=B4=AE=BA=CD=CC=E6=BB=BB=B4=AE=D6=AE=BC=E4=B5=
+=C4=B7=D6=B8=F4=B7=FB=A1=A3=B7=D6=B8=F4=B7=FB=C4=AC=C8=CF=CE=AA=D5=
+=FD=D0=B1=B8=DC=A3=AC=B5=AB=BF=C9=D2=D4=B8=C4=B1=E4=A1=A3=CE=DE=C2=
+=DB=CA=B2=C3=B4=D7=D6=B7=FB=A3=A8=BB=BB=D0=D0=B7=FB=A1=A2=B7=B4=D0=
+=B1=CF=DF=B3=FD=CD=E2=A3=A9=A3=AC=D6=BB=D2=AA=BD=F4=B8=FAs=C3=FC=C1=
+=EE=A3=AC=BE=CD=B3=C9=C1=CB=D0=C2=B5=C4=B4=AE=B7=D6=B8=F4=B7=FB=A1=
+=A3</code></span></p></td></tr></tbody></table>=0A<p><strong>&nbs=
+p;<wbr></strong></p>=0A<p><strong>6.4 e=D1=A1=CF=EE</strong></p>=0A=
+<p>-e=CA=C7=B1=E0=BC=AD=C3=FC=C1=EE=A3=AC=D3=C3=D3=DAsed=D6=B4=D0=
+=D0=B6=E0=B8=F6=B1=E0=BC=AD=C8=CE=CE=F1=B5=C4=C7=E9=BF=F6=CF=C2=A1=
+=A3=D4=DA=CF=C2=D2=BB=D0=D0=BF=AA=CA=BC=B1=E0=BC=AD=C7=B0=A3=AC=CB=
+=F9=D3=D0=B5=C4=B1=E0=BC=AD=B6=AF=D7=F7=BD=AB=D3=A6=D3=C3=B5=BD=C4=
+=A3=CA=BD=BB=BA=B3=E5=C7=F8=D6=D0=B5=C4=D0=D0=C9=CF=A1=A3</p>=0A<=
+table border=3D"1" width=3D"95%">=0A<tbody>=0A<tr>=0A<td>=0A<p st=
+yle=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE:=20=
+10pt"><code>sed <span style=3D"COLOR: #0000cc">-</span>e <span st=
+yle=3D"COLOR: #ff00ff">'1,10d'</span> =0A<span style=3D"COLOR: #0=
+000cc">-</span>e <span style=3D"COLOR: #ff00ff">'s/My/Your/g'</sp=
+an> datafile</code></span></p>=0A<p style=3D"LINE-HEIGHT: 150%; M=
+ARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code>#=D1=A1=CF=EE-e=
+=D3=C3=D3=DA=BD=F8=D0=D0=B6=E0=D6=D8=B1=E0=BC=AD=A1=A3=B5=DA=D2=BB=
+=D6=D8=B1=E0=BC=AD=C9=BE=B3=FD=B5=DA1-3=D0=D0=A1=A3=B5=DA=B6=FE=D6=
+=D8=B1=E0=BC=AD=BD=AB=B3=F6=CF=D6=B5=C4=CB=F9=D3=D0My=CC=E6=BB=BB=
+=CE=AAYour=A1=A3=D2=F2=CE=AA=CA=C7=D6=F0=D0=D0=BD=F8=D0=D0=D5=E2=C1=
+=BD=CF=EE=B1=E0=BC=AD=A3=A8=BC=B4=D5=E2=C1=BD=B8=F6=C3=FC=C1=EE=B6=
+=BC=D4=DA=C4=A3=CA=BD=BF=D5=BC=E4=B5=C4=B5=B1=C7=B0=D0=D0=C9=CF=D6=
+=B4=D0=D0=A3=A9=A3=AC=CB=F9=D2=D4=B1=E0=BC=AD=C3=FC=C1=EE=B5=C4=CB=
+=B3=D0=F2=BB=E1=D3=B0=CF=EC=BD=E1=B9=FB=A1=A3</code></span></p></=
+td></tr></tbody></table>=0A<p><strong>&nbsp;<wbr></strong></p>=0A=
+<p><strong>6.5 r=C3=FC=C1=EE</strong></p>=0A<p>r=C3=FC=C1=EE=CA=C7=
+=B6=C1=C3=FC=C1=EE=A1=A3sed=CA=B9=D3=C3=B8=C3=C3=FC=C1=EE=BD=AB=D2=
+=BB=B8=F6=CE=C4=B1=BE=CE=C4=BC=FE=D6=D0=B5=C4=C4=DA=C8=DD=BC=D3=B5=
+=BD=B5=B1=C7=B0=CE=C4=BC=FE=B5=C4=CC=D8=B6=A8=CE=BB=D6=C3=C9=CF=A1=
+=A3</p>=0A<table border=3D"1" width=3D"95%">=0A<tbody>=0A<tr>=0A<=
+td>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D"=
+FONT-SIZE: 10pt"><code>sed <span style=3D"COLOR: #ff00ff">'/My/r=20=
+introduce.txt'</span> =0Adatafile<br>#=C8=E7=B9=FB=D4=DA=CE=C4=BC=
+=FEdatafile=B5=C4=C4=B3=D2=BB=D0=D0=C6=A5=C5=E4=B5=BD=C4=A3=CA=BD=
+My=A3=AC=BE=CD=D4=DA=B8=C3=D0=D0=BA=F3=B6=C1=C8=EB=CE=C4=BC=FEint=
+roduce<span style=3D"COLOR: #0000cc">.</span>txt=B5=C4=C4=DA=C8=DD=
+=A1=A3=C8=E7=B9=FB=B3=F6=CF=D6My=B5=C4=D0=D0=B2=BB=D6=B9=D2=BB=D0=
+=D0=A3=AC=D4=F2=D4=DA=B3=F6=CF=D6My=B5=C4=B8=F7=D0=D0=BA=F3=B6=BC=
+=B6=C1=C8=EBintroduce<span style=3D"COLOR: #0000cc">.</span>txt=CE=
+=C4=BC=FE=B5=C4=C4=DA=C8=DD=A1=A3</code></span></p></td></tr></tb=
+ody></table>=0A<div>&nbsp;<wbr></div>=0A<div><strong>6.6 w=C3=FC=C1=
+=EE</strong></div>=0A<table border=3D"1" width=3D"95%">=0A<tbody>=
+=0A<tr>=0A<td>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><spa=
+n style=3D"FONT-SIZE: 10pt"><code>sed <span style=3D"COLOR: #0000=
+cc">-</span>n <span style=3D"COLOR: #ff00ff">'/hrwang/w =0Ame.txt=
+'</span> datafile<br></code></span></p></td></tr></tbody></table>=
+=0A<p><strong>&nbsp;<wbr></strong></p>=0A<p><strong>6.7 a\ =C3=FC=
+=C1=EE</strong></p>=0A<p>a\ =0A=C3=FC=C1=EE=CA=C7=D7=B7=BC=D3=C3=FC=
+=C1=EE=A3=AC=D7=B7=BC=D3=BD=AB=CC=ED=BC=D3=D0=C2=CE=C4=B1=BE=B5=BD=
+=CE=C4=BC=FE=D6=D0=B5=B1=C7=B0=D0=D0=A3=A8=BC=B4=B6=C1=C8=EB=C4=A3=
+=CA=BD=BB=BA=B3=E5=C7=F8=D6=D0=B5=C4=D0=D0=A3=A9=B5=C4=BA=F3=C3=E6=
+=A1=A3=CB=F9=D7=B7=BC=D3=B5=C4=CE=C4=B1=BE=D0=D0=CE=BB=D3=DAsed=C3=
+=FC=C1=EE=B5=C4=CF=C2=B7=BD=C1=ED=C6=F0=D2=BB=D0=D0=A1=A3=C8=E7=B9=
+=FB=D2=AA=D7=B7=BC=D3=B5=C4=C4=DA=C8=DD=B3=AC=B9=FD=D2=BB=D0=D0=A3=
+=AC=D4=F2=C3=BF=D2=BB=D0=D0=B6=BC=B1=D8=D0=EB=D2=D4=B7=B4=D0=B1=CF=
+=DF=BD=E1=CA=F8=A3=AC=D7=EE=BA=F3=D2=BB=D0=D0=B3=FD=CD=E2=A1=A3=D7=
+=EE=BA=F3=D2=BB=D0=D0=BD=AB=D2=D4=D2=FD=BA=C5=BA=CD=CE=C4=BC=FE=C3=
+=FB=BD=E1=CA=F8=A1=A3</p>=0A<table border=3D"1" width=3D"95%">=0A=
+<tbody>=0A<tr>=0A<td>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5p=
+x"><span style=3D"FONT-SIZE: 10pt"><code>sed <span style=3D"COLOR=
+: #ff00ff">'/^hrwang/a\<br>&gt;hrwang and mjfan are =0Ahusband\<b=
+r>&gt;and wife'</span> =0Adatafile<br>#=C8=E7=B9=FB=D4=DAdatafile=
+=CE=C4=BC=FE=D6=D0=B7=A2=CF=D6=C6=A5=C5=E4=D2=D4hrwang=BF=AA=CD=B7=
+=B5=C4=D0=D0=A3=AC=D4=F2=D4=DA=B8=C3=D0=D0=CF=C2=C3=E6=D7=B7=BC=D3=
+hrwang and mjfan are husband =0Aand wife</code></span></p></td></=
+tr></tbody></table>=0A<p><strong>&nbsp;<wbr></strong></p>=0A<p><s=
+trong>6.8 i\ =C3=FC=C1=EE</strong></p>=0A<p>i\ =C3=FC=C1=EE=CA=C7=
+=D4=DA=B5=B1=C7=B0=D0=D0=B5=C4=C7=B0=C3=E6=B2=E5=C8=EB=D0=C2=B5=C4=
+=CE=C4=B1=BE=A1=A3</p>=0A<p><strong>&nbsp;<wbr></strong></p>=0A<p=
+><strong>6.9 c\ =C3=FC=C1=EE</strong></p>=0A<p>sed=CA=B9=D3=C3=B8=
+=C3=C3=FC=C1=EE=BD=AB=D2=D1=D3=D0=CE=C4=B1=BE=D0=DE=B8=C4=B3=C9=D0=
+=C2=B5=C4=CE=C4=B1=BE=A1=A3</p>=0A<p><strong>&nbsp;<wbr></strong>=
+</p>=0A<p><strong>6.10 n=C3=FC=C1=EE</strong></p>=0A<p>sed=CA=B9=D3=
+=C3=B8=C3=C3=FC=C1=EE=BB=F1=C8=A1=CA=E4=C8=EB=CE=C4=BC=FE=B5=C4=CF=
+=C2=D2=BB=D0=D0=A3=AC=B2=A2=BD=AB=C6=E4=B6=C1=C8=EB=B5=BD=C4=A3=CA=
+=BD=BB=BA=B3=E5=C7=F8=D6=D0=A3=AC=C8=CE=BA=CEsed=C3=FC=C1=EE=B6=BC=
+=BD=AB=D3=A6=D3=C3=B5=BD=C6=A5=C5=E4=D0=D0=BD=F4=BD=D3=D7=C5=B5=C4=
+=CF=C2=D2=BB=D0=D0=C9=CF=A1=A3</p>=0A<table border=3D"1" width=3D=
+"95%">=0A<tbody>=0A<tr>=0A<td>=0A<p style=3D"LINE-HEIGHT: 150%; M=
+ARGIN: 5px"><code><span style=3D"FONT-SIZE: 10pt">sed <span style=
+=3D"COLOR: #ff00ff">'/hrwang/{n;s/My/Your/;}'</span> =0Adatafile<=
+/span><br></code></p></td></tr></tbody></table>=0A<div><span styl=
+e=3D"COLOR: #339999">=D7=A2=A3=BA=C8=E7=B9=FB=D0=E8=D2=AA=CA=B9=D3=
+=C3=B6=E0=CC=F5=C3=FC=C1=EE=A3=AC=BB=F2=D5=DF=D0=E8=D2=AA=D4=DA=C4=
+=B3=B8=F6=B5=D8=D6=B7=B7=B6=CE=A7=C4=DA=C7=B6=CC=D7=B5=D8=D6=B7=A3=
+=AC=BE=CD=B1=D8=D0=EB=D3=C3=BB=A8=C0=A8=BA=C5=BD=AB=C3=FC=C1=EE=C0=
+=A8=C6=F0=C0=B4=A3=AC=C3=BF=D0=D0=D6=BB=D0=B4=D2=BB=CC=F5=C3=FC=C1=
+=EE=A3=AC=BB=F2=D5=E2=D3=C3=B7=D6=BA=C5=B7=D6=B8=EE=CD=AC=D2=BB=D0=
+=D0=D6=D0=B5=C4=B6=E0=CC=F5=C3=FC=C1=EE=A1=A3</span></div>=0A<div=
+>&nbsp;<wbr></div>=0A<div><strong>6.11 y=C3=FC=C1=EE</strong></di=
+v>=0A<div>=B8=C3=C3=FC=C1=EE=D3=EBUNIX/Linux=D6=D0=B5=C4tr=C3=FC=C1=
+=EE=C0=E0=CB=C6=A3=AC=D7=D6=B7=FB=B0=B4=D5=D5=D2=BB=B6=D4=D2=BB=B5=
+=C4=B7=BD=CA=BD=B4=D3=D7=F3=B5=BD=D3=D2=BD=F8=D0=D0=D7=AA=BB=BB=A1=
+=A3=C0=FD=C8=E7=A3=ACy/abc/ABC/=BD=AB=B0=D1=CB=F9=D3=D0=D0=A1=D0=B4=
+=B5=C4a=D7=AA=BB=BB=B3=C9A=A3=AC=D0=A1=D0=B4=B5=C4b=D7=AA=BB=BB=B3=
+=C9B=A3=AC=D0=A1=D0=B4=B5=C4c=D7=AA=BB=BB=B3=C9C=A1=A3</div>=0A<d=
+iv>&nbsp;<wbr></div>=0A<table border=3D"1" width=3D"95%">=0A<tbod=
+y>=0A<tr>=0A<td>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><s=
+pan style=3D"FONT-SIZE: 10pt"><code>sed <span style=3D"COLOR: #ff=
+00ff">'1,20y/hrwang12/HRWANG^$/'</span> =0Adatafile<br>#=BD=AB1=B5=
+=BD20=D0=D0=C4=DA=A3=AC=CB=F9=D3=D0=B5=C4=D0=A1=D0=B4hrwang=D7=AA=
+=BB=BB=B3=C9=B4=F3=D0=B4=A3=AC=BD=AB1=D7=AA=BB=BB=B3=C9^<span sty=
+le=3D"COLOR: #0000cc">,</span>=BD=AB2=D7=AA=BB=BB=B3=C9<span styl=
+e=3D"COLOR: #0000ff">$</span><span style=3D"COLOR: #008080">=A1=A3=
+</span><br>#=D5=FD=D4=F2=B1=ED=B4=EF=CA=BD=D4=AA=D7=D6=B7=FB=B6=D4=
+y=C3=FC=C1=EE=B2=BB=C6=F0=D7=F7=D3=C3=A1=A3=D3=EBs=C3=FC=C1=EE=B5=
+=C4=B7=D6=B8=F4=B7=FB=D2=BB=D1=F9=A3=AC=D0=B1=CF=DF=BF=C9=D2=D4=B1=
+=BB=CC=E6=BB=BB=B3=C9=C6=E4=CB=FC=B5=C4=D7=D6=B7=FB=A1=A3</code><=
+/span></p></td></tr></tbody></table>=0A<p><strong>&nbsp;<wbr></st=
+rong></p>=0A<p><strong>6.12 q=C3=FC=C1=EE</strong></p>=0A<p>q=C3=FC=
+=C1=EE=BD=AB=B5=BC=D6=C2sed=B3=CC=D0=F2=CD=CB=B3=F6=A3=AC=B2=BB=D4=
+=D9=BD=F8=D0=D0=C6=E4=CB=FC=B5=C4=B4=A6=C0=ED=A1=A3</p>=0A<table=20=
+border=3D"1" width=3D"95%">=0A<tbody>=0A<tr>=0A<td>=0A<p style=3D=
+"LINE-HEIGHT: 150%; MARGIN: 5px"><code><span style=3D"FONT-SIZE:=20=
+10pt">sed <span style=3D"COLOR: #ff00ff">'/hrwang/{s/hrwang/HRWAN=
+G/;q;}'</span> =0Adatafile</span><br></code></p></td></tr></tbody=
+></table>=0A<p><strong>&nbsp;<wbr></strong></p>=0A<p><strong>6.13=
+ h=C3=FC=C1=EE=BA=CDg=C3=FC=C1=EE</strong></p>=0A<table border=3D=
+"1" width=3D"95%">=0A<tbody>=0A<tr>=0A<td>=0A<p style=3D"LINE-HEI=
+GHT: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code>#ca=
+t =0Adatafile</code></span></p>=0A<p style=3D"LINE-HEIGHT: 150%;=20=
+MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code>My name is =0A=
+hrwang.</code></span></p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN=
+: 5px"><span style=3D"FONT-SIZE: 10pt"><code>Your name is =0Amjfa=
+n.</code></span></p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px=
+"><span style=3D"FONT-SIZE: 10pt"><code>hrwang is mjfan's =0Ahusb=
+and.</code></span></p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5=
+px"><span style=3D"FONT-SIZE: 10pt"><code>mjfan is hrwang's =0Awi=
+fe.</code></span></p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5p=
+x"><span style=3D"FONT-SIZE: 10pt"><code>&nbsp;<wbr></code>&nbsp;=
+<wbr></span></p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><s=
+pan style=3D"FONT-SIZE: 10pt"><code>sed <span style=3D"COLOR: #00=
+00cc">-</span>e <span style=3D"COLOR: #ff00ff">'/hrwang/h'</span>=
+ =0A<span style=3D"COLOR: #0000cc">-</span>e <span style=3D"COLOR=
+: #ff00ff">'$G'</span> =0Adatafile</code></span></p>=0A<p style=3D=
+"LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt">=
+<code>sed -e '/hrwang/H' -e =0A'$G' datafile</code></span></p>=0A=
+<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D"FONT-S=
+IZE: 10pt"><code>#=CD=A8=B9=FD=C9=CF=C3=E6=C1=BD=CC=F5=C3=FC=C1=EE=
+=A3=AC=C4=E3=BB=E1=B7=A2=CF=D6h=BB=E1=B0=D1=D4=AD=C0=B4=D4=DD=B4=E6=
+=BB=BA=B3=E5=C7=F8=B5=C4=C4=DA=C8=DD=C7=E5=B3=FD=A3=AC=D6=BB=B1=A3=
+=B4=E6=D7=EE=BD=FC=D2=BB=B4=CE=D6=B4=D0=D0h=CA=B1=B1=A3=B4=E6=BD=F8=
+=C8=A5=B5=C4=C4=A3=CA=BD=BF=D5=BC=E4=B5=C4=C4=DA=C8=DD=A1=A3=B6=F8=
+H=C3=FC=C1=EE=D4=F2=B0=D1=C3=BF=B4=CE=C6=A5=C5=E4hrwnag=B5=C4=D0=D0=
+=B6=BC=D7=B7=BC=D3=B1=A3=B4=E6=D4=DA=D4=DD=B4=E6=BB=BA=B3=E5=C7=F8=
+=A1=A3<br></code></span></p>=0A<p style=3D"LINE-HEIGHT: 150%; MAR=
+GIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code>sed -e '/hrwang/H=
+' -e =0A'$g' datafile</code></span></p>=0A<p style=3D"LINE-HEIGHT=
+: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code>sed -e=
+ '/hrwang/H' -e =0A'$G' datafile</code></span></p>=0A<p style=3D"=
+LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><=
+code>#=CD=A8=B9=FD=C9=CF=C3=E6=C1=BD=CC=F5=C3=FC=C1=EE=A3=AC=C4=E3=
+=BB=E1=B7=A2=CF=D6g=B0=D1=D4=DD=B4=E6=BB=BA=B3=E5=C7=F8=D6=D0=B5=C4=
+=C4=DA=C8=DD=CC=E6=BB=BB=B5=F4=C1=CB=C4=A3=CA=BD=BF=D5=BC=E4=D6=D0=
+=B5=B1=C7=B0=D0=D0=B5=C4=C4=DA=C8=DD=A3=AC=B4=CB=B4=A6=BC=B4=CC=E6=
+=BB=BB=C1=CB=D7=EE=BA=F3=D2=BB=D0=D0=A1=A3=B6=F8G=C3=FC=C1=EE=D4=F2=
+=B0=D1=D4=DD=B4=E6=BB=BA=B3=E5=C7=F8=B5=C4=C4=DA=C8=DD=D7=B7=BC=D3=
+=B5=BD=C1=CB=C4=A3=CA=BD=BF=D5=BC=E4=B5=C4=B5=B1=C7=B0=D0=D0=BA=F3=
+=A1=A3=B4=CB=B4=A6=BC=B4=D7=B7=BC=D3=B5=BD=C1=CB=C4=A9=CE=B2=A1=A3=
+</code></span></p></td></tr></tbody></table>=0A<p><span style=3D"=
+FONT-SIZE: 12pt"><strong>&nbsp;<wbr></strong></span></p>=0A<p><sp=
+an style=3D"FONT-SIZE: 12pt"><strong>&nbsp;<wbr></strong></span><=
+/p>=0A<p><span style=3D"FONT-SIZE: 12pt"><strong>7. sed=BD=C5=B1=BE=
+</strong></span></p>=0A<p>sed=BD=C5=B1=BE=BE=CD=CA=C7=D0=B4=D4=DA=
+=CE=C4=BC=FE=D6=D0=B5=C4=D2=BB=C1=D0sed=C3=FC=C1=EE=A1=A3=BD=C5=B1=
+=BE=D6=D0=A3=AC=D2=AA=C7=F3=C3=FC=C1=EE=B5=C4=C4=A9=CE=B2=B2=BB=C4=
+=DC=D3=D0=C8=CE=BA=CE=B6=E0=D3=E0=B5=C4=BF=D5=B8=F1=BB=F2=CE=C4=B1=
+=BE=A1=A3=C8=E7=B9=FB=D4=DA=D2=BB=D0=D0=D6=D0=D3=D0=B6=E0=B8=F6=C3=
+=FC=C1=EE=A3=AC=D2=AA=D3=C3=B7=D6=BA=C5=B7=D6=B8=F4=A1=A3=D6=B4=D0=
+=D0=BD=C5=B1=BE=CA=B1=A3=ACsed=CF=C8=BD=AB=CA=E4=C8=EB=CE=C4=BC=FE=
+=D6=D0=B5=DA=D2=BB=D0=D0=B8=B4=D6=C6=B5=BD=C4=A3=CA=BD=BB=BA=B3=E5=
+=C7=F8=A3=AC=C8=BB=BA=F3=B6=D4=C6=E4=D6=B4=D0=D0=BD=C5=B1=BE=D6=D0=
+=CB=F9=D3=D0=B5=C4=C3=FC=C1=EE=A1=A3=C3=BF=D2=BB=D0=D0=B4=A6=C0=ED=
+=CD=EA=B1=CF=BA=F3=A3=ACsed=D4=D9=B8=B4=D6=C6=CE=C4=BC=FE=D6=D0=CF=
+=C2=D2=BB=D0=D0=B5=BD=C4=A3=CA=BD=BB=BA=B3=E5=C7=F8=A3=AC=B6=D4=C6=
+=E4=D6=B4=D0=D0=BD=C5=B1=BE=D6=D0=CB=F9=D3=D0=C3=FC=C1=EE=A1=A3=CA=
+=B9=D3=C3sed=BD=C5=B1=BE=CA=B1=A3=AC=B2=BB=D4=D9=D3=C3=D2=FD=BA=C5=
+=C0=B4=C8=B7=B1=A3sed=C3=FC=C1=EE=B2=BB=B1=BBshell=BD=E2=CA=CD=A1=
+=A3=C0=FD=C8=E7sed=BD=C5=B1=BEscript=A3=BA</p>=0A<table border=3D=
+"1" width=3D"95%">=0A<tbody>=0A<tr>=0A<td>=0A<p style=3D"LINE-HEI=
+GHT: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code><sp=
+an style=3D"COLOR: #ff9900">#handle datafile</span><br>3i\<br><sp=
+an style=3D"COLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc=
+">~</span><span style=3D"COLOR: #0000cc">~</span><span style=3D"C=
+OLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc">~</span><sp=
+an style=3D"COLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc=
+">~</span><span style=3D"COLOR: #0000cc">~</span><span style=3D"C=
+OLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc">~</span><sp=
+an style=3D"COLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc=
+">~</span><span style=3D"COLOR: #0000cc">~</span><span style=3D"C=
+OLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc">~</span><sp=
+an style=3D"COLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc=
+">~</span><span style=3D"COLOR: #0000cc">~</span><span style=3D"C=
+OLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc">~</span><sp=
+an style=3D"COLOR: #0000cc">~</span><br>3<span style=3D"COLOR: #0=
+000cc">,</span><span style=3D"COLOR: #0000ff">$</span><span style=
+=3D"COLOR: #008080">s</span><span style=3D"COLOR: #0000cc">/</spa=
+n><span style=3D"COLOR: #0000cc">\</span><span style=3D"COLOR: #0=
+000cc">(</span>hrwang\<span style=3D"COLOR: #0000cc">)</span> =0A=
+is</code><code>&nbsp;<wbr>\<span style=3D"COLOR: #0000cc">(</span=
+>mjfan\<span style=3D"COLOR: #0000cc">)</span><span style=3D"COLO=
+R: #0000cc">/</span><span style=3D"COLOR: #0000cc">\</span>2 is \=
+1<span style=3D"COLOR: #0000cc">/</span></code><code><br><span st=
+yle=3D"COLOR: #0000ff">$</span><span style=3D"COLOR: #008080">a</=
+span><span style=3D"COLOR: #008080">\</span><br>We will =0Alove e=
+achother <span style=3D"COLOR: #0000ff">for</span>ever=A3=A1=A3=A1=
+</code><code>&nbsp;<wbr></code></span></p>&nbsp;<wbr></td></tr></=
+tbody></table>=0A<p>&nbsp;<wbr></p>=0A<p style=3D"LINE-HEIGHT: 15=
+0%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code><span styl=
+e=3D"COLOR: #ff9900">#sed -f script datafile</span><br><span styl=
+e=3D"COLOR: #0000ff">My</span> name is =0Ahrwang<br>Your name is=20=
+mjfan<br><span style=3D"COLOR: #0000cc">~</span><span style=3D"CO=
+LOR: #0000cc">~</span><span style=3D"COLOR: #0000cc">~</span><spa=
+n style=3D"COLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc"=
+>~</span><span style=3D"COLOR: #0000cc">~</span><span style=3D"CO=
+LOR: #0000cc">~</span><span style=3D"COLOR: #0000cc">~</span><spa=
+n style=3D"COLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc"=
+>~</span><span style=3D"COLOR: #0000cc">~</span><span style=3D"CO=
+LOR: #0000cc">~</span><span style=3D"COLOR: #0000cc">~</span><spa=
+n style=3D"COLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc"=
+>~</span><span style=3D"COLOR: #0000cc">~</span><span style=3D"CO=
+LOR: #0000cc">~</span><span style=3D"COLOR: #0000cc">~</span><spa=
+n style=3D"COLOR: #0000cc">~</span><span style=3D"COLOR: #0000cc"=
+>~</span><span style=3D"COLOR: #0000cc">~</span><br>mjfan is =0Ah=
+rwang<span style=3D"COLOR: #ff00ff"><span style=3D"COLOR: #000000=
+">'s</span> <span style=3D"COLOR: #000000">husband</span>.&nbsp;<=
+wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;<wbr>&nbsp;=
+<wbr>&nbsp;<wbr>&nbsp;<wbr> =0A=A3=A3=C0=B2=C0=B2=A1=AB=A1=AB=A1=AB=
+<br><span style=3D"COLOR: #000000">mjfan is hrwang'</span></span>=
+s wife<span style=3D"COLOR: #0000cc">.</span><br>We =0Awill love=20=
+eachother forever=A3=A1=A3=A1</code></span></p>=0A<p style=3D"LIN=
+E-HEIGHT: 150%; MARGIN: 5px"><br></p>=0A<p style=3D"LINE-HEIGHT:=20=
+150%; MARGIN: 5px"><b><span style=3D"FONT-SIZE: 10pt"><code>sed -=
+e =0A=B6=E0=B4=A6=C0=ED=C3=FC=C1=EE=B5=C4=CA=B5=C0=FD=A3=BA</code=
+></span></b></p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><b=
+><span style=3D"FONT-SIZE: 10pt"><code>=CB=B5=C3=F7=A3=BA</code><=
+/span></b><b><span style=3D"FONT-SIZE: 10pt"><code>=B4=A6=C0=ED=D6=
+=B8=B6=A8=D0=D0=B7=B6=CE=A7=B5=C4=CE=C4=BC=FE=C4=DA=C8=DD=A3=AC=C0=
+=FD=C8=E7=A3=BA</code></span></b></p>=0A<div>=0A<div>#&nbsp;<wbr>=
+=D6=BB=B2=E9=BF=B4=CE=C4=BC=FE=B5=C4=B5=DA100=D0=D0=B5=BD=B5=DA20=
+0=D0=D0<br>sed&nbsp;<wbr>-n&nbsp;<wbr>'100,200p'&nbsp;<wbr>mysql_=
+slow_query.log</div></div>=0A<p>&nbsp;<wbr>=B5=D8=D6=B7=CA=C7=B6=BA=
+=BA=C5=B7=D6=B8=F4=B5=C4=A3=AC=C4=C7=C3=B4=D0=E8=D2=AA=B4=A6=C0=ED=
+=B5=C4=B5=D8=D6=B7=CA=C7=D5=E2=C1=BD=D0=D0=D6=AE=BC=E4=B5=C4=B7=B6=
+=CE=A7=A3=A8=B0=FC=C0=A8=D5=E2=C1=BD=D0=D0=D4=DA=C4=DA=A3=A9=A1=A3=
+<b>=B7=B6=CE=A7=BF=C9=D2=D4=D3=C3=CA=FD=D7=D6=A1=A2=D5=FD=D4=F2=B1=
+=ED=B4=EF=CA=BD=A1=A2=BB=F2=B6=FE=D5=DF=B5=C4=D7=E9=BA=CF=B1=ED=CA=
+=BE=A1=A3=C0=FD=C8=E7=A3=BA</b></p>=0A<p style=3D"LINE-HEIGHT: 15=
+0%; MARGIN: 5px">&nbsp;<wbr></p>=0A<p style=3D"LINE-HEIGHT: 150%;=
+ MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code>sed -e '/CREA=
+TECRE =0Acreate/,/CREATECRE OK&nbsp;<wbr> CREATE/!d' TC_logs.txt=20=
+=0A&gt;/home/akang/shell_practice/TC_log_sed_e.txt&nbsp;<wbr> =0A=
+//=BA=AC=D3=D0</code></span><span style=3D"FONT-SIZE: 10pt"><code=
+><span style=3D"FONT-SIZE: 10pt">CREATECRE =0Acreate=B5=BD</span>=
+</code></span><span style=3D"FONT-SIZE: 10pt"><code><span style=3D=
+"FONT-SIZE: 10pt">CREATECRE OK&nbsp;<wbr> =0ACREATE=B5=C4=D0=D0=B1=
+=A3=C1=F4=A3=AC=C6=E4=CB=FB=B5=C4=C9=BE=B3=FD</span></code></span=
+></p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D=
+"FONT-SIZE: 10pt"><code>sed -e '/CREATECRE =0Acreate/,/CREATECRE=20=
+OK&nbsp;<wbr> CREATE/!d' TC_logs.txt | wc =0A-l</code></span></p>=
+=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D"FON=
+T-SIZE: 10pt"><code><br></code></span></p>=0A<p style=3D"LINE-HEI=
+GHT: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code>[ro=
+ot@akang =0Ashell_practice]# cat TC_logs.txt<br>CREATECRE create<=
+br><br>REATECRE =0Acreate<br>asd<br>123<br>asd<br>f<br>asd<br>CRE=
+ATECRE OK&nbsp;<wbr> CREAT<br>CREATECRE =0AOK&nbsp;<wbr> CREATE<b=
+r>567<br>678<br>asd<br>vbn<br>[root@akang =0Ashell_practice]#</co=
+de></span></p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><spa=
+n style=3D"FONT-SIZE: 10pt"><code><br></code></span></p>=0A<p sty=
+le=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE: 1=
+0pt"><code>[root@akang =0Ashell_practice]# cat TC_log_sed_e.txt<b=
+r>CREATECRE create<br><br>REATECRE =0Acreate<br>asd<br>123<br>asd=
+<br>f<br>asd<br>CREATECRE OK&nbsp;<wbr> CREAT<br>CREATECRE =0AOK&=
+nbsp;<wbr> CREATE<br>[root@akang shell_practice]#</code></span></=
+p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px"><span style=3D"F=
+ONT-SIZE: 10pt"><code><b>=C6=A5=C5=E4=D5=FB=D0=D0</b></code></spa=
+n><span style=3D"FONT-SIZE: 10pt"><code>grep -i =0A"<b>^</b>=D0=D0=
+=C4=DA=C8=DD<b>$</b>"</code></span></p>=0A<p style=3D"LINE-HEIGHT=
+: 150%; MARGIN: 5px"><span style=3D"FONT-SIZE: 10pt"><code>[root@=
+akang =0Ashell_practice]# grep -i "<b>^</b>CREATECRE OK&nbsp;<wbr=
+> CREAT<b>$</b>" =0ATC_logs.txt<br>CREATECRE OK&nbsp;<wbr> CREA<b=
+r></code></span></p>=0A<p style=3D"LINE-HEIGHT: 150%; MARGIN: 5px=
+"><br><div style=3D"color:gray"><small>=C0=B4=D4=B4=A3=BA&nbsp;&l=
+t;<a href=3D"http://blog.sina.com.cn/s/blog_a39910330101ieh2.html=
+">lnux&nbsp;&nbsp;sed&nbsp;=CC=E6=BB=BB=A3=A8=D5=FB=D0=D0=CC=E6=BB=
+=BB=A3=AC=B2=BF=B7=D6=CC=E6=BB=BB=A3=A9=A1=A2=C9=BE=B3=FDdelete=A1=
+=A2=D0=C2=D4=F6add=A1=A2=D1=A1=C8=A1_kk1986happy_=D0=C2=C0=CB=B2=A9=
+=BF=CD</a><small>&gt;</small></small></div><small><small>&nbsp;</=
+small></small><span style=3D"FONT-SIZE: 10pt"><code><br></code></=
+span></p></div></div></div></div></div>=0A=0A=0A=0A</body></html>=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000204484.604--
+
+------=_Next_Part_0000613452.847--
+

@@ -1,0 +1,2717 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?aGFkb29wyP249sXk1sPOxLz+tcSyzsr9uqzS5cu1w/c=?=
+Date: Date: Fri, 23 Jul 2021 05:53:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000985125.646"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000985125.646
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000328375.276"
+
+
+------=_Next_Part_0000328375.276
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000328375.276
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=3D=
+"IE=3D8">=0A=0A=0A<title>hadoop=C8=FD=B8=F6=C5=E4=D6=C3=CE=C4=BC=FE=
+=B5=C4=B2=CE=CA=FD=BA=AC=D2=E5=CB=B5=C3=F7</title>=0A=0A=0A=0A=0A=
+=0A=0A<style id=3D"wiz_custom_css">html, body {font-size: 12pt;}b=
+ody {font-family: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=ED=D1=
+=C5=BA=DA', 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-ser=
+if;line-height: 1.6;margin: 0 auto;padding: 20px 16px;padding: 1.=
+25rem 1rem;}h1, h2, h3, h4, h5, h6 {margin:20px 0 10px;margin:1.2=
+5rem 0 0.625rem;padding: 0;font-weight: bold;}h1 {font-size:20pt;=
+font-size:1.67rem;}h2 {font-size:18pt;font-size:1.5rem;}h3 {font-=
+size:15pt;font-size:1.25rem;}h4 {font-size:14pt;font-size:1.17rem=
+;}h5 {font-size:12pt;font-size:1rem;}h6 {font-size:12pt;font-size=
+:1rem;color: #777777;margin: 1rem 0;}div, p, ul, ol, dl, li {marg=
+in:0;}blockquote, table, pre, code {margin:8px 0;}ul, ol {padding=
+-left:32px;padding-left:2rem;}ol.wiz-list-level1 > li {list-style=
+-type:decimal;}ol.wiz-list-level2 > li {list-style-type:lower-lat=
+in;}ol.wiz-list-level3 > li {list-style-type:lower-roman;}blockqu=
+ote {padding:0 12px;padding:0 0.75rem;}blockquote > :first-child=20=
+{margin-top:0;}blockquote > :last-child {margin-bottom:0;}img {bo=
+rder:0;max-width:100%;height:auto !important;margin:2px 0;}table=20=
+{border-collapse:collapse;border:1px solid #bbbbbb;}td, th {paddi=
+ng:4px 8px;border-collapse:collapse;border:1px solid #bbbbbb;min-=
+height:28px;word-break:break-all;box-sizing: border-box;}.wiz-hid=
+e {display:none !important;}</style></head>=0A=0A<body style clas=
+s spellcheck=3D"false"><h1><font face=3D"Arial"><span style=3D"fo=
+nt-size: 0.987rem; line-height: 26.3158px;">hadoop=C8=FD=B8=F6=C5=
+=E4=D6=C3=CE=C4=BC=FE=B5=C4=B2=CE=CA=FD=BA=AC=D2=E5=CB=B5=C3=F7</=
+span></font></h1><h1><span style=3D"font-family: Arial; font-size=
+: 1rem;">1</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <span style=
+=3D"font-size: 1rem;">=0A=BB=F1=C8=A1=C4=AC=C8=CF=C5=E4=D6=C3</sp=
+an></h1><p><span style=3D"font-size: 1rem;">=C5=E4=D6=C3<span sty=
+le=3D"font-family:Times New Roman">hadoop</span>=A3=AC=D6=F7=D2=AA=
+=CA=C7=C5=E4=D6=C3<span style=3D"font-family:Times New Roman">cor=
+e-site.xml,hdfs-site.xml,mapred-site.xml</span>=C8=FD=B8=F6=C5=E4=
+=D6=C3=CE=C4=BC=FE=A3=AC=C4=AC=C8=CF=CF=C2=C0=B4=A3=AC=D5=E2=D0=A9=
+=C5=E4=D6=C3=CE=C4=BC=FE=B6=BC=CA=C7=BF=D5=B5=C4=A3=AC=CB=F9=D2=D4=
+=BA=DC=C4=D1=D6=AA=B5=C0=D5=E2=D0=A9=C5=E4=D6=C3=CE=C4=BC=FE=D3=D0=
+=C4=C4=D0=A9=C5=E4=D6=C3=BF=C9=D2=D4=C9=FA=D0=A7=A3=AC=C9=CF=CD=F8=
+=D5=D2=B5=C4=C5=E4=D6=C3=BF=C9=C4=DC=D2=F2=CE=AA=B8=F7=B8=F6<span=
+ style=3D"font-family:Times New Roman">hadoop</span>=B0=E6=B1=BE=B2=
+=BB=CD=AC=A3=AC=B5=BC=D6=C2=CE=DE=B7=A8=C9=FA=D0=A7=A1=A3=E4=AF=C0=
+=C0=B8=FC=B6=E0=B5=C4=C5=E4=D6=C3=A3=AC=D3=D0=C1=BD=B8=F6=B7=BD=B7=
+=A8<span style=3D"font-family:Times New Roman">:</span></span></p=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">1.</span>=D1=A1=D4=F1=CF=E0=D3=A6=B0=E6=B1=BE=B5=C4<span styl=
+e=3D"font-family:Times New Roman">hadoop,</span>=CF=C2=D4=D8=BD=E2=
+=D1=B9=BA=F3=A3=AC=CB=D1=CB=F7<span style=3D"font-family:Times Ne=
+w Roman">*.xml,</span>=D5=D2=B5=BD<span style=3D"font-family:Time=
+s New Roman">core-default.xml,hdfs-default.xml,mapred-default.xml=
+,</span>=D5=E2=D0=A9=BE=CD=CA=C7=C4=AC=C8=CF=C5=E4=D6=C3<span sty=
+le=3D"font-family:Times New Roman">,</span>=BF=C9=D2=D4=B2=CE=BF=BC=
+=D5=E2=D0=A9=C5=E4=D6=C3=B5=C4=CB=B5=C3=F7=BA=CD<span style=3D"fo=
+nt-family:Times New Roman">key</span>=A3=AC=C5=E4=D6=C3<span styl=
+e=3D"font-family:Times New Roman">hadoop</span>=BC=AF=C8=BA=A1=A3=
+</p><p><span style=3D"font-family: 'Times New Roman'; font-size:=20=
+1rem;">2.</span>=E4=AF=C0=C0<span style=3D"font-family:Times New=20=
+Roman">apache</span>=B9=D9=CD=F8<span style=3D"font-family:Times=20=
+New Roman">,</span>=C8=FD=B8=F6=C5=E4=D6=C3=CE=C4=BC=FE=C1=B4=BD=D3=
+=C8=E7=CF=C2<span style=3D"font-family:Times New Roman">:</span><=
+/p><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">&nbsp;&nbsp; http://hadoop.apache.org/common/docs/current/c=
+ore-default.html</span></p><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">&nbsp;&nbsp; http://hadoop.apache.o=
+rg/common/docs/current/hdfs-default.html</span></p><p><span style=
+=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;&nbsp=
+; http://hadoop.apache.org/common/docs/current/mapred-default.htm=
+l</span></p><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">&nbsp;&nbsp; </span>=D5=E2=C0=EF=CA=C7=E4=AF=C0=C0=
+<span style=3D"font-family:Times New Roman">hadoop</span>=B5=B1=C7=
+=B0=B0=E6=B1=BE=BA=C5=B5=C4=C4=AC=C8=CF=C5=E4=D6=C3=CE=C4=BC=FE=A3=
+=AC=C6=E4=CB=FB=B0=E6=B1=BE=BA=C5=A3=AC=D2=AA=C1=ED=CD=E2=C8=A5=B9=
+=D9=CD=F8=D5=D2=A1=A3=C6=E4=D6=D0=B5=DA=D2=BB=B8=F6=B7=BD=B7=A8=D5=
+=D2=B5=BD=C4=AC=C8=CF=B5=C4=C5=E4=D6=C3=CA=C7=D7=EE=BA=C3=B5=C4=A3=
+=AC=D2=F2=CE=AA=C3=BF=B8=F6=CA=F4=D0=D4=B6=BC=D3=D0=CB=B5=C3=F7=A3=
+=AC=BF=C9=D2=D4=D6=B1=BD=D3=CA=B9=D3=C3=A1=A3=C1=ED=CD=E2=A3=AC<s=
+pan style=3D"font-family:Times New Roman">core-site.xml</span>=CA=
+=C7=C8=AB=BE=D6=C5=E4=D6=C3<span style=3D"font-family:Times New R=
+oman">,hdfs-site.xml</span>=BA=CD<span style=3D"font-family:Times=
+ New Roman">mapred-site.xml</span>=B7=D6=B1=F0=CA=C7<span style=3D=
+"font-family:Times New Roman">hdfs</span>=BA=CD<span style=3D"fon=
+t-family:Times New Roman">mapred</span>=B5=C4=BE=D6=B2=BF=C5=E4=D6=
+=C3=A1=A3</p><h1><a name=3D"t1"></a><span style=3D"font-family: A=
+rial; font-size: 1rem;">2</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; <span style=3D"font-size: 1rem;">=0A=B3=A3=D3=C3=B5=C4=B6=CB=BF=
+=DA=C5=E4=D6=C3</span></h1><h2><a name=3D"t2"></a><em><span style=
+=3D"font-family: Arial; font-size: 1rem;">2.1</span>&nbsp; <span=20=
+style=3D"font-family: Arial; font-size: 1rem;">=0AHDFS</span>=B6=CB=
+=BF=DA</em></h2><p><span style=3D"font-family: 'Times New Roman';=
+ font-size: 1rem;">&nbsp;</span></p><div class=3D"wiz-table-conta=
+iner" style=3D"position: relative; padding: 0px;"><div class=3D"w=
+iz-table-body"><table border=3D"1"><tbody><tr><td valign=3D"top">=
+<p><span style=3D"font-size: 1rem;">=B2=CE=CA=FD</span></p></td><=
+td valign=3D"top"><p><span style=3D"font-size: 1rem;">=C3=E8=CA=F6=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1=
+rem;">=C4=AC=C8=CF</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-size: 1rem;">=C5=E4=D6=C3=CE=C4=BC=FE</span></p></td><=
+td valign=3D"top"><p><span style=3D"font-size: 1rem;">=C0=FD=D7=D3=
+=D6=B5</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">fs.default.nam=
+e namenode</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">namenode RPC</spa=
+n>=BD=BB=BB=A5=B6=CB=BF=DA</p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">8020</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">core-site.xml</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">hdfs://master:8020/</span></p></td></tr><tr><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">dfs.http.address&nbsp; </span></p></td><td v=
+align=3D"top"><p><span style=3D"font-family: 'Times New Roman'; f=
+ont-size: 1rem;">NameNode web</span>=B9=DC=C0=ED=B6=CB=BF=DA</p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">50070</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">hdfs- site.xml</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">0.0.0.0:5=
+0070 </span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">dfs.datanode.a=
+ddress</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">datanode</span>=A1=A1=
+=BF=D8=D6=C6=B6=CB=BF=DA</p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">50010&nbsp=
+; </span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">hdfs -site.xml&nbsp; </sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">0.0.0.0:50010</span></p></td></=
+tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">dfs.datanode.ipc.address</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">datanode</span>=B5=C4<span style=3D"fon=
+t-family:Times New Roman">RPC</span>=B7=FE=CE=F1=C6=F7=B5=D8=D6=B7=
+=BA=CD=B6=CB=BF=DA</p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">50020</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">hdfs-site.xml</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">0.0.0.0:50020</span></p></td></tr><tr><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">dfs.datanode.http.address</span></p></td><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">datanode</span>=B5=C4<span style=3D"font-family:Times New R=
+oman">HTTP</span>=B7=FE=CE=F1=C6=F7=BA=CD=B6=CB=BF=DA</p></td><td=
+ valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=
+ font-size: 1rem;">50075 </span></p></td><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">hd=
+fs-site.xml&nbsp; </span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">0.0.0.0:5=
+0075</span></p></td></tr></tbody></table></div></div><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</s=
+pan></p><h2><a name=3D"t3"></a><em><span style=3D"font-family: Ar=
+ial; font-size: 1rem;">2.2</span>&nbsp; <span style=3D"font-famil=
+y: Arial; font-size: 1rem;">=0AMR</span>=B6=CB=BF=DA</em></h2><di=
+v class=3D"wiz-table-container" style=3D"position: relative; padd=
+ing: 0px;"><div class=3D"wiz-table-body"><table border=3D"1"><tbo=
+dy><tr><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=B2=
+=CE=CA=FD</span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-size: 1rem;">=C3=E8=CA=F6</span></p></td><td valign=3D"top"><p>=
+<span style=3D"font-size: 1rem;">=C4=AC=C8=CF</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-size: 1rem;">=C5=E4=D6=C3=CE=
+=C4=BC=FE</span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-size: 1rem;">=C0=FD=D7=D3=D6=B5</span></p></td></tr><tr><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">mapred.job.tracker</span></p></td><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">job-tracker</span>=BD=BB=BB=A5=B6=CB=BF=DA<span style=3D"fo=
+nt-family:Times New Roman">&nbsp;</span></p></td><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">8021 </span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">mapred-site.xml<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">hdfs://master:8021/</span></=
+p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">job</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">tracker</span>=B5=C4<span style=3D"font-family:Time=
+s New Roman">web</span>=B9=DC=C0=ED=B6=CB=BF=DA</p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">50030</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapred-si=
+te.xml</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">0.0.0.0:50030</span><=
+/p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">mapred.task.tracker.http.a=
+ddress</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">task-tracker</span>=B5=
+=C4<span style=3D"font-family:Times New Roman">HTTP</span>=B6=CB=BF=
+=DA</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">50060</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">mapred-site.xml</span></p></td><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+0.0.0.0:50060</span></p></td></tr></tbody></table></div></div><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+&nbsp;</span></p><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">&nbsp;</span></p><h2><a name=3D"t4"></a><em><=
+span style=3D"font-family: Arial; font-size: 1rem;">2.3</span>&nb=
+sp; <span style=3D"font-size: 1rem;">=0A=C6=E4=CB=FC=B6=CB=BF=DA<=
+/span></em></h2><div class=3D"wiz-table-container" style=3D"posit=
+ion: relative; padding: 0px;"><div class=3D"wiz-table-body"><tabl=
+e border=3D"1"><tbody><tr><td valign=3D"top"><p><span style=3D"fo=
+nt-size: 1rem;">=B2=CE=CA=FD</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-size: 1rem;">=C3=E8=CA=F6</span></p></td><td=
+ valign=3D"top"><p><span style=3D"font-size: 1rem;">=C4=AC=C8=CF<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1r=
+em;">=C5=E4=D6=C3=CE=C4=BC=FE</span></p></td><td valign=3D"top"><=
+p><span style=3D"font-size: 1rem;">=C0=FD=D7=D3=D6=B5</span></p><=
+/td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'T=
+imes New Roman'; font-size: 1rem;">dfs.secondary.http.address</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">secondary NameNode web</span>=B9=
+=DC=C0=ED=B6=CB=BF=DA</p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">50090</span></=
+p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">hdfs-site.xml</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">0.0.0.0:50090</span></p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">&nbsp;</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span><=
+/p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">&nbsp;</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nb=
+sp;</span></p></td><td valign=3D"top"><p><span style=3D"font-fami=
+ly: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">&nbsp;</span></p></td></tr></tbody></table></=
+div></div><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">&nbsp;</span></p><h1><a name=3D"t5"></a><span style=3D=
+"font-family: Arial; font-size: 1rem;">3</span>&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; <span style=3D"font-size: 1rem;">=0A=C8=FD=B8=F6=
+=C8=B1=CA=A1=C5=E4=D6=C3=B2=CE=BF=BC=CE=C4=BC=FE=CB=B5=C3=F7</spa=
+n></h1><h2><a name=3D"t6"></a><em><span style=3D"font-family: Ari=
+al; font-size: 1rem;">3.1</span>&nbsp; <span style=3D"font-family=
+: Arial; font-size: 1rem;">=0Acore-default.html</span></em></h2><=
+p></p><div class=3D"wiz-table-container" style=3D"position: relat=
+ive; padding: 0px;"><div class=3D"wiz-table-body"><table border=3D=
+"1" width=3D"631"><tbody><tr><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=D0=F2=BA=C5</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-size: 1rem;">=B2=CE=CA=FD=C3=FB</span></p=
+></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=B2=CE=
+=CA=FD=D6=B5</span></p></td><td valign=3D"top"><p><span style=3D"=
+font-size: 1rem;">=B2=CE=CA=FD=CB=B5=C3=F7</span></p></td></tr><t=
+r><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">1</span></p></td><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">ha=
+doop.tmp.dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">/tmp/hadoop-${user=
+.name}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td=
+><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=C1=D9=CA=
+=B1=C4=BF=C2=BC=C9=E8=B6=A8</span></p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">2</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">hadoop.native.lib=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">true&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=CA=B9=
+=D3=C3=B1=BE=B5=D8<span style=3D"font-family:Times New Roman">had=
+oop</span>=BF=E2=B1=EA=CA=B6=A1=A3</span></p></td></tr><tr><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">3</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">hadoop.htt=
+p.filter.initializers&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">http</span>=B7=FE=
+=CE=F1=C6=F7=B9=FD=C2=CB=C1=B4=C9=E8=D6=C3<span style=3D"font-fam=
+ily:Times New Roman">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td></tr><tr=
+><td valign=3D"top"><p><span style=3D"font-family: 'Times New Rom=
+an'; font-size: 1rem;">4</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">had=
+oop.security.group.mapping&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</s=
+pan></p></td><td valign=3D"top"><p><span style=3D"font-family: 'T=
+imes New Roman'; font-size: 1rem;">org.apache.hadoop.security.She=
+llBasedUnixGroupsMapping</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-size: 1rem;">=D7=E9=C4=DA=D3=C3=BB=A7=B5=C4=C1=D0=
+=B1=ED=B5=C4=C0=E0=C9=E8=B6=A8</span></p></td></tr><tr><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">5</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">hadoop.securit=
+y.authorization&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">false&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=B7=
+=FE=CE=F1=B6=CB=C8=CF=D6=A4=BF=AA=C6=F4</span></p></td></tr><tr><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">6</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">hadoo=
+p.security.authentication&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p=
+></td><td valign=3D"top"><p><span style=3D"font-family: 'Times Ne=
+w Roman'; font-size: 1rem;">simple &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=CE=
+=DE=C8=CF=D6=A4=BB=F2=C8=CF=D6=A4=C9=E8=D6=C3</span></p></td></tr=
+><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">7</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;"=
+>hadoop.security.token.service.use_ip</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">true&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-size: 1rem;">=CA=C7=B7=F1=
+=BF=AA=C6=F4=CA=B9=D3=C3<span style=3D"font-family:Times New Roma=
+n">IP</span>=B5=D8=D6=B7=D7=F7=CE=AA=C1=AC=BD=D3=B5=C4=BF=AA=B9=D8=
+</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">8</span></p></td><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">hadoop.logfile.size&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">10000000&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</s=
+pan></p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem=
+;">=C8=D5=D6=BE=CE=C4=BC=FE=D7=EE=B4=F3=CE=AA<span style=3D"font-=
+family:Times New Roman">10M</span></span></p></td></tr><tr><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">9</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">hadoop.log=
+file.count</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">10&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"top=
+"><p><span style=3D"font-size: 1rem;">=C8=D5=D6=BE=CE=C4=BC=FE=CA=
+=FD=C1=BF=CE=AA<span style=3D"font-family:Times New Roman">10</sp=
+an>=B8=F6</span></p></td></tr><tr><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">10</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">io.file.buffer.size</span></p></td=
+><td valign=3D"top"><p><span style=3D"font-family: 'Times New Rom=
+an'; font-size: 1rem;">4096 </span></p></td><td valign=3D"top"><p=
+><span style=3D"font-size: 1rem;">=C1=F7=CE=C4=BC=FE=B5=C4=BB=BA=B3=
+=E5=C7=F8=CE=AA<span style=3D"font-family:Times New Roman">4K</sp=
+an></span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">11</span></p></=
+td><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">io.bytes.per.checksum</span></p></td><td=
+ valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=
+ font-size: 1rem;">512&nbsp; </span></p></td><td valign=3D"top"><=
+p><span style=3D"font-size: 1rem;">=D0=A3=D1=E9=CE=BB=CA=FD=CE=AA=
+<span style=3D"font-family:Times New Roman">512</span>=D7=D6=BD=DA=
+</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">12</span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">io.skip.checksum.errors</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">false</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-size: 1rem;">=D0=A3=D1=E9=B3=F6=B4=ED=BA=F3=CA=C7=
+=C5=D7=B3=F6=D2=EC=B3=A3=BB=B9=CA=C7=C2=D4=B9=FD=B1=EA=CA=B6=A1=A3=
+<span style=3D"font-family:Times New Roman">True</span>=D4=F2=C2=D4=
+=B9=FD=A1=A3</span></p></td></tr><tr><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">13</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">io.compression.codecs</span></p=
+></td><td valign=3D"top"><p><span style=3D"font-family: 'Times Ne=
+w Roman'; font-size: 1rem;">org.apache.hadoop.io.compress.Default=
+Codec,</span></p><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">org.apache.hadoop.io.compress.GzipCodec,</spa=
+n></p><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">org.apache.hadoop.io.compress.BZip2Codec,</span></p><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">o=
+rg.apache.hadoop.io.compress.SnappyCodec</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-size: 1rem;">=D1=B9=CB=F5=BA=CD=BD=
+=E2=D1=B9=B5=C4=B7=BD=CA=BD=C9=E8=D6=C3</span></p></td></tr><tr><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">14</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">io.s=
+erializations</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">org.apache.had=
+oop.io.serializer.WritableSerialization</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-size: 1rem;">=D0=F2=C0=FD=BB=AF=BA=
+=CD=B7=B4=D0=F2=C1=D0=BB=AF=B5=C4=C0=E0=C9=E8=B6=A8</span></p></t=
+d></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">15</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">fs.default.name</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">file=
+:///&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D"font=
+-size: 1rem;">=C8=B1=CA=A1=B5=C4=CE=C4=BC=FE<span style=3D"font-f=
+amily:Times New Roman">URI</span>=B1=EA=CA=B6=C9=E8=B6=A8=A1=A3</=
+span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">16</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">fs.trash.interval</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></=
+p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=CE=
+=C4=BC=FE=B7=CF=C6=FA=B1=EA=CA=B6=C9=E8=B6=A8=A3=AC<span style=3D=
+"font-family:Times New Roman">0</span>=CE=AA=BD=FB=D6=B9=B4=CB=B9=
+=A6=C4=DC</span></p></td></tr><tr><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">17</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">fs.file.impl</span></p></td><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">org.apache.hadoop.fs.LocalFileSystem&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-size: 1rem;">=B1=BE=B5=D8=CE=C4=BC=FE=B2=D9=D7=F7=C0=E0=
+=C9=E8=D6=C3</span></p></td></tr><tr><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">18</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">fs.hdfs.impl</span></p></td><td=
+ valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=
+ font-size: 1rem;">org.apache.hadoop.hdfs.DistributedFileSystem&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td=
+ valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=
+ font-size: 1rem;">HDFS</span>=CE=C4=BC=FE=B2=D9=D7=F7=C0=E0=C9=E8=
+=D6=C3</p></td></tr><tr><td valign=3D"top"><p><span style=3D"font=
+-family: 'Times New Roman'; font-size: 1rem;">19</span></p></td><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">fs.s3.impl</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">org.apache.hadoop.fs.s3.S3FileSystem&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">S3</span>=CE=C4=BC=FE=
+=B2=D9=D7=F7=C0=E0=C9=E8=D6=C3</p></td></tr><tr><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">20</span></p></td><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">fs.s3n.impl&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;</span></p></td><td valign=3D"top"><p><span style=3D"font-fam=
+ily: 'Times New Roman'; font-size: 1rem;">org.apache.hadoop.fs.s3=
+native.NativeS3FileSystem</span></p></td><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">S3=
+</span>=CE=C4=BC=FE=B1=BE=B5=D8=B2=D9=D7=F7=C0=E0=C9=E8=D6=C3</p>=
+</td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">21</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">fs.kfs.impl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">org.apache.hadoop.fs.kfs.KosmosFileSystem</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">KFS</span>=CE=C4=BC=FE=B2=D9=D7=F7=C0=E0=C9=E8=
+=D6=C3<span style=3D"font-family:Times New Roman">.&nbsp;</span><=
+/p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">22</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">fs.hftp.impl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">org.apache.hadoop.hdfs.HftpFileSystem</span></p></td><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">HTTP</span>=B7=BD=CA=BD=B2=D9=D7=F7=CE=C4=BC=FE=C9=
+=E8=D6=C3</p></td></tr><tr><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">23</span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">fs.hsftp.impl&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">org.apache.hadoop.hdfs.HsftpFileSystem</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">HTTPS</span>=B7=BD=CA=BD=B2=D9=D7=F7=CE=C4=BC=
+=FE=C9=E8=D6=C3</p></td></tr><tr><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">24</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">fs.webhdfs.impl&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-family: 'Times New Roman'; font-size:=20=
+1rem;">org.apache.hadoop.hdfs.web.WebHdfsFileSystem</span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">WEB</span>=B7=BD=CA=BD=B2=D9=D7=F7=CE=C4=BC=
+=FE=C0=E0=C9=E8=D6=C3</p></td></tr><tr><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">25</=
+span></p></td><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">fs.ftp.impl&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</spa=
+n></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">org.apache.hadoop.fs.ftp.FTPFile=
+System</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">FTP</span>=CE=C4=BC=FE=
+=B2=D9=D7=F7=C0=E0=C9=E8=D6=C3</p></td></tr><tr><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">26</span></p></td><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">fs.ramfs.impl&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span=
+></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Time=
+s New Roman'; font-size: 1rem;">org.apache.hadoop.fs.InMemoryFile=
+System</span></p></td><td valign=3D"top"><p><span style=3D"font-s=
+ize: 1rem;">=C4=DA=B4=E6=CE=C4=BC=FE=B2=D9=D7=F7=C0=E0=C9=E8=D6=C3=
+</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">27</span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">fs.har.impl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td=
+ valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=
+ font-size: 1rem;">org.apache.hadoop.fs.HarFileSystem</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=D1=B9=
+=CB=F5=CE=C4=BC=FE=B2=D9=D7=F7=C0=E0=C9=E8=D6=C3<span style=3D"fo=
+nt-family:Times New Roman">.</span></span></p></td></tr><tr><td v=
+align=3D"top"><p><span style=3D"font-family: 'Times New Roman'; f=
+ont-size: 1rem;">28</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">fs.har.i=
+mpl.disable.cache</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">true</span=
+></p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=
+=CA=C7=B7=F1=BB=BA=B4=E6<span style=3D"font-family:Times New Roma=
+n">har</span>=CE=C4=BC=FE=B5=C4=B1=EA=CA=B6=C9=E8=B6=A8</span></p=
+></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">29</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">fs.checkpoint.dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">${hadoop.tmp.dir}/dfs=
+/namesecondary</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=B1=B8=B7=DD=C3=FB=B3=C6=BD=DA=B5=E3=B5=C4=B4=E6=
+=B7=C5=C4=BF=C7=B0=C2=BC=C9=E8=D6=C3</span></p></td></tr><tr><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">30</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">fs.chec=
+kpoint.edits.dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td=
+ valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=
+ font-size: 1rem;">${fs.checkpoint.dir}</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-size: 1rem;">=B1=B8=B7=DD=C3=FB=B3=
+=C6=BD=DA=B5=E3=C8=D5=D6=BE=CE=C4=BC=FE=B5=C4=B4=E6=B7=C5=C4=BF=C7=
+=B0=C2=BC=C9=E8=D6=C3</span></p></td></tr><tr><td valign=3D"top">=
+<p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem=
+;">31</span></p></td><td valign=3D"top"><p><span style=3D"font-fa=
+mily: 'Times New Roman'; font-size: 1rem;">fs.checkpoint.period&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td=
+ valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=
+ font-size: 1rem;">3600</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-size: 1rem;">=B6=AF=CC=AC=BC=EC=B2=E9=B5=C4=BC=E4=
+=B8=F4=CA=B1=BC=E4=C9=E8=D6=C3</span></p></td></tr><tr><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">32</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">fs.checkpoint.=
+size&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">67108864</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-size: 1rem;">=C8=D5=D6=BE=CE=
+=C4=BC=FE=B4=F3=D0=A1=CE=AA<span style=3D"font-family:Times New R=
+oman">64M</span></span></p></td></tr><tr><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">33=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">fs.s3.block.size&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">67108864</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-size: 1rem;">=D0=B4<span style=
+=3D"font-family:Times New Roman">S3</span>=CE=C4=BC=FE=CF=B5=CD=B3=
+=B5=C4=BF=E9=B5=C4=B4=F3=D0=A1=CE=AA<span style=3D"font-family:Ti=
+mes New Roman">64M</span></span></p></td></tr><tr><td valign=3D"t=
+op"><p><span style=3D"font-family: 'Times New Roman'; font-size:=20=
+1rem;">34</span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">fs.s3.buffer.dir&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;</span></p></td><td valign=3D"top"><p><span style=3D"font-fa=
+mily: 'Times New Roman'; font-size: 1rem;">${hadoop.tmp.dir}/s3</=
+span></p></td><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">S3</span>=CE=C4=BC=FE=CA=FD=BE=
+=DD=B5=C4=B1=BE=B5=D8=B4=E6=B7=C5=C4=BF=C2=BC</p></td></tr><tr><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">35</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">fs.s3=
+.maxRetries&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">4</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">S3</span>=CE=C4=BC=FE=CA=FD=BE=DD=B5=
+=C4=B3=A5=CA=D4=B6=C1=D0=B4=B4=CE=CA=FD</p></td></tr><tr><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">36</span></p></td><td valign=3D"top"><p><span style=
+=3D"font-family: 'Times New Roman'; font-size: 1rem;">fs.s3.sleep=
+TimeSeconds&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">10</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">S3</s=
+pan>=CE=C4=BC=FE=B3=A5=CA=D4=B5=C4=BC=E4=B8=F4</p></td></tr><tr><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">37</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">loca=
+l.cache.size&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">10737418=
+240</span></p></td><td valign=3D"top"><p><span style=3D"font-size=
+: 1rem;">=BB=BA=B4=E6=B4=F3=D0=A1=C9=E8=D6=C3=CE=AA<span style=3D=
+"font-family:Times New Roman">10GB</span></span></p></td></tr><tr=
+><td valign=3D"top"><p><span style=3D"font-family: 'Times New Rom=
+an'; font-size: 1rem;">38</span></p></td><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">io=
+.seqfile.compress.blocksize</span></p></td><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+1000000</span></p></td><td valign=3D"top"><p><span style=3D"font-=
+size: 1rem;">=D1=B9=CB=F5=C1=F7=CA=BD=CE=C4=BC=FE=D6=D0=B5=C4=D7=EE=
+=D0=A1=BF=E9=CA=FD=CE=AA<span style=3D"font-family:Times New Roma=
+n">100</span>=CD=F2</span></p></td></tr><tr><td valign=3D"top"><p=
+><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;"=
+>39</span></p></td><td valign=3D"top"><p><span style=3D"font-fami=
+ly: 'Times New Roman'; font-size: 1rem;">io.seqfile.lazydecompres=
+s&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">true</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;=
+">=BF=E9=CA=C7=B7=F1=D0=E8=D2=AA=D1=B9=CB=F5=B1=EA=CA=B6=C9=E8=B6=
+=A8</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">40</span></p></=
+td><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">io.seqfile.sorter.recordlimit</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">1000000</span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-size: 1rem;">=C4=DA=B4=E6=D6=D0=C5=C5=D0=
+=F2=BC=C7=C2=BC=BF=E9=C0=E0=D7=EE=D0=A1=CE=AA<span style=3D"font-=
+family:Times New Roman">100</span>=CD=F2</span></p></td></tr><tr>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">41</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">io.=
+mapfile.bloom.size</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">1048576</=
+span></p></td><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">BloomMapFiler</span>=B9=FD=C2=
+=CB=C1=BF=CE=AA<span style=3D"font-family:Times New Roman">1M</sp=
+an></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-fa=
+mily: 'Times New Roman'; font-size: 1rem;">42</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">io.mapfile.bloom.error.rate</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">0.005</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbs=
+p;</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">43</span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">hadoop.util.hash.type</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">murmur</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-size: 1rem;">=C8=B1=C9=D9<span style=3D"font-fam=
+ily:Times New Roman">hash</span>=B7=BD=B7=A8=CE=AA<span style=3D"=
+font-family:Times New Roman">murmur</span></span></p></td></tr><t=
+r><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">44</span></p></td><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">i=
+pc.client.idlethreshold</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">4000=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1=
+rem;">=C1=AC=BD=D3=CA=FD=BE=DD=D7=EE=D0=A1=B7=A7=D6=B5=CE=AA<span=
+ style=3D"font-family:Times New Roman">4000&nbsp;</span></span></=
+p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">45</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">ipc.client.kill.max</span></p></td><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">10</span></p></td><td valign=3D"top"><p><span style=3D"font-=
+size: 1rem;">=D2=BB=B8=F6=BF=CD=BB=A7=B6=CB=C1=AC=BD=D3=CA=FD=D7=EE=
+=B4=F3=D6=B5=CE=AA<span style=3D"font-family:Times New Roman">10<=
+/span></span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">46</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">ipc.client.connection.maxidletime</span=
+></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Time=
+s New Roman'; font-size: 1rem;">10000</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-size: 1rem;">=B6=CF=BF=AA=D3=EB=B7=FE=
+=CE=F1=C6=F7=C1=AC=BD=D3=B5=C4=CA=B1=BC=E4=D7=EE=B4=F3=CE=AA<span=
+ style=3D"font-family:Times New Roman">10</span>=C3=EB</span></p>=
+</td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">47</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">ipc.client.connect.max.retries</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">10</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=BD=A8=C1=A2=D3=EB=B7=FE=CE=F1=C6=F7=C1=AC=BD=D3=
+=B5=C4=D6=D8=CA=D4=B4=CE=CA=FD=CE=AA<span style=3D"font-family:Ti=
+mes New Roman">10</span>=B4=CE</span></p></td></tr><tr><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">48</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">ipc.server.lis=
+ten.queue.size</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">128</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=BD=D3=
+=CA=D5=BF=CD=BB=A7=C1=AC=BD=D3=B5=C4=BC=E0=CC=FD=B6=D3=C0=FD=B5=C4=
+=B3=A4=B6=C8=CE=AA<span style=3D"font-family:Times New Roman">128=
+</span></span></p></td></tr><tr><td valign=3D"top"><p><span style=
+=3D"font-family: 'Times New Roman'; font-size: 1rem;">49</span></=
+p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">ipc.server.tcpnodelay</span></p></td=
+><td valign=3D"top"><p><span style=3D"font-family: 'Times New Rom=
+an'; font-size: 1rem;">false</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-size: 1rem;">=BF=AA=C6=F4=BB=F2=B9=D8=B1=D5=B7=
+=FE=CE=F1=C6=F7=B6=CB<span style=3D"font-family:Times New Roman">=
+TCP</span>=C1=AC=BD=D3=CB=E3=B7=A8</span></p></td></tr><tr><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">50</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">ipc.clien=
+t.tcpnodelay</span></p></td><td valign=3D"top"><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">false</span></p=
+></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=BF=AA=
+=C6=F4=BB=F2=B9=D8=B1=D5=BF=CD=BB=A7=B6=CB<span style=3D"font-fam=
+ily:Times New Roman">TCP</span>=C1=AC=BD=D3=CB=E3=B7=A8</span></p=
+></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">51</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">webinterface.private.actions</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">false</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">Web</span=
+>=BD=BB=BB=A5=B5=C4=D0=D0=CE=AA=C9=E8=B6=A8</p><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></=
+p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">52</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">hadoop.rpc.socket.factory.class.default&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">org.=
+apache.hadoop.net.StandardSocketFactory</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-size: 1rem;">=C8=B1=CA=A1=B5=C4<s=
+pan style=3D"font-family:Times New Roman">socket</span>=B9=A4=B3=A7=
+=C0=E0=C9=E8=D6=C3</span></p></td></tr><tr><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+53</span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">hadoop.rpc.socket.factory=
+.class.ClientProtocol</span></p></td><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1=
+rem;">=D3=EB<span style=3D"font-family:Times New Roman">dfs</span=
+>=C1=AC=BD=D3=CA=B1=B5=C4=C8=B1=CA=A1<span style=3D"font-family:T=
+imes New Roman">socket</span>=B9=A4=B3=A7=C0=E0</span></p></td></=
+tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">54</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">hadoop.socks.server&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">&nbsp;</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-size: 1rem;">=B7=FE=CE=F1=B6=CB=B5=C4=B9=A4=B3=
+=A7=C0=E0=C8=B1=CA=A1=C9=E8=D6=C3=CE=AA<span style=3D"font-family=
+:Times New Roman">SocksSocketFactory.</span></span></p></td></tr>=
+<tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">55</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;"=
+>topology.node.switch.mapping.impl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">org.apache.hadoop.net.ScriptBasedMapping</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">&nbsp;</span></p></td></tr><tr><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">56</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">topology.s=
+cript.file.name&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;</span></p></td><td valign=3D"top"><p><span style=3D"font-fa=
+mily: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">&nbsp;</span></p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">57</span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">topology.script.=
+number.args&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">100&nbsp; </span></p></td><td valign=3D=
+"top"><p><span style=3D"font-size: 1rem;">=B2=CE=CA=FD=CA=FD=C1=BF=
+=D7=EE=B6=E0=CE=AA<span style=3D"font-family:Times New Roman">100=
+</span></span></p></td></tr><tr><td valign=3D"top"><p><span style=
+=3D"font-family: 'Times New Roman'; font-size: 1rem;">58</span></=
+p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">hadoop.security.uid.cache.secs&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">14400</s=
+pan></p></td><td valign=3D"top"><p><span style=3D"font-family: 'T=
+imes New Roman'; font-size: 1rem;">&nbsp;</span></p></td></tr></t=
+body></table></div></div><p></p><p>&nbsp;</p><p>&nbsp;</p><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbs=
+p;</span></p><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">&nbsp;</span></p><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">&nbsp;</span></p><h2><a name=3D=
+"t7"></a><em><span style=3D"font-family: Arial; font-size: 1rem;"=
+>3.2</span>&nbsp; <span style=3D"font-family: Arial; font-size: 1=
+rem;">=0Ahdfs-default.html</span></em></h2><p><span style=3D"font=
+-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p><d=
+iv class=3D"wiz-table-container" style=3D"position: relative; pad=
+ding: 0px;"><div class=3D"wiz-table-body"><table border=3D"1" wid=
+th=3D"631"><tbody><tr><td valign=3D"top"><p><span style=3D"font-s=
+ize: 1rem;">=D0=F2=BA=C5</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-size: 1rem;">=B2=CE=CA=FD=C3=FB</span></p></td><=
+td valign=3D"top"><p><span style=3D"font-size: 1rem;">=B2=CE=CA=FD=
+=D6=B5</span></p></td><td valign=3D"top"><p><span style=3D"font-s=
+ize: 1rem;">=B2=CE=CA=FD=CB=B5=C3=F7</span></p></td></tr><tr><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">1</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">dfs.name=
+node.logging.level&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</=
+span></p></td><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">info&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top">=
+<p><span style=3D"font-size: 1rem;">=CA=E4=B3=F6=C8=D5=D6=BE=C0=E0=
+=D0=CD</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">2</span></p></=
+td><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">dfs.secondary.http.address&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">0.0.0.0:50090 </span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-size: 1rem;">=B1=B8=B7=DD=C3=FB=B3=C6=BD=DA=B5=E3=B5=C4=
+<span style=3D"font-family:Times New Roman">http</span>=D0=AD=D2=E9=
+=B7=C3=CE=CA=B5=D8=D6=B7=D3=EB=B6=CB=BF=DA<span style=3D"font-fam=
+ily:Times New Roman"></span></span></p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">3</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">dfs.datanode.addr=
+ess&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">0.0.0.0:=
+50010 </span></p></td><td valign=3D"top"><p><span style=3D"font-s=
+ize: 1rem;">=CA=FD=BE=DD=BD=DA=B5=E3=B5=C4<span style=3D"font-fam=
+ily:Times New Roman">TCP</span>=B9=DC=C0=ED=B7=FE=CE=F1=B5=D8=D6=B7=
+=BA=CD=B6=CB=BF=DA<span style=3D"font-family:Times New Roman"></s=
+pan></span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">4</span></p></=
+td><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">dfs.datanode.http.address&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">0.0.0.0:50075 </span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-size: 1rem;">=CA=FD=BE=DD=BD=DA=B5=E3=B5=C4<span=20=
+style=3D"font-family:Times New Roman">HTTP</span>=D0=AD=D2=E9=B7=C3=
+=CE=CA=B5=D8=D6=B7=BA=CD=B6=CB=BF=DA</span></p></td></tr><tr><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">5</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">dfs.data=
+node.ipc.address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"font=
+-family: 'Times New Roman'; font-size: 1rem;">0.0.0.0:50020 </spa=
+n></p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;"=
+>=CA=FD=BE=DD=BD=DA=B5=E3=B5=C4<span style=3D"font-family:Times N=
+ew Roman">IPC</span>=B7=FE=CE=F1=B7=C3=CE=CA=B5=D8=D6=B7=BA=CD=B6=
+=CB=BF=DA</span></p></td></tr><tr><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">6</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">dfs.datanode.handler.count&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;=
+&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-size: 1rem;">=CA=FD=BE=DD=BD=DA=B5=E3=B5=C4=B7=FE=CE=F1=
+=C1=AC=BD=D3=B4=A6=C0=ED=CF=DF=B3=CC=CA=FD<span style=3D"font-fam=
+ily:Times New Roman"></span></span></p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">7</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">dfs.http.address&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">0.0.0.0:50070 </span></p></td><td valign=3D"top"><p><=
+span style=3D"font-size: 1rem;">=C3=FB=B3=C6=BD=DA=B5=E3=B5=C4<sp=
+an style=3D"font-family:Times New Roman">http</span>=D0=AD=D2=E9=B7=
+=C3=CE=CA=B5=D8=D6=B7=D3=EB=B6=CB=BF=DA<span style=3D"font-family=
+:Times New Roman"></span></span></p></td></tr><tr><td valign=3D"t=
+op"><p><span style=3D"font-family: 'Times New Roman'; font-size:=20=
+1rem;">8</span></p></td><td valign=3D"top"><p><span style=3D"font=
+-family: 'Times New Roman'; font-size: 1rem;">dfs.https.enable&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">false&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </=
+span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1re=
+m;">=D6=A7=B3=D6<span style=3D"font-family:Times New Roman">https=
+</span>=B7=C3=CE=CA=B7=BD=CA=BD=B1=EA=CA=B6<span style=3D"font-fa=
+mily:Times New Roman"></span></span></p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">9</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">dfs.https.need.cl=
+ient.auth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">false&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=
+=3D"font-size: 1rem;">=BF=CD=BB=A7=B6=CB=D6=B8=B6=A8<span style=3D=
+"font-family:Times New Roman">https</span>=B7=C3=CE=CA=B1=EA=CA=B6=
+<span style=3D"font-family:Times New Roman"></span></span></p></t=
+d></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">10</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">dfs.https.server.keystore.resource</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">ssl-server.xml</span></p></td><td valign=3D"top"><=
+p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;=
+">Ssl</span>=C3=DC=D4=BF=B7=FE=CE=F1=B6=CB=B5=C4=C5=E4=D6=C3=CE=C4=
+=BC=FE<span style=3D"font-family:Times New Roman"></span></p></td=
+></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Time=
+s New Roman'; font-size: 1rem;">11</span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-family: 'Times New Roman'; font-size:=20=
+1rem;">dfs.https.client.keystore.resource</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">ssl-client.xml</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;"=
+>Ssl</span>=C3=DC=D4=BF=BF=CD=BB=A7=B6=CB=B5=C4=C5=E4=D6=C3=CE=C4=
+=BC=FE<span style=3D"font-family:Times New Roman"></span></p></td=
+></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Time=
+s New Roman'; font-size: 1rem;">12</span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-family: 'Times New Roman'; font-size:=20=
+1rem;">dfs.datanode.https.address&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">0.0.0.0:50475=20=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1=
+rem;">=CA=FD=BE=DD=BD=DA=B5=E3=B5=C4<span style=3D"font-family:Ti=
+mes New Roman">HTTPS</span>=D0=AD=D2=E9=B7=C3=CE=CA=B5=D8=D6=B7=BA=
+=CD=B6=CB=BF=DA</span></p></td></tr><tr><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">13<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">dfs.https.address&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">0.0.=
+0.0:50470 </span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-size: 1rem;">=C3=FB=B3=C6=BD=DA=B5=E3=B5=C4<span style=3D"font=
+-family:Times New Roman">HTTPS</span>=D0=AD=D2=E9=B7=C3=CE=CA=B5=D8=
+=D6=B7=BA=CD=B6=CB=BF=DA</span></p></td></tr><tr><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">14</span></p></td><td valign=3D"top"><p><span style=3D"font=
+-family: 'Times New Roman'; font-size: 1rem;">dfs.datanode.dns.in=
+terface&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></=
+td><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">default&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; </span></p></td><td valign=3D"top"><p><span style=3D"font-siz=
+e: 1rem;">=CA=FD=BE=DD=BD=DA=B5=E3=B2=C9=D3=C3<span style=3D"font=
+-family:Times New Roman">IP</span>=B5=D8=D6=B7=B1=EA=CA=B6<span s=
+tyle=3D"font-family:Times New Roman"></span></span></p></td></tr>=
+<tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">15</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;"=
+>dfs.datanode.dns.nameserver&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">default&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-size: 1rem;">=D6=B8=B6=A8<span style=3D"font-family:Tim=
+es New Roman">DNS</span>=B5=C4<span style=3D"font-family:Times Ne=
+w Roman">IP</span>=B5=D8=D6=B7</span></p></td></tr><tr><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">16</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">dfs.replicatio=
+n.considerLoad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">true&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=BC=D3=D4=D8=C4=BF=B1=EA=BB=F2=B2=BB=BC=D3=D4=D8=
+=B5=C4=B1=EA=CA=B6</span></p></td></tr><tr><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+17</span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">dfs.default.chunk.view.si=
+ze&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">32768&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nb=
+sp;</span></p></td><td valign=3D"top"><p><span style=3D"font-size=
+: 1rem;">=E4=AF=C0=C0=CA=B1=B5=C4=CE=C4=BC=FE=BF=E9=B4=F3=D0=A1=C9=
+=E8=D6=C3=CE=AA<span style=3D"font-family:Times New Roman">32K</s=
+pan></span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">18</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">dfs.datanode.du.reserved&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-size: 1rem;">=C3=BF=B8=F6=BE=ED=D4=A4=C1=F4=B5=C4=
+=BF=D5=CF=D0=BF=D5=BC=E4=CA=FD=C1=BF</span></p></td></tr><tr><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">19</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">dfs.nam=
+e.dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=0A</span></p></td><td valign=3D"top"><p><span style=3D"font-fam=
+ily: 'Times New Roman'; font-size: 1rem;">${hadoop.tmp.dir}/dfs/n=
+ame</span></p></td><td valign=3D"top"><p><span style=3D"font-size=
+: 1rem;">=B4=E6=D6=FC=D4=DA=B1=BE=B5=D8=B5=C4=C3=FB=D7=D6=BD=DA=B5=
+=E3=CA=FD=BE=DD=BE=B5=CF=F3=B5=C4=C4=BF=C2=BC<span style=3D"font-=
+family:Times New Roman">,</span>=D7=F7=CE=AA=C3=FB=D7=D6=BD=DA=B5=
+=E3=B5=C4=C8=DF=D3=E0=B1=B8=B7=DD<span style=3D"font-family:Times=
+ New Roman"></span></span></p></td></tr><tr><td valign=3D"top"><p=
+><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;"=
+>20</span></p></td><td valign=3D"top"><p><span style=3D"font-fami=
+ly: 'Times New Roman'; font-size: 1rem;">dfs.name.edits.dir&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">${dfs=
+.name.dir}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"font=
+-size: 1rem;">=B4=E6=D6=FC=CE=C4=BC=FE=B2=D9=D7=F7=B9=FD=B3=CC=D0=
+=C5=CF=A2=B5=C4=B4=E6=D6=FC=C4=BF=C2=BC</span></p></td></tr><tr><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">21</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">dfs.=
+web.ugi&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">webuser,webgrou=
+p&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">Web</span>=BD=D3=BF=DA=B7=C3=CE=CA=
+=B5=C4=D3=C3=BB=A7=C3=FB=BA=CD=D7=E9=B5=C4=D5=CA=BB=A7=C9=E8=B6=A8=
+</p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">22</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">dfs.permissions&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">true&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></=
+td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=CE=C4=BC=
+=FE=B2=D9=D7=F7=CA=B1=B5=C4=C8=A8=CF=DE=BC=EC=B2=E9=B1=EA=CA=B6=A1=
+=A3<span style=3D"font-family:Times New Roman"></span></span></p>=
+</td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">23</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">dfs.permissions.supergroup&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">supergroup&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-size: 1rem;">=B3=AC=BC=B6=D3=C3=BB=A7=B5=C4=D7=E9=
+=C3=FB=B6=A8=D2=E5</span></p></td></tr><tr><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+24</span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">dfs.block.access.token.en=
+able&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">false&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1=
+rem;">=CA=FD=BE=DD=BD=DA=B5=E3=B7=C3=CE=CA=C1=EE=C5=C6=B1=EA=CA=B6=
+</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">25</span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">dfs.block.access.key.update.interval</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">600&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-size: 1rem;">=C9=FD=BC=B6=B7=C3=CE=
+=CA=D4=BF=CA=B1=B5=C4=BC=E4=B8=F4=CA=B1=BC=E4</span></p></td></tr=
+><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">26</span></p></td><td valign=3D"top"><=
+p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;=
+">dfs.block.access.token.lifetime&nbsp;&nbsp;&nbsp;&nbsp;=0A</spa=
+n></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">600&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-size: 1rem;">=B7=C3=CE=CA=C1=EE=
+=C5=C6=B5=C4=D3=D0=D0=A7=CA=B1=BC=E4</span></p></td></tr><tr><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">27</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">dfs.dat=
+a.dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">${hadoop.tmp.d=
+ir}/dfs/data</span></p></td><td valign=3D"top"><p><span style=3D"=
+font-size: 1rem;">=CA=FD=BE=DD=BD=DA=B5=E3=B5=C4=BF=E9=B1=BE=B5=D8=
+=B4=E6=B7=C5=C4=BF=C2=BC<span style=3D"font-family:Times New Roma=
+n"></span></span></p></td></tr><tr><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">28</span=
+></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Time=
+s New Roman'; font-size: 1rem;">dfs.datanode.data.dir.perm&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td=
+><td valign=3D"top"><p><span style=3D"font-family: 'Times New Rom=
+an'; font-size: 1rem;">755&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-size: 1rem;">=CA=FD=BE=DD=BD=DA=B5=E3=B5=C4=
+=B4=E6=D6=FC=BF=E9=B5=C4=C4=BF=C2=BC=B7=C3=CE=CA=C8=A8=CF=DE=C9=E8=
+=D6=C3</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">29</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">dfs.replication&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-family: 'Times New Roman'; font-size:=20=
+1rem;">3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><s=
+pan style=3D"font-size: 1rem;">=C8=B1=CA=A1=B5=C4=BF=E9=B8=B4=D6=C6=
+=CA=FD=C1=BF</span></p></td></tr><tr><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">30</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">dfs.replication.max&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp; &nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">512&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1=
+rem;">=BF=E9=B8=B4=D6=C6=B5=C4=D7=EE=B4=F3=CA=FD=C1=BF<span style=
+=3D"font-family:Times New Roman"></span></span></p></td></tr><tr>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">31</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">dfs=
+.replication.min&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td=
+><td valign=3D"top"><p><span style=3D"font-family: 'Times New Rom=
+an'; font-size: 1rem;">1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-size: 1rem;">=BF=E9=B8=B4=D6=C6=
+=B5=C4=D7=EE=D0=A1=CA=FD=C1=BF<span style=3D"font-family:Times Ne=
+w Roman"></span></span></p></td></tr><tr><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">32=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">dfs.block.size&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">67108864&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"font-=
+size: 1rem;">=C8=B1=CA=A1=B5=C4=CE=C4=BC=FE=BF=E9=B4=F3=D0=A1=CE=AA=
+<span style=3D"font-family:Times New Roman">64M=0A</span></span><=
+/p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">33</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">dfs.df.interval&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">60000=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></=
+p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=B4=
+=C5=C5=CC=BF=D5=BC=E4=CD=B3=BC=C6=BC=E4=B8=F4=CE=AA<span style=3D=
+"font-family:Times New Roman">6</span>=C3=EB</span></p></td></tr>=
+<tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">34</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;"=
+>dfs.client.block.write.retries&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">3&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p=
+></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=BF=E9=
+=D0=B4=C8=EB=B3=F6=B4=ED=CA=B1=B5=C4=D6=D8=CA=D4=B4=CE=CA=FD<span=
+ style=3D"font-family:Times New Roman"></span></span></p></td></t=
+r><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times Ne=
+w Roman'; font-size: 1rem;">35</span></p></td><td valign=3D"top">=
+<p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem=
+;">dfs.blockreport.intervalMsec&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">3600000&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-size: 1rem;">=BF=E9=B5=C4=B1=A8=B8=E6=
+=BC=E4=B8=F4=CA=B1=CE=AA<span style=3D"font-family:Times New Roma=
+n">1</span>=D0=A1=CA=B1<span style=3D"font-family:Times New Roman=
+"></span></span></p></td></tr><tr><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">36</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">dfs.blockreport.initialDelay&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top">=
+<p><span style=3D"font-size: 1rem;">=BF=E9=CB=B3=D0=F2=B1=A8=B8=E6=
+=B5=C4=BC=E4=B8=F4=CA=B1=BC=E4</span></p></td></tr><tr><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">37</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">dfs.heartbeat.=
+interval&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">3&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=CA=FD=BE=DD=BD=DA=B5=E3=B5=C4=D0=C4=CC=F8=BC=EC=
+=B2=E2=BC=E4=B8=F4=CA=B1=BC=E4<span style=3D"font-family:Times Ne=
+w Roman"></span></span></p></td></tr><tr><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">38=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">dfs.namenode.handler.count&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></=
+p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-size: 1rem;">=C3=FB=B3=C6=BD=DA=
+=B5=E3=B5=C4=C1=AC=BD=D3=B4=A6=C0=ED=B5=C4=CF=DF=B3=CC=CA=FD=C1=BF=
+<span style=3D"font-family:Times New Roman"></span></span></p></t=
+d></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">39</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">dfs.safemode.threshold.pct&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">0=
+.999f&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=C6=
+=F4=B6=AF=B0=B2=C8=AB=C4=A3=CA=BD=B5=C4=B7=A7=D6=B5=C9=E8=B6=A8</=
+span></p><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">&nbsp;</span></p></td></tr><tr><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+40</span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">dfs.safemode.extension&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">30000&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-size: 1rem;">=B5=B1=B7=A7=
+=D6=B5=B4=EF=B5=BD=C1=BF=D6=B5=BA=F3=C0=A9=D5=B9=B5=C4=CA=B1=CF=DE=
+</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">41</span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">dfs.balance.bandwidthPerSec&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">1048576&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;=
+">=C6=F4=B6=AF=B8=BA=D4=D8=BE=F9=BA=E2=B5=C4=CA=FD=BE=DD=BD=DA=B5=
+=E3=BF=C9=C0=FB=D3=C3=B4=F8=BF=ED=D7=EE=B4=F3=D6=B5=CE=AA<span st=
+yle=3D"font-family:Times New Roman">1M=0A</span></span></p></td><=
+/tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">42</span></p></td><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">dfs.hosts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">&nbsp;</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-size: 1rem;">=BF=C9=D3=EB=C3=FB=B3=C6=BD=DA=B5=E3=C1=
+=AC=BD=D3=B5=C4=D6=F7=BB=FA=B5=D8=D6=B7=CE=C4=BC=FE=D6=B8=B6=A8=A1=
+=A3</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">43</span></p></=
+td><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">dfs.hosts.exclude&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbs=
+p;</span></p></td><td valign=3D"top"><p><span style=3D"font-size:=
+ 1rem;">=B2=BB=B3=E4=BC=C6=D3=EB=C3=FB=B3=C6=BD=DA=B5=E3=C1=AC=BD=
+=D3=B5=C4=D6=F7=BB=FA=B5=D8=D6=B7=CE=C4=BC=FE=C9=E8=B6=A8</span><=
+/p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">44</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">dfs.max.objects&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">0</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;=
+">=CE=C4=BC=FE=CA=FD=A1=A2=C4=BF=C2=BC=CA=FD=A1=A2=BF=E9=CA=FD=B5=
+=C4=D7=EE=B4=F3=CA=FD=C1=BF</span></p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">45</span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">dfs.namenode.dec=
+ommission.interval&nbsp;=0A</span></p></td><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+30</span></p></td><td valign=3D"top"><p><span style=3D"font-size:=
+ 1rem;">=C3=FB=B3=C6=BD=DA=B5=E3=BD=E2=B3=FD=C3=FC=C1=EE=D6=B4=D0=
+=D0=CA=B1=B5=C4=BC=E0=B2=E2=CA=B1=BC=E4=D6=DC=C6=DA</span></p></t=
+d></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">46</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">dfs.namenode.decommission.nodes.per.interval</span></p></=
+td><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; </span></p></td><td valign=3D"top"><p><span style=3D"font-siz=
+e: 1rem;">=C3=FB=B3=C6=BD=DA=B5=E3=BD=E2=B3=FD=C3=FC=C1=EE=D6=B4=D0=
+=D0=CA=C7=B7=F1=CD=EA=BC=EC=B2=E2=B4=CE=CA=FD</span></p></td></tr=
+><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">47</span></p></td><td valign=3D"top"><=
+p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;=
+">dfs.replication.interval&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">3&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top">=
+<p><span style=3D"font-size: 1rem;">=C3=FB=B3=C6=BD=DA=B5=E3=BC=C6=
+=CB=E3=CA=FD=BE=DD=BD=DA=B5=E3=B5=C4=B8=B4=D6=C6=B9=A4=D7=F7=B5=C4=
+=D6=DC=C6=DA=CA=FD<span style=3D"font-family:Times New Roman">.</=
+span></span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">48</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">dfs.access.time.precision&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">3600000&nbsp; </span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-size: 1rem;">=B3=E4=D0=ED=B7=C3=CE=CA=CE=C4=BC=FE=B5=C4=
+=CA=B1=BC=E4=BE=AB=C8=B7=B5=BD<span style=3D"font-family:Times Ne=
+w Roman">1</span>=D0=A1=CA=B1<span style=3D"font-family:Times New=
+ Roman"></span></span></p></td></tr><tr><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">49<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">dfs.support.append&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">false&nbsp;&nb=
+sp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-size: 1rem;">=CA=C7=B7=F1=B3=E4=D0=ED=C1=B4=BD=D3=CE=C4=BC=FE=D6=
+=B8=B6=A8<span style=3D"font-family:Times New Roman"></span></spa=
+n></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-fam=
+ily: 'Times New Roman'; font-size: 1rem;">50</span></p></td><td v=
+align=3D"top"><p><span style=3D"font-family: 'Times New Roman'; f=
+ont-size: 1rem;">dfs.namenode.delegation.key.update-interval=0A</=
+span></p></td><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">86400000 </span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-size: 1rem;">=C3=FB=B3=C6=BD=
+=DA=B5=E3=C9=CF=B5=C4=B4=FA=C0=ED=C1=EE=C5=C6=B5=C4=D6=F7<span st=
+yle=3D"font-family:Times New Roman">key</span>=B5=C4=B8=FC=D0=C2=BC=
+=E4=B8=F4=CA=B1=BC=E4=CE=AA<span style=3D"font-family:Times New R=
+oman">24</span>=D0=A1=CA=B1</span></p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">51</span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">dfs.namenode.del=
+egation.token.max-lifetime&nbsp;=0A</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">604800000</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-size: 1rem;">=B4=FA=C0=ED=C1=EE=C5=C6=B5=C4=D3=D0=D0=A7=
+=CA=B1=BC=E4=D7=EE=B4=F3=D6=B5=CE=AA<span style=3D"font-family:Ti=
+mes New Roman">7</span>=CC=EC</span></p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">52</span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">dfs.namenode.del=
+egation.token.renew-interval</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;"=
+>86400000 </span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-size: 1rem;">=B4=FA=C0=ED=C1=EE=C5=C6=B5=C4=B8=FC=D0=C2=CA=B1=BC=
+=E4=CE=AA<span style=3D"font-family:Times New Roman">24</span>=D0=
+=A1=CA=B1</span></p></td></tr><tr><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">53</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">dfs.datanode.failed.volumes.tolera=
+ted&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+></p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=
+=BE=F6=B6=A8=CD=A3=D6=B9=CA=FD=BE=DD=BD=DA=B5=E3=CC=E1=B9=A9=B7=FE=
+=CE=F1=B3=E4=D0=ED=BE=ED=B5=C4=B3=F6=B4=ED=B4=CE=CA=FD=A1=A3<span=
+ style=3D"font-family:Times New Roman">0</span>=B4=CE=D4=F2=C8=CE=
+=BA=CE=BE=ED=B3=F6=B4=ED=B6=BC=D2=AA=CD=A3=D6=B9=CA=FD=BE=DD=BD=DA=
+=B5=E3</span></p></td></tr></tbody></table></div></div><p></p><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+&nbsp;</span></p><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">&nbsp;</span></p><h2><a name=3D"t8"></a><em><=
+span style=3D"font-family: Arial; font-size: 1rem;">3.3</span>&nb=
+sp; <span style=3D"font-family: Arial; font-size: 1rem;">=0Amapre=
+d-default.html</span></em></h2><p></p><div class=3D"wiz-table-con=
+tainer" style=3D"position: relative; padding: 0px;"><div class=3D=
+"wiz-table-body"><table border=3D"1" width=3D"631"><tbody><tr><td=
+ valign=3D"top"><p><span style=3D"font-size: 1rem;">=D0=F2=BA=C5<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1r=
+em;">=B2=CE=CA=FD=C3=FB</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-size: 1rem;">=B2=CE=CA=FD=D6=B5</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-size: 1rem;">=B2=CE=CA=FD=
+=CB=B5=C3=F7</span></p></td></tr><tr><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">1</spa=
+n></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">hadoop.job.history.location</spa=
+n></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">&nbsp;</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-size: 1rem;">=D7=F7=D2=B5=B8=FA=D7=
+=D9=B9=DC=C0=ED=C6=F7=B5=C4=BE=B2=CC=AC=C0=FA=CA=B7=CE=C4=BC=FE=B5=
+=C4=B4=E6=B7=C5=C4=BF=C2=BC=A1=A3</span></p></td></tr><tr><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">2</span></p></td><td valign=3D"top"><p><span style=
+=3D"font-family: 'Times New Roman'; font-size: 1rem;">hadoop.job.=
+history.user.location</span></p></td><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1=
+rem;">=BF=C9=D2=D4=D6=B8=B6=A8=BE=DF=CC=E5=C4=B3=B8=F6=D7=F7=D2=B5=
+=B5=C4=B8=FA=D7=D9=B9=DC=C0=ED=C6=F7=B5=C4=C0=FA=CA=B7=CE=C4=BC=FE=
+=B4=E6=B7=C5=C4=BF=C2=BC</span></p></td></tr><tr><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">3</span></p></td><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">mapred.job.tracker.h=
+istory.completed.location</span></p></td><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">&n=
+bsp;</span></p></td><td valign=3D"top"><p><span style=3D"font-siz=
+e: 1rem;">=D2=D1=CD=EA=B3=C9=D7=F7=D2=B5=B5=C4=C0=FA=CA=B7=CE=C4=BC=
+=FE=B5=C4=B4=E6=B7=C5=C4=BF=C2=BC</span></p></td></tr><tr><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">4</span></p></td><td valign=3D"top"><p><span style=
+=3D"font-family: 'Times New Roman'; font-size: 1rem;">io.sort.fac=
+tor</span></p></td><td valign=3D"top"><p><span style=3D"font-fami=
+ly: 'Times New Roman'; font-size: 1rem;">&nbsp;10&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=
+=3D"top"><p><span style=3D"font-size: 1rem;">=C5=C5=CD=EA=D0=F2=B5=
+=C4=CE=C4=BC=FE=B5=C4=BA=CF=B2=A2=CA=B1=B5=C4=B4=F2=BF=AA=CE=C4=BC=
+=FE=BE=E4=B1=FA=CA=FD</span></p></td></tr><tr><td valign=3D"top">=
+<p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem=
+;">5</span></p></td><td valign=3D"top"><p><span style=3D"font-fam=
+ily: 'Times New Roman'; font-size: 1rem;">io.sort.mb</span></p></=
+td><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">&nbsp;100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-size: 1rem;">=C5=C5=D0=F2=CE=C4=BC=FE=B5=C4=C4=DA=B4=E6=
+=BB=BA=B4=E6=B4=F3=D0=A1=CE=AA<span style=3D"font-family:Times Ne=
+w Roman">100M=0A</span></span></p></td></tr><tr><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">6</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">io.sort.record.percen=
+t</span></p></td><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">&nbsp;0.05&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p>=
+<span style=3D"font-size: 1rem;">=C5=C5=D0=F2=CF=DF=B3=CC=D7=E8=C8=
+=FB=B5=C4=C4=DA=B4=E6=BB=BA=B4=E6=CA=A3=D3=E0=B1=C8=C2=CA<span st=
+yle=3D"font-family:Times New Roman"></span></span></p></td></tr><=
+tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">7</span></p></td><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">i=
+o.sort.spill.percent</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;0=
+.80&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td=
+ valign=3D"top"><p><span style=3D"font-size: 1rem;">=B5=B1=BB=BA=B3=
+=E5=D5=BC=D3=C3=C1=BF=CE=AA=B8=C3=D6=B5=CA=B1=A3=AC=CF=DF=B3=CC=D0=
+=E8=D2=AA=BD=AB=C4=DA=C8=DD=CF=C8=B1=B8=B7=DD=B5=BD=B4=C5=C5=CC=D6=
+=D0=A1=A3</span></p></td></tr><tr><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">8</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">io.map.index.skip</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-size: 1rem;">=CB=F7=D2=FD=CC=F5=C4=BF=B5=C4=BC=E4=
+=B8=F4=C9=E8=B6=A8</span></p></td></tr><tr><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+9</span></p></td><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">mapred.job.tracker</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">&nbsp;local&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=D7=F7=D2=B5=B8=FA=D7=D9=B9=DC=C0=ED=C6=F7=CA=C7=
+=B7=F1=BA=CD<span style=3D"font-family:Times New Roman">MR</span>=
+=C8=CE=CE=F1=D4=DA=D2=BB=B8=F6=BD=F8=B3=CC=D6=D0<span style=3D"fo=
+nt-family:Times New Roman"></span></span></p></td></tr><tr><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">10</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapred.jo=
+b.tracker.http.address</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">0.0.0=
+.0:50030</span></p></td><td valign=3D"top"><p><span style=3D"font=
+-size: 1rem;">=D7=F7=D2=B5=B8=FA=D7=D9=B9=DC=C0=ED=C6=F7=B5=C4<sp=
+an style=3D"font-family:Times New Roman">HTTP</span>=B7=FE=CE=F1=C6=
+=F7=B7=C3=CE=CA=B6=CB=BF=DA=BA=CD=B5=D8=D6=B7</span></p></td></tr=
+><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">11</span></p></td><td valign=3D"top"><=
+p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;=
+">mapred.job.tracker.handler.count&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></=
+p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=D7=
+=F7=D2=B5=B8=FA=D7=D9=B9=DC=C0=ED=C6=F7=B5=C4=B9=DC=C0=ED=CF=DF=B3=
+=CC=CA=FD<span style=3D"font-family:Times New Roman">,</span>=CF=DF=
+=B3=CC=CA=FD=B1=C8=C0=FD=CA=C7=C8=CE=CE=F1=B9=DC=C0=ED=B8=FA=D7=D9=
+=C6=F7=CA=FD=C1=BF=B5=C4<span style=3D"font-family:Times New Roma=
+n">0.04</span></span></p></td></tr><tr><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">12</=
+span></p></td><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">mapred.task.tracker.report.ad=
+dress&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></=
+p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">127.0.0.1:0</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-size: 1rem;">=C8=CE=CE=F1=B9=DC=C0=
+=ED=B8=FA=D7=D9=C6=F7=B5=C4=D6=F7=BB=FA=B5=D8=D6=B7=BA=CD=B6=CB=BF=
+=DA=B5=D8=D6=B7</span></p><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">&nbsp;</span></p></td></tr><tr><td v=
+align=3D"top"><p><span style=3D"font-family: 'Times New Roman'; f=
+ont-size: 1rem;">13</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapred.l=
+ocal.dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">${hadoop.tmp.dir}/mapred/local&nbsp;=0A</span></p></td><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">MR</span>=B5=C4=D6=D0=BD=E9=CA=FD=BE=DD=CE=C4=
+=BC=FE=B4=E6=B7=C5=C4=BF=C2=BC</p></td></tr><tr><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">14</span></p></td><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">mapred.system.dir&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">${hadoo=
+p.tmp.dir}/mapred/system=0A</span></p></td><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+MR</span>=B5=C4=BF=D8=D6=C6=CE=C4=BC=FE=B4=E6=B7=C5=C4=BF=C2=BC</=
+p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">15</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">mapreduce.jobtracker.staging.root.dir&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">${hadoop.=
+tmp.dir}/mapred/staging</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-size: 1rem;">=C3=BF=B8=F6=D5=FD=D4=DA=D4=CB=D0=D0=
+=D7=F7=D2=B5=CE=C4=BC=FE=B5=C4=B4=E6=B7=C5=C7=F8<span style=3D"fo=
+nt-family:Times New Roman"></span></span></p></td></tr><tr><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">16</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapred.te=
+mp.dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">${hadoop.tmp.dir}/mapred/temp&nbsp;&nbsp;=0A</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">MR</span>=C1=D9=CA=B1=B9=B2=CF=ED=CE=
+=C4=BC=FE=B4=E6=B7=C5=C7=F8<span style=3D"font-family:Times New R=
+oman"></span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">17</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">mapred.local.dir.minspacestart&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">MR=
+</span>=B1=BE=B5=D8=D6=D0=BD=E9=CE=C4=BC=FE=C9=BE=B3=FD=CA=B1=A3=AC=
+=B2=BB=B3=E4=D0=ED=D3=D0=C8=CE=CE=F1=D6=B4=D0=D0=B5=C4=CA=FD=C1=BF=
+=D6=B5=A1=A3<span style=3D"font-family:Times New Roman"></span></=
+p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">18</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">mapred.local.dir.minspacekill&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">MR</spa=
+n>=B1=BE=B5=D8=D6=D0=BD=E9=CE=C4=BC=FE=C9=BE=B3=FD=CA=B1=A3=AC=B3=
+=FD=B7=C7=CB=F9=D3=D0=C8=CE=CE=F1=B6=BC=D2=D1=CD=EA=B3=C9=B5=C4=CA=
+=FD=C1=BF=D6=B5=A1=A3</p></td></tr><tr><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">19</=
+span></p></td><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">mapred.tasktracker.expiry.int=
+erval&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></=
+p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">600000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=C8=
+=CE=CE=F1=B9=DC=C0=ED=B8=FA=D7=D9=C6=F7=B2=BB=B7=A2=CB=CD=D0=C4=CC=
+=F8=B5=C4=C0=DB=BC=C6=CA=B1=BC=E4=BC=E4=B8=F4=B3=AC=B9=FD<span st=
+yle=3D"font-family:Times New Roman">600</span>=C3=EB=A3=AC=D4=F2=C8=
+=CE=CE=F1=B9=DC=C0=ED=B8=FA=D7=D9=C6=F7=CA=A7=D0=A7</span></p></t=
+d></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">20</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">mapred.tasktracker.resourcecalculatorplugin</span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">&nbsp;</span></p></td><td valign=3D"top">=
+<p><span style=3D"font-size: 1rem;">=D6=B8=B6=A8=B5=C4=D2=BB=B8=F6=
+=D3=C3=BB=A7=B7=C3=CE=CA=D7=CA=D4=B4=D0=C5=CF=A2=B5=C4=C0=E0=CA=B5=
+=C0=FD</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">21</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">mapred.tasktracker.taskmemorymanager.mo=
+nitoring-interval</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">5000&nbsp;=
+&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=BC=E0=BF=D8=C8=CE=CE=F1=B9=DC=C0=ED=B8=FA=D7=D9=
+=C6=F7=C8=CE=CE=F1=C4=DA=B4=E6=CA=B9=D3=C3=C2=CA=B5=C4=CA=B1=BC=E4=
+=BC=E4=B8=F4</span></p></td></tr><tr><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">22</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">mapred.tasktracker.tasks.sleept=
+ime-before-sigkill&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">5000&nbsp;&nbsp;&nbsp; </span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=B7=A2=
+=B3=F6=BD=F8=B3=CC=D6=D5=D6=B9=BA=F3=A3=AC=BC=E4=B8=F4<span style=
+=3D"font-family:Times New Roman">5</span>=C3=EB=BA=F3=B7=A2=B3=F6=
+=BD=F8=B3=CC=CF=FB=CD=F6=D0=C5=BA=C5</span></p><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></=
+p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">23</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">mapred.map.tasks&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">2&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-size: 1rem;">=C3=BF=B8=F6=D7=F7=D2=B5=C8=B1=CA=A1=B5=C4=
+<span style=3D"font-family:Times New Roman">map</span>=C8=CE=CE=F1=
+=CA=FD=CE=AA<span style=3D"font-family:Times New Roman">2</span><=
+/span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font=
+-family: 'Times New Roman'; font-size: 1rem;">24</span></p></td><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">mapred.reduce.tasks&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">1&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-size: 1rem;">=C3=BF=B8=F6=D7=F7=D2=B5=C8=B1=CA=A1=B5=C4<span s=
+tyle=3D"font-family:Times New Roman">reduce</span>=C8=CE=CE=F1=CA=
+=FD=CE=AA<span style=3D"font-family:Times New Roman">1</span></sp=
+an></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-fa=
+mily: 'Times New Roman'; font-size: 1rem;">25</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">mapreduce.tasktracker.outofband.heartbeat&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=
+=3D"font-family: 'Times New Roman'; font-size: 1rem;">false&nbsp;=
+&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"font-=
+size: 1rem;">=C8=C3=D4=DA=C8=CE=CE=F1=BD=E1=CA=F8=BA=F3=B7=A2=B3=F6=
+=D2=BB=B8=F6=B6=EE=CD=E2=B5=C4=D0=C4=CC=F8=D0=C5=BA=C5<span style=
+=3D"font-family:Times New Roman"></span></span></p></td></tr><tr>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">26</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">map=
+reduce.tasktracker.outofband.heartbeat.damper&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">10=
+00000 </span></p></td><td valign=3D"top"><p><span style=3D"font-s=
+ize: 1rem;">=B5=B1=B6=EE=CD=E2=D0=C4=CC=F8=D0=C5=BA=C5=B7=A2=B3=F6=
+=C1=BF=CC=AB=B6=E0=CA=B1=A3=AC=D4=F2=CA=CA=B5=B1=D7=E8=D6=B9</spa=
+n></p><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">&nbsp;</span></p></td></tr><tr><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">27<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">mapred.jobtracker.restart.re=
+cover&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">false&nbsp;&nbsp;=
+ </span></p></td><td valign=3D"top"><p><span style=3D"font-size:=20=
+1rem;">=B3=E4=D0=ED=C8=CE=CE=F1=B9=DC=C0=ED=C6=F7=BB=D6=B8=B4=CA=B1=
+=B2=C9=D3=C3=B5=C4=B7=BD=CA=BD</span></p></td></tr><tr><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">28</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">mapred.jobtrac=
+ker.job.history.block.size&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">3145728 </span></p></td><td valign=3D"=
+top"><p><span style=3D"font-size: 1rem;">=D7=F7=D2=B5=C0=FA=CA=B7=
+=CE=C4=BC=FE=BF=E9=B5=C4=B4=F3=D0=A1=CE=AA<span style=3D"font-fam=
+ily:Times New Roman">3M&nbsp;=0A</span></span></p></td></tr><tr><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">29</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapr=
+educe.job.split.metainfo.maxsize&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">10000000=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1=
+rem;">=B7=D6=B8=F4=D4=AA=D0=C5=CF=A2=CE=C4=BC=FE=B5=C4=D7=EE=B4=F3=
+=D6=B5=CA=C7<span style=3D"font-family:Times New Roman">10M</span=
+>=D2=D4=CF=C2</span></p><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">&nbsp;</span></p></td></tr><tr><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">30</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapred.job=
+tracker.taskScheduler&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">org.apa=
+che.hadoop.mapred.JobQueueTaskScheduler</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-size: 1rem;">=C9=E8=B6=A8=C8=CE=CE=
+=F1=B5=C4=D6=B4=D0=D0=BC=C6=BB=AE=CA=B5=CF=D6=C0=E0<span style=3D=
+"font-family:Times New Roman"></span></span></p></td></tr><tr><td=
+ valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=
+ font-size: 1rem;">31</span></p></td><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapred=
+.jobtracker.taskScheduler.maxRunningTasksPerJob</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">&nbsp;</span></p></td><td valign=3D"top"><p><=
+span style=3D"font-size: 1rem;">=D7=F7=D2=B5=CD=AC=CA=B1=D4=CB=D0=
+=D0=B5=C4=C8=CE=CE=F1=CA=FD=B5=C4=D7=EE=B4=F3=D6=B5</span></p></t=
+d></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">32</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">mapred.map.max.attempts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">4&nbsp;&nbsp;&=
+nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">Map</span>=C8=CE=
+=CE=F1=B5=C4=D6=D8=CA=D4=B4=CE=CA=FD<span style=3D"font-family:Ti=
+mes New Roman"></span></p></td></tr><tr><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">33<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">mapred.reduce.max.attempts&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+4&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">R=
+educe</span>=C8=CE=CE=F1=B5=C4=D6=D8=CA=D4=B4=CE=CA=FD</p></td></=
+tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">34</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">mapred.reduce.parallel.copies&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">5&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-size: 1rem;">=D4=DA=B8=B4=D6=C6=
+=BD=D7=B6=CE=CA=B1<span style=3D"font-family:Times New Roman">red=
+uce</span>=B2=A2=D0=D0=B4=AB=CB=CD=B5=C4=D6=B5=A1=A3</span></p></=
+td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">35</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">mapreduce.reduce.shuffle.maxfetchfailures&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">10&nbsp;&nbsp;&nbsp; </span></p></td><=
+td valign=3D"top"><p><span style=3D"font-size: 1rem;">=C8=A1<span=
+ style=3D"font-family:Times New Roman">map</span>=CA=E4=B3=F6=B5=C4=
+=D7=EE=B4=F3=D6=D8=CA=D4=B4=CE=CA=FD</span></p></td></tr><tr><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">36</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapredu=
+ce.reduce.shuffle.connect.timeout&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">180000</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">REDUC=
+E</span>=C8=CE=CE=F1=C1=AC=BD=D3=C8=CE=CE=F1=B9=DC=C0=ED=C6=F7=BB=
+=F1=B5=C3<span style=3D"font-family:Times New Roman">map</span>=CA=
+=E4=B3=F6=CA=B1=B5=C4=D7=DC=BA=C4=CA=B1=CA=C7<span style=3D"font-=
+family:Times New Roman">3</span>=B7=D6=D6=D3<span style=3D"font-f=
+amily:Times New Roman"></span></p><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">&nbsp;</span></p></td></tr><=
+tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">37</span></p></td><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+mapreduce.reduce.shuffle.read.timeout&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">180000</span></p></td><td v=
+align=3D"top"><p><span style=3D"font-family: 'Times New Roman'; f=
+ont-size: 1rem;">REDUCE</span>=C8=CE=CE=F1=B5=C8=B4=FD<span style=
+=3D"font-family:Times New Roman">map</span>=CA=E4=B3=F6=CA=FD=BE=DD=
+=B5=C4=D7=DC=BA=C4=CA=B1=CA=C7<span style=3D"font-family:Times Ne=
+w Roman">3</span>=B7=D6=D6=D3</p></td></tr><tr><td valign=3D"top"=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">38</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">mapred.task.timeout&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=0A</span></p></td><td valign=3D"top"><p><span style=3D"font-fam=
+ily: 'Times New Roman'; font-size: 1rem;">600000</span></p></td><=
+td valign=3D"top"><p><span style=3D"font-size: 1rem;">=C8=E7=B9=FB=
+=C8=CE=CE=F1=CE=DE=B6=C1=CE=DE=D0=B4=CA=B1=B5=C4=CA=B1=BC=E4=BA=C4=
+=CA=B1=CE=AA<span style=3D"font-family:Times New Roman">10</span>=
+=B7=D6=D6=D3=A3=AC=BD=AB=B1=BB=D6=D5=D6=B9</span></p></td></tr><t=
+r><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">39</span></p></td><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">m=
+apred.tasktracker.map.tasks.maximum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;=0A</span></p></td><td valign=3D"top"><p><span style=3D"font-fam=
+ily: 'Times New Roman'; font-size: 1rem;">2&nbsp;&nbsp;&nbsp;&nbs=
+p; </span></p></td><td valign=3D"top"><p><span style=3D"font-size=
+: 1rem;">=C8=CE=B9=DC=B9=DC=C0=ED=C6=F7=BF=C9=CD=AC=CA=B1=D4=CB=D0=
+=D0<span style=3D"font-family:Times New Roman">map</span>=C8=CE=CE=
+=F1=CA=FD=CE=AA<span style=3D"font-family:Times New Roman">2</spa=
+n></span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">40</span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">mapred.tasktracker.reduce.tasks.maximum&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">2&nbsp;&nbsp;&=
+nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"=
+font-size: 1rem;">=C8=CE=B9=DC=B9=DC=C0=ED=C6=F7=BF=C9=CD=AC=CA=B1=
+=D4=CB=D0=D0<span style=3D"font-family:Times New Roman">reduce</s=
+pan>=C8=CE=CE=F1=CA=FD=CE=AA<span style=3D"font-family:Times New=20=
+Roman">2</span></span></p></td></tr><tr><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">41<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">mapred.jobtracker.completeus=
+erjobs.maximum&nbsp;=0A</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">100&=
+nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-size: 1rem;">=B5=B1=D3=C3=BB=A7=B5=C4=CD=EA=B3=C9=
+=D7=F7=D2=B5=CA=FD=B4=EF<span style=3D"font-family:Times New Roma=
+n">100</span>=B8=F6=BA=F3=A3=AC=BD=AB=C6=E4=B7=C5=C8=EB=D7=F7=D2=B5=
+=C0=FA=CA=B7=CE=C4=BC=FE=D6=D0</span></p></td></tr><tr><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">42</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">mapreduce.redu=
+ce.input.limit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">Reduce</span>=CA=E4=C8=EB=C1=BF=B5=C4=CF=DE=D6=
+=C6=A1=A3<span style=3D"font-family:Times New Roman"></span></p><=
+/td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'T=
+imes New Roman'; font-size: 1rem;">43</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">mapred.job.tracker.retiredjobs.cache.size&nbsp;&nbsp;=0A=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">1000&nbsp;&nbsp;&nbsp; </sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;=
+">=D7=F7=D2=B5=D7=B4=CC=AC=CE=AA=D2=D1=B2=BB=D4=DA=D6=B4=D0=D0=B5=
+=C4=B1=A3=C1=F4=D4=DA=C4=DA=B4=E6=D6=D0=B5=C4=C1=BF=CE=AA<span st=
+yle=3D"font-family:Times New Roman">1000</span></span></p></td></=
+tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times N=
+ew Roman'; font-size: 1rem;">44</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">mapred.job.tracker.jobhistory.lru.cache.size</span></p></td><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+></p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=
+=D7=F7=D2=B5=C0=FA=CA=B7=CE=C4=BC=FE=D7=B0=D4=D8=B5=BD=C4=DA=B4=E6=
+=B5=C4=CA=FD=C1=BF<span style=3D"font-family:Times New Roman"></s=
+pan></span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">45</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">mapred.child.java.opts&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">-Xmx200m</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-size: 1rem;">=C6=F4=B6=AF<span style=3D"font=
+-family:Times New Roman">task</span>=B9=DC=C0=ED=B5=C4=D7=D3=BD=F8=
+=B3=CC=CA=B1=B5=C4=C4=DA=B4=E6=C9=E8=D6=C3</span></p></td></tr><t=
+r><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">46</span></p></td><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">m=
+apred.child.env&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td=
+><td valign=3D"top"><p><span style=3D"font-family: 'Times New Rom=
+an'; font-size: 1rem;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ </span></p></td><td valign=3D"top"><p><span style=3D"font-size:=20=
+1rem;">=D7=D3=BD=F8=B3=CC=B5=C4=B2=CE=CA=FD=C9=E8=D6=C3</span></p=
+></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">47</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">mapred.child.ulimit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><=
+td valign=3D"top"><p><span style=3D"font-family: 'Times New Roman=
+'; font-size: 1rem;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1r=
+em;">=D0=E9=C4=E2=BB=FA=CB=F9=D0=E8=C4=DA=B4=E6=B5=C4=C9=E8=B6=A8=
+=A1=A3<span style=3D"font-family:Times New Roman"></span></span><=
+/p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">48</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">mapred.cluster.map.memory.mb&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;=0A</span></p></td><td valign=3D"top"><p><span style=3D"font-fa=
+mily: 'Times New Roman'; font-size: 1rem;">-1&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p=
+></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">49</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">mapred.cluster.reduce.memory.mb&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Time=
+s New Roman'; font-size: 1rem;">&nbsp;</span></p></td></tr><tr><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">50</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapre=
+d.cluster.max.map.memory.mb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">&nbsp;</span></p></td></tr><tr><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">51<=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">mapred.cluster.max.reduce.me=
+mory.mb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">-1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <=
+/span></p></td><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">&nbsp;</span></p></td></tr><=
+tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">52</span></p></td><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+mapred.job.map.memory.mb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">-1&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</sp=
+an></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-fa=
+mily: 'Times New Roman'; font-size: 1rem;">53</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">mapred.job.reduce.memory.mb&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">-1&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</=
+span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">54</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">mapred.child.tmp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">/tmp&nbsp;&nbsp;&nbsp=
+; </span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">Mr</span>=C8=CE=CE=F1=D0=C5=
+=CF=A2=B5=C4=B4=E6=B7=C5=C4=BF=C2=BC</p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">55</span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">mapred.inmem.mer=
+ge.threshold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">1000&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D=
+"top"><p><span style=3D"font-size: 1rem;">=C4=DA=B4=E6=D6=D0=B5=C4=
+=BA=CF=B2=A2=CE=C4=BC=FE=CA=FD=C9=E8=D6=C3</span></p></td></tr><t=
+r><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">56</span></p></td><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">m=
+apred.job.shuffle.merge.percent&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">0.66&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"=
+><p><span style=3D"font-family: 'Times New Roman'; font-size: 1re=
+m;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p>=
+</td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">57</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">mapred.job.shuffle.input.buffer.percent&nbsp;&nbsp;&nbsp=
+;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">0.70&nbsp;&nbsp;&=
+nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p></td=
+></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Time=
+s New Roman'; font-size: 1rem;">58</span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-family: 'Times New Roman'; font-size:=20=
+1rem;">mapred.job.reduce.input.buffer.percent&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">0.0&nbsp;&nbsp=
+;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span><=
+/p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">59</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">mapred.map.tasks.speculative.execution&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">true&nb=
+sp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=
+=3D"font-family: 'Times New Roman'; font-size: 1rem;">Map</span>=C8=
+=CE=CE=F1=B5=C4=B6=E0=CA=B5=C0=FD=B2=A2=D0=D0=D4=CB=D0=D0=B1=EA=CA=
+=B6</p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-fa=
+mily: 'Times New Roman'; font-size: 1rem;">60</span></p></td><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">mapred.reduce.tasks.speculative.execution&nbsp;=
+&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">true&nbsp;&nbsp;&n=
+bsp; </span></p></td><td valign=3D"top"><p><span style=3D"font-fa=
+mily: 'Times New Roman'; font-size: 1rem;">Reduce</span>=C8=CE=CE=
+=F1=B5=C4=B6=E0=CA=B5=C0=FD=B2=A2=D0=D0=D4=CB=D0=D0=B1=EA=CA=B6</=
+p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">61</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">mapred.job.reuse.jvm.num.tasks</span></p></td><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-size: 1rem;">=C3=BF=D0=E9=C4=E2=BB=FA=D4=CB=D0=D0=B5=C4=
+=C8=CE=CE=F1=CA=FD</span></p></td></tr><tr><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+62</span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">mapred.min.split.size</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">Map</span>=B5=C4=CA=E4=C8=EB=CA=FD=BE=DD=B1=BB=B7=D6=BD=E2=
+=B5=C4=BF=E9=CA=FD=C9=E8=D6=C3</p></td></tr><tr><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">63</span></p></td><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">mapred.jobtracker.ma=
+xtasks.per.job</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">-1&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-size: 1rem;">=D2=BB=B8=F6=
+=B5=A5=B6=C0=D7=F7=D2=B5=B5=C4=C8=CE=CE=F1=CA=FD=C9=E8=D6=C3</spa=
+n></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-fam=
+ily: 'Times New Roman'; font-size: 1rem;">64</span></p></td><td v=
+align=3D"top"><p><span style=3D"font-family: 'Times New Roman'; f=
+ont-size: 1rem;">mapred.submit.replication</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">10&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=CC=E1=BD=BB=D7=F7=D2=B5=CE=C4=BC=FE=B5=C4=B8=B4=
+=D6=C6=BC=B6=B1=F0</span></p></td></tr><tr><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+65</span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">mapred.tasktracker.dns.in=
+terface</span></p></td><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">default&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-size: 1rem;">=C8=CE=CE=F1=B9=DC=C0=ED=B8=FA=D7=D9=C6=F7=
+=CA=C7=B7=F1=B1=A8=B8=E6<span style=3D"font-family:Times New Roma=
+n">IP</span>=B5=D8=D6=B7=C3=FB=B5=C4=BF=AA=B9=D8<span style=3D"fo=
+nt-family:Times New Roman"></span></span></p></td></tr><tr><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">66</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapred.ta=
+sktracker.dns.nameserver</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">def=
+ault&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"=
+top"><p><span style=3D"font-size: 1rem;">=D7=F7=D2=B5=BA=CD=C8=CE=
+=CE=F1=B9=DC=C0=ED=B8=FA=D7=D9=C6=F7=D6=AE=BC=E4=CD=A8=D1=B6=B7=BD=
+=CA=BD=B2=C9=D3=C3=B5=C4<span style=3D"font-family:Times New Roma=
+n">DNS</span>=B7=FE=CE=F1=B5=C4=D6=F7=BB=FA=C3=FB=BB=F2<span styl=
+e=3D"font-family:Times New Roman">IP</span>=B5=D8=D6=B7</span></p=
+></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=20=
+'Times New Roman'; font-size: 1rem;">67</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">tasktracker.http.threads</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">40&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">http</span>=B7=FE=CE=
+=F1=C6=F7=B5=C4=B9=A4=D7=F7=CF=DF=B3=CC=CA=FD=C1=BF</p></td></tr>=
+<tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">68</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;"=
+>mapred.task.tracker.http.address</span></p></td><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">0.0.0.0:50060</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-size: 1rem;">=C8=CE=CE=F1=B9=DC=C0=ED=B8=FA=D7=D9=C6=F7=
+=B5=C4<span style=3D"font-family:Times New Roman">http</span>=B7=FE=
+=CE=F1=C6=F7=B5=C4=B5=D8=D6=B7=BA=CD=B6=CB=BF=DA<span style=3D"fo=
+nt-family:Times New Roman"></span></span></p></td></tr><tr><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">69</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">keep.fail=
+ed.task.files</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">false&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-size: 1rem;">=CA=A7=B0=DC=C8=CE=CE=F1=CA=
+=C7=B7=F1=B1=A3=B4=E6=B5=BD=CE=C4=BC=FE=D6=D0</span></p><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;=
+</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">70</span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">mapred.output.compress</span></p></td><td v=
+align=3D"top"><p><span style=3D"font-family: 'Times New Roman'; f=
+ont-size: 1rem;">false&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1=
+rem;">=D7=F7=D2=B5=B5=C4=CA=E4=B3=F6=CA=C7=B7=F1=D1=B9=CB=F5<span=
+ style=3D"font-family:Times New Roman"></span></span></p></td></t=
+r><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times Ne=
+w Roman'; font-size: 1rem;">71</span></p></td><td valign=3D"top">=
+<p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem=
+;">mapred.output.compression.type</span></p></td><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">RECORD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-size: 1rem;">=D7=F7=D2=B5=
+=CA=E4=B3=F6=B2=C9=D3=C3<span style=3D"font-family:Times New Roma=
+n">NONE, RECORD or BLOCK</span>=C8=FD=D6=D6=B7=BD=CA=BD=D6=D0=D2=BB=
+=D6=D6=D1=B9=CB=F5=B5=C4=D0=B4=C8=EB=B5=BD=C1=F7=CA=BD=CE=C4=BC=FE=
+<span style=3D"font-family:Times New Roman"></span></span></p></t=
+d></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">72</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">mapred.output.compression.codec</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">org.apache.hadoop.io.compress.DefaultCodec</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=D1=B9=
+=CB=F5=C0=E0=B5=C4=C9=E8=D6=C3<span style=3D"font-family:Times Ne=
+w Roman"> </span></span></p></td></tr><tr><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">7=
+3</span></p></td><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">mapred.compress.map.output=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">false&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">Map</span>=B5=C4=CA=E4=B3=F6=
+=CA=C7=B7=F1=D1=B9=CB=F5</p></td></tr><tr><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">7=
+4</span></p></td><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">mapred.map.output.compress=
+ion.codec</span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">org.apache.hadoop.=
+io.compress.DefaultCodec</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">Map=
+</span>=B5=C4=CA=E4=B3=F6=D1=B9=CB=F5=B5=C4=CA=B5=CF=D6=C0=E0=D6=B8=
+=B6=A8<span style=3D"font-family:Times New Roman"></span></p></td=
+></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Time=
+s New Roman'; font-size: 1rem;">75</span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-family: 'Times New Roman'; font-size:=20=
+1rem;">map.sort.class</span></p></td><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">org.ap=
+ache.hadoop.util.QuickSort&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-size: 1rem;">=C5=C5=D0=F2=BC=FC=B5=C4=C5=C5=D0=F2=C0=E0=
+=D6=B8=B6=A8</span></p></td></tr><tr><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">76</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">mapred.userlog.limit.kb</span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=C3=BF=B8=F6=C8=CE=CE=F1=B5=C4=D3=C3=BB=A7=C8=D5=
+=D6=BE=CE=C4=BC=FE=B4=F3=D0=A1<span style=3D"font-family:Times Ne=
+w Roman"></span></span></p></td></tr><tr><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">77=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">mapred.userlog.retain.hours=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">24&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-size: 1rem;">=D7=F7=D2=B5=CD=EA=B3=C9=BA=F3=B5=C4=D3=C3=
+=BB=A7=C8=D5=D6=BE=C1=F4=B4=E6=CA=B1=BC=E4=CE=AA<span style=3D"fo=
+nt-family:Times New Roman">24</span>=D0=A1=CA=B1</span></p></td><=
+/tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times=20=
+New Roman'; font-size: 1rem;">78</span></p></td><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">mapred.user.jobconf.limit</span></p></td><td valign=3D"top">=
+<p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem=
+;">5242880&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">Jobco=
+nf</span>=B5=C4=B4=F3=D0=A1=CE=AA<span style=3D"font-family:Times=
+ New Roman">5M=0A</span></p></td></tr><tr><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">7=
+9</span></p></td><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">mapred.hosts</span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;"></span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-size: 1rem;">=BF=C9=D3=EB=D7=F7=D2=B5=B9=DC=C0=ED=
+=B8=FA=D7=D9=C6=F7=C1=AC=BD=D3=B5=C4=D6=F7=BB=FA=C3=FB<span style=
+=3D"font-family:Times New Roman"></span></span></p></td></tr><tr>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">80</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">map=
+red.hosts.exclude</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;&nbs=
+p; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-size: 1rem;">=B2=BB=BF=C9=D3=EB=
+=D7=F7=D2=B5=B9=DC=C0=ED=B8=FA=D7=D9=C6=F7=C1=AC=BD=D3=B5=C4=D6=F7=
+=BB=FA=C3=FB</span></p></td></tr><tr><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">81</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">mapred.heartbeats.in.second&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">100&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </s=
+pan></p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem=
+;">=D7=F7=D2=B5=B9=DC=C0=ED=B8=FA=D7=D9=C6=F7=B5=C4=C3=BF=C3=EB=D6=
+=D0=B5=BD=B4=EF=B5=C4=D0=C4=CC=F8=CA=FD=C1=BF=CE=AA<span style=3D=
+"font-family:Times New Roman">100</span></span></p></td></tr><tr>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">82</span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-family: 'Times New Roman'; font-size: 1rem;">map=
+red.max.tracker.blacklists&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">4&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><s=
+pan style=3D"font-size: 1rem;">=C8=CE=CE=F1=B9=DC=C0=ED=B8=FA=D7=D9=
+=C6=F7=B5=C4=BA=DA=C3=FB=B5=A5=C1=D0=B1=ED=B5=C4=CA=FD=C1=BF</spa=
+n></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-fam=
+ily: 'Times New Roman'; font-size: 1rem;">83</span></p></td><td v=
+align=3D"top"><p><span style=3D"font-family: 'Times New Roman'; f=
+ont-size: 1rem;">mapred.jobtracker.blacklist.fault-timeout-window=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">180&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"font=
+-size: 1rem;">=C8=CE=CE=F1=B9=DC=C0=ED=B8=FA=D7=D9=C6=F7=B3=AC=CA=
+=B1<span style=3D"font-family:Times New Roman">180</span>=B7=D6=D6=
+=D3=D4=F2=D4L=C8=CE=CE=F1=BD=AB=B1=BB=D6=D8=C6=F4</span></p></td>=
+</tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">84</span></p></td><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">mapred.jobtracker.blacklist.fault-bucket-width&nbsp;=0A</sp=
+an></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Ti=
+mes New Roman'; font-size: 1rem;">15&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p><=
+/td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'T=
+imes New Roman'; font-size: 1rem;">85</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">mapred.max.tracker.failures&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><=
+p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;=
+">4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-size: 1rem;">=C8=CE=CE=F1=
+=B9=DC=C0=ED=B8=FA=D7=D9=C6=F7=B5=C4=CA=A7=B0=DC=C8=CE=CE=F1=CA=FD=
+=C9=E8=B6=A8<span style=3D"font-family:Times New Roman"></span></=
+span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-=
+family: 'Times New Roman'; font-size: 1rem;">86</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">jobclient.output.filter&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</spa=
+n></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">FAILED&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=BF=D8=
+=D6=C6=C8=CE=CE=F1=B5=C4=D3=C3=BB=A7=C8=D5=D6=BE=CA=E4=B3=F6=B5=BD=
+=D7=F7=D2=B5=B6=CB=CA=B1=B5=C4=B9=FD=C2=CB=B7=BD=CA=BD</span></p>=
+</td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">87</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">mapred.job.tracker.persist.jobstatus.active&nbsp;&nbsp;&=
+nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">false&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-size: 1rem;">=CA=C7=B7=F1=B3=D6=BE=C3=BB=AF=D7=F7=D2=B5=B9=DC=
+=C0=ED=B8=FA=D7=D9=C6=F7=B5=C4=D0=C5=CF=A2</span></p></td></tr><t=
+r><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">88</span></p></td><td valign=3D"top"><p><=
+span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">m=
+apred.job.tracker.persist.jobstatus.hours&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">0&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p>=
+<span style=3D"font-size: 1rem;">=B3=D6=BE=C3=BB=AF=D7=F7=D2=B5=B9=
+=DC=C0=ED=B8=FA=D7=D9=C6=F7=B5=C4=D0=C5=CF=A2=B5=C4=B1=A3=B4=E6=CA=
+=B1=BC=E4</span></p></td></tr><tr><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">89</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">mapred.job.tracker.persist.jobstat=
+us.dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">/jobtracker/jobsInfo</span></p></td><td v=
+align=3D"top"><p><span style=3D"font-size: 1rem;">=D7=F7=D2=B5=B9=
+=DC=C0=ED=B8=FA=D7=D9=C6=F7=B5=C4=D0=C5=CF=A2=B4=E6=B7=C5=C4=BF=C2=
+=BC</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">90</span></p></=
+td><td valign=3D"top"><p><span style=3D"font-family: 'Times New R=
+oman'; font-size: 1rem;">mapreduce.job.complete.cancel.delegation=
+.tokens=0A</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">true&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=BB=D6=B8=B4=CA=B1=CA=C7=B7=F1=B1=E4=B8=FC=C1=EC=
+=C5=C6<span style=3D"font-family:Times New Roman"></span></span><=
+/p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">91</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">mapred.task.profile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">false&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D"font-=
+size: 1rem;">=C8=CE=CE=F1=B7=D6=CE=F6=D0=C5=CF=A2=CA=C7=B7=F1=BD=A8=
+=C9=E8=B1=EA=D6=BE</span></p></td></tr><tr><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+92</span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">mapred.task.profile.maps&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">0-2&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-size: 1rem;">=C9=E8=D6=C3<span style=3D"font-family:Ti=
+mes New Roman">map</span>=C8=CE=CE=F1=B5=C4=B7=D6=CE=F6=B7=B6=CE=A7=
+</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">93</span></p></td>=
+<td valign=3D"top"><p><span style=3D"font-family: 'Times New Roma=
+n'; font-size: 1rem;">mapred.task.profile.reduces&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">0-2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td=
+><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=C9=E8=D6=
+=C3<span style=3D"font-family:Times New Roman">reduce</span>=C8=CE=
+=CE=F1=B5=C4=B7=D6=CE=F6=B7=B6=CE=A7</span></p></td></tr><tr><td=20=
+valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=20=
+font-size: 1rem;">94</span></p></td><td valign=3D"top"><p><span s=
+tyle=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapred.=
+line.input.format.linespermap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"to=
+p"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1=
+rem;">1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=C3=BF=B4=
+=CE=C7=D0=B7=D6=B5=C4=D0=D0=CA=FD=C9=E8=D6=C3<span style=3D"font-=
+family:Times New Roman"></span></span></p></td></tr><tr><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">95</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">mapred.skip.at=
+tempts.to.start.skipping&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=
+=3D"font-family: 'Times New Roman'; font-size: 1rem;">2&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-size: 1rem;">=D4=DA=CC=F8=D7=AA=C4=A3=CA=
+=BD=CE=B4=B1=BB=C9=E8=B6=A8=B5=C4=C7=E9=BF=F6=CF=C2=C8=CE=CE=F1=B5=
+=C4=D6=D8=CA=D4=B4=CE=CA=FD<span style=3D"font-family:Times New R=
+oman"></span></span></p></td></tr><tr><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">96</s=
+pan></p></td><td valign=3D"top"><p><span style=3D"font-family: 'T=
+imes New Roman'; font-size: 1rem;">mapred.skip.map.auto.incr.proc=
+.count&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">true&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">MapRunner</spa=
+n>=D4=DA=B5=F7=D3=C3<span style=3D"font-family:Times New Roman">m=
+ap</span>=B9=A6=C4=DC=BA=F3=B5=C4=D4=F6=C1=BF=B4=A6=C0=ED=B7=BD=CA=
+=BD=C9=E8=D6=C3<span style=3D"font-family:Times New Roman"></span=
+></p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-fami=
+ly: 'Times New Roman'; font-size: 1rem;">97</span></p></td><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">mapred.skip.reduce.auto.incr.proc.count&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">true&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td v=
+align=3D"top"><p><span style=3D"font-size: 1rem;">=D4=DA=B5=F7=D3=
+=C3<span style=3D"font-family:Times New Roman">reduce</span>=B9=A6=
+=C4=DC=BA=F3=B5=C4=D4=F6=C1=BF=B4=A6=C0=ED=B7=BD=CA=BD=C9=E8=D6=C3=
+<span style=3D"font-family:Times New Roman"></span></span></p></t=
+d></tr><tr><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">98</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">mapred.skip.out.dir&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;</span></p></td><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><sp=
+an style=3D"font-size: 1rem;">=CC=F8=B9=FD=BC=C7=C2=BC=B5=C4=CA=E4=
+=B3=F6=C4=BF=C2=BC</span></p></td></tr><tr><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+99</span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">mapred.skip.map.max.skip.=
+records&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"=
+top"><p><span style=3D"font-family: 'Times New Roman'; font-size:=
+ 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">&nbsp;</span></p></td></tr><tr><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">100</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapred.ski=
+p.reduce.max.skip.groups&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">&nbsp;</span></p></td></tr><tr><td=
+ valign=3D"top"><p><span style=3D"font-family: 'Times New Roman';=
+ font-size: 1rem;">101</span></p></td><td valign=3D"top"><p><span=
+ style=3D"font-family: 'Times New Roman'; font-size: 1rem;">job.e=
+nd.retry.attempts&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valig=
+n=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-=
+size: 1rem;">0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">Hadoop</span>=B3=A5=CA=D4=C1=AC=BD=
+=D3=CD=A8=D6=AA=C6=F7=B5=C4=B4=CE=CA=FD<span style=3D"font-family=
+:Times New Roman"></span></p></td></tr><tr><td valign=3D"top"><p>=
+<span style=3D"font-family: 'Times New Roman'; font-size: 1rem;">=
+102</span></p></td><td valign=3D"top"><p><span style=3D"font-fami=
+ly: 'Times New Roman'; font-size: 1rem;">job.end.retry.interval&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">30000&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-size: 1rem;">=CD=A8=D6=AA=B3=A5=CA=D4=BB=D8=D3=A6=B5=C4=
+=BC=E4=B8=F4=B2=D9=D7=F7=CE=AA<span style=3D"font-family:Times Ne=
+w Roman">30</span>=C3=EB<span style=3D"font-family:Times New Roma=
+n"></span></span></p></td></tr><tr><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">103</spa=
+n></p></td><td valign=3D"top"><p><span style=3D"font-family: 'Tim=
+es New Roman'; font-size: 1rem;">hadoop.rpc.socket.factory.class.=
+JobSubmissionProtocol</span></p></td><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-size: 1=
+rem;">=D6=B8=B6=A8=D3=EB=D7=F7=D2=B5=B8=FA=D7=D9=B9=DC=C0=ED=C6=F7=
+=B5=C4=CD=A8=D1=B6=B7=BD=CA=BD=A3=AC=C8=B1=CA=A1=CA=C7=B2=C9=D3=C3=
+<span style=3D"font-family:Times New Roman">rpc</span>=B7=BD=CA=BD=
+</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">104</span></p></td=
+><td valign=3D"top"><p><span style=3D"font-family: 'Times New Rom=
+an'; font-size: 1rem;">mapred.task.cache.levels&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><spa=
+n style=3D"font-family: 'Times New Roman'; font-size: 1rem;">2&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p=
+><span style=3D"font-size: 1rem;">=C8=CE=CE=F1=BB=BA=B4=E6=BC=B6=B1=
+=F0=C9=E8=D6=C3<span style=3D"font-family:Times New Roman"></span=
+></span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">105</span></p></t=
+d><td valign=3D"top"><p><span style=3D"font-family: 'Times New Ro=
+man'; font-size: 1rem;">mapred.queue.names&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">default</span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-size: 1rem;">=B7=D6=B8=F4=D7=F7=D2=B5=B6=
+=D3=C0=FD=B5=C4=B7=D6=B8=F4=B7=FB=C9=E8=B6=A8</span></p></td></tr=
+><tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">106</span></p></td><td valign=3D"top">=
+<p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem=
+;">mapred.acls.enabled&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p=
+><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;"=
+>false&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=D6=B8=B6=A8<span style=3D"font-family:Times N=
+ew Roman">ACL</span>=B7=C3=CE=CA=BF=D8=D6=C6=C1=D0=B1=ED</span></=
+p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">107</span></p></td><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">mapred.queue.default.state&nbsp;&nbsp; &nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;</span></p></td><td valign=3D"top"><p><span style=3D"font-famil=
+y: 'Times New Roman'; font-size: 1rem;">RUNNING</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-size: 1rem;">=B6=A8=D2=E5=
+=B6=D3=C1=D0=B5=C4=D7=B4=CC=AC<span style=3D"font-family:Times Ne=
+w Roman"></span></span></p></td></tr><tr><td valign=3D"top"><p><s=
+pan style=3D"font-family: 'Times New Roman'; font-size: 1rem;">10=
+8</span></p></td><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">mapred.job.queue.name&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">default</span></p></td><td valign=3D"t=
+op"><p><span style=3D"font-size: 1rem;">=D2=D1=CC=E1=BD=BB=D7=F7=D2=
+=B5=B5=C4=B6=D3=C1=D0=C9=E8=B6=A8</span></p></td></tr><tr><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">109</span></p></td><td valign=3D"top"><p><span sty=
+le=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapreduce=
+.job.acl-modify-job&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></p></td><td=
+ valign=3D"top"><p><span style=3D"font-size: 1rem;">=D6=B8=B6=A8=BF=
+=C9=D0=DE=B8=C4=D7=F7=D2=B5=B5=C4<span style=3D"font-family:Times=
+ New Roman">ACL</span>=C1=D0=B1=ED</span></p></td></tr><tr><td va=
+lign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fo=
+nt-size: 1rem;">110</span></p></td><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapreduc=
+e.job.acl-view-job&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><t=
+d valign=3D"top"><p><span style=3D"font-family: 'Times New Roman'=
+; font-size: 1rem;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><=
+/p></td><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=D6=
+=B8=B6=A8=BF=C9=E4=AF=C1=D9=D7=F7=D2=B5=B5=C4<span style=3D"font-=
+family:Times New Roman">ACL</span>=C1=D0=B1=ED<span style=3D"font=
+-family:Times New Roman"></span></span></p></td></tr><tr><td vali=
+gn=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font=
+-size: 1rem;">111</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">mapred.tas=
+ktracker.indexcache.mb&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">10&nbsp;&nbsp;=
+&nbsp;&nbsp; </span></p></td><td valign=3D"top"><p><span style=3D=
+"font-size: 1rem;">=C8=CE=CE=F1=B9=DC=C0=ED=B8=FA=D7=D9=C6=F7=B5=C4=
+=CB=F7=D2=FD=C4=DA=B4=E6=B5=C4=D7=EE=B4=F3=C8=DD=C6=F7</span></p>=
+</td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">112</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">mapred.combine.recordsBeforeProgress&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span styl=
+e=3D"font-family: 'Times New Roman'; font-size: 1rem;">10000&nbsp=
+; </span></p></td><td valign=3D"top"><p><span style=3D"font-size:=
+ 1rem;">=D4=DA=BE=DB=BA=CF=B4=A6=C0=ED=CA=B1=B5=C4=BC=C7=C2=BC=BF=
+=E9=CA=FD</span></p><p><span style=3D"font-family: 'Times New Rom=
+an'; font-size: 1rem;">&nbsp;</span></p></td></tr><tr><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;">113</span></p></td><td valign=3D"top"><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">mapred.merge.re=
+cordsBeforeProgress&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">10000&nbsp; </span></p></td=
+><td valign=3D"top"><p><span style=3D"font-size: 1rem;">=D4=DA=BB=
+=E3=D7=DC=B4=A6=C0=ED=CA=B1=B5=C4=BC=C7=C2=BC=BF=E9=CA=FD</span><=
+/p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">114</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">mapred.reduce.slowstart.completed.maps&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">0.05&nbsp;&nbsp;=20=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p></td></tr>=
+<tr><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">115</span></p></td><td valign=3D"top"><=
+p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem;=
+">mapred.task.tracker.task-controller&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">org.apache.hado=
+op.mapred.DefaultTaskController</span></p></td><td valign=3D"top"=
+><p><span style=3D"font-size: 1rem;">=C8=CE=CE=F1=B9=DC=C0=ED=C6=F7=
+=B5=C4=C9=E8=B6=A8<span style=3D"font-family:Times New Roman"></s=
+pan></span></p></td></tr><tr><td valign=3D"top"><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">116</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">mapreduce.tasktracker.group&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;"></span></p></td><=
+td valign=3D"top"><p><span style=3D"font-size: 1rem;">=C8=CE=CE=F1=
+=B9=DC=C0=ED=C6=F7=B5=C4=D7=E9=B3=C9=D4=B1=C9=E8=B6=A8</span></p>=
+</td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">117</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">mapred.healthChecker.script.path&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;"></span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-size: 1rem;">=BD=C5=B1=BE=B5=C4=BE=F8=B6=D4=C2=B7=BE=B6=D6=B8=B6=
+=A8=A3=AC=D5=E2=D0=A9=BD=C5=B1=BE=CA=C7=D0=C4=CC=F8=B7=FE=CE=F1=B5=
+=C4</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"=
+font-family: 'Times New Roman'; font-size: 1rem;">118</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">mapred.healthChecker.interval&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A=
+</span></p></td><td valign=3D"top"><p><span style=3D"font-family:=
+ 'Times New Roman'; font-size: 1rem;">60000&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><p><=
+span style=3D"font-size: 1rem;">=BD=DA=B5=E3=D0=C4=CC=F8=D0=C5=CF=
+=A2=B5=C4=BC=E4=B8=F4</span></p></td></tr><tr><td valign=3D"top">=
+<p><span style=3D"font-family: 'Times New Roman'; font-size: 1rem=
+;">119</span></p></td><td valign=3D"top"><p><span style=3D"font-f=
+amily: 'Times New Roman'; font-size: 1rem;">mapred.healthChecker.=
+script.timeout&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p>=
+</td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=
+ Roman'; font-size: 1rem;">600000&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;=0A</span></p></td><td valign=3D"top"><p><span style=3D"fo=
+nt-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p>=
+</td></tr><tr><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">120</span></p></td><td valign=
+=3D"top"><p><span style=3D"font-family: 'Times New Roman'; font-s=
+ize: 1rem;">mapred.healthChecker.script.args&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D=
+"top"><p><span style=3D"font-family: 'Times New Roman'; font-size=
+: 1rem;"></span></p></td><td valign=3D"top"><p><span style=3D"fon=
+t-size: 1rem;">=B2=CE=CA=FD=C1=D0=B1=ED</span></p><p><span style=3D=
+"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span><=
+/p></td></tr><tr><td valign=3D"top"><p><span style=3D"font-family=
+: 'Times New Roman'; font-size: 1rem;">121</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">mapreduce.job.counters.limit&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>=
+</p></td><td valign=3D"top"><p><span style=3D"font-family: 'Times=
+ New Roman'; font-size: 1rem;">120&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;=0A</span></p></td><td valign=3D"top"><=
+p><span style=3D"font-size: 1rem;">=D7=F7=D2=B5=BC=C6=CA=FD=C6=F7=
+=B5=C4=D7=EE=D0=A1=D6=B5<span style=3D"font-family:Times New Roma=
+n"></span></span></p></td></tr><tr><td valign=3D"top"><p><span st=
+yle=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</=
+span></p></td><td valign=3D"top"><p><span style=3D"font-family: '=
+Times New Roman'; font-size: 1rem;">&nbsp;</span></p></td><td val=
+ign=3D"top"><p><span style=3D"font-family: 'Times New Roman'; fon=
+t-size: 1rem;">&nbsp;</span></p></td><td valign=3D"top"><p><span=20=
+style=3D"font-family: 'Times New Roman'; font-size: 1rem;">&nbsp;=
+</span></p></td></tr><tr><td valign=3D"top"><p><span style=3D"fon=
+t-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p><=
+/td><td valign=3D"top"><p><span style=3D"font-family: 'Times New=20=
+Roman'; font-size: 1rem;">&nbsp;</span></p></td><td valign=3D"top=
+"><p><span style=3D"font-family: 'Times New Roman'; font-size: 1r=
+em;">&nbsp;</span></p></td><td valign=3D"top"><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p=
+></td></tr></tbody></table></div></div><p></p><p><span style=3D"f=
+ont-family: 'Times New Roman'; font-size: 1rem;">&nbsp;</span></p=
+><br><div style=3D"color:gray"><small>=C0=B4=D4=B4=A3=BA&nbsp;&lt=
+;<a href=3D"http://blog.csdn.net/yangjl38/article/details/7583374=
+">http://blog.csdn.net/yangjl38/article/details/7583374</a><small=
+>&gt;</small></small></div><small><small>&nbsp;</small></small></=
+body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A
+
+------=_Next_Part_0000328375.276--
+
+------=_Next_Part_0000985125.646--
+

@@ -1,0 +1,260 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?U3RydWN0dXJlIG9mIHRoZSBuZXctc3R5bGUgc29scg==?=
+Date: Date: Fri, 23 Jul 2021 05:51:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000651420.638"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000651420.638
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000217140.663"
+
+
+------=_Next_Part_0000217140.663
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000217140.663
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>Structure of the new-style solr</tit=
+le>=0A=0A=0A=0A=0A<style type=3D"text/css" id=3D"wiz_todo_style_i=
+d" wiz_link_version=3D"01.00.09">.wiz-todo, .wiz-todo-img {width:=
+ 16px; height: 16px; cursor: default; padding: 0 10px 0 2px; vert=
+ical-align: -10%;-webkit-user-select: none;} .wiz-todo-label { di=
+splay: inline-block; padding-top: 7px; padding-bottom: 6px; line-=
+height: 1.5;} .wiz-todo-label-checked {  color: #666;} .wiz-todo-=
+label-unchecked {text-decoration: initial;} .wiz-todo-completed-i=
+nfo {padding-left: 44px; display: inline-block; } .wiz-todo-avata=
+r { width:20px; height: 20px; vertical-align: -20%; margin-right:=
+10px; border-radius: 2px;} .wiz-todo-account, .wiz-todo-dt { colo=
+r: #666; }</style>=0A<style type=3D"text/css" id=3D"wiz_custom_cs=
+s">=0Abody=0A{=0A    font-family: Arial;=0A    font-size: 10.5pt;=
+=0A    line-height: 1.5;=0A}=0Ahtml, body=0A{=0A    color: ;=0A =20=
+  background-color: ;=0A}=0Ah1 {=0A    font-size:1.5em;=0A    fon=
+t-weight:bold;=0A}=0Ah2 {=0A    font-size:1.4em;=0A    font-weigh=
+t:bold;=0A}=0Ah3 {=0A    font-size:1.3em;=0A    font-weight:bold;=
+=0A}=0Ah4 {=0A    font-size:1.2em;=0A    font-weight:bold;=0A}=0A=
+h5 {=0A    font-size:1.1em;=0A    font-weight:bold;=0A}=0Ah6 {=0A=
+    font-size:1.0em;=0A    font-weight:bold;=0A}=0Aimg {=0A    bo=
+rder:0;=0A    max-width: 100%;=0A    height: auto !important;=0A}=
+=0Ablockquote {=0A    margin-top:0px;=0A    margin-bottom:0px;=0A=
+}=0Atable {=0A    border-collapse:collapse;=0A    border:1px soli=
+d #bbbbbb;=0A}=0Atd {=0A    border-collapse:collapse;=0A    borde=
+r:1px solid #bbbbbb;=0A}=0A</style>=0A</head>=0A=0A<body style><h=
+2 id=3D"Structure_of_the_new-style_solr.xml">Structure of the new=
+-style solr.xml</h2>=0A<span class=3D"anchor" id=3D"line-13"></sp=
+an><p class=3D"line862">Basically, =0Ait's mostly a move from the=
+ older attributes to a flatter style, and =0Aremoval of &lt;cores=
+&gt; and &lt;core&gt; tags. Here's a sample file. =0ANote that an=
+y of these values can have a system property defined by =0Aspecif=
+ying -Dpropname=3Dpropvalue on JVM startup: <span class=3D"anchor=
+" id=3D"line-14"></span><span class=3D"anchor" id=3D"line-15"></s=
+pan></p><p class=3D"line874">Any=0A of these will honor system pr=
+operty substitution following the usual =0Arules of ${propname:de=
+fault_value}. Remember that a form ${sysprop:} =0Awill use the bu=
+ilt-in defaults and can be omitted from the config, =0Athey're in=
+cluded here to document that they're available. Where it's =0Astr=
+aightforward to find in the code, the defaults are included. Note=
+ =0Athat the defaults are subject to change. <span class=3D"ancho=
+r" id=3D"line-16"></span><span class=3D"anchor" id=3D"line-17"></=
+span></p><p class=3D"line867"><img alt=3D"&lt;!&gt;" src=3D"b7bd9=
+19b-2b84-41d1-9943-ddbac45559a4.png" title=3D"&lt;!&gt;" height=3D=
+"16" width=3D"16"> <strong>This=0A example has many options liste=
+d here for reference. You should not =0Achange them unless and un=
+til you have a need. Start with the solr.xml in=0A the example di=
+rectory in the distro =0A(&lt;solrHome&gt;/example/solr/solr.xml)=
+ and only add in specific =0Aoptions as the need arises.</strong>=
+ <span class=3D"anchor" id=3D"line-18"></span><span class=3D"anch=
+or" id=3D"line-19"></span></p><p class=3D"line867"><span class=3D=
+"anchor" id=3D"line-20"></span><span class=3D"anchor" id=3D"line-=
+21"></span><span class=3D"anchor" id=3D"line-22"></span><span cla=
+ss=3D"anchor" id=3D"line-23"></span><span class=3D"anchor" id=3D"=
+line-24"></span><span class=3D"anchor" id=3D"line-25"></span><spa=
+n class=3D"anchor" id=3D"line-26"></span><span class=3D"anchor" i=
+d=3D"line-27"></span><span class=3D"anchor" id=3D"line-28"></span=
+><span class=3D"anchor" id=3D"line-29"></span><span class=3D"anch=
+or" id=3D"line-30"></span><span class=3D"anchor" id=3D"line-31"><=
+/span><span class=3D"anchor" id=3D"line-32"></span><span class=3D=
+"anchor" id=3D"line-33"></span><span class=3D"anchor" id=3D"line-=
+34"></span><span class=3D"anchor" id=3D"line-35"></span><span cla=
+ss=3D"anchor" id=3D"line-36"></span><span class=3D"anchor" id=3D"=
+line-37"></span><span class=3D"anchor" id=3D"line-38"></span><spa=
+n class=3D"anchor" id=3D"line-39"></span><span class=3D"anchor" i=
+d=3D"line-40"></span><span class=3D"anchor" id=3D"line-41"></span=
+><span class=3D"anchor" id=3D"line-42"></span><span class=3D"anch=
+or" id=3D"line-43"></span><span class=3D"anchor" id=3D"line-44"><=
+/span><span class=3D"anchor" id=3D"line-45"></span><span class=3D=
+"anchor" id=3D"line-46"></span><span class=3D"anchor" id=3D"line-=
+47"></span><span class=3D"anchor" id=3D"line-48"></span><span cla=
+ss=3D"anchor" id=3D"line-49"></span><span class=3D"anchor" id=3D"=
+line-50"></span><span class=3D"anchor" id=3D"line-51"></span><spa=
+n class=3D"anchor" id=3D"line-52"></span><span class=3D"anchor" i=
+d=3D"line-53"></span><span class=3D"anchor" id=3D"line-54"></span=
+><span class=3D"anchor" id=3D"line-55"></span><span class=3D"anch=
+or" id=3D"line-56"></span><span class=3D"anchor" id=3D"line-57"><=
+/span></p><pre><span class=3D"anchor" id=3D"line-1"></span>&lt;so=
+lr&gt;=0A<span class=3D"anchor" id=3D"line-2"></span>  &lt;str na=
+me=3D"adminHandler"&gt;${adminHandler:org.apache.solr.handler.adm=
+in.CoreAdminHandler}&lt;/str&gt;=0A<span class=3D"anchor" id=3D"l=
+ine-3"></span>  &lt;int name=3D"coreLoadThreads"&gt;${coreLoadThr=
+eads:3}&lt;/int&gt;=0A<span class=3D"anchor" id=3D"line-4"></span=
+>  &lt;str name=3D"coreRootDirectory"&gt;${coreRootDirectory:}&lt=
+;/str&gt; &lt;!-- usually solrHome  --&gt;=0A<span class=3D"ancho=
+r" id=3D"line-5"></span>  &lt;str name=3D"managementPath"&gt;${ma=
+nagementPath:}&lt;/str&gt;=0A<span class=3D"anchor" id=3D"line-6"=
+></span>  &lt;str name=3D"sharedLib"&gt;${sharedLib:}&lt;/str&gt;=
+=0A<span class=3D"anchor" id=3D"line-7"></span>  &lt;str name=3D"=
+shareSchema"&gt;${shareSchema:false}&lt;/str&gt;=0A<span class=3D=
+"anchor" id=3D"line-8"></span>  &lt;int name=3D"transientCacheSiz=
+e"&gt;${transientCacheSize:Integer.MAX_VALUE}&lt;/int&gt; &lt;!--=
+ ignored unless cores are defined with transient=3Dtrue --&gt;=0A=
+<span class=3D"anchor" id=3D"line-9"></span>=0A<span class=3D"anc=
+hor" id=3D"line-10"></span>  &lt;solrcloud&gt;=0A<span class=3D"a=
+nchor" id=3D"line-11"></span>    &lt;int name=3D"distribUpdateCon=
+nTimeout"&gt;${distribUpdTimeout:}&lt;/int&gt;=0A<span class=3D"a=
+nchor" id=3D"line-12"></span>    &lt;int name=3D"distribUpdateSoT=
+imeout"&gt;${distribUpdateTimeout:}&lt;/int&gt;=0A<span class=3D"=
+anchor" id=3D"line-13"></span>    &lt;int name=3D"leaderVoteWait"=
+&gt;${leaderVoteWait:}&lt;/int&gt;=0A<span class=3D"anchor" id=3D=
+"line-14"></span>    &lt;str name=3D"host"&gt;${host:}&lt;/str&gt=
+;=0A<span class=3D"anchor" id=3D"line-15"></span>    &lt;str name=
+=3D"hostContext"&gt;${hostContext:solr}&lt;/str&gt;=0A<span class=
+=3D"anchor" id=3D"line-16"></span>    &lt;int name=3D"hostPort"&g=
+t;${jetty.port:8983}&lt;/int&gt;=0A<span class=3D"anchor" id=3D"l=
+ine-17"></span>    &lt;int name=3D"zkClientTimeout"&gt;${zkClient=
+Timeout:15000}&lt;/int&gt;=0A<span class=3D"anchor" id=3D"line-18=
+"></span>    &lt;str name=3D"zkHost"&gt;${zkHost:}&lt;/str&gt;=0A=
+<span class=3D"anchor" id=3D"line-19"></span>    &lt;bool name=3D=
+"genericCoreNodeNames"&gt;${genericCoreNodeNames:true}&lt;/bool&g=
+t;=0A<span class=3D"anchor" id=3D"line-20"></span>  &lt;/solrclou=
+d&gt;=0A<span class=3D"anchor" id=3D"line-21"></span>=0A<span cla=
+ss=3D"anchor" id=3D"line-22"></span>=0A<span class=3D"anchor" id=3D=
+"line-23"></span>  &lt;logging&gt;=0A<span class=3D"anchor" id=3D=
+"line-24"></span>    &lt;str name=3D"class"&gt;${loggingClass:}&l=
+t;/str&gt;=0A<span class=3D"anchor" id=3D"line-25"></span>    &lt=
+;str name=3D"enabled"&gt;${loggingEnabled:}&lt;/str&gt;=0A<span c=
+lass=3D"anchor" id=3D"line-26"></span>    &lt;watcher&gt;=0A<span=
+ class=3D"anchor" id=3D"line-27"></span>      &lt;int name=3D"siz=
+e"&gt;${loggingSize:}&lt;/int&gt;=0A<span class=3D"anchor" id=3D"=
+line-28"></span>      &lt;int name=3D"threshold"&gt;${loggingThre=
+shold:}&lt;/int&gt;=0A<span class=3D"anchor" id=3D"line-29"></spa=
+n>    &lt;/watcher&gt;=0A<span class=3D"anchor" id=3D"line-30"></=
+span>  &lt;/logging&gt;=0A<span class=3D"anchor" id=3D"line-31"><=
+/span>=0A<span class=3D"anchor" id=3D"line-32"></span>  &lt;shard=
+HandlerFactory name=3D"shardHandlerFactory" class=3D"HttpShardHan=
+dlerFactory"&gt;=0A<span class=3D"anchor" id=3D"line-33"></span>=20=
+   &lt;int name=3D"socketTimeout"&gt;${socketTimeout:}&lt;/int&gt=
+;=0A<span class=3D"anchor" id=3D"line-34"></span>    &lt;int name=
+=3D"connTimeout"&gt;${socketTimeout:}&lt;/int&gt;=0A<span class=3D=
+"anchor" id=3D"line-35"></span>  &lt;/shardHandlerFactory&gt;=0A<=
+span class=3D"anchor" id=3D"line-36"></span>=0A<span class=3D"anc=
+hor" id=3D"line-37"></span>&lt;/solr&gt;</pre><span class=3D"anch=
+or" id=3D"line-58"></span><p class=3D"line867">=0A</p><h2 id=3D"C=
+ore_discovery_process">Core discovery process</h2>=0A<span class=3D=
+"anchor" id=3D"line-59"></span><p class=3D"line862">See: <a href=3D=
+"https://wiki.apache.org/solr/Core%20Discovery%20%284.4%20and%20b=
+eyond%29">Core Discovery (4.4 and beyond)</a>. <span class=3D"anc=
+hor" id=3D"line-60"></span><span class=3D"anchor" id=3D"line-61">=
+</span></p><p class=3D"line874">Core=0A discovery happens at star=
+tup. Exploration of the core tree terminates =0Awhen a file named=
+ core.properties is encountered. Discovery of a file of=0A that n=
+ame is assumed to define the root of a core. There is no a-priori=
+=0A limit on the depth of the tree. That is, the directories unde=
+r the core=0A root are explored until a core.properties file is e=
+ncountered, and that=0A directory is assumed to be the instanceDi=
+r for that core. =0ASubdirectories of any directory that has a co=
+re.properties file are NOT =0Aexamined for additional cores. The=20=
+core.properties file presently =0Arecognizes the following entrie=
+s: <span class=3D"anchor" id=3D"line-62"></span><span class=3D"an=
+chor" id=3D"line-63"></span></p><ul><li>name - the name of the co=
+re. If not specified, the name comes from the containing director=
+y. <span class=3D"anchor" id=3D"line-64"></span></li><li>config -=
+ the configuration file. Defaults to solrconfig.xml <span class=3D=
+"anchor" id=3D"line-65"></span></li><li>dataDir=0A - the director=
+y where the index, tlog, etc. are stored. Again, since =0Athis is=
+ discovery-based, omit this unless you have special needs. <span=20=
+class=3D"anchor" id=3D"line-66"></span></li><li>ulogDir=0A - wher=
+e the transaction log resides. It may be advantageous to put the=20=
+=0Atransaction lot on a different disk than the index. <span clas=
+s=3D"anchor" id=3D"line-67"></span></li><li>schema - the schema f=
+ile. Defaults to schema.xml <span class=3D"anchor" id=3D"line-68"=
+></span></li><li>shard - the shard ID. <span class=3D"anchor" id=3D=
+"line-69"></span></li><li>collection - the collection to which th=
+is core belongs <span class=3D"anchor" id=3D"line-70"></span></li=
+><li><p class=3D"line862">roles - <a href=3D"https://wiki.apache.=
+org/solr/SolrCloud">SolrCloud</a> role definition <span class=3D"=
+anchor" id=3D"line-71"></span></p></li><li>properties=0A - proper=
+ties file to override core definitions. TBD: This is probably =0A=
+obsolete since we're reading a properties file in the first place=
+. Is =0Athere a use case for supporting this now? <span class=3D"=
+anchor" id=3D"line-72"></span></li><li><p class=3D"line862">loadO=
+nStartup - [<strong>true</strong>|false] this core should be load=
+ed and a searcher opened when Solr starts. <span class=3D"anchor"=
+ id=3D"line-73"></span></p></li><li><p class=3D"line862">transien=
+t - [true|<strong>false</strong>] this core may be unloaded if th=
+e core cache exceeds transientCacheSize (defined in solr.propreti=
+es) <span class=3D"anchor" id=3D"line-74"></span></p></li><li><p=20=
+class=3D"line862">coreNodeName - <a href=3D"https://wiki.apache.o=
+rg/solr/SolrCloud">SolrCloud</a> core node name <span class=3D"an=
+chor" id=3D"line-75"></span><span class=3D"anchor" id=3D"line-76"=
+></span></p></li></ul><p class=3D"line867">=0A</p><h3 id=3D"Minim=
+al_core.properties_file">Minimal core.properties file</h3>=0A<spa=
+n class=3D"anchor" id=3D"line-77"></span><p class=3D"line874">Int=
+erestingly,=0A the minimal core.properties file is empty. Say an=20=
+empty core.properties=0A file is discovered in /solr/home/core1.=20=
+The name will default to =0A"core1", the instanceDir to /solr/hom=
+e/core1, the dataDir to =0A/solr/home/core1/data etc. <span class=
+=3D"anchor" id=3D"line-78"></span><span class=3D"anchor" id=3D"li=
+ne-79"></span></p><p class=3D"line867">=0A</p><h3 id=3D"Relation_=
+with_CoreAdmin_api">Relation with CoreAdmin api</h3>=0A<span clas=
+s=3D"anchor" id=3D"line-80"></span><p class=3D"line874">The core=20=
+discovery process happens only at startup. After startup, Solr do=
+es not monitor changes in the core root directory. <span class=3D=
+"anchor" id=3D"line-81"></span></p><ul><li><p class=3D"line862">t=
+o=0A add a new core, create an instanceDir in the core root direc=
+tory for =0Athe core without a core.properties file, and use the=20=
+CREATE <a href=3D"https://wiki.apache.org/solr/CoreAdmin">CoreAdm=
+in</a> operation <span class=3D"anchor" id=3D"line-82"></span></p=
+></li><li><p class=3D"line862">to remove an existing core, use th=
+e UNLOAD <a href=3D"https://wiki.apache.org/solr/CoreAdmin">CoreA=
+dmin</a> operation <span class=3D"anchor" id=3D"line-83"></span><=
+span class=3D"anchor" id=3D"line-84"></span></p></li></ul><p clas=
+s=3D"line867">=0A</p><h2 id=3D"Ignoring_cores">Ignoring cores</h2=
+>=0A<span class=3D"anchor" id=3D"line-85"></span><p class=3D"line=
+874">It's not =0Ahard to imagine that people will want to have th=
+e core discovery process=0A temporarily ignore one or more cores.=
+ The easiest way to accomplish =0Athis would be to rename the cor=
+e.properties file, e.g. =0Acore.properties.bak.</p><br><div style=
+=3D"color:gray"><small>=C0=B4=D4=B4=A3=BA&nbsp;&lt;<a href=3D"htt=
+ps://wiki.apache.org/solr/Solr.xml%204.4%20and%20beyond">https://=
+wiki.apache.org/solr/Solr.xml%204.4%20and%20beyond</a><small>&gt;=
+</small></small></div><p class=3D"line874"><span style=3D"font-si=
+ze: 10.5pt; line-height: 1.5;">&nbsp;</span>&nbsp;</p>=0A=0A=0A=0A=
+</body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000217140.663--
+
+------=_Next_Part_0000651420.638
+Content-Type: image/png;
+	name="b7bd919b-2b84-41d1-9943-ddbac45559a4.png"
+Content-Transfer-Encoding: base64
+Content-ID: <b7bd919b-2b84-41d1-9943-ddbac45559a4.png>
+Content-Location: b7bd919b-2b84-41d1-9943-ddbac45559a4.png
+
+iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJWSURBVDhPnZPrS5NRHMd/butiVISWEiTBiJFGq1ahtQrrP8g3uZusYKNeBlGtGxqroBcbc7OpSLdVBJpUL5oRQm9sptvcwLCyF5uhwga74Z5zdnG/nmfDbU/KiA4ceDjnfD+/7+/yAJStTgDBxKWtn/wXN0e8HcKsVw3o7RBkvBc2zE8qQV/+dtX3Z+06nV+/iQa6dmHsmQzJsBzpu1NIhuQYeyLDX7d2pj2aqoBHAdJV4lGlUOPTinKRgQNIh04i6W9B0tNc2n0tSF/JMWTfv+xRwxIP0rkP1vv11TQyIEXqkBdFme9O5Fbm29viGX18DBd7mqhbDb6ii6+6jSPBrgakgyd4UUuA97xz+uI4/jDUJlgX5/MQn646yuVIWJsrthnLQUy7HmFmehjT4738dHqbWReNca8KPuQBbJWzZLBknYMwFhmmPt7EjNeB1HkdiakJifVwERR9Kku5lRAuANhW0Tds4VaKZjuCSWMdMo42TI3eRfpahUkDYPJGFTL36pFYpBh/fjTrUUE2D/BoIMO8PITE3IiMcQf7UFAQVNjhvr0xNnCoANAKF2LdDZi8I+KJuOjc4lLhwW6LcN4mCRdr8KUdrswaatLEUvdPgGi3mM5crflZ7ALnwq2BYNiyO8c82FLZ/sNanDOLf7P5u3jTyE0WN2GLZnGKWOoxydr823bMKk4HTKxYCaE1x9naCq1j7TA9c2370pxJTCJ2yXKiX5JbsEqYoHlPdOryttmxczC1prjcjv0MGEfOwoRLAQm217lxBcSdbTBpOw33K/6N/3v5B6ap5ess7LUIAAAAAElFTkSuQmCC
+
+------=_Next_Part_0000651420.638--
+

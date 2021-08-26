@@ -1,0 +1,639 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?c2NhbGHW0G1hcNPrZmxhdE1hcMezzvY=?=
+Date: Date: Fri, 23 Jul 2021 05:55:19 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0001399968.401"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0001399968.401
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000466656.034"
+
+
+------=_Next_Part_0000466656.034
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000466656.034
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A<title>scala=D6=D0map=D3=EBflatMap=C7=B3=CE=F6</ti=
+tle>=0A    =0A<style id=3D"wiz_custom_css">html, body {font-size:=
+ 12pt;}body {font-family: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=
+=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun, SimHei, arial, sa=
+ns-serif;line-height: 1.6;margin: 0 auto;padding: 20px 16px;paddi=
+ng: 1.25rem 1rem;}h1, h2, h3, h4, h5, h6 {margin:20px 0 10px;marg=
+in:1.25rem 0 0.625rem;padding: 0;font-weight: bold;}h1 {font-size=
+:20pt;font-size:1.67rem;}h2 {font-size:18pt;font-size:1.5rem;}h3=20=
+{font-size:15pt;font-size:1.25rem;}h4 {font-size:14pt;font-size:1=
+.17rem;}h5 {font-size:12pt;font-size:1rem;}h6 {font-size:12pt;fon=
+t-size:1rem;color: #777777;margin: 1rem 0;}div, p, ul, ol, dl, li=
+ {margin:0;}blockquote, table, pre, code {margin:8px 0;}ul, ol {p=
+adding-left:32px;padding-left:2rem;}ol.wiz-list-level1 > li {list=
+-style-type:decimal;}ol.wiz-list-level2 > li {list-style-type:low=
+er-latin;}ol.wiz-list-level3 > li {list-style-type:lower-roman;}b=
+lockquote {padding:0 12px;padding:0 0.75rem;}blockquote > :first-=
+child {margin-top:0;}blockquote > :last-child {margin-bottom:0;}i=
+mg {border:0;max-width:100%;height:auto !important;margin:2px 0;}=
+table {border-collapse:collapse;border:1px solid #bbbbbb;}td, th=20=
+{padding:4px 8px;border-collapse:collapse;border:1px solid #bbbbb=
+b;min-height:28px;word-break:break-all;box-sizing: border-box;}.w=
+iz-hide {display:none !important;}</style><style id=3D"wiz_code_s=
+tyle">.wiz-code-container{position: relative; padding:8px 0; marg=
+in: 5px 25px 5px 5px;text-indent:0; text-align:left;}.CodeMirror=20=
+{font-family: Consolas, "Liberation Mono", Menlo, Courier, monosp=
+ace; color: black; font-size: 10pt; font-size: 0.83rem}.CodeMirro=
+r-lines {padding: 4px 0;}.CodeMirror pre {padding: 0 4px;}.CodeMi=
+rror-scrollbar-filler, .CodeMirror-gutter-filler {background-colo=
+r: white;}.CodeMirror-gutters {border-right: 1px solid #ddd; back=
+ground-color: #f7f7f7; white-space: nowrap;}.CodeMirror-linenumbe=
+rs {}.CodeMirror-linenumber {padding: 0 3px 0 5px; min-width: 20p=
+x; text-align: right; color: #999; white-space: nowrap;}.CodeMirr=
+or-guttermarker {color: black;}.CodeMirror-guttermarker-subtle {c=
+olor: #999;}.CodeMirror-cursor {border-left: 1px solid black; bor=
+der-right: none; width: 0;}.CodeMirror div.CodeMirror-secondarycu=
+rsor {border-left: 1px solid silver;}.cm-fat-cursor .CodeMirror-c=
+ursor {width: auto; border: 0 !important; background: #7e7;}.cm-f=
+at-cursor div.CodeMirror-cursors {z-index: 1;}.cm-animate-fat-cur=
+sor {width: auto; border: 0; -webkit-animation: blink 1.06s steps=
+(1) infinite; -moz-animation: blink 1.06s steps(1) infinite; anim=
+ation: blink 1.06s steps(1) infinite; background-color: #7e7;}@-m=
+oz-keyframes blink {  0% {}  50% { background-color: transparent;=
+ }  100% {}}@-webkit-keyframes blink {  0% {}  50% { background-c=
+olor: transparent; }  100% {}}@keyframes blink {  0% {}  50% { ba=
+ckground-color: transparent; }  100% {}}.CodeMirror-overwrite .Co=
+deMirror-cursor {}.cm-tab { display: inline-block; text-decoratio=
+n: inherit; }.CodeMirror-rulers {position: absolute; left: 0; rig=
+ht: 0; top: -50px; bottom: -20px; overflow: hidden;}.CodeMirror-r=
+uler {border-left: 1px solid #ccc; top: 0; bottom: 0; position: a=
+bsolute;}.cm-s-default .cm-header {color: blue;}.cm-s-default .cm=
+-quote {color: #090;}.cm-negative {color: #d44;}.cm-positive {col=
+or: #292;}.cm-header, .cm-strong {font-weight: bold;}.cm-em {font=
+-style: italic;}.cm-link {text-decoration: underline;}.cm-striket=
+hrough {text-decoration: line-through;}.cm-s-default .cm-keyword=20=
+{color: #708;}.cm-s-default .cm-atom {color: #219;}.cm-s-default=20=
+.cm-number {color: #164;}.cm-s-default .cm-def {color: #00f;}.cm-=
+s-default .cm-variable,.cm-s-default .cm-punctuation,.cm-s-defaul=
+t .cm-property,.cm-s-default .cm-operator {}.cm-s-default .cm-var=
+iable-2 {color: #05a;}.cm-s-default .cm-variable-3 {color: #085;}=
+.cm-s-default .cm-comment {color: #a50;}.cm-s-default .cm-string=20=
+{color: #a11;}.cm-s-default .cm-string-2 {color: #f50;}.cm-s-defa=
+ult .cm-meta {color: #555;}.cm-s-default .cm-qualifier {color: #5=
+55;}.cm-s-default .cm-builtin {color: #30a;}.cm-s-default .cm-bra=
+cket {color: #997;}.cm-s-default .cm-tag {color: #170;}.cm-s-defa=
+ult .cm-attribute {color: #00c;}.cm-s-default .cm-hr {color: #999=
+;}.cm-s-default .cm-link {color: #00c;}.cm-s-default .cm-error {c=
+olor: #f00;}.cm-invalidchar {color: #f00;}.CodeMirror-composing {=
+ border-bottom: 2px solid; }div.CodeMirror span.CodeMirror-matchi=
+ngbracket {color: #0f0;}div.CodeMirror span.CodeMirror-nonmatchin=
+gbracket {color: #f22;}.CodeMirror-matchingtag { background: rgba=
+(255, 150, 0, .3); }.CodeMirror-activeline-background {background=
+: #e8f2ff;}.CodeMirror {position: relative; background: #f5f5f5;}=
+.CodeMirror-scroll {overflow: hidden !important; margin-bottom: 0=
+; margin-right: -30px; padding: 16px 30px 16px 0; outline: none;=20=
+position: relative;}.CodeMirror-sizer {position: relative; border=
+-right: 30px solid transparent;}.CodeMirror-vscrollbar, .CodeMirr=
+or-hscrollbar, .CodeMirror-scrollbar-filler, .CodeMirror-gutter-f=
+iller {position: absolute; z-index: 6; display: none;}.CodeMirror=
+-vscrollbar {right: 0; top: 0; overflow-x: hidden; overflow-y: sc=
+roll;}.CodeMirror-hscrollbar {bottom: 0; left: 0 !important; over=
+flow-y: hidden; overflow-x: scroll;}.CodeMirror-scrollbar-filler=20=
+{right: 0; bottom: 0;}.CodeMirror-gutter-filler {left: 0; bottom:=
+ 0;}.CodeMirror-gutters {position: absolute; left: 0; top: -5px;=20=
+min-height: 100%; z-index: 3;}.CodeMirror-gutter {white-space: no=
+rmal; height: inherit; display: inline-block; vertical-align: top=
+; margin-bottom: -30px;}.CodeMirror-gutter-wrapper {position: abs=
+olute; z-index: 4; background: none !important; border: none !imp=
+ortant;}.CodeMirror-gutter-background {position: absolute; top: 0=
+; bottom: 0; z-index: 4;}.CodeMirror-gutter-elt {position: absolu=
+te; cursor: default; z-index: 4; text-align: center;}.CodeMirror-=
+gutter-wrapper ::selection { background-color: transparent }.Code=
+Mirror-gutter-wrapper ::-moz-selection { background-color: transp=
+arent }.CodeMirror-lines {cursor: text; min-height: 1px;}.CodeMir=
+ror pre {-moz-border-radius: 0; -webkit-border-radius: 0; border-=
+radius: 0; border-width: 0; background: transparent; font-family:=
+ inherit; font-size: inherit; margin: 0; white-space: pre; word-w=
+rap: normal; line-height: inherit; color: inherit; z-index: 2; po=
+sition: relative; overflow: visible; -webkit-tap-highlight-color:=
+ transparent; -webkit-font-variant-ligatures: contextual; font-va=
+riant-ligatures: contextual;}.CodeMirror-wrap pre {word-wrap: bre=
+ak-word; white-space: pre-wrap; word-break: normal;}.CodeMirror-l=
+inebackground {position: absolute; left: 0; right: 0; top: 0; bot=
+tom: 0; z-index: 0;}.CodeMirror-linewidget {position: relative; z=
+-index: 2; overflow: auto;}.CodeMirror-widget {}.CodeMirror-rtl p=
+re { direction: rtl; }.CodeMirror-code {outline: none;}.CodeMirro=
+r-scroll,.CodeMirror-sizer,.CodeMirror-gutter,.CodeMirror-gutters=
+,.CodeMirror-linenumber {-moz-box-sizing: content-box; box-sizing=
+: content-box;}.CodeMirror-measure {position: absolute; width: 10=
+0%; height: 0; overflow: hidden; visibility: hidden;}.CodeMirror-=
+cursor {position: absolute; pointer-events: none;}.CodeMirror-mea=
+sure pre { position: static; }div.CodeMirror-cursors {visibility:=
+ hidden; position: relative; z-index: 3;}div.CodeMirror-dragcurso=
+rs {visibility: visible;}.CodeMirror-focused div.CodeMirror-curso=
+rs {visibility: visible;}.CodeMirror-selected { background: #d9d9=
+d9; }.CodeMirror-focused .CodeMirror-selected { background: #d7d4=
+f0; }.CodeMirror-crosshair { cursor: crosshair; }.CodeMirror-line=
+::selection, .CodeMirror-line > span::selection, .CodeMirror-line=
+ > span > span::selection { background: #d7d4f0; }.CodeMirror-lin=
+e::-moz-selection, .CodeMirror-line > span::-moz-selection, .Code=
+Mirror-line > span > span::-moz-selection { background: #d7d4f0;=20=
+}.cm-searching {background: #ffa; background: rgba(255, 255, 0, .=
+4);}.cm-force-border { padding-right: .1px; }@media print {  .Cod=
+eMirror div.CodeMirror-cursors {visibility: hidden;}}.cm-tab-wrap=
+-hack:after { content: ""; }span.CodeMirror-selectedtext { backgr=
+ound: none; }.CodeMirror-activeline-background, .CodeMirror-selec=
+ted {transition: visibility 0ms 100ms;}.CodeMirror-blur .CodeMirr=
+or-activeline-background, .CodeMirror-blur .CodeMirror-selected {=
+visibility:hidden;}.CodeMirror-blur .CodeMirror-matchingbracket {=
+color:inherit !important;outline:none !important;text-decoration:=
+none !important;}</style></head>=0A=0A<body class spellcheck=3D"f=
+alse"><div><div class=3D"article-title-box" style=3D"padding:0px;=
+margin:0px 0px 16px;color:rgb(51, 51, 51);font-family:'SF Pro Dis=
+play', Roboto, Noto, Arial, 'PingFang SC', 'Hiragino Sans GB', 'M=
+icrosoft YaHei', sans-serif;font-size:0.875rem;font-style:normal;=
+font-weight:normal;text-align:start;text-indent:0px;"><h6 class=3D=
+"title-article" style=3D"padding:0px;margin:0px;font-size:1.5rem;=
+">scala=D6=D0map=D3=EBflatMap=C7=B3=CE=F6</h6><div class=3D"artic=
+le-info-box" style=3D"padding:0px 0px 14px;margin:0px;border-bott=
+om-width:1px;border-bottom-style:solid;border-bottom-color:rgb(22=
+7, 227, 227);color:rgb(51, 51, 51);font-family:'SF Pro Display',=20=
+Roboto, Noto, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microsof=
+t YaHei', sans-serif;font-size:0.875rem;font-style:normal;font-we=
+ight:normal;text-align:start;text-indent:0px;"><div class=3D"arti=
+cle-bar-top d-flex" style=3D"padding:0px;margin:0px;display:flex=20=
+!important;color:rgb(133, 133, 133);"><span class=3D"time" style=3D=
+"margin-right:14px;">2016=C4=EA10=D4=C231=C8=D5 16:39:51</span><d=
+iv class=3D"float-right" style=3D"padding:0px;margin:0px 0px 0px=20=
+auto;"><span class=3D"read-count" style=3D"margin-right:14px;">=D4=
+=C4=B6=C1=CA=FD=A3=BA13264</span></div></div></div><article style=
+=3D"display:block;padding-top:16px;color:rgb(51, 51, 51);font-fam=
+ily:'SF Pro Display', Roboto, Noto, Arial, 'PingFang SC', 'Hiragi=
+no Sans GB', 'Microsoft YaHei', sans-serif;font-size:0.875rem;fon=
+t-style:normal;font-weight:normal;text-align:start;text-indent:0p=
+x;"><div id=3D"article_content" class=3D"article_content csdn-tra=
+cking-statistics" data-pid=3D"blog" data-mod=3D"popu_307" data-ds=
+m=3D"post" style=3D"padding:0px;margin:0px;"><div class=3D"markdo=
+wn_views" style=3D"padding:0px;margin:0px;font-family:-apple-syst=
+em, 'SF UI Text', Arial, 'PingFang SC', 'Hiragino Sans GB', 'Micr=
+osoft YaHei', 'WenQuanYi Micro Hei', sans-serif, SimHei, SimSun;"=
+><p style=3D"padding:0px;margin:0px 0px 16px;font-size:1rem;color=
+:rgb(79, 79, 79);font-weight:400;text-align:justify;">=D4=DA=BA=AF=
+=CA=FD=CA=BD=D3=EF=D1=D4=D6=D0=A3=AC=BA=AF=CA=FD=D7=F7=CE=AA=D2=BB=
+=B5=C8=B9=AB=C3=F1=A3=AC=BF=C9=D2=D4=D4=DA=C8=CE=BA=CE=B5=D8=B7=BD=
+=B6=A8=D2=E5=A3=AC=D4=DA=BA=AF=CA=FD=C4=DA=BB=F2=BA=AF=CA=FD=CD=E2=
+=A3=AC=BF=C9=D2=D4=D7=F7=CE=AA=BA=AF=CA=FD=B5=C4=B2=CE=CA=FD=BA=CD=
+=B7=B5=BB=D8=D6=B5=A3=AC=BF=C9=D2=D4=B6=D4=BA=AF=CA=FD=BD=F8=D0=D0=
+=D7=E9=BA=CF=A1=A3=D3=C9=D3=DA=C3=FC=C1=EE=CA=BD=B1=E0=B3=CC=D3=EF=
+=D1=D4=D2=B2=BF=C9=D2=D4=CD=A8=B9=FD=C0=E0=CB=C6=BA=AF=CA=FD=D6=B8=
+=D5=EB=B5=C4=B7=BD=CA=BD=C0=B4=CA=B5=CF=D6=B8=DF=BD=D7=BA=AF=CA=FD=
+=A3=AC=BA=AF=CA=FD=CA=BD=B5=C4=D7=EE=D6=F7=D2=AA=B5=C4=BA=C3=B4=A6=
+=D6=F7=D2=AA=CA=C7=B2=BB=BF=C9=B1=E4=D0=D4=B4=F8=C0=B4=B5=C4=A1=A3=
+=C3=BB=D3=D0=BF=C9=B1=E4=B5=C4=D7=B4=CC=AC=A3=AC=BA=AF=CA=FD=BE=CD=
+=CA=C7=D2=FD=D3=C3=CD=B8=C3=F7=A3=A8Referential transparency=A3=A9=
+=B5=C4=BA=CD=C3=BB=D3=D0=B8=B1=D7=F7=D3=C3=A3=A8No Side Effect=A3=
+=A9=A1=A3<span class=3D"Apple-converted-space">&nbsp;</span><br>=C8=
+=CE=BA=CE=D2=BB=D6=D6=BA=AF=CA=FD=CA=BD=D3=EF=D1=D4=D6=D0=A3=AC=B6=
+=BC=D3=D0map=BA=AF=CA=FD=D3=EBfaltMap=D5=E2=C1=BD=B8=F6=BA=AF=CA=FD=
+=A3=AC=B1=C8=C8=E7python=CB=E4=C8=BB=B2=BB=CA=C7=B4=BF=BA=AF=CA=FD=
+=CA=BD=D3=EF=D1=D4=A3=AC=D2=B2=D3=D0=D5=E2=C1=BD=B8=F6=BA=AF=CA=FD=
+=A1=A3=D4=D9=B1=C8=C8=E7=D4=DAjdk1.8=D6=AE=BA=F3=A3=AC=D2=B2=BC=D3=
+=C8=EB=C1=CBLambda=B1=ED=B4=EF=CA=BD=A3=AC=D7=D4=C8=BB=D2=B2=D6=A7=
+=B3=D6map=BA=AF=CA=FD=A1=A3<span class=3D"Apple-converted-space">=
+&nbsp;</span><br>=CF=D6=D4=DA=BC=F2=B5=A5=CB=B5=CB=B5scala=D6=D0=D5=
+=E2=C1=BD=B8=F6=BA=AF=CA=FD=B5=C4=D3=C3=B7=A8=A1=A3=D3=D0=D2=BB=D6=
+=D6=B9=DB=B5=E3=C8=CF=CE=AA=BD=ABmap=BA=CDflatMap=CB=B5=B3=C9Scal=
+a=BA=AF=CA=FD=BB=FA=D6=C6=B5=C4=BA=CB=D0=C4=B6=BC=B2=BB=CE=AA=B9=FD=
+=B7=D6=A3=AC=C6=E4=CA=B5=CA=C7=D3=D0=D2=BB=B6=A8=B5=C0=C0=ED=B5=C4=
+=A1=A3=D2=F2=CE=AA=CA=B5=BC=CA=D6=D0=CE=D2=C3=C7=CA=B9=D3=C3=D7=EE=
+=B6=E0=B5=C4=B3=A1=BE=B0=BE=CD=CA=C7=B6=D4=CA=FD=BE=DD=BD=F8=D0=D0=
+map=B2=D9=D7=F7=BB=F2=D5=DFflatMap=B2=D9=D7=F7=A1=A3map=BA=AF=CA=FD=
+=B5=C4=D3=C3=B7=A8=A3=AC=B9=CB=C3=FB=CB=BC=D2=E5=A3=AC=BD=AB=D2=BB=
+=B8=F6=BA=AF=CA=FD=B4=AB=C8=EBmap=D6=D0=A3=AC=C8=BB=BA=F3=C0=FB=D3=
+=C3=B4=AB=C8=EB=B5=C4=D5=E2=B8=F6=BA=AF=CA=FD=A3=AC=BD=AB=BC=AF=BA=
+=CF=D6=D0=B5=C4=C3=BF=B8=F6=D4=AA=CB=D8=B4=A6=C0=ED=A3=AC=B2=A2=BD=
+=AB=B4=A6=C0=ED=BA=F3=B5=C4=BD=E1=B9=FB=B7=B5=BB=D8=A1=A3=B6=F8fl=
+atMap=D3=EBmap=CE=A8=D2=BB=B2=BB=D2=BB=D1=F9=B5=C4=B5=D8=B7=BD=BE=
+=CD=CA=C7=B4=AB=C8=EB=B5=C4=BA=AF=CA=FD=D4=DA=B4=A6=C0=ED=CD=EA=BA=
+=F3=B7=B5=BB=D8=D6=B5=B1=D8=D0=EB=CA=C7List=A3=AC=C6=E4=CA=B5=D5=E2=
+=D2=B2=B2=BB=C4=D1=C0=ED=BD=E2=A3=AC=BC=C8=C8=BB=CA=C7flatMap=A3=AC=
+=C4=C7=B3=FD=C1=CBmap=D2=D4=CD=E2=B1=D8=C8=BB=BB=B9=D3=D0flat=B5=C4=
+=B2=D9=D7=F7=A3=AC=CB=F9=D2=D4=D0=E8=D2=AA=B7=B5=BB=D8=D6=B5=CA=C7=
+List=B2=C5=C4=DC=D6=B4=D0=D0flat=D5=E2=D2=BB=B2=BD=A1=A3<span cla=
+ss=3D"Apple-converted-space">&nbsp;</span><br>=B7=CF=BB=B0=B2=BB=B6=
+=E0=CB=B5=A3=AC=BF=B4=D2=BB=B8=F6=D0=A1=C0=FD=D7=D3=BE=CD=C3=F7=B0=
+=D7=D3=C3=B7=A8=C1=CB=A1=A3</p><br><div style=3D"color:gray;"><sm=
+all>=C0=B4=D4=B4=A3=BA&nbsp;<a href=3D"https://blog.csdn.net/bitc=
+armanlee/article/details/52983607">https://blog.csdn.net/bitcarma=
+nlee/article/details/52983607</a></small></div></div></div></arti=
+cle></div></div><div data-mode=3D"JavaScript" data-theme=3D"defau=
+lt" id=3D"wiz_cm_1524880570425_6084" class=3D"wiz-code-container"=
+><textarea style=3D"display:none;">object collection_t1 {=0A=0A =20=
+def flatMap1(): Unit =3D {=0A    val li =3D List(1,2,3)=0A    val=
+ res =3D li.flatMap(x =3D&gt; x match {=0A      case 3 =3D&gt; Li=
+st('a','b')=0A      case _ =3D&gt; List(x*2)=0A    })=0A    print=
+ln(res)=0A  }=0A=0A  def map1(): Unit =3D {=0A    val li =3D List=
+(1,2,3)=0A    val res =3D li.map(x =3D&gt; x match {=0A      case=
+ 3 =3D&gt; List('a','b')=0A      case _ =3D&gt; x*2=0A    })=0A =20=
+  println(res)=0A  }=0A=0A  def main(args: Array[String]): Unit =3D=
+ {=0A    flatMap1()=0A    map1()=0A  }=0A}=0A1=0A2=0A3=0A4=0A5=0A=
+6=0A7=0A8=0A9=0A10=0A11=0A12=0A13=0A14=0A15=0A16=0A17=0A18=0A19=0A=
+20=0A21=0A22=0A23=0A24=0A25</textarea><wiz_code_mirror><div class=
+=3D"CodeMirror cm-s-default CodeMirror-wrap" data-id=3D"wiz_cm_15=
+24880570295_9535"><div style=3D"overflow: hidden; position: relat=
+ive; width: 3px; height: 0px; top: 20px; left: 34px;"><textarea a=
+utocorrect=3D"off" autocapitalize=3D"off" spellcheck=3D"false" st=
+yle=3D"padding:0px; width:1000px; height:1em;" tabindex=3D"0"></t=
+extarea></div><div class=3D"CodeMirror-scrollbar-filler"></div><d=
+iv class=3D"CodeMirror-gutter-filler"></div><div class=3D"CodeMir=
+ror-scroll"><div class=3D"CodeMirror-sizer" style=3D"margin-left:=
+ 30px; margin-bottom: 0px; border-right-width: 30px; min-height:=20=
+1058px; padding-right: 0px; padding-bottom: 0px;"><div style=3D"p=
+osition: relative; top: 0px;"><div class=3D"CodeMirror-lines"><di=
+v style=3D"position: relative; outline: none;"><div class=3D"Code=
+Mirror-measure"><span><span></span>x</span></div><div class=3D"Co=
+deMirror-measure"></div><div style=3D"position: relative; z-index=
+: 1;"></div><div class=3D"wiz-hide wiz_CodeMirror-cursors"><div c=
+lass=3D"CodeMirror-cursor" style=3D"left: 4px; top: 0px; height:=20=
+21px;">&nbsp;</div></div><div class=3D"CodeMirror-code"><div clas=
+s=3D"CodeMirror-activeline" style=3D"position: relative;"><div cl=
+ass=3D"wiz-hide wiz_CodeMirror-activeline-background CodeMirror-l=
+inebackground"></div><div class=3D"CodeMirror-gutter-background C=
+odeMirror-activeline-gutter" style=3D"left: -30px; width: 30px;">=
+</div><div class=3D"CodeMirror-gutter-wrapper CodeMirror-activeli=
+ne-gutter" style=3D"left: -30px;"><div class=3D"CodeMirror-linenu=
+mber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">1</=
+div></div><pre class=3D"CodeMirror-line"><span style=3D"padding-r=
+ight: 0.1px;"><span class=3D"cm-variable">object</span> <span cla=
+ss=3D"cm-variable">collection_t1</span> {</span></pre></div><div=20=
+style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wra=
+pper" style=3D"left: -30px;"><div class=3D"CodeMirror-linenumber=20=
+CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">2</div><=
+/div><pre class=3D"CodeMirror-line"><span style=3D"padding-right:=
+ 0.1px;"><span></span></span></pre></div><div style=3D"position:=20=
+relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left=
+: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-e=
+lt" style=3D"left: 0px; width: 21px;">3</div></div><pre class=3D"=
+CodeMirror-line"><span style=3D"padding-right: 0.1px;"> &nbsp;<sp=
+an class=3D"cm-variable">def</span> <span class=3D"cm-variable">f=
+latMap1</span>(): <span class=3D"cm-variable">Unit</span> <span c=
+lass=3D"cm-operator">=3D</span> {</span></pre></div><div style=3D=
+"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" st=
+yle=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirr=
+or-gutter-elt" style=3D"left: 0px; width: 21px;">4</div></div><pr=
+e class=3D"CodeMirror-line"><span style=3D"padding-right: 0.1px;"=
+> &nbsp; &nbsp;<span class=3D"cm-property">val</span> <span class=
+=3D"cm-variable">li</span> <span class=3D"cm-operator">=3D</span>=
+ <span class=3D"cm-variable">List</span>(<span class=3D"cm-number=
+">1</span>,<span class=3D"cm-number">2</span>,<span class=3D"cm-n=
+umber">3</span>)</span></pre></div><div style=3D"position: relati=
+ve;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30p=
+x;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" st=
+yle=3D"left: 0px; width: 21px;">5</div></div><pre class=3D"CodeMi=
+rror-line"><span style=3D"padding-right: 0.1px;"> &nbsp; &nbsp;<s=
+pan class=3D"cm-variable">val</span> <span class=3D"cm-variable">=
+res</span> <span class=3D"cm-operator">=3D</span> <span class=3D"=
+cm-variable">li</span>.<span class=3D"cm-variable">flatMap</span>=
+(<span class=3D"cm-variable">x</span> <span class=3D"cm-operator"=
+>=3D&gt;</span> <span class=3D"cm-variable">x</span> <span class=3D=
+"cm-variable">match</span> {</span></pre></div><div style=3D"posi=
+tion: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gut=
+ter-elt" style=3D"left: 0px; width: 21px;">6</div></div><pre clas=
+s=3D"CodeMirror-line"><span style=3D"padding-right: 0.1px;"> &nbs=
+p; &nbsp; &nbsp;<span class=3D"cm-keyword">case</span> <span clas=
+s=3D"cm-number">3</span> <span class=3D"cm-operator">=3D&gt;</spa=
+n> <span class=3D"cm-variable">List</span>(<span class=3D"cm-stri=
+ng">'a'</span>,<span class=3D"cm-string">'b'</span>)</span></pre>=
+</div><div style=3D"position: relative;"><div class=3D"CodeMirror=
+-gutter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-=
+linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px=
+;">7</div></div><pre class=3D"CodeMirror-line"><span style=3D"pad=
+ding-right: 0.1px;"> &nbsp; &nbsp; &nbsp;<span class=3D"cm-keywor=
+d">case</span> <span class=3D"cm-variable">_</span> <span class=3D=
+"cm-operator">=3D&gt;</span> <span class=3D"cm-variable">List</sp=
+an>(<span class=3D"cm-variable">x</span><span class=3D"cm-operato=
+r">*</span><span class=3D"cm-number">2</span>)</span></pre></div>=
+<div style=3D"position: relative;"><div class=3D"CodeMirror-gutte=
+r-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-linenu=
+mber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">8</=
+div></div><pre class=3D"CodeMirror-line"><span style=3D"padding-r=
+ight: 0.1px;"> &nbsp;  })</span></pre></div><div style=3D"positio=
+n: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"l=
+eft: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
+r-elt" style=3D"left: 0px; width: 21px;">9</div></div><pre class=3D=
+"CodeMirror-line"><span style=3D"padding-right: 0.1px;"> &nbsp; &=
+nbsp;<span class=3D"cm-variable">println</span>(<span class=3D"cm=
+-variable">res</span>)</span></pre></div><div style=3D"position:=20=
+relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left=
+: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-e=
+lt" style=3D"left: 0px; width: 21px;">10</div></div><pre class=3D=
+"CodeMirror-line"><span style=3D"padding-right: 0.1px;">  }</span=
+></pre></div><div style=3D"position: relative;"><div class=3D"Cod=
+eMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"Code=
+Mirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; widt=
+h: 21px;">11</div></div><pre class=3D"CodeMirror-line"><span styl=
+e=3D"padding-right: 0.1px;"><span></span></span></pre></div><div=20=
+style=3D"position: relative;"><div class=3D"CodeMirror-gutter-wra=
+pper" style=3D"left: -30px;"><div class=3D"CodeMirror-linenumber=20=
+CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">12</div>=
+</div><pre class=3D"CodeMirror-line"><span style=3D"padding-right=
+: 0.1px;"> &nbsp;<span class=3D"cm-variable">def</span> <span cla=
+ss=3D"cm-variable">map1</span>(): <span class=3D"cm-variable">Uni=
+t</span> <span class=3D"cm-operator">=3D</span> {</span></pre></d=
+iv><div style=3D"position: relative;"><div class=3D"CodeMirror-gu=
+tter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-lin=
+enumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">=
+13</div></div><pre class=3D"CodeMirror-line"><span style=3D"paddi=
+ng-right: 0.1px;"> &nbsp; &nbsp;<span class=3D"cm-property">val</=
+span> <span class=3D"cm-variable">li</span> <span class=3D"cm-ope=
+rator">=3D</span> <span class=3D"cm-variable">List</span>(<span c=
+lass=3D"cm-number">1</span>,<span class=3D"cm-number">2</span>,<s=
+pan class=3D"cm-number">3</span>)</span></pre></div><div style=3D=
+"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" st=
+yle=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirr=
+or-gutter-elt" style=3D"left: 0px; width: 21px;">14</div></div><p=
+re class=3D"CodeMirror-line"><span style=3D"padding-right: 0.1px;=
+"> &nbsp; &nbsp;<span class=3D"cm-variable">val</span> <span clas=
+s=3D"cm-variable">res</span> <span class=3D"cm-operator">=3D</spa=
+n> <span class=3D"cm-variable">li</span>.<span class=3D"cm-variab=
+le">map</span>(<span class=3D"cm-variable">x</span> <span class=3D=
+"cm-operator">=3D&gt;</span> <span class=3D"cm-variable">x</span>=
+ <span class=3D"cm-variable">match</span> {</span></pre></div><di=
+v style=3D"position: relative;"><div class=3D"CodeMirror-gutter-w=
+rapper" style=3D"left: -30px;"><div class=3D"CodeMirror-linenumbe=
+r CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">15</di=
+v></div><pre class=3D"CodeMirror-line"><span style=3D"padding-rig=
+ht: 0.1px;"> &nbsp; &nbsp; &nbsp;<span class=3D"cm-keyword">case<=
+/span> <span class=3D"cm-number">3</span> <span class=3D"cm-opera=
+tor">=3D&gt;</span> <span class=3D"cm-variable">List</span>(<span=
+ class=3D"cm-string">'a'</span>,<span class=3D"cm-string">'b'</sp=
+an>)</span></pre></div><div style=3D"position: relative;"><div cl=
+ass=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div cla=
+ss=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left:=
+ 0px; width: 21px;">16</div></div><pre class=3D"CodeMirror-line">=
+<span style=3D"padding-right: 0.1px;"> &nbsp; &nbsp; &nbsp;<span=20=
+class=3D"cm-keyword">case</span> <span class=3D"cm-variable">_</s=
+pan> <span class=3D"cm-operator">=3D&gt;</span> <span class=3D"cm=
+-variable">x</span><span class=3D"cm-operator">*</span><span clas=
+s=3D"cm-number">2</span></span></pre></div><div style=3D"position=
+: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"le=
+ft: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter=
+-elt" style=3D"left: 0px; width: 21px;">17</div></div><pre class=3D=
+"CodeMirror-line"><span style=3D"padding-right: 0.1px;"> &nbsp; =20=
+})</span></pre></div><div style=3D"position: relative;"><div clas=
+s=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=
+=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0=
+px; width: 21px;">18</div></div><pre class=3D"CodeMirror-line"><s=
+pan style=3D"padding-right: 0.1px;"> &nbsp; &nbsp;<span class=3D"=
+cm-variable">println</span>(<span class=3D"cm-variable">res</span=
+>)</span></pre></div><div style=3D"position: relative;"><div clas=
+s=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=
+=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0=
+px; width: 21px;">19</div></div><pre class=3D"CodeMirror-line"><s=
+pan style=3D"padding-right: 0.1px;">  }</span></pre></div><div st=
+yle=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapp=
+er" style=3D"left: -30px;"><div class=3D"CodeMirror-linenumber Co=
+deMirror-gutter-elt" style=3D"left: 0px; width: 21px;">20</div></=
+div><pre class=3D"CodeMirror-line"><span style=3D"padding-right:=20=
+0.1px;"><span></span></span></pre></div><div style=3D"position: r=
+elative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left:=
+ -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-el=
+t" style=3D"left: 0px; width: 21px;">21</div></div><pre class=3D"=
+CodeMirror-line"><span style=3D"padding-right: 0.1px;"> &nbsp;<sp=
+an class=3D"cm-variable">def</span> <span class=3D"cm-variable">m=
+ain</span>(<span class=3D"cm-variable">args</span>: <span class=3D=
+"cm-variable">Array</span>[<span class=3D"cm-variable">String</sp=
+an>]): <span class=3D"cm-variable">Unit</span> <span class=3D"cm-=
+operator">=3D</span> {</span></pre></div><div style=3D"position:=20=
+relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left=
+: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-e=
+lt" style=3D"left: 0px; width: 21px;">22</div></div><pre class=3D=
+"CodeMirror-line"><span style=3D"padding-right: 0.1px;"> &nbsp; &=
+nbsp;<span class=3D"cm-property">flatMap1</span>()</span></pre></=
+div><div style=3D"position: relative;"><div class=3D"CodeMirror-g=
+utter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-li=
+nenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;"=
+>23</div></div><pre class=3D"CodeMirror-line"><span style=3D"padd=
+ing-right: 0.1px;"> &nbsp; &nbsp;<span class=3D"cm-variable">map1=
+</span>()</span></pre></div><div style=3D"position: relative;"><d=
+iv class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><di=
+v class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"=
+left: 0px; width: 21px;">24</div></div><pre class=3D"CodeMirror-l=
+ine"><span style=3D"padding-right: 0.1px;">  }</span></pre></div>=
+<div style=3D"position: relative;"><div class=3D"CodeMirror-gutte=
+r-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-linenu=
+mber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">25<=
+/div></div><pre class=3D"CodeMirror-line"><span style=3D"padding-=
+right: 0.1px;">}</span></pre></div><div style=3D"position: relati=
+ve;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30p=
+x;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" st=
+yle=3D"left: 0px; width: 21px;">26</div></div><pre class=3D"CodeM=
+irror-line"><span style=3D"padding-right: 0.1px;"><span class=3D"=
+cm-number">1</span></span></pre></div><div style=3D"position: rel=
+ative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -=
+30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt"=
+ style=3D"left: 0px; width: 21px;">27</div></div><pre class=3D"Co=
+deMirror-line"><span style=3D"padding-right: 0.1px;"><span class=3D=
+"cm-number">2</span></span></pre></div><div style=3D"position: re=
+lative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left:=20=
+-30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt=
+" style=3D"left: 0px; width: 21px;">28</div></div><pre class=3D"C=
+odeMirror-line"><span style=3D"padding-right: 0.1px;"><span class=
+=3D"cm-number">3</span></span></pre></div><div style=3D"position:=
+ relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"lef=
+t: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-=
+elt" style=3D"left: 0px; width: 21px;">29</div></div><pre class=3D=
+"CodeMirror-line"><span style=3D"padding-right: 0.1px;"><span cla=
+ss=3D"cm-number">4</span></span></pre></div><div style=3D"positio=
+n: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"l=
+eft: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
+r-elt" style=3D"left: 0px; width: 21px;">30</div></div><pre class=
+=3D"CodeMirror-line"><span style=3D"padding-right: 0.1px;"><span=20=
+class=3D"cm-number">5</span></span></pre></div><div style=3D"posi=
+tion: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gut=
+ter-elt" style=3D"left: 0px; width: 21px;">31</div></div><pre cla=
+ss=3D"CodeMirror-line"><span style=3D"padding-right: 0.1px;"><spa=
+n class=3D"cm-number">6</span></span></pre></div><div style=3D"po=
+sition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=
+=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-=
+gutter-elt" style=3D"left: 0px; width: 21px;">32</div></div><pre=20=
+class=3D"CodeMirror-line"><span style=3D"padding-right: 0.1px;"><=
+span class=3D"cm-number">7</span></span></pre></div><div style=3D=
+"position: relative;"><div class=3D"CodeMirror-gutter-wrapper" st=
+yle=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirr=
+or-gutter-elt" style=3D"left: 0px; width: 21px;">33</div></div><p=
+re class=3D"CodeMirror-line"><span style=3D"padding-right: 0.1px;=
+"><span class=3D"cm-number">8</span></span></pre></div><div style=
+=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapper"=
+ style=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeM=
+irror-gutter-elt" style=3D"left: 0px; width: 21px;">34</div></div=
+><pre class=3D"CodeMirror-line"><span style=3D"padding-right: 0.1=
+px;"><span class=3D"cm-number">9</span></span></pre></div><div st=
+yle=3D"position: relative;"><div class=3D"CodeMirror-gutter-wrapp=
+er" style=3D"left: -30px;"><div class=3D"CodeMirror-linenumber Co=
+deMirror-gutter-elt" style=3D"left: 0px; width: 21px;">35</div></=
+div><pre class=3D"CodeMirror-line"><span style=3D"padding-right:=20=
+0.1px;"><span class=3D"cm-number">10</span></span></pre></div><di=
+v style=3D"position: relative;"><div class=3D"CodeMirror-gutter-w=
+rapper" style=3D"left: -30px;"><div class=3D"CodeMirror-linenumbe=
+r CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">36</di=
+v></div><pre class=3D"CodeMirror-line"><span style=3D"padding-rig=
+ht: 0.1px;"><span class=3D"cm-number">11</span></span></pre></div=
+><div style=3D"position: relative;"><div class=3D"CodeMirror-gutt=
+er-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-linen=
+umber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;">37=
+</div></div><pre class=3D"CodeMirror-line"><span style=3D"padding=
+-right: 0.1px;"><span class=3D"cm-number">12</span></span></pre><=
+/div><div style=3D"position: relative;"><div class=3D"CodeMirror-=
+gutter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirror-l=
+inenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 21px;=
+">38</div></div><pre class=3D"CodeMirror-line"><span style=3D"pad=
+ding-right: 0.1px;"><span class=3D"cm-number">13</span></span></p=
+re></div><div style=3D"position: relative;"><div class=3D"CodeMir=
+ror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"CodeMirr=
+or-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; width: 2=
+1px;">39</div></div><pre class=3D"CodeMirror-line"><span style=3D=
+"padding-right: 0.1px;"><span class=3D"cm-number">14</span></span=
+></pre></div><div style=3D"position: relative;"><div class=3D"Cod=
+eMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"Code=
+Mirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px; widt=
+h: 21px;">40</div></div><pre class=3D"CodeMirror-line"><span styl=
+e=3D"padding-right: 0.1px;"><span class=3D"cm-number">15</span></=
+span></pre></div><div style=3D"position: relative;"><div class=3D=
+"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=3D"=
+CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px;=20=
+width: 21px;">41</div></div><pre class=3D"CodeMirror-line"><span=20=
+style=3D"padding-right: 0.1px;"><span class=3D"cm-number">16</spa=
+n></span></pre></div><div style=3D"position: relative;"><div clas=
+s=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div class=
+=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0=
+px; width: 21px;">42</div></div><pre class=3D"CodeMirror-line"><s=
+pan style=3D"padding-right: 0.1px;"><span class=3D"cm-number">17<=
+/span></span></pre></div><div style=3D"position: relative;"><div=20=
+class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><div c=
+lass=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"lef=
+t: 0px; width: 21px;">43</div></div><pre class=3D"CodeMirror-line=
+"><span style=3D"padding-right: 0.1px;"><span class=3D"cm-number"=
+>18</span></span></pre></div><div style=3D"position: relative;"><=
+div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;"><d=
+iv class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D=
+"left: 0px; width: 21px;">44</div></div><pre class=3D"CodeMirror-=
+line"><span style=3D"padding-right: 0.1px;"><span class=3D"cm-num=
+ber">19</span></span></pre></div><div style=3D"position: relative=
+;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -30px;=
+"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt" styl=
+e=3D"left: 0px; width: 21px;">45</div></div><pre class=3D"CodeMir=
+ror-line"><span style=3D"padding-right: 0.1px;"><span class=3D"cm=
+-number">20</span></span></pre></div><div style=3D"position: rela=
+tive;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left: -3=
+0px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-elt"=20=
+style=3D"left: 0px; width: 21px;">46</div></div><pre class=3D"Cod=
+eMirror-line"><span style=3D"padding-right: 0.1px;"><span class=3D=
+"cm-number">21</span></span></pre></div><div style=3D"position: r=
+elative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"left:=
+ -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-el=
+t" style=3D"left: 0px; width: 21px;">47</div></div><pre class=3D"=
+CodeMirror-line"><span style=3D"padding-right: 0.1px;"><span clas=
+s=3D"cm-number">22</span></span></pre></div><div style=3D"positio=
+n: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"l=
+eft: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutte=
+r-elt" style=3D"left: 0px; width: 21px;">48</div></div><pre class=
+=3D"CodeMirror-line"><span style=3D"padding-right: 0.1px;"><span=20=
+class=3D"cm-number">23</span></span></pre></div><div style=3D"pos=
+ition: relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D=
+"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gut=
+ter-elt" style=3D"left: 0px; width: 21px;">49</div></div><pre cla=
+ss=3D"CodeMirror-line"><span style=3D"padding-right: 0.1px;"><spa=
+n class=3D"cm-number">24</span></span></pre></div><div style=3D"p=
+osition: relative;"><div class=3D"CodeMirror-gutter-wrapper" styl=
+e=3D"left: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror=
+-gutter-elt" style=3D"left: 0px; width: 21px;">50</div></div><pre=
+ class=3D"CodeMirror-line"><span style=3D"padding-right: 0.1px;">=
+<span class=3D"cm-number">25</span></span></pre></div></div></div=
+></div></div></div><div style=3D"position: absolute; height: 13px=
+; width: 1px; border-bottom-width: 0px; border-bottom-style: soli=
+d; border-bottom-color: transparent; top: 1058px;"></div><div cla=
+ss=3D"CodeMirror-gutters" style=3D"height: 1088px;"><div class=3D=
+"CodeMirror-gutter CodeMirror-linenumbers" style=3D"width: 29px;"=
+></div></div></div></div></wiz_code_mirror></div><div><div class=3D=
+"article-title-box" style=3D"padding:0px;margin:0px 0px 16px;colo=
+r:rgb(51, 51, 51);font-family:'SF Pro Display', Roboto, Noto, Ari=
+al, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-se=
+rif;font-size:0.875rem;font-style:normal;font-weight:normal;text-=
+align:start;text-indent:0px;"><article style=3D"display:block;pad=
+ding-top:16px;color:rgb(51, 51, 51);font-family:'SF Pro Display',=
+ Roboto, Noto, Arial, 'PingFang SC', 'Hiragino Sans GB', 'Microso=
+ft YaHei', sans-serif;font-size:0.875rem;font-style:normal;font-w=
+eight:normal;text-align:start;text-indent:0px;"><div id=3D"articl=
+e_content" class=3D"article_content csdn-tracking-statistics" dat=
+a-pid=3D"blog" data-mod=3D"popu_307" data-dsm=3D"post" style=3D"p=
+adding:0px;margin:0px;"><div class=3D"markdown_views" style=3D"pa=
+dding:0px;margin:0px;font-family:-apple-system, 'SF UI Text', Ari=
+al, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', 'WenQua=
+nYi Micro Hei', sans-serif, SimHei, SimSun;"><p style=3D"padding:=
+0px;margin:0px 0px 16px;font-size:1rem;color:rgb(79, 79, 79);font=
+-weight:400;text-align:justify;">=BD=AB=B4=FA=C2=EBrun=C6=F0=C0=B4=
+=A3=AC=D7=EE=BA=F3=CA=E4=B3=F6=CE=AA=A3=BA</p></div></div></artic=
+le></div></div><div data-mode=3D"JavaScript" data-theme=3D"defaul=
+t" id=3D"wiz_cm_1524880570425_9542" class=3D"wiz-code-container">=
+<textarea style=3D"display:none;">List(2, 4, a, b)=0AList(2, 4, L=
+ist(a, b))</textarea><wiz_code_mirror><div class=3D"CodeMirror cm=
+-s-default CodeMirror-wrap" data-id=3D"wiz_cm_1524880570239_8826"=
+><div style=3D"overflow: hidden; position: relative; width: 3px;=20=
+height: 0px; top: 20px; left: 34px;"><textarea autocorrect=3D"off=
+" autocapitalize=3D"off" spellcheck=3D"false" style=3D"padding:0p=
+x; width:1000px; height:1em;" tabindex=3D"0"></textarea></div><di=
+v class=3D"CodeMirror-scrollbar-filler"></div><div class=3D"CodeM=
+irror-gutter-filler"></div><div class=3D"CodeMirror-scroll"><div=20=
+class=3D"CodeMirror-sizer" style=3D"margin-left: 30px; margin-bot=
+tom: 0px; border-right-width: 30px; min-height: 50px; padding-rig=
+ht: 0px; padding-bottom: 0px;"><div style=3D"position: relative;=20=
+top: 0px;"><div class=3D"CodeMirror-lines"><div style=3D"position=
+: relative; outline: none;"><div class=3D"CodeMirror-measure"></d=
+iv><div class=3D"CodeMirror-measure"></div><div style=3D"position=
+: relative; z-index: 1;"></div><div class=3D"wiz-hide wiz_CodeMir=
+ror-cursors"><div class=3D"CodeMirror-cursor" style=3D"left: 4px;=
+ top: 0px; height: 21px;">&nbsp;</div></div><div class=3D"CodeMir=
+ror-code"><div class=3D"CodeMirror-activeline" style=3D"position:=
+ relative;"><div class=3D"wiz-hide wiz_CodeMirror-activeline-back=
+ground CodeMirror-linebackground"></div><div class=3D"CodeMirror-=
+gutter-background CodeMirror-activeline-gutter" style=3D"left: -3=
+0px; width: 30px;"></div><div class=3D"CodeMirror-gutter-wrapper=20=
+CodeMirror-activeline-gutter" style=3D"left: -30px;"><div class=3D=
+"CodeMirror-linenumber CodeMirror-gutter-elt" style=3D"left: 0px;=
+ width: 21px;">1</div></div><pre class=3D"CodeMirror-line"><span=20=
+style=3D"padding-right: 0.1px;"><span class=3D"cm-variable">List<=
+/span>(<span class=3D"cm-number">2</span>, <span class=3D"cm-numb=
+er">4</span>, <span class=3D"cm-variable">a</span>, <span class=3D=
+"cm-variable">b</span>)</span></pre></div><div style=3D"position:=
+ relative;"><div class=3D"CodeMirror-gutter-wrapper" style=3D"lef=
+t: -30px;"><div class=3D"CodeMirror-linenumber CodeMirror-gutter-=
+elt" style=3D"left: 0px; width: 21px;">2</div></div><pre class=3D=
+"CodeMirror-line"><span style=3D"padding-right: 0.1px;"><span cla=
+ss=3D"cm-variable">List</span>(<span class=3D"cm-number">2</span>=
+, <span class=3D"cm-number">4</span>, <span class=3D"cm-variable"=
+>List</span>(<span class=3D"cm-variable">a</span>, <span class=3D=
+"cm-variable">b</span>))</span></pre></div></div></div></div></di=
+v></div><div style=3D"position: absolute; height: 13px; width: 1p=
+x; border-bottom-width: 0px; border-bottom-style: solid; border-b=
+ottom-color: transparent; top: 50px;"></div><div class=3D"CodeMir=
+ror-gutters" style=3D"height: 80px;"><div class=3D"CodeMirror-gut=
+ter CodeMirror-linenumbers" style=3D"width: 29px;"></div></div></=
+div></div></wiz_code_mirror></div><div><br></div></body></html>=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000466656.034--
+
+------=_Next_Part_0001399968.401--
+

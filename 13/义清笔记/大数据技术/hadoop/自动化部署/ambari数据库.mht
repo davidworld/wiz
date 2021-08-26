@@ -1,0 +1,347 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?YW1iYXJpyv2+3b/i?=
+Date: Date: Fri, 23 Jul 2021 05:51:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000630888.858"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000630888.858
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000210296.050"
+
+
+------=_Next_Part_0000210296.050
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000210296.050
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>ambari=CA=FD=BE=DD=BF=E2</title>=0A=0A=
+=0A=0A=0A<style type=3D"text/css" id=3D"wiz_todo_style_id" wiz_li=
+nk_version=3D"01.00.09">.wiz-todo, .wiz-todo-img {width: 16px; he=
+ight: 16px; cursor: default; padding: 0 10px 0 2px; vertical-alig=
+n: -10%;-webkit-user-select: none;} .wiz-todo-label { display: in=
+line-block; padding-top: 7px; padding-bottom: 6px; line-height: 1=
+.5;} .wiz-todo-label-checked {  color: #666;} .wiz-todo-label-unc=
+hecked {text-decoration: initial;} .wiz-todo-completed-info {padd=
+ing-left: 44px; display: inline-block; } .wiz-todo-avatar { width=
+:20px; height: 20px; vertical-align: -20%; margin-right:10px; bor=
+der-radius: 2px;} .wiz-todo-account, .wiz-todo-dt { color: #666;=20=
+}</style>=0A<style type=3D"text/css" id=3D"wiz_custom_css">=0Abod=
+y=0A{=0A    font-family: Arial;=0A    font-size: 10.5pt;=0A    li=
+ne-height: 1.5;=0A}=0Ahtml, body=0A{=0A    color: ;=0A    backgro=
+und-color: ;=0A}=0Ah1 {=0A    font-size:1.5em;=0A    font-weight:=
+bold;=0A}=0Ah2 {=0A    font-size:1.4em;=0A    font-weight:bold;=0A=
+}=0Ah3 {=0A    font-size:1.3em;=0A    font-weight:bold;=0A}=0Ah4=20=
+{=0A    font-size:1.2em;=0A    font-weight:bold;=0A}=0Ah5 {=0A  =20=
+ font-size:1.1em;=0A    font-weight:bold;=0A}=0Ah6 {=0A    font-s=
+ize:1.0em;=0A    font-weight:bold;=0A}=0Aimg {=0A    border:0;=0A=
+    max-width: 100%;=0A    height: auto !important;=0A}=0Ablockqu=
+ote {=0A    margin-top:0px;=0A    margin-bottom:0px;=0A}=0Atable=20=
+{=0A    border-collapse:collapse;=0A    border:1px solid #bbbbbb;=
+=0A}=0Atd {=0A    border-collapse:collapse;=0A    border:1px soli=
+d #bbbbbb;=0A}=0A</style>=0A</head>=0A=0A<body style><div>--</div=
+><div>-- Licensed to the Apache Software Foundation (ASF) under o=
+ne</div><div>-- or more contributor license agreements. &nbsp;See=
+ the NOTICE file</div><div>-- distributed with this work for addi=
+tional information</div><div>-- regarding copyright ownership. &n=
+bsp;The ASF licenses this file</div><div>-- to you under the Apac=
+he License, Version 2.0 (the</div><div>-- "License"); you may not=
+ use this file except in compliance</div><div>-- with the License=
+. &nbsp;You may obtain a copy of the License at</div><div>--</div=
+><div>-- &nbsp; &nbsp; http://www.apache.org/licenses/LICENSE-2.0=
+</div><div>--</div><div>-- Unless required by applicable law or a=
+greed to in writing, software</div><div>-- distributed under the=20=
+License is distributed on an "AS IS" BASIS,</div><div>-- WITHOUT=20=
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.<=
+/div><div>-- See the License for the specific language governing=20=
+permissions and</div><div>-- limitations under the License.</div>=
+<div><br></div><div><br></div><div>CREATE TABLE clusters (cluster=
+_id BIGINT NOT NULL, resource_id BIGINT NOT NULL, cluster_info VA=
+RCHAR(255) NOT NULL, cluster_name VARCHAR(100) NOT NULL UNIQUE, d=
+esired_cluster_state VARCHAR(255) NOT NULL, desired_stack_version=
+ VARCHAR(255) NOT NULL, PRIMARY KEY (cluster_id));</div><div><br>=
+</div><div>CREATE TABLE clusterconfig (version_tag VARCHAR(255) N=
+OT NULL, type_name VARCHAR(255) NOT NULL, cluster_id BIGINT NOT N=
+ULL, config_data VARCHAR(32000) NOT NULL, create_timestamp BIGINT=
+ NOT NULL, PRIMARY KEY (cluster_id, type_name, version_tag));</di=
+v><div><br></div><div>CREATE TABLE clusterconfigmapping (cluster_=
+id bigint NOT NULL, type_name VARCHAR(255) NOT NULL, version_tag=20=
+VARCHAR(255) NOT NULL, create_timestamp BIGINT NOT NULL, selected=
+ INTEGER NOT NULL DEFAULT 0, PRIMARY KEY (cluster_id, type_name,=20=
+create_timestamp));</div><div><br></div><div>CREATE TABLE cluster=
+services (service_name VARCHAR(255) NOT NULL, cluster_id BIGINT N=
+OT NULL, service_enabled INTEGER NOT NULL, PRIMARY KEY (service_n=
+ame, cluster_id));</div><div><br></div><div>CREATE TABLE clusters=
+tate (cluster_id BIGINT NOT NULL, current_cluster_state VARCHAR(2=
+55) NOT NULL, current_stack_version VARCHAR(255) NOT NULL, PRIMAR=
+Y KEY (cluster_id));</div><div><br></div><div>CREATE TABLE compon=
+entconfigmapping (cluster_id BIGINT NOT NULL, component_name VARC=
+HAR(255) NOT NULL, service_name VARCHAR(255) NOT NULL, config_typ=
+e VARCHAR(255) NOT NULL, timestamp BIGINT NOT NULL, config_tag VA=
+RCHAR(255) NOT NULL, PRIMARY KEY (cluster_id, component_name, ser=
+vice_name, config_type));</div><div><br></div><div>CREATE TABLE h=
+ostcomponentconfigmapping (cluster_id BIGINT NOT NULL, component_=
+name VARCHAR(255) NOT NULL, host_name VARCHAR(255) NOT NULL, serv=
+ice_name VARCHAR(255) NOT NULL, config_type VARCHAR(255) NOT NULL=
+, timestamp BIGINT NOT NULL, config_tag VARCHAR(255) NOT NULL, PR=
+IMARY KEY (cluster_id, component_name, host_name, service_name, c=
+onfig_type));</div><div><br></div><div>CREATE TABLE hcdesiredconf=
+igmapping (cluster_id BIGINT NOT NULL, component_name VARCHAR(255=
+) NOT NULL, host_name VARCHAR(255) NOT NULL, service_name VARCHAR=
+(255) NOT NULL, config_type VARCHAR(255) NOT NULL, timestamp BIGI=
+NT NOT NULL, config_tag VARCHAR(255) NOT NULL, PRIMARY KEY (clust=
+er_id, component_name, host_name, service_name, config_type));</d=
+iv><div><br></div><div>CREATE TABLE hostcomponentdesiredstate (cl=
+uster_id BIGINT NOT NULL, component_name VARCHAR(255) NOT NULL, d=
+esired_stack_version VARCHAR(255) NOT NULL, desired_state VARCHAR=
+(255) NOT NULL, host_name VARCHAR(255) NOT NULL, service_name VAR=
+CHAR(255) NOT NULL, PRIMARY KEY (cluster_id, component_name, host=
+_name, service_name));</div><div><br></div><div>CREATE TABLE host=
+componentstate (cluster_id BIGINT NOT NULL, component_name VARCHA=
+R(255) NOT NULL, current_stack_version VARCHAR(255) NOT NULL, cur=
+rent_state VARCHAR(255) NOT NULL, host_name VARCHAR(255) NOT NULL=
+, service_name VARCHAR(255) NOT NULL, PRIMARY KEY (cluster_id, co=
+mponent_name, host_name, service_name));</div><div><br></div><div=
+>CREATE TABLE hosts (host_name VARCHAR(255) NOT NULL, cpu_count I=
+NTEGER NOT NULL, ph_cpu_count INTEGER, cpu_info VARCHAR(255) NOT=20=
+NULL, discovery_status VARCHAR(2000) NOT NULL, disks_info VARCHAR=
+(10000) NOT NULL, host_attributes VARCHAR(20000) NOT NULL, ipv4 V=
+ARCHAR(255), ipv6 VARCHAR(255), public_host_name VARCHAR(255), la=
+st_registration_time BIGINT NOT NULL, os_arch VARCHAR(255) NOT NU=
+LL, os_info VARCHAR(1000) NOT NULL, os_type VARCHAR(255) NOT NULL=
+, rack_info VARCHAR(255) NOT NULL, total_mem BIGINT NOT NULL, PRI=
+MARY KEY (host_name));</div><div><br></div><div>CREATE TABLE host=
+state (agent_version VARCHAR(255) NOT NULL, available_mem BIGINT=20=
+NOT NULL, current_state VARCHAR(255) NOT NULL, health_status VARC=
+HAR(255), host_name VARCHAR(255) NOT NULL, time_in_state BIGINT N=
+OT NULL, &nbsp;PRIMARY KEY (host_name));</div><div><br></div><div=
+>CREATE TABLE servicecomponentdesiredstate (component_name VARCHA=
+R(255) NOT NULL, cluster_id BIGINT NOT NULL, desired_stack_versio=
+n VARCHAR(255) NOT NULL, desired_state VARCHAR(255) NOT NULL, ser=
+vice_name VARCHAR(255) NOT NULL, PRIMARY KEY (component_name, clu=
+ster_id, service_name));</div><div><br></div><div>CREATE TABLE se=
+rviceconfigmapping (cluster_id BIGINT NOT NULL, service_name VARC=
+HAR(255) NOT NULL, config_type VARCHAR(255) NOT NULL, timestamp B=
+IGINT NOT NULL, config_tag VARCHAR(255) NOT NULL, PRIMARY KEY (cl=
+uster_id, service_name, config_type));</div><div><br></div><div>C=
+REATE TABLE servicedesiredstate (cluster_id BIGINT NOT NULL, desi=
+red_host_role_mapping INTEGER NOT NULL, desired_stack_version VAR=
+CHAR(255) NOT NULL, desired_state VARCHAR(255) NOT NULL, service_=
+name VARCHAR(255) NOT NULL, PRIMARY KEY (cluster_id, service_name=
+));</div><div><br></div><div>CREATE TABLE roles (role_name VARCHA=
+R(255) NOT NULL, PRIMARY KEY (role_name));</div><div><br></div><d=
+iv>CREATE TABLE users (user_id INTEGER, ldap_user INTEGER NOT NUL=
+L DEFAULT 0, user_name VARCHAR(255) NOT NULL, create_time TIMESTA=
+MP DEFAULT CURRENT_TIMESTAMP, user_password VARCHAR(255), PRIMARY=
+ KEY (user_id), UNIQUE (ldap_user, user_name));</div><div><br></d=
+iv><div>CREATE TABLE execution_command (command BLOB, task_id BIG=
+INT NOT NULL, PRIMARY KEY (task_id));</div><div><br></div><div>CR=
+EATE TABLE host_role_command (task_id BIGINT NOT NULL, attempt_co=
+unt SMALLINT NOT NULL, event VARCHAR(32000) NOT NULL, exitcode IN=
+TEGER NOT NULL, host_name VARCHAR(255) NOT NULL, last_attempt_tim=
+e BIGINT NOT NULL, request_id BIGINT NOT NULL, role VARCHAR(255),=
+ stage_id BIGINT NOT NULL, start_time BIGINT NOT NULL, status VAR=
+CHAR(255), std_error BLOB, std_out BLOB, role_command VARCHAR(255=
+), PRIMARY KEY (task_id));</div><div><br></div><div>CREATE TABLE=20=
+role_success_criteria (role VARCHAR(255) NOT NULL, request_id BIG=
+INT NOT NULL, stage_id BIGINT NOT NULL, success_factor FLOAT NOT=20=
+NULL, PRIMARY KEY (role, request_id, stage_id));</div><div><br></=
+div><div>CREATE TABLE stage (stage_id BIGINT NOT NULL, request_id=
+ BIGINT NOT NULL, cluster_id BIGINT NOT NULL, log_info VARCHAR(25=
+5) NOT NULL, request_context VARCHAR(255), PRIMARY KEY (stage_id,=
+ request_id));</div><div><br></div><div>CREATE TABLE ClusterHostM=
+apping (cluster_id BIGINT NOT NULL, host_name VARCHAR(255) NOT NU=
+LL, PRIMARY KEY (cluster_id, host_name));</div><div><br></div><di=
+v>CREATE TABLE user_roles (role_name VARCHAR(255) NOT NULL, user_=
+id INTEGER NOT NULL, PRIMARY KEY (role_name, user_id));</div><div=
+><br></div><div>CREATE TABLE key_value_store ("key" VARCHAR(255),=
+ "value" VARCHAR(20000), PRIMARY KEY("key"));</div><div><br></div=
+><div>CREATE TABLE hostconfigmapping (cluster_id bigint NOT NULL,=
+ host_name VARCHAR(255) NOT NULL, type_name VARCHAR(255) NOT NULL=
+, version_tag VARCHAR(255) NOT NULL, service_name VARCHAR(255), c=
+reate_timestamp BIGINT NOT NULL, selected INTEGER NOT NULL DEFAUL=
+T 0, PRIMARY KEY (cluster_id, host_name, type_name, create_timest=
+amp));</div><div><br></div><div>CREATE TABLE metainfo ("metainfo_=
+key" VARCHAR(255), "metainfo_value" VARCHAR(20000), PRIMARY KEY("=
+metainfo_key"));</div><div><br></div><div>CREATE TABLE ambari_seq=
+uences (sequence_name VARCHAR(255) PRIMARY KEY, "value" BIGINT NO=
+T NULL);</div><div><br></div><div>ALTER TABLE clusterconfig ADD C=
+ONSTRAINT FK_clusterconfig_cluster_id FOREIGN KEY (cluster_id) RE=
+FERENCES clusters (cluster_id);</div><div>ALTER TABLE clusterserv=
+ices ADD CONSTRAINT FK_clusterservices_cluster_id FOREIGN KEY (cl=
+uster_id) REFERENCES clusters (cluster_id);</div><div>ALTER TABLE=
+ clusterconfigmapping ADD CONSTRAINT FK_clusterconfigmapping_clus=
+ter_id FOREIGN KEY (cluster_id) REFERENCES clusters (cluster_id);=
+</div><div>ALTER TABLE clusterstate ADD CONSTRAINT FK_clusterstat=
+e_cluster_id FOREIGN KEY (cluster_id) REFERENCES clusters (cluste=
+r_id);</div><div>ALTER TABLE componentconfigmapping ADD CONSTRAIN=
+T FK_componentconfigmapping_config_tag FOREIGN KEY (cluster_id, c=
+onfig_type, config_tag) REFERENCES clusterconfig (cluster_id, typ=
+e_name, version_tag);</div><div>ALTER TABLE componentconfigmappin=
+g ADD CONSTRAINT FK_componentconfigmapping_component_name FOREIGN=
+ KEY (component_name, cluster_id, service_name) REFERENCES servic=
+ecomponentdesiredstate (component_name, cluster_id, service_name)=
+;</div><div>ALTER TABLE hostcomponentconfigmapping ADD CONSTRAINT=
+ FK_hostcomponentconfigmapping_config_tag FOREIGN KEY (cluster_id=
+, config_type, config_tag) REFERENCES clusterconfig (cluster_id,=20=
+type_name, version_tag);</div><div>ALTER TABLE hostcomponentconfi=
+gmapping ADD CONSTRAINT FK_hostcomponentconfigmapping_cluster_id=20=
+FOREIGN KEY (cluster_id, component_name, host_name, service_name)=
+ REFERENCES hostcomponentstate (cluster_id, component_name, host_=
+name, service_name);</div><div>ALTER TABLE hcdesiredconfigmapping=
+ ADD CONSTRAINT FK_hostcomponentdesiredconfigmapping_config_tag F=
+OREIGN KEY (cluster_id, config_type, config_tag) REFERENCES clust=
+erconfig (cluster_id, type_name, version_tag);</div><div>ALTER TA=
+BLE hcdesiredconfigmapping ADD CONSTRAINT FK_hostcomponentdesired=
+configmapping_cluster_id FOREIGN KEY (cluster_id, component_name,=
+ host_name, service_name) REFERENCES hostcomponentdesiredstate (c=
+luster_id, component_name, host_name, service_name);</div><div>AL=
+TER TABLE hostcomponentdesiredstate ADD CONSTRAINT FK_hostcompone=
+ntdesiredstate_host_name FOREIGN KEY (host_name) REFERENCES hosts=
+ (host_name);</div><div>ALTER TABLE hostcomponentdesiredstate ADD=
+ CONSTRAINT FK_hostcomponentdesiredstate_component_name FOREIGN K=
+EY (component_name, cluster_id, service_name) REFERENCES servicec=
+omponentdesiredstate (component_name, cluster_id, service_name);<=
+/div><div>ALTER TABLE hostcomponentstate ADD CONSTRAINT FK_hostco=
+mponentstate_component_name FOREIGN KEY (component_name, cluster_=
+id, service_name) REFERENCES servicecomponentdesiredstate (compon=
+ent_name, cluster_id, service_name);</div><div>ALTER TABLE hostco=
+mponentstate ADD CONSTRAINT FK_hostcomponentstate_host_name FOREI=
+GN KEY (host_name) REFERENCES hosts (host_name);</div><div>ALTER=20=
+TABLE hoststate ADD CONSTRAINT FK_hoststate_host_name FOREIGN KEY=
+ (host_name) REFERENCES hosts (host_name);</div><div>ALTER TABLE=20=
+servicecomponentdesiredstate ADD CONSTRAINT FK_servicecomponentde=
+siredstate_service_name FOREIGN KEY (service_name, cluster_id) RE=
+FERENCES clusterservices (service_name, cluster_id);</div><div>AL=
+TER TABLE serviceconfigmapping ADD CONSTRAINT FK_serviceconfigmap=
+ping_config_tag FOREIGN KEY (cluster_id, config_type, config_tag)=
+ REFERENCES clusterconfig (cluster_id, type_name, version_tag);</=
+div><div>ALTER TABLE serviceconfigmapping ADD CONSTRAINT FK_servi=
+ceconfigmapping_service_name FOREIGN KEY (service_name, cluster_i=
+d) REFERENCES clusterservices (service_name, cluster_id);</div><d=
+iv>ALTER TABLE servicedesiredstate ADD CONSTRAINT FK_servicedesir=
+edstate_service_name FOREIGN KEY (service_name, cluster_id) REFER=
+ENCES clusterservices (service_name, cluster_id);</div><div>ALTER=
+ TABLE execution_command ADD CONSTRAINT FK_execution_command_task=
+_id FOREIGN KEY (task_id) REFERENCES host_role_command (task_id);=
+</div><div>ALTER TABLE host_role_command ADD CONSTRAINT FK_host_r=
+ole_command_stage_id FOREIGN KEY (stage_id, request_id) REFERENCE=
+S stage (stage_id, request_id);</div><div>ALTER TABLE host_role_c=
+ommand ADD CONSTRAINT FK_host_role_command_host_name FOREIGN KEY=20=
+(host_name) REFERENCES hosts (host_name);</div><div>ALTER TABLE r=
+ole_success_criteria ADD CONSTRAINT FK_role_success_criteria_stag=
+e_id FOREIGN KEY (stage_id, request_id) REFERENCES stage (stage_i=
+d, request_id);</div><div>ALTER TABLE stage ADD CONSTRAINT FK_sta=
+ge_cluster_id FOREIGN KEY (cluster_id) REFERENCES clusters (clust=
+er_id);</div><div>ALTER TABLE ClusterHostMapping ADD CONSTRAINT F=
+K_ClusterHostMapping_host_name FOREIGN KEY (host_name) REFERENCES=
+ hosts (host_name);</div><div>ALTER TABLE ClusterHostMapping ADD=20=
+CONSTRAINT FK_ClusterHostMapping_cluster_id FOREIGN KEY (cluster_=
+id) REFERENCES clusters (cluster_id);</div><div>ALTER TABLE user_=
+roles ADD CONSTRAINT FK_user_roles_user_id FOREIGN KEY (user_id)=20=
+REFERENCES users (user_id);</div><div>ALTER TABLE user_roles ADD=20=
+CONSTRAINT FK_user_roles_role_name FOREIGN KEY (role_name) REFERE=
+NCES roles (role_name);</div><div>ALTER TABLE hostconfigmapping A=
+DD CONSTRAINT FK_hostconfigmapping_cluster_id FOREIGN KEY (cluste=
+r_id) REFERENCES clusters (cluster_id);</div><div>ALTER TABLE hos=
+tconfigmapping ADD CONSTRAINT FK_hostconfigmapping_host_name FORE=
+IGN KEY (host_name) REFERENCES hosts (host_name);</div><div><br><=
+/div><div>-- BEGIN;</div><div><br></div><div>insert into ambari_s=
+equences(sequence_name, "value")</div><div>select 'cluster_id_seq=
+', 1 FROM SYSIBM.SYSDUMMY1</div><div>union all</div><div>select '=
+user_id_seq', 2 FROM SYSIBM.SYSDUMMY1</div><div>union all</div><d=
+iv>select 'host_role_command_id_seq', 1 FROM SYSIBM.SYSDUMMY1;</d=
+iv><div><br></div><div>insert into Roles(role_name)</div><div>sel=
+ect 'admin' FROM SYSIBM.SYSDUMMY1</div><div>union all</div><div>s=
+elect 'user' FROM SYSIBM.SYSDUMMY1;</div><div><br></div><div>inse=
+rt into Users(user_id, user_name, user_password)</div><div>select=
+ 1,'admin','538916f8943ec225d97a9a86a2c6ec0818c1cd400e09e03b660fd=
+aaec4af29ddbb6f2b1033b81b00' FROM SYSIBM.SYSDUMMY1;</div><div><br=
+></div><div>insert into user_roles(role_name, user_id)</div><div>=
+select 'admin',1 FROM SYSIBM.SYSDUMMY1;</div><div><br></div><div>=
+insert into metainfo("metainfo_key", "metainfo_value")</div><div>=
+select 'version','1.3.0' FROM SYSIBM.SYSDUMMY1;</div><div><br></d=
+iv><div>-- COMMIT;</div><div><br></div><div>-- ambari log4j DDL</=
+div><div><br></div><div><br></div><div>CREATE TABLE workflow (</d=
+iv><div>&nbsp; workflowId VARCHAR(20000), workflowName VARCHAR(20=
+000),</div><div>&nbsp; parentWorkflowId VARCHAR(20000), &nbsp;</d=
+iv><div>&nbsp; workflowContext VARCHAR(20000), userName VARCHAR(2=
+0000),</div><div>&nbsp; startTime BIGINT, lastUpdateTime BIGINT,<=
+/div><div>&nbsp; numJobsTotal INTEGER, numJobsCompleted INTEGER,<=
+/div><div>&nbsp; inputBytes BIGINT, outputBytes BIGINT,</div><div=
+>&nbsp; duration BIGINT,</div><div>&nbsp; PRIMARY KEY (workflowId=
+),</div><div>&nbsp; FOREIGN KEY (parentWorkflowId) REFERENCES wor=
+kflow(workflowId)</div><div>);</div><div><br></div><div><br></div=
+><div><br></div><div>CREATE TABLE job (</div><div>&nbsp; jobId VA=
+RCHAR(20000), workflowId VARCHAR(20000), jobName VARCHAR(20000),=20=
+workflowEntityName VARCHAR(20000),</div><div>&nbsp; userName VARC=
+HAR(20000), queue VARCHAR(20000), acls VARCHAR(20000), confPath V=
+ARCHAR(20000),&nbsp;</div><div>&nbsp; submitTime BIGINT, launchTi=
+me BIGINT, finishTime BIGINT,&nbsp;</div><div>&nbsp; maps INTEGER=
+, reduces INTEGER, status VARCHAR(20000), priority VARCHAR(20000)=
+,&nbsp;</div><div>&nbsp; finishedMaps INTEGER, finishedReduces IN=
+TEGER,&nbsp;</div><div>&nbsp; failedMaps INTEGER, failedReduces I=
+NTEGER,&nbsp;</div><div>&nbsp; mapsRuntime BIGINT, reducesRuntime=
+ BIGINT,</div><div>&nbsp; mapCounters VARCHAR(20000), reduceCount=
+ers VARCHAR(20000), jobCounters VARCHAR(20000),&nbsp;</div><div>&=
+nbsp; inputBytes BIGINT, outputBytes BIGINT,</div><div>&nbsp; PRI=
+MARY KEY(jobId),</div><div>&nbsp; FOREIGN KEY(workflowId) REFEREN=
+CES workflow(workflowId)</div><div>);</div><div><br></div><div><b=
+r></div><div><br></div><div>CREATE TABLE task (</div><div>&nbsp;=20=
+taskId VARCHAR(20000), jobId VARCHAR(20000), taskType VARCHAR(200=
+00), splits VARCHAR(20000),&nbsp;</div><div>&nbsp; startTime BIGI=
+NT, finishTime BIGINT, status VARCHAR(20000), error VARCHAR(20000=
+), counters VARCHAR(20000),&nbsp;</div><div>&nbsp; failedAttempt=20=
+VARCHAR(20000),&nbsp;</div><div>&nbsp; PRIMARY KEY(taskId),&nbsp;=
+</div><div>&nbsp; FOREIGN KEY(jobId) REFERENCES job(jobId)</div><=
+div>);</div><div><br></div><div><br></div><div><br></div><div>CRE=
+ATE TABLE taskAttempt (</div><div>&nbsp; taskAttemptId VARCHAR(20=
+000), taskId VARCHAR(20000), jobId VARCHAR(20000), taskType VARCH=
+AR(20000), taskTracker VARCHAR(20000),&nbsp;</div><div>&nbsp; sta=
+rtTime BIGINT, finishTime BIGINT,&nbsp;</div><div>&nbsp; mapFinis=
+hTime BIGINT, shuffleFinishTime BIGINT, sortFinishTime BIGINT,&nb=
+sp;</div><div>&nbsp; locality VARCHAR(20000), avataar VARCHAR(200=
+00),&nbsp;</div><div>&nbsp; status VARCHAR(20000), error VARCHAR(=
+20000), counters VARCHAR(20000),&nbsp;</div><div>&nbsp; inputByte=
+s BIGINT, outputBytes BIGINT,</div><div>&nbsp; PRIMARY KEY(taskAt=
+temptId),&nbsp;</div><div>&nbsp; FOREIGN KEY(jobId) REFERENCES jo=
+b(jobId),&nbsp;</div><div>&nbsp; FOREIGN KEY(taskId) REFERENCES t=
+ask(taskId)</div><div>);&nbsp;</div><div><br></div><div><br></div=
+><div><br></div><div>CREATE TABLE hdfsEvent (</div><div>&nbsp; ti=
+mestamp BIGINT,</div><div>&nbsp; userName VARCHAR(20000),</div><d=
+iv>&nbsp; clientIP VARCHAR(20000),</div><div>&nbsp; operation VAR=
+CHAR(20000),</div><div>&nbsp; srcPath VARCHAR(20000),</div><div>&=
+nbsp; dstPath VARCHAR(20000),</div><div>&nbsp; permissions VARCHA=
+R(20000)</div><div>);</div><div><br></div><div><br></div><div><br=
+></div><div>CREATE TABLE mapreduceEvent (</div><div>&nbsp; timest=
+amp BIGINT,</div><div>&nbsp; userName VARCHAR(20000),</div><div>&=
+nbsp; clientIP VARCHAR(20000),</div><div>&nbsp; operation VARCHAR=
+(20000),</div><div>&nbsp; target VARCHAR(20000),</div><div>&nbsp;=
+ result VARCHAR(20000),</div><div>&nbsp; description VARCHAR(2000=
+0),</div><div>&nbsp; permissions VARCHAR(20000)</div><div>);</div=
+><div><br></div><div><br></div><div><br></div><div>CREATE TABLE c=
+lusterEvent (</div><div>&nbsp; timestamp BIGINT,&nbsp;</div><div>=
+&nbsp; service VARCHAR(20000), status VARCHAR(20000),&nbsp;</div>=
+<div>&nbsp; error VARCHAR(20000), data VARCHAR(20000) ,&nbsp;</di=
+v><div>&nbsp; host VARCHAR(20000), rack VARCHAR(20000)</div><div>=
+);</div><div><br></div><div><br></div><div><br></div>=0A=0A=0A=0A=
+</body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000210296.050--
+
+------=_Next_Part_0000630888.858--
+

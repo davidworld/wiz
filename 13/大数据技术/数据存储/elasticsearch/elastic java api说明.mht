@@ -1,0 +1,281 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?ZWxhc3RpYyBqYXZhIGFwacu1w/c=?=
+Date: Date: Fri, 23 Jul 2021 05:52:52 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000958686.277"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000958686.277
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000319562.073"
+
+
+------=_Next_Part_0000319562.073
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000319562.073
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A<title>elastic java api=CB=B5=C3=F7</title>=0A   =20=
+=0A<style id=3D"wiz_custom_css">html, .wiz-editor-body {font-size=
+: 12pt;}.wiz-editor-body {font-family: Helvetica, 'Hiragino Sans=20=
+GB', '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91', 'Microsoft YaHei UI'=
+, SimSun, SimHei, arial, sans-serif;line-height: 1.6;margin: 0 au=
+to;padding: 20px 16px;padding: 1.25rem 1rem;}.wiz-editor-body h1,=
+.wiz-editor-body h2,.wiz-editor-body h3,.wiz-editor-body h4,.wiz-=
+editor-body h5,.wiz-editor-body h6 {margin:20px 0 10px;margin:1.2=
+5rem 0 0.625rem;padding: 0;font-weight: bold;}.wiz-editor-body h1=
+ {font-size:20pt;font-size:1.67rem;}.wiz-editor-body h2 {font-siz=
+e:18pt;font-size:1.5rem;}.wiz-editor-body h3 {font-size:15pt;font=
+-size:1.25rem;}.wiz-editor-body h4 {font-size:14pt;font-size:1.17=
+rem;}.wiz-editor-body h5 {font-size:12pt;font-size:1rem;}.wiz-edi=
+tor-body h6 {font-size:12pt;font-size:1rem;color: #777777;margin:=
+ 1rem 0;}.wiz-editor-body div,.wiz-editor-body p,.wiz-editor-body=
+ ul,.wiz-editor-body ol,.wiz-editor-body dl,.wiz-editor-body li {=
+margin:0;}.wiz-editor-body blockquote,.wiz-editor-body table,.wiz=
+-editor-body pre,.wiz-editor-body code {margin:8px 0;}.wiz-editor=
+-body .CodeMirror pre {margin:0;}.wiz-editor-body ul,.wiz-editor-=
+body ol {padding-left:32px;padding-left:2rem;}.wiz-editor-body ol=
+.wiz-list-level1 > li {list-style-type:decimal;}.wiz-editor-body=20=
+ol.wiz-list-level2 > li {list-style-type:lower-latin;}.wiz-editor=
+-body ol.wiz-list-level3 > li {list-style-type:lower-roman;}.wiz-=
+editor-body blockquote {padding:0 12px;padding:0 0.75rem;}.wiz-ed=
+itor-body blockquote > :first-child {margin-top:0;}.wiz-editor-bo=
+dy blockquote > :last-child {margin-bottom:0;}.wiz-editor-body im=
+g {border:0;max-width:100%;height:auto !important;margin:2px 0;}.=
+wiz-editor-body table {border-collapse:collapse;border:1px solid=20=
+#bbbbbb;}.wiz-editor-body td,.wiz-editor-body th {padding:4px 8px=
+;border-collapse:collapse;border:1px solid #bbbbbb;min-height:28p=
+x;word-break:break-all;box-sizing: border-box;}.wiz-hide {display=
+:none !important;}</style><style name=3D"wiz_style_for_load"></st=
+yle></head>=0A=0A<body class=3D"wiz-editor-body wiz-editing" spel=
+lcheck=3D"false"><div><span style=3D"color:rgb(0, 0, 0);font-fami=
+ly:Helvetica, 'Hiragino Sans GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Micr=
+osoft YaHei UI', SimSun, SimHei, arial, sans-serif;font-size:1rem=
+;font-style:normal;font-weight:normal;text-align:start;text-inden=
+t:0px;display:inline !important;"><a href=3D"https://www.elastic.=
+co/guide/en/elasticsearch/client/java-api/current/index.html">htt=
+ps://www.elastic.co/guide/en/elasticsearch/client/java-api/curren=
+t/index.html</a></span></div><div><span class=3D"chapter" style=3D=
+"font-size:1rem;font-weight:normal;color:rgb(68, 68, 68);display:=
+block;padding:0.3em 0px 0.3em 20px;background-color:white;border-=
+bottom:1px solid white;background-repeat:no-repeat;background-ima=
+ge:url(&quot;data:image/png;background-position:0px 8px;font-fami=
+ly:&quot;Open Sans&quot;, &quot;arial, helvetica, sans-serif&quot=
+;;font-style:normal;text-align:left;text-indent:0px;"><a href=3D"=
+https://www.elastic.co/guide/en/elasticsearch/client/java-api/5.2=
+/java-docs.html" style=3D"color:rgb(0, 169, 229);text-decoration:=
+none;font-weight:normal;">Document APIs</a></span><ul style=3D"ma=
+rgin:0px 0px 1em;background:none rgb(255, 255, 255);list-style:di=
+sc;padding:0px;display:block;color:rgb(68, 68, 68);font-family:&q=
+uot;Open Sans&quot;, &quot;arial, helvetica, sans-serif&quot;;fon=
+t-size:1rem;font-style:normal;font-weight:normal;text-align:left;=
+text-indent:0px;"><li style=3D"background:none;list-style:none;ma=
+rgin:0px;padding:0px;"><span class=3D"section" style=3D"font-size=
+:0.85rem;font-weight:normal;color:rgb(68, 68, 68);display:block;p=
+adding:0.1em 0px 0.1em 40px;background-position:20px 5px;"><a hre=
+f=3D"https://www.elastic.co/guide/en/elasticsearch/client/java-ap=
+i/5.2/java-docs-index.html" style=3D"color:rgb(0, 169, 229);text-=
+decoration:none;font-weight:normal;">Index API</a></span></li><li=
+ style=3D"background:none;list-style:none;margin:0px;padding:0px;=
+"><span class=3D"section" style=3D"font-size:0.85rem;font-weight:=
+normal;color:rgb(68, 68, 68);display:block;padding:0.1em 0px 0.1e=
+m 40px;background-position:20px 5px;"><a href=3D"https://www.elas=
+tic.co/guide/en/elasticsearch/client/java-api/5.2/java-docs-get.h=
+tml" style=3D"color:rgb(0, 169, 229);text-decoration:none;font-we=
+ight:normal;">Get API</a></span></li><li style=3D"background:none=
+;list-style:none;margin:0px;padding:0px;"><span class=3D"section"=
+ style=3D"font-size:0.85rem;font-weight:normal;color:rgb(68, 68,=20=
+68);display:block;padding:0.1em 0px 0.1em 40px;background-positio=
+n:20px 5px;"><a href=3D"https://www.elastic.co/guide/en/elasticse=
+arch/client/java-api/5.2/java-docs-delete.html" style=3D"color:rg=
+b(0, 169, 229);text-decoration:none;font-weight:normal;">Delete A=
+PI</a></span></li><li style=3D"background:none;list-style:none;ma=
+rgin:0px;padding:0px;"><span class=3D"section" style=3D"font-size=
+:0.85rem;font-weight:normal;color:rgb(68, 68, 68);display:block;p=
+adding:0.1em 0px 0.1em 40px;background-position:20px 5px;"><a hre=
+f=3D"https://www.elastic.co/guide/en/elasticsearch/client/java-ap=
+i/5.2/java-docs-delete-by-query.html" style=3D"color:rgb(0, 169,=20=
+229);text-decoration:none;font-weight:normal;">Delete By Query AP=
+I</a></span></li><li style=3D"background:none;list-style:none;mar=
+gin:0px;padding:0px;"><span class=3D"section" style=3D"font-size:=
+0.85rem;font-weight:normal;color:rgb(68, 68, 68);display:block;pa=
+dding:0.1em 0px 0.1em 40px;background-position:20px 5px;"><a href=
+=3D"https://www.elastic.co/guide/en/elasticsearch/client/java-api=
+/5.2/java-docs-update.html" class=3D"current_page" style=3D"color=
+:rgb(0, 169, 229);text-decoration:none;font-weight:bold;">Update=20=
+API</a>---=B8=FC=D0=C2 =B0=FC=BA=ACscript=B5=C4=B8=FC=D0=C2=B7=BD=
+=CA=BD</span></li><li style=3D"background:none;list-style:none;ma=
+rgin:0px;padding:0px;"><span class=3D"section" style=3D"font-size=
+:0.85rem;font-weight:normal;color:rgb(68, 68, 68);display:block;p=
+adding:0.1em 0px 0.1em 40px;background-position:20px 5px;"><a hre=
+f=3D"https://www.elastic.co/guide/en/elasticsearch/client/java-ap=
+i/5.2/java-docs-multi-get.html" style=3D"color:rgb(0, 169, 229);t=
+ext-decoration:none;font-weight:normal;">Multi Get API</a></span>=
+</li><li style=3D"background:none;list-style:none;margin:0px;padd=
+ing:0px;"><span class=3D"section" style=3D"font-size:0.85rem;font=
+-weight:normal;color:rgb(68, 68, 68);display:block;padding:0.1em=20=
+0px 0.1em 40px;background-position:20px 5px;"><a href=3D"https://=
+www.elastic.co/guide/en/elasticsearch/client/java-api/5.2/java-do=
+cs-bulk.html" style=3D"color:rgb(0, 169, 229);text-decoration:non=
+e;font-weight:normal;">Bulk API</a></span></li><li style=3D"backg=
+round:none;list-style:none;margin:0px;padding:0px;"><span class=3D=
+"section" style=3D"font-size:0.85rem;font-weight:normal;color:rgb=
+(68, 68, 68);display:block;padding:0.1em 0px 0.1em 40px;backgroun=
+d-position:20px 5px;"><a href=3D"https://www.elastic.co/guide/en/=
+elasticsearch/client/java-api/5.2/java-docs-bulk-processor.html"=20=
+style=3D"color:rgb(0, 169, 229);text-decoration:none;font-weight:=
+normal;">Using Bulk Processor</a></span></li></ul></div><div><spa=
+n style=3D"color:rgb(0, 0, 0);font-family:Helvetica, 'Hiragino Sa=
+ns GB', =CE=A2=C8=ED=D1=C5=BA=DA, 'Microsoft YaHei UI', SimSun, S=
+imHei, arial, sans-serif;font-size:1rem;font-style:normal;font-we=
+ight:normal;text-align:start;text-indent:0px;display:inline !impo=
+rtant;"> </span><span class=3D"chapter" style=3D"font-size:1rem;f=
+ont-weight:normal;color:rgb(68, 68, 68);display:block;padding:0.3=
+em 0px 0.3em 20px;background-color:white;border-bottom:1px solid=20=
+white;background-repeat:no-repeat;background-image:url(&quot;data=
+:image/png;background-position:0px 8px;font-family:&quot;Open San=
+s&quot;, &quot;arial, helvetica, sans-serif&quot;;font-style:norm=
+al;text-align:left;text-indent:0px;"><a href=3D"https://www.elast=
+ic.co/guide/en/elasticsearch/client/java-api/5.2/java-search.html=
+" style=3D"color:rgb(0, 169, 229);text-decoration:none;font-weigh=
+t:normal;">Search API</a></span><ul style=3D"margin:0px 0px 1em;b=
+ackground:none rgb(255, 255, 255);list-style:disc;padding:0px;dis=
+play:block;color:rgb(68, 68, 68);font-family:&quot;Open Sans&quot=
+;, &quot;arial, helvetica, sans-serif&quot;;font-size:1rem;font-s=
+tyle:normal;font-weight:normal;text-align:left;text-indent:0px;">=
+<li style=3D"background:none;list-style:none;margin:0px;padding:0=
+px;"><span class=3D"section" style=3D"font-size:0.85rem;font-weig=
+ht:normal;color:rgb(68, 68, 68);display:block;padding:0.1em 0px 0=
+.1em 40px;background-position:20px 5px;"><a href=3D"https://www.e=
+lastic.co/guide/en/elasticsearch/client/java-api/5.2/java-search-=
+scrolling.html" style=3D"color:rgb(0, 169, 229);text-decoration:n=
+one;font-weight:normal;">Using scrolls in Java</a>&nbsp; ---=CA=B9=
+=D3=C3=D3=CE=B1=EA</span></li><li style=3D"background:none;list-s=
+tyle:none;margin:0px;padding:0px;"><span class=3D"section" style=3D=
+"font-size:0.85rem;font-weight:normal;color:rgb(68, 68, 68);displ=
+ay:block;padding:0.1em 0px 0.1em 40px;background-position:20px 5p=
+x;"><a href=3D"https://www.elastic.co/guide/en/elasticsearch/clie=
+nt/java-api/5.2/java-search-msearch.html" style=3D"color:rgb(0, 1=
+69, 229);text-decoration:none;font-weight:normal;">MultiSearch AP=
+I</a>--=B6=E0=B8=F6=B2=E9=D1=AF</span></li><li style=3D"backgroun=
+d:none;list-style:none;margin:0px;padding:0px;"><span class=3D"se=
+ction" style=3D"font-size:0.85rem;font-weight:normal;color:rgb(68=
+, 68, 68);display:block;padding:0.1em 0px 0.1em 40px;background-p=
+osition:20px 5px;"><a href=3D"https://www.elastic.co/guide/en/ela=
+sticsearch/client/java-api/5.2/java-search-aggs.html" style=3D"co=
+lor:rgb(0, 169, 229);text-decoration:none;font-weight:normal;">Us=
+ing Aggregations</a></span></li><li style=3D"background:none;list=
+-style:none;margin:0px;padding:0px;"><span class=3D"section" styl=
+e=3D"font-size:0.85rem;font-weight:normal;color:rgb(68, 68, 68);d=
+isplay:block;padding:0.1em 0px 0.1em 40px;background-position:20p=
+x 5px;"><a href=3D"https://www.elastic.co/guide/en/elasticsearch/=
+client/java-api/5.2/java-search-terminate-after.html" style=3D"co=
+lor:rgb(0, 169, 229);text-decoration:none;font-weight:normal;">Te=
+rminate After</a>---=D6=D0=B6=CF</span></li><li style=3D"backgrou=
+nd:none;list-style:none;margin:0px;padding:0px;"><span class=3D"s=
+ection" style=3D"font-size:0.85rem;font-weight:normal;color:rgb(6=
+8, 68, 68);display:block;padding:0.1em 0px 0.1em 40px;background-=
+position:20px 5px;"><a href=3D"https://www.elastic.co/guide/en/el=
+asticsearch/client/java-api/5.2/java-search-template.html" class=3D=
+"current_page" style=3D"color:rgb(0, 169, 229);text-decoration:no=
+ne;font-weight:bold;">Search Template</a>----=CA=B9=D3=C3config/s=
+cripts=CF=C2=B5=C4*<span style=3D"color:rgb(85, 85, 85);font-fami=
+ly:Consolas, Menlo, &quot;DejaVu Sans Mono&quot;, &quot;Bitstream=
+ Vera Sans Mono&quot;, &quot;Lucida Console&quot;;font-size:0.9re=
+m;font-style:normal;font-weight:normal;text-align:start;text-inde=
+nt:0px;background-color:rgb(248, 248, 248);display:inline !import=
+ant;">.mustache</span>=C4=A3=B0=E5=CE=C4=BC=FE</span></li><li sty=
+le=3D"background:none;list-style:none;margin:0px;padding:0px;"><s=
+pan class=3D"chapter" style=3D"font-size:1rem;font-weight:normal;=
+color:rgb(68, 68, 68);display:block;padding:0.3em 0px 0.3em 20px;=
+background-color:white;border-bottom:1px solid white;background-r=
+epeat:no-repeat;background-image:url(&quot;data:image/png;backgro=
+und-position:0px 8px;font-family:&quot;Open Sans&quot;, &quot;ari=
+al, helvetica, sans-serif&quot;;font-style:normal;text-align:left=
+;text-indent:0px;"><a href=3D"https://www.elastic.co/guide/en/ela=
+sticsearch/client/java-api/5.2/java-query-dsl.html" style=3D"colo=
+r:rgb(0, 169, 229);text-decoration:none;font-weight:normal;">Quer=
+y DSL</a></span><ul style=3D"margin:0px 0px 1em;background:none r=
+gb(255, 255, 255);list-style:disc;padding:0px;display:block;color=
+:rgb(68, 68, 68);font-family:&quot;Open Sans&quot;, &quot;arial,=20=
+helvetica, sans-serif&quot;;font-size:1rem;font-style:normal;font=
+-weight:normal;text-align:left;text-indent:0px;"><li style=3D"bac=
+kground:none;list-style:none;margin:0px;padding:0px;"><span class=
+=3D"section" style=3D"font-size:0.85rem;font-weight:normal;color:=
+rgb(68, 68, 68);display:block;padding:0.1em 0px 0.1em 40px;backgr=
+ound-position:20px 5px;"><a href=3D"https://www.elastic.co/guide/=
+en/elasticsearch/client/java-api/5.2/java-query-dsl-match-all-que=
+ry.html" style=3D"color:rgb(0, 169, 229);text-decoration:underlin=
+e;font-weight:normal;">Match All Query</a></span></li><li style=3D=
+"background:none;list-style:none;margin:0px;padding:0px;"><span c=
+lass=3D"section" style=3D"font-size:0.85rem;font-weight:normal;co=
+lor:rgb(68, 68, 68);display:block;padding:0.1em 0px 0.1em 40px;ba=
+ckground-position:20px 5px;"><a href=3D"https://www.elastic.co/gu=
+ide/en/elasticsearch/client/java-api/5.2/java-full-text-queries.h=
+tml" class=3D"current_page" style=3D"color:rgb(0, 169, 229);text-=
+decoration:none;font-weight:bold;">Full text queries</a>&nbsp;=C8=
+=AB=CE=C4=C6=A5=C5=E4</span></li><li style=3D"background:none;lis=
+t-style:none;margin:0px;padding:0px;"><span class=3D"section" sty=
+le=3D"font-size:0.85rem;font-weight:normal;color:rgb(68, 68, 68);=
+display:block;padding:0.1em 0px 0.1em 40px;background-position:20=
+px 5px;"><a href=3D"https://www.elastic.co/guide/en/elasticsearch=
+/client/java-api/5.2/java-term-level-queries.html" style=3D"color=
+:rgb(0, 169, 229);text-decoration:none;font-weight:normal;">Term=20=
+level queries</a>&nbsp;=CD=EA=C8=AB=C6=A5=C5=E4</span></li><li st=
+yle=3D"background:none;list-style:none;margin:0px;padding:0px;"><=
+span class=3D"section" style=3D"font-size:0.85rem;font-weight:nor=
+mal;color:rgb(68, 68, 68);display:block;padding:0.1em 0px 0.1em 4=
+0px;background-position:20px 5px;"><a href=3D"https://www.elastic=
+.co/guide/en/elasticsearch/client/java-api/5.2/java-compound-quer=
+ies.html" style=3D"color:rgb(0, 169, 229);text-decoration:none;fo=
+nt-weight:normal;">Compound queries</a>&nbsp;=B8=B4=BA=CF=B2=E9=D1=
+=AF</span></li><li style=3D"background:none;list-style:none;margi=
+n:0px;padding:0px;"><span class=3D"section" style=3D"font-size:0.=
+85rem;font-weight:normal;color:rgb(68, 68, 68);display:block;padd=
+ing:0.1em 0px 0.1em 40px;background-position:20px 5px;"><a href=3D=
+"https://www.elastic.co/guide/en/elasticsearch/client/java-api/5.=
+2/java-joining-queries.html" style=3D"color:rgb(0, 169, 229);text=
+-decoration:none;font-weight:normal;">Joining queries</a>&nbsp;=D7=
+=D3=CE=C4=B5=B5=B2=E9=D1=AF</span></li><li style=3D"background:no=
+ne;list-style:none;margin:0px;padding:0px;"><span class=3D"sectio=
+n" style=3D"font-size:0.85rem;font-weight:normal;color:rgb(68, 68=
+, 68);display:block;padding:0.1em 0px 0.1em 40px;background-posit=
+ion:20px 5px;"><a href=3D"https://www.elastic.co/guide/en/elastic=
+search/client/java-api/5.2/java-geo-queries.html" style=3D"color:=
+rgb(0, 169, 229);text-decoration:none;font-weight:normal;">Geo qu=
+eries</a>&nbsp;=D7=F8=B1=EA=B2=E9=D1=AF</span></li><li style=3D"b=
+ackground:none;list-style:none;margin:0px;padding:0px;"><span cla=
+ss=3D"section" style=3D"font-size:0.85rem;font-weight:normal;colo=
+r:rgb(68, 68, 68);display:block;padding:0.1em 0px 0.1em 40px;back=
+ground-position:20px 5px;"><a href=3D"https://www.elastic.co/guid=
+e/en/elasticsearch/client/java-api/5.2/java-specialized-queries.h=
+tml" style=3D"color:rgb(0, 169, 229);text-decoration:none;font-we=
+ight:normal;">Specialized queries</a>&nbsp;</span></li><li style=3D=
+"background:none;list-style:none;margin:0px;padding:0px;"><span c=
+lass=3D"section" style=3D"font-size:0.85rem;font-weight:normal;co=
+lor:rgb(68, 68, 68);display:block;padding:0.1em 0px 0.1em 40px;ba=
+ckground-position:20px 5px;"><a href=3D"https://www.elastic.co/gu=
+ide/en/elasticsearch/client/java-api/5.2/java-span-queries.html"=20=
+style=3D"color:rgb(0, 169, 229);text-decoration:none;font-weight:=
+normal;">Span queries</a></span></li></ul><span class=3D"section"=
+ style=3D"font-size:0.85rem;font-weight:normal;color:rgb(68, 68,=20=
+68);display:block;padding:0.1em 0px 0.1em 40px;background-positio=
+n:20px 5px;"><br></span></li></ul><br></div></body></html>=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000319562.073--
+
+------=_Next_Part_0000958686.277--
+

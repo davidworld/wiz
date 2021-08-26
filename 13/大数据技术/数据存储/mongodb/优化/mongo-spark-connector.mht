@@ -1,0 +1,147 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?bW9uZ28tc3BhcmstY29ubmVjdG9y?=
+Date: Date: Fri, 23 Jul 2021 05:53:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0001083513.978"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0001083513.978
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000361171.779"
+
+
+------=_Next_Part_0000361171.779
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000361171.779
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<title>mongo-spark-connector</title>=0A    =0A=
+=0A=0A=0A=0A<style id=3D"wiz_custom_css">html, body {font-size: 1=
+2pt;}body {font-family: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=
+=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun, SimHei, arial, sa=
+ns-serif;line-height: 1.6;margin: 0 auto;padding: 20px 16px;paddi=
+ng: 1.25rem 1rem;}h1, h2, h3, h4, h5, h6 {margin:20px 0 10px;marg=
+in:1.25rem 0 0.625rem;padding: 0;font-weight: bold;}h1 {font-size=
+:20pt;font-size:1.67rem;}h2 {font-size:18pt;font-size:1.5rem;}h3=20=
+{font-size:15pt;font-size:1.25rem;}h4 {font-size:14pt;font-size:1=
+.17rem;}h5 {font-size:12pt;font-size:1rem;}h6 {font-size:12pt;fon=
+t-size:1rem;color: #777777;margin: 1rem 0;}div, p, ul, ol, dl, li=
+ {margin:0;}blockquote, table, pre, code {margin:8px 0;}ul, ol {p=
+adding-left:32px;padding-left:2rem;}ol.wiz-list-level1 > li {list=
+-style-type:decimal;}ol.wiz-list-level2 > li {list-style-type:low=
+er-latin;}ol.wiz-list-level3 > li {list-style-type:lower-roman;}b=
+lockquote {padding:0 12px;padding:0 0.75rem;}blockquote > :first-=
+child {margin-top:0;}blockquote > :last-child {margin-bottom:0;}i=
+mg {border:0;max-width:100%;height:auto !important;margin:2px 0;}=
+table {border-collapse:collapse;border:1px solid #bbbbbb;}td, th=20=
+{padding:4px 8px;border-collapse:collapse;border:1px solid #bbbbb=
+b;min-height:28px;word-break:break-all;box-sizing: border-box;}.w=
+iz-hide {display:none !important;}</style></head>=0A=0A<body styl=
+e class spellcheck=3D"false"><h2>mongo-spark-connector</h2><h2>po=
+m=C5=E4=D6=C3&nbsp;</h2><div><div><span style=3D"background-color=
+:#efefef;">&lt;</span><span style=3D"color:#000080;font-weight:bo=
+ld;">properties</span><span style=3D"background-color:#efefef;">&=
+gt;<br></span>    <span style=3D"background-color:#efefef;">&lt;<=
+/span><span style=3D"color:#000080;font-weight:bold;">spark.versi=
+on</span><span style=3D"background-color:#efefef;">&gt;</span>2.1=
+.0<span style=3D"background-color:#efefef;">&lt;/</span><span sty=
+le=3D"color:#000080;font-weight:bold;">spark.version</span><span=20=
+style=3D"background-color:#efefef;">&gt;<br></span>    <span styl=
+e=3D"background-color:#efefef;">&lt;</span><span style=3D"color:#=
+000080;font-weight:bold;">scala.binary.version</span><span style=3D=
+"background-color:#efefef;">&gt;</span>2.11<span style=3D"backgro=
+und-color:#efefef;">&lt;/</span><span style=3D"color:#000080;font=
+-weight:bold;">scala.binary.version</span><span style=3D"backgrou=
+nd-color:#efefef;">&gt;<br></span><span style=3D"background-color=
+:#efefef;">&lt;/</span><span style=3D"color:#000080;font-weight:b=
+old;">properties</span><span style=3D"background-color:#efefef;">=
+&gt;</span></div></div><div><span style=3D"background-color:#efef=
+ef;"><br></span></div><div><div><span style=3D"background-color:#=
+efefef;">&lt;</span><span style=3D"color:#000080;font-weight:bold=
+;">dependency</span><span style=3D"background-color:#efefef;">&gt=
+;<br></span>    <span style=3D"background-color:#efefef;">&lt;</s=
+pan><span style=3D"color:#000080;font-weight:bold;">groupId</span=
+><span style=3D"background-color:#efefef;">&gt;</span>org.mongodb=
+.spark<span style=3D"background-color:#efefef;">&lt;/</span><span=
+ style=3D"color:#000080;font-weight:bold;">groupId</span><span st=
+yle=3D"background-color:#efefef;">&gt;<br></span>    <span style=3D=
+"background-color:#efefef;">&lt;</span><span style=3D"color:#0000=
+80;font-weight:bold;">artifactId</span><span style=3D"background-=
+color:#efefef;">&gt;</span>mongo-spark-connector_${scala.binary.v=
+ersion}<span style=3D"background-color:#efefef;">&lt;/</span><spa=
+n style=3D"color:#000080;font-weight:bold;">artifactId</span><spa=
+n style=3D"background-color:#efefef;">&gt;<br></span>    <span st=
+yle=3D"background-color:#efefef;">&lt;</span><span style=3D"color=
+:#000080;font-weight:bold;">version</span><span style=3D"backgrou=
+nd-color:#efefef;">&gt;</span>${spark.version}<span style=3D"back=
+ground-color:#efefef;">&lt;/</span><span style=3D"color:#000080;f=
+ont-weight:bold;">version</span><span style=3D"background-color:#=
+efefef;">&gt;<br></span><span style=3D"background-color:#efefef;"=
+>&lt;/</span><span style=3D"color:#000080;font-weight:bold;">depe=
+ndency</span><span style=3D"background-color:#efefef;">&gt;<br></=
+span><span style=3D"background-color:#efefef;">&lt;</span><span s=
+tyle=3D"color:#000080;font-weight:bold;">dependency</span><span s=
+tyle=3D"background-color:#efefef;">&gt;<br></span>    <span style=
+=3D"background-color:#efefef;">&lt;</span><span style=3D"color:#0=
+00080;font-weight:bold;">groupId</span><span style=3D"background-=
+color:#efefef;">&gt;</span>org.apache.spark<span style=3D"backgro=
+und-color:#efefef;">&lt;/</span><span style=3D"color:#000080;font=
+-weight:bold;">groupId</span><span style=3D"background-color:#efe=
+fef;">&gt;<br></span>    <span style=3D"background-color:#efefef;=
+">&lt;</span><span style=3D"color:#000080;font-weight:bold;">arti=
+factId</span><span style=3D"background-color:#efefef;">&gt;</span=
+>spark-core_${scala.binary.version}<span style=3D"background-colo=
+r:#efefef;">&lt;/</span><span style=3D"color:#000080;font-weight:=
+bold;">artifactId</span><span style=3D"background-color:#efefef;"=
+>&gt;<br></span>    <span style=3D"background-color:#efefef;">&lt=
+;</span><span style=3D"color:#000080;font-weight:bold;">version</=
+span><span style=3D"background-color:#efefef;">&gt;</span>${spark=
+.version}<span style=3D"background-color:#efefef;">&lt;/</span><s=
+pan style=3D"color:#000080;font-weight:bold;">version</span><span=
+ style=3D"background-color:#efefef;">&gt;<br></span><span style=3D=
+"background-color:#efefef;">&lt;/</span><span style=3D"color:#000=
+080;font-weight:bold;">dependency</span><span style=3D"background=
+-color:#efefef;">&gt;<br></span><span style=3D"background-color:#=
+efefef;">&lt;</span><span style=3D"color:#000080;font-weight:bold=
+;">dependency</span><span style=3D"background-color:#efefef;">&gt=
+;<br></span>    <span style=3D"background-color:#efefef;">&lt;</s=
+pan><span style=3D"color:#000080;font-weight:bold;">groupId</span=
+><span style=3D"background-color:#efefef;">&gt;</span>org.apache.=
+spark<span style=3D"background-color:#efefef;">&lt;/</span><span=20=
+style=3D"color:#000080;font-weight:bold;">groupId</span><span sty=
+le=3D"background-color:#efefef;">&gt;<br></span>    <span style=3D=
+"background-color:#efefef;">&lt;</span><span style=3D"color:#0000=
+80;font-weight:bold;">artifactId</span><span style=3D"background-=
+color:#efefef;">&gt;</span>spark-sql_${scala.binary.version}<span=
+ style=3D"background-color:#efefef;">&lt;/</span><span style=3D"c=
+olor:#000080;font-weight:bold;">artifactId</span><span style=3D"b=
+ackground-color:#efefef;">&gt;<br></span>    <span style=3D"backg=
+round-color:#efefef;">&lt;</span><span style=3D"color:#000080;fon=
+t-weight:bold;">version</span><span style=3D"background-color:#ef=
+efef;">&gt;</span>${spark.version}<span style=3D"background-color=
+:#efefef;">&lt;/</span><span style=3D"color:#000080;font-weight:b=
+old;">version</span><span style=3D"background-color:#efefef;">&gt=
+;<br></span><span style=3D"background-color:#efefef;">&lt;/</span=
+><span style=3D"color:#000080;font-weight:bold;">dependency</span=
+><span style=3D"background-color:#efefef;">&gt;</span></div></div=
+><div><span style=3D"background-color:#efefef;"><br></span></div>=
+<div><span style=3D"background-color:#efefef;"><br></span></div><=
+/body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000361171.779--
+
+------=_Next_Part_0001083513.978--
+

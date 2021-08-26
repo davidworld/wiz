@@ -1,0 +1,607 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?SGl2ZbLZ1/c=?=
+Date: Date: Fri, 23 Jul 2021 05:51:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000669888.426"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000669888.426
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000223296.871"
+
+
+------=_Next_Part_0000223296.871
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000223296.871
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<title>Hive=B2=D9=D7=F7</title>=0A    =0A=0A=
+=0A=0A=0A=0A=0A<style id=3D"wiz_custom_css">html, body {font-size=
+: 12pt;}body {font-family: Helvetica, 'Hiragino Sans GB', '=CE=A2=
+=C8=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun, SimHei, arial,=
+ sans-serif;line-height: 1.6;margin: 0 auto;padding: 20px 16px;pa=
+dding: 1.25rem 1rem;}h1, h2, h3, h4, h5, h6 {margin:20px 0 10px;m=
+argin:1.25rem 0 0.625rem;padding: 0;font-weight: bold;}h1 {font-s=
+ize:20pt;font-size:1.67rem;}h2 {font-size:18pt;font-size:1.5rem;}=
+h3 {font-size:15pt;font-size:1.25rem;}h4 {font-size:14pt;font-siz=
+e:1.17rem;}h5 {font-size:12pt;font-size:1rem;}h6 {font-size:12pt;=
+font-size:1rem;color: #777777;margin: 1rem 0;}div, p, ul, ol, dl,=
+ li {margin:0;}blockquote, table, pre, code {margin:8px 0;}ul, ol=
+ {padding-left:32px;padding-left:2rem;}ol.wiz-list-level1 > li {l=
+ist-style-type:decimal;}ol.wiz-list-level2 > li {list-style-type:=
+lower-latin;}ol.wiz-list-level3 > li {list-style-type:lower-roman=
+;}blockquote {padding:0 12px;padding:0 0.75rem;}blockquote > :fir=
+st-child {margin-top:0;}blockquote > :last-child {margin-bottom:0=
+;}img {border:0;max-width:100%;height:auto !important;margin:2px=20=
+0;}table {border-collapse:collapse;border:1px solid #bbbbbb;}td,=20=
+th {padding:4px 8px;border-collapse:collapse;border:1px solid #bb=
+bbbb;min-height:28px;word-break:break-all;box-sizing: border-box;=
+}.wiz-hide {display:none !important;}</style></head>=0A=0A<body s=
+tyle class spellcheck=3D"false"><h3><span>Hive=B2=D9=D7=F7</span>=
+</h3><h3><span>Shell</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=B2=
+=D9=D7=F7</span></h3><p class=3D"MsoNormal"><span>HiveQL:Hive</sp=
+an><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=
+Calibri;mso-hansi-font-family:Calibri">=CA=FD=BE=DD=BF=E2=B1=E0=B3=
+=CC=D3=EF=D1=D4</span></p><h4><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:=0ACambria;mso-hansi-font-family:Cambri=
+a">=B2=E9=BF=B4=CF=B5=CD=B3=CA=FD=BE=DD=BF=E2=A3=BA</span></h4><p=
+ class=3D"MsoNormal"><b><span>Hive&gt; SHOW DATABASES;<o:p></o:p>=
+</span></b></p><p class=3D"MsoNormal"><b><span><o:p>&nbsp;</o:p><=
+/span></b></p><h4><span style=3D"font-family:=CB=CE=CC=E5;mso-asc=
+ii-font-family:=0ACambria;mso-hansi-font-family:Cambria">=B4=B4=BD=
+=A8=CA=FD=BE=DD=BF=E2=A3=BA</span></h4><p class=3D"MsoNormal"><b>=
+<span>Hive&gt; CREATE DATABASE db;<o:p></o:p></span></b></p><p cl=
+ass=3D"MsoNormal"><b><span>Hive&gt; CREATE DATABASE IF NOT EXISTS=
+ db;<o:p></o:p></span></b></p><p class=3D"MsoNormal"><span><o:p>&=
+nbsp;</o:p></span></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o=
+:p></span></p><p class=3D"MsoNormal"><span style=3D"font-family:=0A=
+=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:=
+Calibri">=CD=A8=B9=FD=D5=FD=D4=F2=B1=ED=B4=EF=CA=BD=B2=E9=D5=D2=CA=
+=FD=BE=DD=BF=E2=A3=BA</span></p><p class=3D"MsoNormal"><b><span>H=
+ive&gt; SHOW DATABASES LIKE =A1=AEh.*=A1=AF;&nbsp;&nbsp;&nbsp;&nb=
+sp; </span></b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp; // .*</span><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-a=
+scii-font-family:Calibri;mso-hansi-font-family:Calibri">=CE=AA=CD=
+=A8=C5=E4=CF=EE</span></p><p class=3D"MsoNormal"><span><o:p>&nbsp=
+;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-fami=
+ly:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-f=
+amily:Calibri">=B4=B4=BD=A8=D6=B8=B6=A8=C2=B7=BE=B6=CA=FD=BE=DD=BF=
+=E2=A3=BA</span></p><p class=3D"MsoNormal"><b><span>Hive&gt; CREA=
+TE DATABASE DB &gt; LOCATION =A1=AE/my/preferred/directory=A1=AF;=
+<o:p></o:p></span></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp=
+;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-fami=
+ly:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-f=
+amily:Calibri">=B4=B4=BD=A8=B4=F8=C3=E8=CA=F6=B5=C4=CA=FD=BE=DD=BF=
+=E2=A3=BA</span></p><p class=3D"MsoNormal"><b><span>Hive&gt; CREA=
+TE DATABASE DB &gt; COMMENT =A1=AE=A1=AD.=A1=AF;<o:p></o:p></span=
+></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p=
+><p class=3D"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=B2=
+=E9=BF=B4=CA=FD=BE=DD=BF=E2=CF=E0=B9=D8=C3=E8=CA=F6=A3=BA</span><=
+/p><p class=3D"MsoNormal"><b><span>Hive&gt; DESCRIBE DATABASE DB;=
+<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span>--COMME=
+NT<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span>--PAT=
+H<o:p></o:p></span></b></p><p class=3D"MsoNormal"><span><o:p>&nbs=
+p;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-fam=
+ily:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-=
+family:Calibri">=B4=B4=BD=A8=CA=FD=BE=DD=BF=E2=CA=B1=A3=AC=CE=AA=CA=
+=FD=BE=DD=BF=E2=CC=ED=BC=D3=BC=FC=D6=B5=B6=D4=B5=C4=CA=F4=D0=D4=D0=
+=C5=CF=A2=A3=BA</span></p><p class=3D"MsoNormal"><b><span>Hive&gt=
+; CREATE DATABASE DB &gt; WITH DBPROOERTIES (=A1=AEKEY=A1=AF=0A=3D=
+ =A1=AEVALUE=A1=AF, =A1=AEKEY=A1=AF =3D =A1=AEVALUE=A1=AF);<o:p><=
+/o:p></span></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p=
+></span></p><p class=3D"MsoNormal"><span style=3D"font-family:=0A=
+=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:=
+Calibri">=B2=E9=BF=B4=CA=FD=BE=DD=BF=E2=BC=FC=D6=B5=B6=D4=B5=C4=CA=
+=F4=D0=D4=D0=C5=CF=A2=A3=BA</span></p><p class=3D"MsoNormal"><b><=
+span>Hive&gt; DESCRIBE DATABASE EXTENDED DB;<o:p></o:p></span></b=
+></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><h4=
+><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=0A=
+Cambria;mso-hansi-font-family:Cambria">=C7=D0=BB=BB=B5=B1=C7=B0=B9=
+=A4=D7=F7=CA=FD=BE=DD=BF=E2=A3=BA</span></h4><p class=3D"MsoNorma=
+l"><b><span>Hive&gt; USE DB;</span></b></p><p class=3D"MsoNormal"=
+><span><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span s=
+tyle=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri=
+;mso-hansi-font-family:Calibri">=C9=E8=D6=C3=CC=E1=CA=BE=B5=B1=C7=
+=B0=CB=F9=D4=DA=CA=FD=BE=DD=BF=E2=A3=BA</span></p><p class=3D"Mso=
+Normal"><b><span>Hive&gt; set hive.cli.print.current.db=3Dtrue;<o=
+:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span><o:p>&nbs=
+p;</o:p></span></b></p><h4><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:=0ACambria;mso-hansi-font-family:Cambria">=
+=C9=BE=B3=FD=CA=FD=BE=DD=BF=E2</span></h4><p class=3D"MsoNormal">=
+<span>(</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-f=
+ont-family:Calibri;mso-hansi-font-family:Calibri">=CA=FD=BE=DD=BF=
+=E2=D6=D0=C3=BB=D3=D0=B1=ED=D0=C5=CF=A2=A3=AC=C8=E7=B9=FB=D3=D0=BD=
+=AB=B1=A8=B4=ED=A3=AC=D2=F2=CE=AA=B2=BB=B1=BB=D4=CA=D0=ED</span><=
+span>)</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-fo=
+nt-family:Calibri;=0Amso-hansi-font-family:Calibri">=A3=BA</span>=
+</p><p class=3D"MsoNormal"><b><span>Hive&gt; DROP DATABASE IF EXI=
+STS DB;<o:p></o:p></span></b></p><p class=3D"MsoNormal"><span><o:=
+p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"fo=
+nt-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi=
+-font-family:Calibri">=C9=BE=B3=FD=CA=FD=BE=DD=BF=E2</span><span>=
+(</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fa=
+mily:Calibri;=0Amso-hansi-font-family:Calibri">=B0=FC=BA=AC=D0=C5=
+=CF=A2</span><span>)</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=A3=
+=BA</span></p><p class=3D"MsoNormal"><b><span>Hive&gt; DROP DATAB=
+ASE IF EXISTS DB CASCADE;</span></b></p><p class=3D"MsoNormal"><s=
+pan><o:p>&nbsp;</o:p></span></p><h4><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:=0ACambria;mso-hansi-font-family:=
+Cambria">=D0=DE=B8=C4=CA=FD=BE=DD=BF=E2</span></h4><p class=3D"Ms=
+oNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-fon=
+t-family:Calibri;mso-hansi-font-family:Calibri">=BC=FC</span><spa=
+n>-</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-=
+family:Calibri;=0Amso-hansi-font-family:Calibri">=D6=B5=B6=D4=CA=F4=
+=D0=D4=D6=B5=A3=AC=CA=FD=BE=DD=BF=E2=CA=F4=D0=D4=D2=BB=B5=A9=B4=B4=
+=BD=A8=D4=F2=B2=BB=C4=DC=C9=BE=B3=FD=BB=F2=D6=D8=D6=C3=A3=BA</spa=
+n></p><p class=3D"MsoNormal"><b><span>Hive&gt; ALTER DATABASE DB=20=
+SET DBPROPERTIES (=A1=AEKEY=A1=AF =3D =A1=AEVALUE=A1=AF);</span><=
+/b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><=
+h4><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=
+=0ACambria;mso-hansi-font-family:Cambria">=B4=B4=BD=A8=B1=ED=A3=AC=
+</span></h4><p class=3D"MsoNormal"><span style=3D"font-family:=0A=
+=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:=
+Calibri">=B6=A8=D2=E5=CA=FD=BE=DD=CE=C4=BC=FE=B5=C4=B4=E6=B4=A2=C2=
+=B7=BE=B6=A3=AC=B4=E6=B4=A2=B8=F1=CA=BD=A3=AC=BC=FC</span><span>-=
+</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fam=
+ily:Calibri;=0Amso-hansi-font-family:Calibri">=D6=B5=CA=F4=D0=D4=B5=
+=C8=B5=C8=A3=BA</span></p><p class=3D"MsoNormal"><b><span>Hive&gt=
+; CREATE TABLE IF NOT EXISTS DB.TABLE (<o:p></o:p></span></b></p>=
+<p class=3D"MsoNormal"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp; Name=0ASTRING COMMENT =A1=AENAME=A1=AF,<o:p></o:p=
+></span></b></p><p class=3D"MsoNormal"><b><span>&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; AGE INT=0ACOMMENT =A1=AEAGE=A1=AF=
+ )<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span>COMME=
+NT =A1=AEDescription of the table=A1=AF<o:p></o:p></span></b></p>=
+<p class=3D"MsoNormal"><b><span>TBLPROPERTIES (=A1=AEKEY=A1=AF =3D=
+ =A1=AEVALUE=A1=AF, =A1=AD)<o:p></o:p></span></b></p><p class=3D"=
+MsoNormal"><b><span>LOCATION =A1=AE/user/hive/warehouse/db.db/emp=
+loyees=A1=AF<span style=3D"color:red">;</span><o:p></o:p></span><=
+/b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><=
+p class=3D"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5;=
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;color=
+:red">=D7=A2=A3=BA</span><span style=3D"color:red">hive </span><s=
+pan style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Ca=
+libri;mso-hansi-font-family:Calibri;color:red">=C3=FC=C1=EE=B1=D8=
+=D0=EB=D2=D4=A1=B0</span><span style=3D"color:red">;</span><span=20=
+style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=0ACalibr=
+i;mso-hansi-font-family:Calibri;color:red">=A1=B1=BD=E1=CE=B2</sp=
+an><span style=3D"color:red"><o:p></o:p></span></p><p class=3D"Ms=
+oNormal"><span><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"=
+><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family=
+:Calibri;mso-hansi-font-family:Calibri">=D4=DA=CA=D7=B4=CE=B4=B4=BD=
+=A8=B1=ED=BB=F2=CA=FD=BE=DD=BF=E2=CA=B1=A3=AC=CC=ED=BC=D3</span><=
+span>=A1=AFIF NOT EXISTS=A1=AF </span><span style=3D"font-family:=
+=CB=CE=CC=E5;mso-ascii-font-family:=0ACalibri;mso-hansi-font-fami=
+ly:Calibri">=CA=C7=B8=F6=BA=C3=CF=B0=B9=DF</span></p><p class=3D"=
+MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-f=
+ont-family:Calibri;mso-hansi-font-family:Calibri">=B5=B1=B4=B4=BD=
+=A8=B1=ED=CA=B1=A3=AC</span><span>hive</span><span style=3D"font-=
+family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-fo=
+nt-family:Calibri">=BB=E1=D7=D4=B6=AF=CC=ED=BC=D3=C1=BD=B8=F6=CA=F4=
+=D0=D4=A3=BA</span><span>last_modified_by,=0Alast_modified_time</=
+span></p><p class=3D"MsoNormal"><span style=3D"font-family:=0A=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=CD=A8=B9=FD=C3=FC=C1=EE=B2=E9=BF=B4=A3=BA</span></p><p cla=
+ss=3D"MsoNormal"><b><span>Hive&gt; SHOW TBLPROPERTIES TABLE_NAME;=
+</span></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></sp=
+an></p><p class=3D"MsoNormal"><span>HIVE</span><span style=3D"fon=
+t-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-fon=
+t-family:Calibri">=D6=D0=B5=C4=CA=FD=BE=DD=B0=FC=B0=FC=C0=A8=B9=DC=
+=C0=ED=B1=ED=BA=CD=CD=E2=B2=BF=B1=ED=A3=AC=C4=AC=C8=CF=C7=E9=BF=F6=
+=CF=C2=B5=C4=B1=ED=B6=BC=CA=C7=B9=DC=C0=ED=B1=ED=A3=AC=B6=BC=B4=E6=
+=B4=A2=D4=DA=D2=D4=CA=FD=BE=DD=BF=E2=C3=FB=B3=C6=CE=AA=B8=F9=C4=BF=
+=C2=BC=B5=C4=C4=BF=C2=BC=CF=C2=A3=BA</span><span style=3D"color:r=
+ed">db.db</span></p><p class=3D"MsoNormal"><span style=3D"font-fa=
+mily:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font=
+-family:Calibri">=C8=E7=B9=FB=D4=DA=C4=AC=C8=CF=B5=C4=CA=FD=BE=DD=
+=BF=E2=CF=C2=A3=AC=B4=B4=BD=A8=B5=C4=B1=ED=BA=CD=CA=FD=BE=DD=BF=E2=
+=CD=AC=BC=B6=C4=BF=C2=BC=A3=BA</span><b><span>/user/hive/warehous=
+e/</span></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></=
+span></p><p class=3D"MsoNormal"><span style=3D"font-family:=0A=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=BF=BD=B1=B4=D2=D1=BE=AD=B4=E6=D4=DA=B5=C4=B1=ED=B5=C4=B1=ED=
+=C4=A3=CA=BD=A3=AC=B2=BB=BF=BD=B1=B4=CA=FD=BE=DD=A3=BA</span></p>=
+<p class=3D"MsoNormal"><b><span>Hive&gt; CREATE TABLE IF NOT EXIS=
+TS DB.TABLE LIKE=0ADB.TABLE_ELSE;</span></b></p><p class=3D"MsoNo=
+rmal"><span><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><s=
+pan style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Ca=
+libri;mso-hansi-font-family:Calibri">=C1=D0=B3=F6=B7=C7=B9=A4=D7=F7=
+=CA=FD=BE=DD=BF=E2=CF=C2=B5=C4=CA=FD=BE=DD=B1=ED=A3=BA</span></p>=
+<p class=3D"MsoNormal"><b><span>Hive&gt; SHOW TABLE DB_ELSE.TABLE=
+;<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span>Hive&g=
+t; SHOW TABLES ;<o:p></o:p></span></b></p><p class=3D"MsoNormal">=
+<b><span>Hive&gt; SHOW TABLES =A1=AEE.*=A1=AF&nbsp; // </span></b=
+><b><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family=
+:Calibri;mso-hansi-font-family:=0ACalibri">=C0=E0=CB=C6=B5=C4=D5=FD=
+=D4=F2=B1=ED=B4=EF=CA=BD</span></b></p><p class=3D"MsoNormal"><sp=
+an><o:p>&nbsp;</o:p></span></p><h4><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:=0ACambria;mso-hansi-font-family:=
+Cambria">=B2=E9=BF=B4=CA=FD=BE=DD=B1=ED=D0=C5=CF=A2=A3=BA</span><=
+/h4><p class=3D"MsoNormal"><b><span>Hive&gt; DESCRIBE <span style=
+=3D"color:red">EXTENDED</span>=0ADB.TABLE;<o:p></o:p></span></b><=
+/p><p class=3D"MsoNormal"><b><span><o:p>&nbsp;</o:p></span></b></=
+p><p class=3D"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=B2=
+=E9=BF=B4=B8=FC=B6=E0=D0=C5=CF=A2=A3=BA</span></p><p class=3D"Mso=
+Normal"><b><span>Hive&gt; DESCRIBE <span style=3D"color:red">FORM=
+ATTED</span>=0ATABLE;<o:p></o:p></span></b></p><p class=3D"MsoNor=
+mal"><b><span><o:p>&nbsp;</o:p></span></b></p><p class=3D"MsoNorm=
+al"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-fam=
+ily:Calibri;mso-hansi-font-family:Calibri">=B2=E9=BF=B4=D6=B8=B6=A8=
+=C1=D0=B5=C4=D7=A2=CA=CD=D0=C5=CF=A2=A3=BA</span></p><p class=3D"=
+MsoNormal"><b><span>Hive&gt; DESCRIBE DB.TABLE.COLUMN;</span></b>=
+</p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><h4>=
+<span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=0A=
+Cambria;mso-hansi-font-family:Cambria">=B4=B4=BD=A8=CD=E2=B2=BF=B1=
+=ED=A3=AC</span></h4><p class=3D"MsoNormal"><span style=3D"font-f=
+amily:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-fon=
+t-family:Calibri">=D3=D0=C0=FB=D3=DA=CA=FD=BE=DD=B9=DC=C0=ED=A3=AC=
+=B5=AB=CA=C7=B2=BB=B8=B3=D3=E8=C9=BE=B3=FD=B9=A6=C4=DC=A3=AC=BD=F6=
+=CC=E1=B9=A9=B2=E9=D1=AF=A3=BA</span></p><p class=3D"MsoNormal"><=
+b><span>Hive&gt; CREATE EXTERNAL TABLE IF NOT EXISTS DB (<o:p></o=
+:p></span></b></p><p class=3D"MsoNormal"><b><span>&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=AD<o:p></o:p></span></b></p=
+><p class=3D"MsoNormal"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; =A1=AD )<o:p></o:p></span></b></p><p class=3D"Ms=
+oNormal"><b><span>ROW FORMAT DELIMITED FIELDS TERMINATED BY =A1=AE=
+,=A1=AF &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; // </span></b><b><sp=
+an style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibr=
+i;mso-hansi-font-family:=0ACalibri">=B6=A8=D2=E5=B7=D6=B8=F4=B7=FB=
+</span><span><o:p></o:p></span></b></p><p class=3D"MsoNormal"><b>=
+<span>LOCATION =A1=AE/data/db=A1=AF;&nbsp;&nbsp; //=0A</span></b>=
+<b><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-fami=
+ly:Calibri;mso-hansi-font-family:Calibri">=CB=F9=D2=D4=B8=BA=D4=F0=
+=B5=C4=CA=FD=BE=DD=B1=ED=CB=F9=D4=DA=C2=B7=BE=B6</span><span><o:p=
+></o:p></span></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o=
+:p></span></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></spa=
+n></p><h4><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-=
+family:=0ACambria;mso-hansi-font-family:Cambria">=B4=B4=BD=A8=B7=D6=
+=C7=F8=B1=ED=A3=BA</span></h4><p class=3D"MsoNormal"><b><span>Hiv=
+e&gt; CREATE TABLE DB (<o:p></o:p></span></b></p><p class=3D"MsoN=
+ormal"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20=
+=A1=AD<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span>&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=AD )<o:p></o:=
+p></span></b></p><p class=3D"MsoNormal"><b><span>PARTITIONED BY (=
+ COUNTRY STRING , CITY STRING);<o:p></o:p></span></b></p><p class=
+=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><p class=3D"MsoN=
+ormal"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-=
+family:Calibri;mso-hansi-font-family:Calibri">=CF=B5=CD=B3=BB=E1=B8=
+=F9=BE=DD=B7=D6=C7=F8=CA=F4=D0=D4=BD=AB=B1=ED=BB=AE=B7=D6=D6=C1=CF=
+=E0=D3=A6=B5=C4=B7=D6=C7=F8=C2=B7=BE=B6=D6=D0</span></p><p class=3D=
+"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNorm=
+al"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-fam=
+ily:Calibri;mso-hansi-font-family:Calibri">=B2=E9=D5=D2=B7=D6=C7=F8=
+=B1=ED=A3=BA</span></p><p class=3D"MsoNormal"><b><span>Hive&gt; S=
+ELECT * FROM DB WHERE COUNTRY =3D =A1=AECN=A1=AF AND=0ACITY =3D =A1=
+=AEZJ=A1=AF;</span></b></p><p class=3D"MsoNormal"><span><o:p>&nbs=
+p;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-fam=
+ily:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-=
+family:Calibri">=CE=AA=C1=CB=B1=DC=C3=E2=CE=DE=CC=F5=BC=FE=B5=C4=B2=
+=E9=D5=D2=A3=AC=C3=BB=D3=D0=B7=D6=C7=F8=A3=AC=BA=C4=B7=D1=CF=B5=CD=
+=B3=D0=D4=C4=DC=A3=AC=CA=FD=BE=DD=BF=E2=BD=AB=B1=A8=B4=ED=A3=AC=CD=
+=A8=B9=FD=CF=B5=CD=B3=C9=E8=D6=C3=A3=BA</span></p><p class=3D"Mso=
+Normal"><b><span>Hive&gt; set hive.mapred.mode=3Dstrict;<o:p></o:=
+p></span></b></p><p class=3D"MsoNormal"><span style=3D"font-famil=
+y:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-fa=
+mily:Calibri">=C8=E7=B9=FB=B2=BB=BD=F8=D0=D0=C9=E8=D6=C3=A3=AC=BD=
+=AB=BB=E1=B7=C7=B3=A3=BA=C4=CA=B1=A3=AC=B5=AB=CA=C7=B2=BB=BB=E1=B1=
+=A8=B4=ED</span></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p=
+></span></p><p class=3D"MsoNormal"><span style=3D"font-family:=0A=
+=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:=
+Calibri">=B2=E9=BF=B4=CB=F9=D3=D0=B7=D6=C7=F8=A3=BA</span></p><p=20=
+class=3D"MsoNormal"><b><span>Hive&gt; SHOW PARTITIONS DB;<o:p></o=
+:p></span></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p><=
+/span></p><p class=3D"MsoNormal"><span style=3D"font-family:=0A=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=B2=E9=D5=D2=BE=AD=B9=FD=C2=CB=B5=C4=B7=D6=C7=F8=A3=BA</spa=
+n></p><p class=3D"MsoNormal"><b><span>Hive&gt; SHOW PARTITIONS DB=
+ PARTITION( COUNTRY=3D=A1=AFCN=A1=AF);<o:p></o:p></span></b></p><=
+p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><p class=3D=
+"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-=
+font-family:Calibri;mso-hansi-font-family:Calibri">=CF=D4=CA=BE=CA=
+=FD=BE=DD=B1=ED=B5=C4=B7=D6=C7=F8=BC=FC=A3=BA</span></p><p class=3D=
+"MsoNormal"><b><span>Hive&gt; DESCRIBE EXTENDED DB;<o:p></o:p></s=
+pan></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span>=
+</p><p class=3D"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=
+=D2=FD=D3=C3</span><span>HOME</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:=
+Calibri">=BB=B7=BE=B3=B1=E4=C1=BF=A3=BA</span></p><p class=3D"Mso=
+Normal"><b><span>LOAD DATA LOCAL INPATH =A1=AE${ENV:HOME}/ZJ-NAME=
+=A1=AF</span></b></p><p class=3D"MsoNormal"><b><span>INTO TABLE T=
+ABLE;<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span>PA=
+RTITION ( KEY =3D =A1=AEVALUE=A1=AF, KEY =3D =A1=AEVALUE=A1=AF);<=
+o:p></o:p></span></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;=
+</o:p></span></p><h4><span style=3D"font-family:=CB=CE=CC=E5;mso-=
+ascii-font-family:=0ACambria;mso-hansi-font-family:Cambria">=B4=B4=
+=BD=A8=CD=E2=B2=BF=B7=D6=C7=F8=B1=ED=A3=BA</span></h4><p class=3D=
+"MsoNormal"><b><span>Hive&gt; CREATE TABLE DB (<o:p></o:p></span>=
+</b></p><p class=3D"MsoNormal"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp; =A1=AD<o:p></o:p></span></b></p><p class=3D=
+"MsoNormal"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp; =A1=AD )<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b>=
+<span>PARTITIONED BY ( COUNTRY STRING , CITY STRING);<o:p></o:p><=
+/span></b></p><p class=3D"MsoNormal"><b><span>ROW FORMAT DELIMITE=
+D FIELDS TERMINATED BY =A1=AE\t=A1=AF<o:p></o:p></span></b></p><p=
+ class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><p class=3D=
+"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-=
+font-family:Calibri;mso-hansi-font-family:Calibri">=CC=ED=BC=D3=B7=
+=D6=C7=F8=A3=BA</span></p><p class=3D"MsoNormal"><b><span>Hive&gt=
+; TABLE table_name ADD PARTITION( YEAR =3D 2014,=0AMONTH =3D 8, D=
+AY =3D 14)<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><sp=
+an>LOCATION =A1=AEhdfs://master_server/data/table_name/2014/08/14=
+=A1=AF<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span><=
+o:p>&nbsp;</o:p></span></b></p><p class=3D"MsoNormal"><span style=
+=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso=
+-hansi-font-family:Calibri">=D7=D4=B6=A8=D2=E5=B1=ED=B5=C4=B4=E6=B4=
+=A2=B8=F1=CA=BD=A3=BA</span></p><p class=3D"MsoNormal"><b><span>H=
+ive&gt; CREATE TABLE DB (<o:p></o:p></span></b></p><p class=3D"Ms=
+oNormal"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+; =A1=AD<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span=
+>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=AD )<o:p></=
+o:p></span></b></p><p class=3D"MsoNormal"><b><span>ROW FORMAT DEL=
+IMITED <o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span>=
+FIELEDS TERMINATED BY =A1=AE\001=A1=AF<o:p></o:p></span></b></p><=
+p class=3D"MsoNormal"><b><span>COLLECTION ITEMS TERMINATED BY =A1=
+=AE002=A1=AF<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><=
+span>MAP KEYS TERMINATED BY =A1=AE003=A1=AF<o:p></o:p></span></b>=
+</p><p class=3D"MsoNormal"><b><span>LINES TERMINATED BY =A1=AE\N=A1=
+=AF<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span>STOR=
+ED AS TEXTFILE;<o:p></o:p></span></b></p><p class=3D"MsoNormal"><=
+span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:C=
+alibri;mso-hansi-font-family:Calibri">=B6=A8=D2=E5=CE=C4=BC=FE=B5=
+=C4=B7=D6=B8=F4=B7=FB=A3=AC=D7=D6=B6=CE=A3=AC=C1=D0=A3=AC=BC=FC=D6=
+=B5=B6=D4=A3=AC=D0=D0=A3=AC=D2=D4=BC=B0=CE=C4=BC=FE=C0=E0=D0=CD</=
+span></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p=
+><h4><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-famil=
+y:=0ACambria;mso-hansi-font-family:Cambria">=C9=BE=B3=FD=B1=ED=A3=
+=BA</span></h4><p class=3D"MsoNormal"><b><span>Hive&gt; DORP TABL=
+E IF EXISTS TABLE_NAME;<o:p></o:p></span></b></p><p class=3D"MsoN=
+ormal"><b><span><o:p>&nbsp;</o:p></span></b></p><h4><span style=3D=
+"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=0ACambria;mso-ha=
+nsi-font-family:Cambria">=D0=DE=B8=C4=B1=ED=A3=BA</span></h4><p c=
+lass=3D"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso=
+-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=D6=D8=C3=
+=FC=C3=FB</span></p><p class=3D"MsoNormal"><b><span>Hive&gt; ALTE=
+R TABLE table_name RENAME TO newname;<o:p></o:p></span></b></p><p=
+ class=3D"MsoNormal"><b><span><o:p>&nbsp;</o:p></span></b></p><p=20=
+class=3D"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5;ms=
+o-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=D4=F6=
+=BC=D3=A1=A2=D0=DE=B8=C4=A1=A2=C9=BE=B3=FD=B7=D6=C7=F8</span></p>=
+<p class=3D"MsoNormal"><b><span>Hive&gt; ALTER TABLE table_name A=
+DD IF NOT EXISTS <o:p></o:p></span></b></p><p class=3D"MsoNormal"=
+><b><span>PARTITION ( YEAR =3D 2014, MONTH =3D 8, DAY =3D 14) LOC=
+ATION=0A=A1=AE/TABLENAME/2014/08/14=A1=AF<o:p></o:p></span></b></=
+p><p class=3D"MsoNormal"><b><span>PARTITION ( YEAR =3D 2014, MONT=
+H =3D 8, DAY =3D 15) LOCATION=0A=A1=AE/TABLENAME/2014/08/15=A1=AF=
+<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><span>=A1=AD;=
+<o:p></o:p></span></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp=
+;</o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-fami=
+ly:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-f=
+amily:Calibri">=B8=C4=B1=E4=B7=D6=C7=F8=B1=ED=C2=B7=BE=B6=A3=BA</=
+span></p><p class=3D"MsoNormal"><b><span>Hive&gt; ALTER TABLE tab=
+le PARTITION (YEAR =3D 2014,=0AMONTH =3D 8, DAY =3D 14)<o:p></o:p=
+></span></b></p><p class=3D"MsoNormal"><b><span>SET LOCATION =A1=AE=
+/TABLENAME/2014/08/15=A1=AF;</span></b></p><p class=3D"MsoNormal"=
+><span><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span s=
+tyle=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri=
+;mso-hansi-font-family:Calibri">=C9=BE=B3=FD=B7=D6=C7=F8=A3=BA</s=
+pan></p><p class=3D"MsoNormal"><b><span>Hive&gt; ALTER TABLE tabl=
+e DROP IF EXISTS PARTITION=0A(YEAR =3D 2014, MONTH =3D 8, DAY =3D=
+ 14);</span></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p=
+></span></p><h4><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii=
+-font-family:=0ACambria;mso-hansi-font-family:Cambria">=D0=DE=B8=C4=
+=C1=D0=D0=C5=CF=A2=A3=BA</span></h4><p class=3D"MsoNormal"><b><sp=
+an>Hive&gt; ALTER TABLE table<o:p></o:p></span></b></p><p class=3D=
+"MsoNormal"><b><span>CHANGE COLUMN column new_column INT<o:p></o:=
+p></span></b></p><p class=3D"MsoNormal"><b><span>COMMENT =A1=AE=A1=
+=AD=A1=AF<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><spa=
+n>AFTER column;<o:p></o:p></span></b></p><p class=3D"MsoNormal"><=
+span>// <b>AFTER </b></span><b><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:=0ACalibr=
+i">=C3=FC=C1=EE=BD=AB=B8=C3=C1=D0=B7=C5=B5=BD=CA=D7=CE=BB</span><=
+/b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><=
+p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><p class=3D=
+"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-=
+font-family:Calibri;mso-hansi-font-family:Calibri">=D4=F6=BC=D3=C1=
+=D0=A3=BA</span></p><p class=3D"MsoNormal"><b><span>Hive&gt; ALTE=
+R TABLE table ADD COLUMNS (<o:p></o:p></span></b></p><p class=3D"=
+MsoNormal"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; =A1=AD);<o:p></o:p></span></b></p><p class=3D"MsoNormal"><spa=
+n><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D=
+"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-ha=
+nsi-font-family:Calibri">=C9=BE=B3=FD=BB=F2=CC=E6=BB=BB=C1=D0=A3=BA=
+</span></p><p class=3D"MsoNormal"><b><span>Hive&gt; ALTER TABLE t=
+able REPLACE COLUMNS (<o:p></o:p></span></b></p><p class=3D"MsoNo=
+rmal"><b><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=
+=AD);</span></b></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p=
+></span></p><p class=3D"MsoNormal"><span><o:p>&nbsp;</o:p></span>=
+</p><h4><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fa=
+mily:=0ACambria;mso-hansi-font-family:Cambria">=D0=DE=B8=C4=B1=ED=
+=CA=F4=D0=D4=A3=BA</span></h4><p class=3D"MsoNormal"><span style=3D=
+"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-ha=
+nsi-font-family:Calibri">=D6=BB=C4=DC=CC=ED=BC=D3=A3=AC=D0=DE=B8=C4=
+=A3=AC=CE=DE=B7=A8=C9=BE=B3=FD</span></p><p class=3D"MsoNormal"><=
+b><span>Hive&gt; ALTER TABLE table SET TBLPROPERTIES (<o:p></o:p>=
+</span></b></p><p class=3D"MsoNormal"><b><span>&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =A1=AD);</span></b></p><p class=3D=
+"MsoNormal"><span><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNorm=
+al"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-fam=
+ily:Calibri;mso-hansi-font-family:Calibri">=D0=DE=B8=C4=B4=E6=B4=A2=
+=CA=F4=D0=D4=A3=BA</span></p><p class=3D"MsoNormal"><b><span>Hive=
+&gt; ALTER TABLE table PARTITION (YEAR =3D 2014,=0AMONTH =3D 8, D=
+AY =3D 15)<o:p></o:p></span></b></p><p class=3D"MsoNormal"><b><sp=
+an>SET FILEPORMAT SEQUENCEFILE;<o:p></o:p></span></b></p><p class=
+=3D"MsoNormal"><b><span><o:p>&nbsp;</o:p></span></b></p><p class=3D=
+"MsoNormal"><b><span>Beeline</span></b><b><span style=3D"font-fam=
+ily:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-fam=
+ily:Calibri">=B2=D9=D7=F7</span></b><b><span style=3D"font-family=
+:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibri;mso-hansi-font-fam=
+ily:Calibri">=A3=BA</span><span><o:p></o:p></span></b></p><p clas=
+s=3D"MsoNormal"><b><span>!connect </span></b><span>&nbsp;<b>jdbc:=
+hive2://192.168.14.77:10003/default<o:p></o:p></b></span></p><h3>=
+<span>Java </span><span style=3D"font-family:=CB=CE=CC=E5;mso-asc=
+ii-font-family:Calibri;mso-hansi-font-family:Calibri">=B2=D9=D7=F7=
+</span></h3><p class=3D"MsoNormal"><span style=3D"font-family:=0A=
+=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:=
+Calibri">=B5=BC=C8=EB=D2=D4=CF=C2=B0=FC=A3=BA</span></p><p class=3D=
+"MsoNormal"><span>antlr-runtime-3.0.1.jar</span></p><p class=3D"M=
+soNormal"><span>hive-exec-0.7.1.jar</span></p><p class=3D"MsoNorm=
+al"><span>hive-jdbc-0.7.1.jar</span></p><p class=3D"MsoNormal"><s=
+pan>hive-metastore-0.7.1.jar</span></p><p class=3D"MsoNormal"><sp=
+an>hive-service-0.7.1.jar</span></p><p class=3D"MsoNormal"><span>=
+jdo2-api-2.3-ec.jar</span></p><p class=3D"MsoNormal"><span>libfb3=
+03.jar</span></p><p class=3D"MsoNormal"><span>kerberos=C8=CF=D6=A4=
+=A3=BA</span></p><p class=3D"MsoNormal"><span></span></p><div><sp=
+an style=3D"font-family: =D0=C2=CB=CE=CC=E5; line-height: 1.6;">&=
+nbsp; &nbsp;&nbsp;</span><span style=3D"font-family: =D0=C2=CB=CE=
+=CC=E5; line-height: 1.6;">&nbsp; &nbsp;&nbsp;</span><span style=3D=
+"color: windowtext; font-family: =D0=C2=CB=CE=CC=E5; font-size: 1=
+rem; line-height: 1.6;">String&nbsp;</span><span style=3D"font-fa=
+mily: =D0=C2=CB=CE=CC=E5; font-size: 1rem; line-height: 1.6; colo=
+r: rgb(106, 62, 62);">keyPath</span><span style=3D"color: windowt=
+ext; font-family: =D0=C2=CB=CE=CC=E5; font-size: 1rem; line-heigh=
+t: 1.6;">&nbsp;=3D&nbsp;</span><span style=3D"font-family: =D0=C2=
+=CB=CE=CC=E5; font-size: 1rem; line-height: 1.6; color: rgb(42, 0=
+, 255);">"/home/shtest/zzldir/mytest/bin/shtest.keytab"</span><sp=
+an style=3D"color: windowtext; font-family: =D0=C2=CB=CE=CC=E5; f=
+ont-size: 1rem; line-height: 1.6;">; &nbsp;&nbsp;</span></div><di=
+v><span style=3D"font-size: 1rem; color: windowtext; font-family:=
+ =D0=C2=CB=CE=CC=E5;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;System.<span style=3D"font-style:italic;">setProperty</span>=
+(&nbsp;<span style=3D"color:#2a00ff;">"java.security.krb5.realm"<=
+/span>&nbsp;,&nbsp;<span style=3D"color:#2a00ff;">"CLD.COM"</span=
+>&nbsp;);</span></div><div><span style=3D"font-size: 1rem; color:=
+ windowtext; font-family: =D0=C2=CB=CE=CC=E5;">&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;System.<span style=3D"font-style:it=
+alic;">setProperty</span>(&nbsp;<span style=3D"color:#2a00ff;">"j=
+ava.security.krb5.kdc"</span>&nbsp;,&nbsp;<span style=3D"color:#2=
+a00ff;">"n77.cld.com:88"</span>&nbsp;);</span></div><div><span st=
+yle=3D"font-size: 1rem; color: windowtext; font-family: =D0=C2=CB=
+=CE=CC=E5;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Confi=
+guration&nbsp;<span style=3D"color:#6a3e3e;">conf</span>&nbsp;=3D=
+&nbsp;<span style=3D"font-weight:bold;color:#7f0055;">new</span>&=
+nbsp;Configuration();</span></div><div><span style=3D"font-size:=20=
+1rem; color: windowtext; font-family: =D0=C2=CB=CE=CC=E5;">&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=3D"color:#6=
+a3e3e;">conf</span>.addResource(<span style=3D"color:#2a00ff;">"h=
+ive-site.xml"</span>);</span></div><div><span style=3D"font-size:=
+ 1rem; color: windowtext; font-family: =D0=C2=CB=CE=CC=E5;">&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=3D"color:#=
+6a3e3e;">conf</span>.set(<span style=3D"color:#2a00ff;">"hadoop.s=
+ecurity.authentication"</span>,&nbsp;<span style=3D"color:#2a00ff=
+;">"Kerberos"</span>);</span></div><div><span style=3D"font-size:=
+ 1rem; color: windowtext; font-family: =D0=C2=CB=CE=CC=E5;">&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UserGroupInformation.<=
+span style=3D"font-style:italic;">setConfiguration</span>(<span s=
+tyle=3D"color:#6a3e3e;">conf</span>);</span></div><div><span styl=
+e=3D"font-size: 1rem; color: windowtext; font-family: =D0=C2=CB=CE=
+=CC=E5;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;UserGrou=
+pInformation.<span style=3D"font-style:italic;">loginUserFromKeyt=
+ab</span>(<span style=3D"color:#2a00ff;">"shtest/n80.cld.com@CLD.=
+COM"</span>,&nbsp;<span style=3D"color:#6a3e3e;">keyPath</span>);=
+</span></div><span style=3D"font-size: 1rem; color: windowtext; f=
+ont-family: =D0=C2=CB=CE=CC=E5;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;System.<span style=3D"font-weight:bold;font-style=
+:italic;color:#0000c0;">out</span>.println(<span style=3D"color:#=
+2a00ff;">"kerberos&nbsp;login&nbsp;success"</span>);</span>&nbsp;=
+<span style=3D"line-height: 1.6;">&nbsp;</span><p></p><p class=3D=
+"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-=
+font-family:Calibri;mso-hansi-font-family:Calibri">=B4=B4=BD=A8=C1=
+=B4=BD=D3</span> <span style=3D"font-family:=CB=CE=CC=E5;mso-asci=
+i-font-family:Calibri;mso-hansi-font-family:Calibri">=A3=BA</span=
+><span>Class.forName("org.apache.hadoop.hive.jdbc.HiveDriver");</=
+span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; Connection conn =3D=0ADriverManager.getConnectio=
+n("jdbc:hive://nn77:10000/default", "hive",=0A"hive");</span></p>=
+<p class=3D"MsoNormal"><span>&nbsp; &nbsp;&nbsp;<span style=3D"li=
+ne-height: 1.6;">&nbsp; &nbsp;&nbsp;</span><span style=3D"line-he=
+ight: 1.6;">&nbsp; &nbsp;&nbsp;</span><span style=3D"line-height:=
+ 1.6;">&nbsp; &nbsp; kerberos=C1=B4=BD=D3=B5=D8=D6=B7 =A3=BA</spa=
+n><span style=3D"color: windowtext; font-family: =D0=C2=CB=CE=CC=E5=
+; font-size: 1rem; line-height: 1.6;">&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;</span></span></p><p class=3D"MsoNormal"><sp=
+an><span style=3D"font-family: =D0=C2=CB=CE=CC=E5; line-height: 1=
+.6;">&nbsp; &nbsp;&nbsp;</span></span><span style=3D"font-family:=
+ =D0=C2=CB=CE=CC=E5; line-height: 1.6;">&nbsp;</span><span style=3D=
+"color: windowtext; font-family: =D0=C2=CB=CE=CC=E5; font-size: 1=
+rem; line-height: 1.6;">String&nbsp;</span><span style=3D"font-fa=
+mily: =D0=C2=CB=CE=CC=E5; font-size: 1rem; line-height: 1.6; colo=
+r: rgb(106, 62, 62);">url</span><span style=3D"color: windowtext;=
+ font-family: =D0=C2=CB=CE=CC=E5; font-size: 1rem; line-height: 1=
+.6;">&nbsp;=3D</span><span style=3D"font-family: =D0=C2=CB=CE=CC=E5=
+; font-size: 1rem; line-height: 1.6; color: rgb(42, 0, 255);">"jd=
+bc:hive2://192.168.14.80:10000/default;principal=3Dhive/n80.cld.c=
+om@CLD.COM"</span><span style=3D"color: windowtext; font-family:=20=
+=D0=C2=CB=CE=CC=E5; font-size: 1rem; line-height: 1.6;">;</span><=
+/p><p class=3D"MsoNormal"><span>Statement=0Astmt =3D conn.createS=
+tatement();</span></p><p class=3D"MsoNormal"><span style=3D"font-=
+family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-fo=
+nt-family:Calibri">=C9=BE=B3=FD=B1=ED</span><span>stmt.executeQue=
+ry("drop table testHive ");</span></p><p class=3D"MsoNormal"><spa=
+n style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Cali=
+bri;mso-hansi-font-family:Calibri">=B4=B4=BD=A8=B1=ED</span> <spa=
+n>sql =3D "create table "</span></p><p class=3D"MsoNormal"><span>=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp; + tableName</span></p><p class=3D"MsoNormal=
+"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + "=0A(key int, value string)&nbsp;=
+ row format=0Adelimited fields terminated by '\t'";</span></p><p=20=
+class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp; stmt.executeQuery(sql);</span></p><p class=3D"MsoNormal"><sp=
+an style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Cal=
+ibri;mso-hansi-font-family:Calibri">=B2=E9=BF=B4=B1=ED</span> <sp=
+an>sql =3D "show tables '" + tableName + "'";</span></p><p class=3D=
+"MsoNormal"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; res=
+ =3D stmt.executeQuery(sql);</span></p><p class=3D"MsoNormal"><sp=
+an>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; if (res.next()) {<=
+/span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp; System.out.println(res.getString(1));</span></p><p class=3D=
+"MsoNormal"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; }</=
+span></p><p class=3D"MsoNormal"><span style=3D"font-family:=0A=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=B2=E9=BF=B4=B1=ED=C3=E8=CA=F6</span> <span>sql =3D "descri=
+be " + tableName;</span></p><p class=3D"MsoNormal"><span style=3D=
+"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-ha=
+nsi-font-family:Calibri">=BC=D3=D4=D8=B1=ED=CA=FD=BE=DD</span><sp=
+an>sql =3D "load data local inpath '" + filepath + "' into=0Atabl=
+e "+ tableName;</span></p><p class=3D"MsoNormal"><span style=3D"f=
+ont-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hans=
+i-font-family:Calibri">=B2=E9=D1=AF=B1=ED=CA=FD=BE=DD</span> <spa=
+n>sql =3D "select * from " + tableName;</span></p><p class=3D"Mso=
+Normal"><span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font=
+-family:Calibri;mso-hansi-font-family:Calibri">=CD=B3=BC=C6=B1=ED=
+=CA=FD=BE=DD</span><span>sql =3D "select count(1) from " + tableN=
+ame;</span></p></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000223296.871--
+
+------=_Next_Part_0000669888.426--
+

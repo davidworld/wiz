@@ -1,0 +1,2109 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?U3BhcmstU3Fs1LTC673izvbWrrDLIENvZGVnZW4=?=
+Date: Date: Fri, 23 Jul 2021 05:54:44 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0001294638.333"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0001294638.333
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000431546.893"
+
+
+------=_Next_Part_0000431546.893
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000431546.893
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<title>Spark-Sql=D4=B4=C2=EB=BD=E2=CE=F6=D6=AE=
+=B0=CB Codegen</title>=0A    =0A=0A=0A<style id=3D"wiz_custom_css=
+">html, body {font-size: 12pt;}body {font-family: Helvetica, 'Hir=
+agino Sans GB', '=CE=A2=C8=ED=D1=C5=BA=DA', 'Microsoft YaHei UI',=
+ SimSun, SimHei, arial, sans-serif;line-height: 1.6;margin: 0 aut=
+o;padding: 20px 16px;padding: 1.25rem 1rem;}h1, h2, h3, h4, h5, h=
+6 {margin:20px 0 10px;margin:1.25rem 0 0.625rem;padding: 0;font-w=
+eight: bold;}h1 {font-size:20pt;font-size:1.67rem;}h2 {font-size:=
+18pt;font-size:1.5rem;}h3 {font-size:15pt;font-size:1.25rem;}h4 {=
+font-size:14pt;font-size:1.17rem;}h5 {font-size:12pt;font-size:1r=
+em;}h6 {font-size:12pt;font-size:1rem;color: #777777;margin: 1rem=
+ 0;}div, p, ul, ol, dl, li {margin:0;}blockquote, table, pre, cod=
+e {margin:8px 0;}ul, ol {padding-left:32px;padding-left:2rem;}ol.=
+wiz-list-level1 > li {list-style-type:decimal;}ol.wiz-list-level2=
+ > li {list-style-type:lower-latin;}ol.wiz-list-level3 > li {list=
+-style-type:lower-roman;}blockquote {padding:0 12px;padding:0 0.7=
+5rem;}blockquote > :first-child {margin-top:0;}blockquote > :last=
+-child {margin-bottom:0;}img {border:0;max-width:100%;height:auto=
+ !important;margin:2px 0;}table {border-collapse:collapse;border:=
+1px solid #bbbbbb;}td, th {padding:4px 8px;border-collapse:collap=
+se;border:1px solid #bbbbbb;min-height:28px;word-break:break-all;=
+box-sizing: border-box;}.wiz-hide {display:none !important;}</sty=
+le></head>=0A=0A<body style class spellcheck=3D"false"><div class=
+=3D"article_title" style=3D"margin-top: 5px; margin-bottom: 5px;=20=
+font-size: 1.25rem; line-height: 30px; font-family: 'Microsoft Ya=
+Hei'; widows: 1; background-color: rgb(255, 255, 255);">&nbsp;<h1=
+ style=3D"margin-top: 0px; margin-bottom: 0px; display: inline; f=
+ont-weight: normal; font-size: 1.25rem; vertical-align: middle;">=
+<span class=3D"link_title"><a href=3D"http://blog.csdn.net/wl0440=
+90432/article/details/52190736" style=3D"color: rgb(0, 0, 0); tex=
+t-decoration: none;">Spark-Sql=D4=B4=C2=EB=BD=E2=CE=F6=D6=AE=B0=CB=
+ Codegen</a></span></h1></div><div class=3D"article_manage clearf=
+ix" style=3D"padding: 0px 20px 5px; color: rgb(153, 153, 153); fo=
+nt-size: 0.75rem; line-height: 22px; font-family: Arial; text-ali=
+gn: right; border-bottom-style: solid; border-bottom-width: 1px;=20=
+border-bottom-color: rgb(237, 237, 237); margin-right: -20px; mar=
+gin-left: -20px; overflow: hidden; widows: 1; background-color: r=
+gb(255, 255, 255);"><div class=3D"article_l" style=3D"width: 708p=
+x; float: left;"><span class=3D"link_categories" style=3D"margin:=
+ 0px 5px; float: left;">=B1=EA=C7=A9=A3=BA&nbsp;<a href=3D"http:/=
+/www.csdn.net/tag/spark" target=3D"_blank" style=3D"color: rgb(51=
+, 102, 153); text-decoration: none; display: inline-block; margin=
+-right: 10px;">spark</a><a href=3D"http://www.csdn.net/tag/%e6%ba=
+%90%e7%a0%81" target=3D"_blank" style=3D"color: rgb(51, 102, 153)=
+; text-decoration: none; display: inline-block; margin-right: 10p=
+x;">=D4=B4=C2=EB</a></span></div><div class=3D"article_r"><span c=
+lass=3D"link_postdate" style=3D"margin: 0px 5px 0px 0px;">2016-08=
+-12 13:06</span>&nbsp;<span class=3D"link_view" style=3D"margin:=20=
+0px 5px; padding: 0px 0px 0px 14px; background: url(&quot;&quot;)=
+ 0% 50% no-repeat;">1072=C8=CB=D4=C4=B6=C1</span>&nbsp;<span clas=
+s=3D"link_comments" style=3D"margin: 0px 5px; padding: 0px 0px 0p=
+x 14px; background: url(&quot;&quot;) 0% 50% no-repeat;"><a href=3D=
+"http://blog.csdn.net/wl044090432/article/details/52190736#commen=
+ts" style=3D"color: rgb(51, 102, 153); text-decoration: none;">=C6=
+=C0=C2=DB</a>(0)</span>&nbsp;<span class=3D"link_collect tracking=
+-ad" data-mod=3D"popu_171" style=3D"margin: 0px 5px;"><a href tit=
+le=3D"=CA=D5=B2=D8" target=3D"_blank" style=3D"color: rgb(51, 102=
+, 153); text-decoration: none;">=CA=D5=B2=D8</a></span>&nbsp;<spa=
+n class=3D"link_report" style=3D"margin: 0px 5px;"><a href=3D"htt=
+p://blog.csdn.net/wl044090432/article/details/52190736#report" ti=
+tle=3D"=BE=D9=B1=A8" style=3D"color: rgb(51, 102, 153); text-deco=
+ration: none;">=BE=D9=B1=A8</a></span></div></div><div class=3D"c=
+ategory clearfix" style=3D"border-bottom-style: solid; border-bot=
+tom-width: 1px; border-bottom-color: rgb(237, 237, 237); margin-r=
+ight: -20px; margin-left: -20px; padding: 5px 20px; color: rgb(51=
+, 51, 51); font-family: Arial, Console, Verdana, 'Courier New'; f=
+ont-size: 0.75rem; line-height: normal; widows: 1; background-col=
+or: rgb(255, 255, 255);"><div class=3D"category_l" style=3D"font-=
+size: 0.875rem; float: left; display: inline-block; width: 70px;=20=
+line-height: 28px;"><img src=3D"0.3891620452936726.png" style=3D"=
+border-style: none; vertical-align: middle;">&nbsp;<span style=3D=
+"vertical-align: middle; display: inline-block;">=B7=D6=C0=E0=A3=BA=
+</span></div><div class=3D"category_r" style=3D"font-size: 0.875r=
+em; float: left; display: inline-block; color: rgb(223, 52, 52);=20=
+width: 637.188px;"><label style=3D"display:inline-block; margin-l=
+eft:15px;">=D4=B4=C2=EB=BD=E2=CE=F6<em style=3D"font-style: norma=
+l;">=A3=A816=A3=A9</em>&nbsp;<img class=3D"arrow-down" src=3D"487=
+51fb5-7b80-41a6-906d-81447aa4d628.png" style=3D"border-style: non=
+e; display: inline;"></label>&nbsp;<label style=3D"display:inline=
+-block; margin-left:15px;">Spark<em style=3D"font-style: normal;"=
+>=A3=A824=A3=A9</em>&nbsp;<img class=3D"arrow-down" src=3D"48751f=
+b5-7b80-41a6-906d-81447aa4d628.png" style=3D"border-style: none;=20=
+display: inline;"></label></div></div><div class=3D"bog_copyright=
+" style=3D"padding: 20px 0px; color: rgb(51, 51, 51); font-family=
+: Arial, Console, Verdana, 'Courier New'; font-size: 0.75rem; lin=
+e-height: normal; widows: 1; background-color: rgb(255, 255, 255)=
+;"><p class=3D"copyright_p" style=3D"height: 14px; line-height: 1=
+4px; border-left-style: solid; border-left-width: 3px; border-lef=
+t-color: rgb(228, 28, 30); padding-left: 10px; color: rgb(102, 10=
+2, 102); font-size: 0.875rem;">=B0=E6=C8=A8=C9=F9=C3=F7=A3=BA=B1=BE=
+=CE=C4=CE=AA=B2=A9=D6=F7=D4=AD=B4=B4=CE=C4=D5=C2=A3=AC=CE=B4=BE=AD=
+=B2=A9=D6=F7=D4=CA=D0=ED=B2=BB=B5=C3=D7=AA=D4=D8=A1=A3</p></div><=
+div id=3D"article_content" class=3D"article_content tracking-ad"=20=
+data-mod=3D"popu_307" data-dsm=3D"post" style=3D"margin-top: 20px=
+; font-size: 0.875rem; line-height: 26px; font-family: Arial; col=
+or: rgb(51, 51, 51); widows: 1; background-color: rgb(255, 255, 2=
+55);"><pre style=3D"white-space: pre-wrap; word-wrap: break-word;=
+ background-position: initial initial; background-repeat: initial=
+ initial;"><span style=3D"font-size: 0.75rem; font-family: Calibr=
+i, sans-serif;">Codegen</span><span style=3D"font-size: 0.75rem;"=
+>=A3=AC=B6=AF=CC=AC=D7=D6=BD=DA=C2=EB=BC=BC=CA=F5=A3=AC=C4=C7=C3=B4=
+=CA=B2=C3=B4=CA=C7=B6=AF=CC=AC=D7=D6=BD=DA=C2=EB=BC=BC=CA=F5=C4=D8=
+=A3=BF=CF=C8=BF=B4=C0=B4=D2=BB=B6=CE=B4=FA=C2=EB=A3=AC=BC=D9=C9=E8=
+</span><span style=3D"font-size: 0.75rem; font-family: Calibri, s=
+ans-serif;">SparkPlan</span><span style=3D"font-size: 0.75rem;">=CE=
+=AA</span><span style=3D"font-size: 0.75rem; font-family: Calibri=
+, sans-serif;">Sort</span></pre><pre style=3D"white-space: pre-wr=
+ap; word-wrap: break-word; background-position: initial initial;=20=
+background-repeat: initial initial;"><span style=3D"font-size: 0.=
+75rem; font-family: Calibri, sans-serif;"></span><div class=3D"dp=
+-highlighter bg_java" style=3D"font-family: Consolas, 'Courier Ne=
+w', Courier, mono, serif; font-size: 0.75rem; width: 700.906px; o=
+verflow-y: hidden; overflow-x: auto; padding-top: 1px; position:=20=
+relative; margin-top: 18px !important; margin-bottom: 18px !impor=
+tant; background-color: rgb(231, 229, 220);"><div class=3D"bar" s=
+tyle=3D"padding-left: 45px;"><div class=3D"tools" style=3D"paddin=
+g: 3px 8px 10px 10px; font-size: 0.563rem; line-height: normal; f=
+ont-family: Verdana, Geneva, Arial, Helvetica, sans-serif; color:=
+ silver; border-left-width: 3px; border-left-style: solid; border=
+-left-color: rgb(108, 226, 108); background-color: rgb(248, 248,=20=
+248);"><b>[java]</b> <a href=3D"http://blog.csdn.net/wl044090432/=
+article/details/52190736#" class=3D"ViewSource" title=3D"view pla=
+in" target=3D"_blank" style=3D"color: rgb(160, 160, 160); text-de=
+coration: none; border: none; padding: 1px; margin: 0px 10px 0px=20=
+0px; display: inline-block; width: 16px; height: 16px; text-inden=
+t: -2000px; background-image: url(&quot;&quot;); background-color=
+: inherit; background-position: 0% 0%; background-repeat: no-repe=
+at no-repeat;">view plain</a><span data-mod=3D"popu_168"> <a href=
+=3D"http://blog.csdn.net/wl044090432/article/details/52190736#" c=
+lass=3D"CopyToClipboard" title=3D"copy" target=3D"_blank" style=3D=
+"color: rgb(160, 160, 160); text-decoration: none; border: none;=20=
+padding: 1px; margin: 0px 10px 0px 0px; display: inline-block; wi=
+dth: 16px; height: 16px; text-indent: -2000px; background-image:=20=
+url(&quot;&quot;); background-color: inherit; background-position=
+: 0% 0%; background-repeat: no-repeat no-repeat;">copy</a><div st=
+yle=3D"position: absolute; left: 561px; top: 587px; width: 18px;=20=
+height: 18px; z-index: 99;"><embed id=3D"ZeroClipboardMovie_1" sr=
+c=3D"http://static.blog.csdn.net/scripts/ZeroClipboard/ZeroClipbo=
+ard.swf" loop=3D"false" menu=3D"false" quality=3D"best" bgcolor=3D=
+"#ffffff" width=3D"18" height=3D"18" name=3D"ZeroClipboardMovie_1=
+" align=3D"middle" allowscriptaccess=3D"always" allowfullscreen=3D=
+"false" type=3D"application/x-shockwave-flash" pluginspage=3D"htt=
+p://www.macromedia.com/go/getflashplayer" flashvars=3D"id=3D1&amp=
+;width=3D18&amp;height=3D18" wmode=3D"transparent"></div></span><=
+span data-mod=3D"popu_169"> </span></div></div><ol class=3D"dp-j=20=
+wiz-list-level1" style=3D"padding: 0px; border: none; list-style-=
+position: initial; list-style-image: initial; color: rgb(92, 92,=20=
+92); background-color: rgb(255, 255, 255); margin-bottom: 1px !im=
+portant; margin-left: 45px !important;"><li class=3D"alt" style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; color: inherit; line-height: 18px; padding: 0px 3px 0=
+px 10px !important;"><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; color: black; background-color: inherit;"><span class=
+=3D"keyword" style=3D"margin: 0px; padding: 0px; border: none; co=
+lor: rgb(0, 102, 153); font-weight: bold; background-color: inher=
+it;">case</span><span style=3D"margin: 0px; padding: 0px; border:=
+ none; background-color: inherit;">&nbsp;</span><span class=3D"ke=
+yword" style=3D"margin: 0px; padding: 0px; border: none; color: r=
+gb(0, 102, 153); font-weight: bold; background-color: inherit;">c=
+lass</span><span style=3D"margin: 0px; padding: 0px; border: none=
+; background-color: inherit;">&nbsp;Sort(&nbsp;&nbsp;</span></spa=
+n></li><li style=3D"border-style: none none none solid; border-le=
+ft-width: 3px; border-left-color: rgb(108, 226, 108); list-style:=
+ decimal-leading-zero outside; line-height: 18px; background-colo=
+r: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><sp=
+an style=3D"margin: 0px; padding: 0px; border: none; color: black=
+; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;sortOrder:&=
+nbsp;Seq[SortOrder],&nbsp;&nbsp;</span></li><li class=3D"alt" sty=
+le=3D"border-style: none none none solid; border-left-width: 3px;=
+ border-left-color: rgb(108, 226, 108); list-style: decimal-leadi=
+ng-zero outside; color: inherit; line-height: 18px; padding: 0px=20=
+3px 0px 10px !important;"><span style=3D"margin: 0px; padding: 0p=
+x; border: none; color: black; background-color: inherit;">&nbsp;=
+&nbsp;&nbsp;&nbsp;global:&nbsp;Boolean,&nbsp;&nbsp;</span></li><l=
+i style=3D"border-style: none none none solid; border-left-width:=
+ 3px; border-left-color: rgb(108, 226, 108); list-style: decimal-=
+leading-zero outside; line-height: 18px; background-color: rgb(24=
+8, 248, 248); padding: 0px 3px 0px 10px !important;"><span style=3D=
+"margin: 0px; padding: 0px; border: none; color: black; backgroun=
+d-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;child:&nbsp;SparkPlan)=
+&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D"border-style:=20=
+none none none solid; border-left-width: 3px; border-left-color:=20=
+rgb(108, 226, 108); list-style: decimal-leading-zero outside; col=
+or: inherit; line-height: 18px; padding: 0px 3px 0px 10px !import=
+ant;"><span style=3D"margin: 0px; padding: 0px; border: none; col=
+or: black; background-color: inherit;">&nbsp;&nbsp;<span class=3D=
+"keyword" style=3D"margin: 0px; padding: 0px; border: none; color=
+: rgb(0, 102, 153); font-weight: bold; background-color: inherit;=
+">extends</span><span style=3D"margin: 0px; padding: 0px; border:=
+ none; background-color: inherit;">&nbsp;UnaryNode&nbsp;{&nbsp;&n=
+bsp;</span></span></li><li style=3D"border-style: none none none=20=
+solid; border-left-width: 3px; border-left-color: rgb(108, 226, 1=
+08); list-style: decimal-leading-zero outside; line-height: 18px;=
+ background-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px=20=
+!important;"><span style=3D"margin: 0px; padding: 0px; border: no=
+ne; color: black; background-color: inherit;">&nbsp;&nbsp;overrid=
+e&nbsp;def&nbsp;requiredChildDistribution:&nbsp;Seq[Distribution]=
+&nbsp;=3D&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D"borde=
+r-style: none none none solid; border-left-width: 3px; border-lef=
+t-color: rgb(108, 226, 108); list-style: decimal-leading-zero out=
+side; color: inherit; line-height: 18px; padding: 0px 3px 0px 10p=
+x !important;"><span style=3D"margin: 0px; padding: 0px; border:=20=
+none; color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp=
+;&nbsp;<span class=3D"keyword" style=3D"margin: 0px; padding: 0px=
+; border: none; color: rgb(0, 102, 153); font-weight: bold; backg=
+round-color: inherit;">if</span><span style=3D"margin: 0px; paddi=
+ng: 0px; border: none; background-color: inherit;">&nbsp;(global)=
+&nbsp;OrderedDistribution(sortOrder)&nbsp;::&nbsp;Nil&nbsp;</span=
+><span class=3D"keyword" style=3D"margin: 0px; padding: 0px; bord=
+er: none; color: rgb(0, 102, 153); font-weight: bold; background-=
+color: inherit;">else</span><span style=3D"margin: 0px; padding:=20=
+0px; border: none; background-color: inherit;">&nbsp;UnspecifiedD=
+istribution&nbsp;::&nbsp;Nil&nbsp;&nbsp;</span></span></li><li st=
+yle=3D"border-style: none none none solid; border-left-width: 3px=
+; border-left-color: rgb(108, 226, 108); list-style: decimal-lead=
+ing-zero outside; line-height: 18px; background-color: rgb(248, 2=
+48, 248); padding: 0px 3px 0px 10px !important;"><span style=3D"m=
+argin: 0px; padding: 0px; border: none; color: black; background-=
+color: inherit;">&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; color: inherit; line-height: 18px; padding: 0px 3px 0=
+px 10px !important;"><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; color: black; background-color: inherit;">&nbsp;&nbsp=
+;<span class=3D"keyword" style=3D"margin: 0px; padding: 0px; bord=
+er: none; color: rgb(0, 102, 153); font-weight: bold; background-=
+color: inherit;">protected</span><span style=3D"margin: 0px; padd=
+ing: 0px; border: none; background-color: inherit;">&nbsp;overrid=
+e&nbsp;def&nbsp;doExecute():&nbsp;RDD[Row]&nbsp;=3D&nbsp;attachTr=
+ee(</span><span class=3D"keyword" style=3D"margin: 0px; padding:=20=
+0px; border: none; color: rgb(0, 102, 153); font-weight: bold; ba=
+ckground-color: inherit;">this</span><span style=3D"margin: 0px;=20=
+padding: 0px; border: none; background-color: inherit;">,&nbsp;</=
+span><span class=3D"string" style=3D"margin: 0px; padding: 0px; b=
+order: none; color: blue; background-color: inherit;">"sort"</spa=
+n><span style=3D"margin: 0px; padding: 0px; border: none; backgro=
+und-color: inherit;">)&nbsp;{&nbsp;&nbsp;</span></span></li><li s=
+tyle=3D"border-style: none none none solid; border-left-width: 3p=
+x; border-left-color: rgb(108, 226, 108); list-style: decimal-lea=
+ding-zero outside; line-height: 18px; background-color: rgb(248,=20=
+248, 248); padding: 0px 3px 0px 10px !important;"><span style=3D"=
+margin: 0px; padding: 0px; border: none; color: black; background=
+-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;child.execute().mapPart=
+itions(&nbsp;{&nbsp;iterator&nbsp;=3D&gt;&nbsp;&nbsp;</span></li>=
+<li class=3D"alt" style=3D"border-style: none none none solid; bo=
+rder-left-width: 3px; border-left-color: rgb(108, 226, 108); list=
+-style: decimal-leading-zero outside; color: inherit; line-height=
+: 18px; padding: 0px 3px 0px 10px !important;"><span style=3D"mar=
+gin: 0px; padding: 0px; border: none; color: black; background-co=
+lor: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;order=
+ing&nbsp;=3D&nbsp;newOrdering(sortOrder,&nbsp;child.output)&nbsp;=
+&nbsp;</span></li><li style=3D"border-style: none none none solid=
+; border-left-width: 3px; border-left-color: rgb(108, 226, 108);=20=
+list-style: decimal-leading-zero outside; line-height: 18px; back=
+ground-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !impo=
+rtant;"><span style=3D"margin: 0px; padding: 0px; border: none; c=
+olor: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;iterator.map(_.copy()).toArray.sorted(ordering).itera=
+tor&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D"border-styl=
+e: none none none solid; border-left-width: 3px; border-left-colo=
+r: rgb(108, 226, 108); list-style: decimal-leading-zero outside;=20=
+color: inherit; line-height: 18px; padding: 0px 3px 0px 10px !imp=
+ortant;"><span style=3D"margin: 0px; padding: 0px; border: none;=20=
+color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp=
+;},&nbsp;preservesPartitioning&nbsp;=3D&nbsp;<span class=3D"keywo=
+rd" style=3D"margin: 0px; padding: 0px; border: none; color: rgb(=
+0, 102, 153); font-weight: bold; background-color: inherit;">true=
+</span><span style=3D"margin: 0px; padding: 0px; border: none; ba=
+ckground-color: inherit;">)&nbsp;&nbsp;</span></span></li><li sty=
+le=3D"border-style: none none none solid; border-left-width: 3px;=
+ border-left-color: rgb(108, 226, 108); list-style: decimal-leadi=
+ng-zero outside; line-height: 18px; background-color: rgb(248, 24=
+8, 248); padding: 0px 3px 0px 10px !important;"><span style=3D"ma=
+rgin: 0px; padding: 0px; border: none; color: black; background-c=
+olor: inherit;">&nbsp;&nbsp;}&nbsp;&nbsp;</span></li><li class=3D=
+"alt" style=3D"border-style: none none none solid; border-left-wi=
+dth: 3px; border-left-color: rgb(108, 226, 108); list-style: deci=
+mal-leading-zero outside; color: inherit; line-height: 18px; padd=
+ing: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; pa=
+dding: 0px; border: none; color: black; background-color: inherit=
+;">&nbsp;&nbsp;</span></li><li style=3D"border-style: none none n=
+one solid; border-left-width: 3px; border-left-color: rgb(108, 22=
+6, 108); list-style: decimal-leading-zero outside; line-height: 1=
+8px; background-color: rgb(248, 248, 248); padding: 0px 3px 0px 1=
+0px !important;"><span style=3D"margin: 0px; padding: 0px; border=
+: none; color: black; background-color: inherit;">&nbsp;&nbsp;ove=
+rride&nbsp;def&nbsp;output:&nbsp;Seq[Attribute]&nbsp;=3D&nbsp;chi=
+ld.output&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D"borde=
+r-style: none none none solid; border-left-width: 3px; border-lef=
+t-color: rgb(108, 226, 108); list-style: decimal-leading-zero out=
+side; color: inherit; line-height: 18px; padding: 0px 3px 0px 10p=
+x !important;"><span style=3D"margin: 0px; padding: 0px; border:=20=
+none; color: black; background-color: inherit;">&nbsp;&nbsp;</spa=
+n></li><li style=3D"border-style: none none none solid; border-le=
+ft-width: 3px; border-left-color: rgb(108, 226, 108); list-style:=
+ decimal-leading-zero outside; line-height: 18px; background-colo=
+r: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><sp=
+an style=3D"margin: 0px; padding: 0px; border: none; color: black=
+; background-color: inherit;">&nbsp;&nbsp;override&nbsp;def&nbsp;=
+outputOrdering:&nbsp;Seq[SortOrder]&nbsp;=3D&nbsp;sortOrder&nbsp;=
+&nbsp;</span></li><li class=3D"alt" style=3D"border-style: none n=
+one none solid; border-left-width: 3px; border-left-color: rgb(10=
+8, 226, 108); list-style: decimal-leading-zero outside; color: in=
+herit; line-height: 18px; padding: 0px 3px 0px 10px !important;">=
+<span style=3D"margin: 0px; padding: 0px; border: none; color: bl=
+ack; background-color: inherit;">}&nbsp;&nbsp;</span></li><li sty=
+le=3D"border-style: none none none solid; border-left-width: 3px;=
+ border-left-color: rgb(108, 226, 108); list-style: decimal-leadi=
+ng-zero outside; line-height: 18px; background-color: rgb(248, 24=
+8, 248); padding: 0px 3px 0px 10px !important;"><span style=3D"ma=
+rgin: 0px; padding: 0px; border: none; color: black; background-c=
+olor: inherit;">&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; color: inherit; line-height: 18px; padding: 0px 3px 0=
+px 10px !important;"><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; color: black; background-color: inherit;"><span class=
+=3D"keyword" style=3D"margin: 0px; padding: 0px; border: none; co=
+lor: rgb(0, 102, 153); font-weight: bold; background-color: inher=
+it;">abstract</span><span style=3D"margin: 0px; padding: 0px; bor=
+der: none; background-color: inherit;">&nbsp;</span><span class=3D=
+"keyword" style=3D"margin: 0px; padding: 0px; border: none; color=
+: rgb(0, 102, 153); font-weight: bold; background-color: inherit;=
+">class</span><span style=3D"margin: 0px; padding: 0px; border: n=
+one; background-color: inherit;">&nbsp;SparkPlan&nbsp;</span><spa=
+n class=3D"keyword" style=3D"margin: 0px; padding: 0px; border: n=
+one; color: rgb(0, 102, 153); font-weight: bold; background-color=
+: inherit;">extends</span><span style=3D"margin: 0px; padding: 0p=
+x; border: none; background-color: inherit;">&nbsp;QueryPlan[Spar=
+kPlan]&nbsp;with&nbsp;Logging&nbsp;with&nbsp;Serializable&nbsp;{&=
+nbsp;&nbsp;</span></span></li><li style=3D"border-style: none non=
+e none solid; border-left-width: 3px; border-left-color: rgb(108,=
+ 226, 108); list-style: decimal-leading-zero outside; line-height=
+: 18px; background-color: rgb(248, 248, 248); padding: 0px 3px 0p=
+x 10px !important;"><span style=3D"margin: 0px; padding: 0px; bor=
+der: none; color: black; background-color: inherit;"><span class=3D=
+"keyword" style=3D"margin: 0px; padding: 0px; border: none; color=
+: rgb(0, 102, 153); font-weight: bold; background-color: inherit;=
+">protected</span><span style=3D"margin: 0px; padding: 0px; borde=
+r: none; background-color: inherit;">&nbsp;def&nbsp;newOrdering(o=
+rder:&nbsp;Seq[SortOrder],&nbsp;inputSchema:&nbsp;Seq[Attribute])=
+:&nbsp;Ordering[Row]&nbsp;=3D&nbsp;{&nbsp;&nbsp;</span></span></l=
+i><li class=3D"alt" style=3D"border-style: none none none solid;=20=
+border-left-width: 3px; border-left-color: rgb(108, 226, 108); li=
+st-style: decimal-leading-zero outside; color: inherit; line-heig=
+ht: 18px; padding: 0px 3px 0px 10px !important;"><span style=3D"m=
+argin: 0px; padding: 0px; border: none; color: black; background-=
+color: inherit;">&nbsp;&nbsp;<span class=3D"keyword" style=3D"mar=
+gin: 0px; padding: 0px; border: none; color: rgb(0, 102, 153); fo=
+nt-weight: bold; background-color: inherit;">if</span><span style=
+=3D"margin: 0px; padding: 0px; border: none; background-color: in=
+herit;">&nbsp;(codegenEnabled)&nbsp;{</span><span class=3D"commen=
+t" style=3D"margin: 0px; padding: 0px; border: none; color: rgb(0=
+, 130, 0); background-color: inherit;">//=BF=AA=C6=F4=B6=AF=CC=AC=
+=D7=D6=BD=DA=C2=EB=BC=BC=CA=F5</span><span style=3D"margin: 0px;=20=
+padding: 0px; border: none; background-color: inherit;">&nbsp;&nb=
+sp;</span></span></li><li style=3D"border-style: none none none s=
+olid; border-left-width: 3px; border-left-color: rgb(108, 226, 10=
+8); list-style: decimal-leading-zero outside; line-height: 18px;=20=
+background-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !=
+important;"><span style=3D"margin: 0px; padding: 0px; border: non=
+e; color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&n=
+bsp;GenerateOrdering.generate(order,&nbsp;inputSchema)&nbsp;&nbsp=
+;</span></li><li class=3D"alt" style=3D"border-style: none none n=
+one solid; border-left-width: 3px; border-left-color: rgb(108, 22=
+6, 108); list-style: decimal-leading-zero outside; color: inherit=
+; line-height: 18px; padding: 0px 3px 0px 10px !important;"><span=
+ style=3D"margin: 0px; padding: 0px; border: none; color: black;=20=
+background-color: inherit;">&nbsp;&nbsp;}&nbsp;<span class=3D"key=
+word" style=3D"margin: 0px; padding: 0px; border: none; color: rg=
+b(0, 102, 153); font-weight: bold; background-color: inherit;">el=
+se</span><span style=3D"margin: 0px; padding: 0px; border: none;=20=
+background-color: inherit;">&nbsp;{</span><span class=3D"comment"=
+ style=3D"margin: 0px; padding: 0px; border: none; color: rgb(0,=20=
+130, 0); background-color: inherit;">//=B7=F1=D4=F2=B9=D8=B1=D5</=
+span><span style=3D"margin: 0px; padding: 0px; border: none; back=
+ground-color: inherit;">&nbsp;&nbsp;</span></span></li><li style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; line-height: 18px; background-color: rgb(248, 248, 24=
+8); padding: 0px 3px 0px 10px !important;"><span style=3D"margin:=
+ 0px; padding: 0px; border: none; color: black; background-color:=
+ inherit;">&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" style=3D=
+"margin: 0px; padding: 0px; border: none; color: rgb(0, 102, 153)=
+; font-weight: bold; background-color: inherit;">new</span><span=20=
+style=3D"margin: 0px; padding: 0px; border: none; background-colo=
+r: inherit;">&nbsp;RowOrdering(order,&nbsp;inputSchema)&nbsp;&nbs=
+p;</span></span></li><li class=3D"alt" style=3D"border-style: non=
+e none none solid; border-left-width: 3px; border-left-color: rgb=
+(108, 226, 108); list-style: decimal-leading-zero outside; color:=
+ inherit; line-height: 18px; padding: 0px 3px 0px 10px !important=
+;"><span style=3D"margin: 0px; padding: 0px; border: none; color:=
+ black; background-color: inherit;">&nbsp;&nbsp;}&nbsp;&nbsp;</sp=
+an></li><li style=3D"border-style: none none none solid; border-l=
+eft-width: 3px; border-left-color: rgb(108, 226, 108); list-style=
+: decimal-leading-zero outside; line-height: 18px; background-col=
+or: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><s=
+pan style=3D"margin: 0px; padding: 0px; border: none; color: blac=
+k; background-color: inherit;">}&nbsp;&nbsp;</span></li><li class=
+=3D"alt" style=3D"border-style: none none none solid; border-left=
+-width: 3px; border-left-color: rgb(108, 226, 108); list-style: d=
+ecimal-leading-zero outside; color: inherit; line-height: 18px; p=
+adding: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px;=
+ padding: 0px; border: none; color: black; background-color: inhe=
+rit;">}&nbsp;&nbsp;</span></li></ol></div><p>=BF=C9=BC=FB=D5=EB=B6=
+=D4Sort=B5=C4SparkPlan=A3=AC=D5=EB=B6=D4=CA=C7=B7=F1=BF=AA=C6=F4=B6=
+=AF=CC=AC=D7=D6=BD=DA=C2=EB=BC=BC=CA=F5=B5=C4=C7=E9=BF=F6=CF=C2=BB=
+=E1=B7=A2=C9=FA=C1=BD=D6=D6=C7=E9=BF=F6=A3=BA=B5=B1=B9=D8=B1=D5=B5=
+=C4=CA=B1=BA=F2=A3=AC=C6=E4Compare=BA=AF=CA=FD=C8=E7=CF=C2=A3=BA<=
+/p><div class=3D"dp-highlighter bg_java" style=3D"font-family: Co=
+nsolas, 'Courier New', Courier, mono, serif; font-size: 0.75rem;=20=
+width: 700.906px; overflow-y: hidden; overflow-x: auto; padding-t=
+op: 1px; position: relative; margin-top: 18px !important; margin-=
+bottom: 18px !important; background-color: rgb(231, 229, 220);"><=
+div class=3D"bar" style=3D"padding-left: 45px;"><div class=3D"too=
+ls" style=3D"padding: 3px 8px 10px 10px; font-size: 0.563rem; lin=
+e-height: normal; font-family: Verdana, Geneva, Arial, Helvetica,=
+ sans-serif; color: silver; border-left-width: 3px; border-left-s=
+tyle: solid; border-left-color: rgb(108, 226, 108); background-co=
+lor: rgb(248, 248, 248);"><b>[java]</b> <a href=3D"http://blog.cs=
+dn.net/wl044090432/article/details/52190736#" class=3D"ViewSource=
+" title=3D"view plain" target=3D"_blank" style=3D"color: rgb(160,=
+ 160, 160); text-decoration: none; border: none; padding: 1px; ma=
+rgin: 0px 10px 0px 0px; display: inline-block; width: 16px; heigh=
+t: 16px; text-indent: -2000px; background-image: url(&quot;&quot;=
+); background-color: inherit; background-position: 0% 0%; backgro=
+und-repeat: no-repeat no-repeat;">view plain</a><span data-mod=3D=
+"popu_168"> <a href=3D"http://blog.csdn.net/wl044090432/article/d=
+etails/52190736#" class=3D"CopyToClipboard" title=3D"copy" target=
+=3D"_blank" style=3D"color: rgb(160, 160, 160); text-decoration:=20=
+none; border: none; padding: 1px; margin: 0px 10px 0px 0px; displ=
+ay: inline-block; width: 16px; height: 16px; text-indent: -2000px=
+; background-image: url(&quot;&quot;); background-color: inherit;=
+ background-position: 0% 0%; background-repeat: no-repeat no-repe=
+at;">copy</a><div style=3D"position: absolute; left: 561px; top:=20=
+1248px; width: 18px; height: 18px; z-index: 99;"><embed id=3D"Zer=
+oClipboardMovie_2" src=3D"http://static.blog.csdn.net/scripts/Zer=
+oClipboard/ZeroClipboard.swf" loop=3D"false" menu=3D"false" quali=
+ty=3D"best" bgcolor=3D"#ffffff" width=3D"18" height=3D"18" name=3D=
+"ZeroClipboardMovie_2" align=3D"middle" allowscriptaccess=3D"alwa=
+ys" allowfullscreen=3D"false" type=3D"application/x-shockwave-fla=
+sh" pluginspage=3D"http://www.macromedia.com/go/getflashplayer" f=
+lashvars=3D"id=3D2&amp;width=3D18&amp;height=3D18" wmode=3D"trans=
+parent"></div></span><span data-mod=3D"popu_169"> </span></div></=
+div><ol class=3D"dp-j wiz-list-level1" style=3D"padding: 0px; bor=
+der: none; list-style-position: initial; list-style-image: initia=
+l; color: rgb(92, 92, 92); background-color: rgb(255, 255, 255);=20=
+margin-bottom: 1px !important; margin-left: 45px !important;"><li=
+ class=3D"alt" style=3D"border-style: none none none solid; borde=
+r-left-width: 3px; border-left-color: rgb(108, 226, 108); list-st=
+yle: decimal-leading-zero outside; color: inherit; line-height: 1=
+8px; padding: 0px 3px 0px 10px !important;"><span style=3D"margin=
+: 0px; padding: 0px; border: none; color: black; background-color=
+: inherit;"><span class=3D"keyword" style=3D"margin: 0px; padding=
+: 0px; border: none; color: rgb(0, 102, 153); font-weight: bold;=20=
+background-color: inherit;">class</span><span style=3D"margin: 0p=
+x; padding: 0px; border: none; background-color: inherit;">&nbsp;=
+RowOrdering(ordering:&nbsp;Seq[SortOrder])&nbsp;</span><span clas=
+s=3D"keyword" style=3D"margin: 0px; padding: 0px; border: none; c=
+olor: rgb(0, 102, 153); font-weight: bold; background-color: inhe=
+rit;">extends</span><span style=3D"margin: 0px; padding: 0px; bor=
+der: none; background-color: inherit;">&nbsp;Ordering[Row]&nbsp;{=
+&nbsp;&nbsp;</span></span></li><li style=3D"border-style: none no=
+ne none solid; border-left-width: 3px; border-left-color: rgb(108=
+, 226, 108); list-style: decimal-leading-zero outside; line-heigh=
+t: 18px; background-color: rgb(248, 248, 248); padding: 0px 3px 0=
+px 10px !important;"><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; color: black; background-color: inherit;">&nbsp;&nbsp=
+;def&nbsp;<span class=3D"keyword" style=3D"margin: 0px; padding:=20=
+0px; border: none; color: rgb(0, 102, 153); font-weight: bold; ba=
+ckground-color: inherit;">this</span><span style=3D"margin: 0px;=20=
+padding: 0px; border: none; background-color: inherit;">(ordering=
+:&nbsp;Seq[SortOrder],&nbsp;inputSchema:&nbsp;Seq[Attribute])&nbs=
+p;=3D&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=3D"bo=
+rder-style: none none none solid; border-left-width: 3px; border-=
+left-color: rgb(108, 226, 108); list-style: decimal-leading-zero=20=
+outside; color: inherit; line-height: 18px; padding: 0px 3px 0px=20=
+10px !important;"><span style=3D"margin: 0px; padding: 0px; borde=
+r: none; color: black; background-color: inherit;">&nbsp;&nbsp;&n=
+bsp;&nbsp;<span class=3D"keyword" style=3D"margin: 0px; padding:=20=
+0px; border: none; color: rgb(0, 102, 153); font-weight: bold; ba=
+ckground-color: inherit;">this</span><span style=3D"margin: 0px;=20=
+padding: 0px; border: none; background-color: inherit;">(ordering=
+.map(BindReferences.bindReference(_,&nbsp;inputSchema)))&nbsp;&nb=
+sp;</span></span></li><li style=3D"border-style: none none none s=
+olid; border-left-width: 3px; border-left-color: rgb(108, 226, 10=
+8); list-style: decimal-leading-zero outside; line-height: 18px;=20=
+background-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !=
+important;"><span style=3D"margin: 0px; padding: 0px; border: non=
+e; color: black; background-color: inherit;">&nbsp;&nbsp;</span><=
+/li><li class=3D"alt" style=3D"border-style: none none none solid=
+; border-left-width: 3px; border-left-color: rgb(108, 226, 108);=20=
+list-style: decimal-leading-zero outside; color: inherit; line-he=
+ight: 18px; padding: 0px 3px 0px 10px !important;"><span style=3D=
+"margin: 0px; padding: 0px; border: none; color: black; backgroun=
+d-color: inherit;">&nbsp;&nbsp;def&nbsp;compare(a:&nbsp;Row,&nbsp=
+;b:&nbsp;Row):&nbsp;Int&nbsp;=3D&nbsp;{&nbsp;&nbsp;</span></li><l=
+i style=3D"border-style: none none none solid; border-left-width:=
+ 3px; border-left-color: rgb(108, 226, 108); list-style: decimal-=
+leading-zero outside; line-height: 18px; background-color: rgb(24=
+8, 248, 248); padding: 0px 3px 0px 10px !important;"><span style=3D=
+"margin: 0px; padding: 0px; border: none; color: black; backgroun=
+d-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;var&nbsp;i&nbsp;=3D&nb=
+sp;<span class=3D"number" style=3D"margin: 0px; padding: 0px; bor=
+der: none; color: rgb(192, 0, 0); background-color: inherit;">0</=
+span><span style=3D"margin: 0px; padding: 0px; border: none; back=
+ground-color: inherit;">&nbsp;&nbsp;</span></span></li><li class=3D=
+"alt" style=3D"border-style: none none none solid; border-left-wi=
+dth: 3px; border-left-color: rgb(108, 226, 108); list-style: deci=
+mal-leading-zero outside; color: inherit; line-height: 18px; padd=
+ing: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; pa=
+dding: 0px; border: none; color: black; background-color: inherit=
+;">&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" style=3D"margi=
+n: 0px; padding: 0px; border: none; color: rgb(0, 102, 153); font=
+-weight: bold; background-color: inherit;">while</span><span styl=
+e=3D"margin: 0px; padding: 0px; border: none; background-color: i=
+nherit;">&nbsp;(i&nbsp;&lt;&nbsp;ordering.size)&nbsp;{&nbsp;&nbsp=
+;</span></span></li><li style=3D"border-style: none none none sol=
+id; border-left-width: 3px; border-left-color: rgb(108, 226, 108)=
+; list-style: decimal-leading-zero outside; line-height: 18px; ba=
+ckground-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !im=
+portant;"><span style=3D"margin: 0px; padding: 0px; border: none;=
+ color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;val&nbsp;order&nbsp;=3D&nbsp;ordering(i)&nbsp;&nbsp=
+;</span></li><li class=3D"alt" style=3D"border-style: none none n=
+one solid; border-left-width: 3px; border-left-color: rgb(108, 22=
+6, 108); list-style: decimal-leading-zero outside; color: inherit=
+; line-height: 18px; padding: 0px 3px 0px 10px !important;"><span=
+ style=3D"margin: 0px; padding: 0px; border: none; color: black;=20=
+background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;v=
+al&nbsp;left&nbsp;=3D&nbsp;order.child.eval(a)<span class=3D"comm=
+ent" style=3D"margin: 0px; padding: 0px; border: none; color: rgb=
+(0, 130, 0); background-color: inherit;">//=D0=E9=BA=AF=CA=FD=B5=F7=
+=D3=C3=A3=AC=C8=BB=BA=F3=D7=B0=CF=E4</span><span style=3D"margin:=
+ 0px; padding: 0px; border: none; background-color: inherit;">&nb=
+sp;&nbsp;</span></span></li><li style=3D"border-style: none none=20=
+none solid; border-left-width: 3px; border-left-color: rgb(108, 2=
+26, 108); list-style: decimal-leading-zero outside; line-height:=20=
+18px; background-color: rgb(248, 248, 248); padding: 0px 3px 0px=20=
+10px !important;"><span style=3D"margin: 0px; padding: 0px; borde=
+r: none; color: black; background-color: inherit;">&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;val&nbsp;right&nbsp;=3D&nbsp;order.child.ev=
+al(b)<span class=3D"comment" style=3D"margin: 0px; padding: 0px;=20=
+border: none; color: rgb(0, 130, 0); background-color: inherit;">=
+//=D0=E9=BA=AF=CA=FD=B5=F7=D3=C3=A3=AC=C8=BB=BA=F3=D7=B0=CF=E4</s=
+pan><span style=3D"margin: 0px; padding: 0px; border: none; backg=
+round-color: inherit;">&nbsp;&nbsp;</span></span></li><li class=3D=
+"alt" style=3D"border-style: none none none solid; border-left-wi=
+dth: 3px; border-left-color: rgb(108, 226, 108); list-style: deci=
+mal-leading-zero outside; color: inherit; line-height: 18px; padd=
+ing: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; pa=
+dding: 0px; border: none; color: black; background-color: inherit=
+;">&nbsp;&nbsp;</span></li><li style=3D"border-style: none none n=
+one solid; border-left-width: 3px; border-left-color: rgb(108, 22=
+6, 108); list-style: decimal-leading-zero outside; line-height: 1=
+8px; background-color: rgb(248, 248, 248); padding: 0px 3px 0px 1=
+0px !important;"><span style=3D"margin: 0px; padding: 0px; border=
+: none; color: black; background-color: inherit;">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" style=3D"margin: 0px=
+; padding: 0px; border: none; color: rgb(0, 102, 153); font-weigh=
+t: bold; background-color: inherit;">if</span><span style=3D"marg=
+in: 0px; padding: 0px; border: none; background-color: inherit;">=
+&nbsp;(left&nbsp;=3D=3D&nbsp;</span><span class=3D"keyword" style=
+=3D"margin: 0px; padding: 0px; border: none; color: rgb(0, 102, 1=
+53); font-weight: bold; background-color: inherit;">null</span><s=
+pan style=3D"margin: 0px; padding: 0px; border: none; background-=
+color: inherit;">&nbsp;&amp;&amp;&nbsp;right&nbsp;=3D=3D&nbsp;</s=
+pan><span class=3D"keyword" style=3D"margin: 0px; padding: 0px; b=
+order: none; color: rgb(0, 102, 153); font-weight: bold; backgrou=
+nd-color: inherit;">null</span><span style=3D"margin: 0px; paddin=
+g: 0px; border: none; background-color: inherit;">)&nbsp;{&nbsp;&=
+nbsp;</span></span></li><li class=3D"alt" style=3D"border-style:=20=
+none none none solid; border-left-width: 3px; border-left-color:=20=
+rgb(108, 226, 108); list-style: decimal-leading-zero outside; col=
+or: inherit; line-height: 18px; padding: 0px 3px 0px 10px !import=
+ant;"><span style=3D"margin: 0px; padding: 0px; border: none; col=
+or: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;<span class=3D"comment" style=3D"margin: 0p=
+x; padding: 0px; border: none; color: rgb(0, 130, 0); background-=
+color: inherit;">//&nbsp;Both&nbsp;null,&nbsp;continue&nbsp;looki=
+ng.</span><span style=3D"margin: 0px; padding: 0px; border: none;=
+ background-color: inherit;">&nbsp;&nbsp;</span></span></li><li s=
+tyle=3D"border-style: none none none solid; border-left-width: 3p=
+x; border-left-color: rgb(108, 226, 108); list-style: decimal-lea=
+ding-zero outside; line-height: 18px; background-color: rgb(248,=20=
+248, 248); padding: 0px 3px 0px 10px !important;"><span style=3D"=
+margin: 0px; padding: 0px; border: none; color: black; background=
+-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;<spa=
+n class=3D"keyword" style=3D"margin: 0px; padding: 0px; border: n=
+one; color: rgb(0, 102, 153); font-weight: bold; background-color=
+: inherit;">else</span><span style=3D"margin: 0px; padding: 0px;=20=
+border: none; background-color: inherit;">&nbsp;</span><span clas=
+s=3D"keyword" style=3D"margin: 0px; padding: 0px; border: none; c=
+olor: rgb(0, 102, 153); font-weight: bold; background-color: inhe=
+rit;">if</span><span style=3D"margin: 0px; padding: 0px; border:=20=
+none; background-color: inherit;">&nbsp;(left&nbsp;=3D=3D&nbsp;</=
+span><span class=3D"keyword" style=3D"margin: 0px; padding: 0px;=20=
+border: none; color: rgb(0, 102, 153); font-weight: bold; backgro=
+und-color: inherit;">null</span><span style=3D"margin: 0px; paddi=
+ng: 0px; border: none; background-color: inherit;">)&nbsp;{&nbsp;=
+&nbsp;</span></span></li><li class=3D"alt" style=3D"border-style:=
+ none none none solid; border-left-width: 3px; border-left-color:=
+ rgb(108, 226, 108); list-style: decimal-leading-zero outside; co=
+lor: inherit; line-height: 18px; padding: 0px 3px 0px 10px !impor=
+tant;"><span style=3D"margin: 0px; padding: 0px; border: none; co=
+lor: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" style=3D"margin: 0=
+px; padding: 0px; border: none; color: rgb(0, 102, 153); font-wei=
+ght: bold; background-color: inherit;">return</span><span style=3D=
+"margin: 0px; padding: 0px; border: none; background-color: inher=
+it;">&nbsp;</span><span class=3D"keyword" style=3D"margin: 0px; p=
+adding: 0px; border: none; color: rgb(0, 102, 153); font-weight:=20=
+bold; background-color: inherit;">if</span><span style=3D"margin:=
+ 0px; padding: 0px; border: none; background-color: inherit;">&nb=
+sp;(order.direction&nbsp;=3D=3D&nbsp;Ascending)&nbsp;-</span><spa=
+n class=3D"number" style=3D"margin: 0px; padding: 0px; border: no=
+ne; color: rgb(192, 0, 0); background-color: inherit;">1</span><s=
+pan style=3D"margin: 0px; padding: 0px; border: none; background-=
+color: inherit;">&nbsp;</span><span class=3D"keyword" style=3D"ma=
+rgin: 0px; padding: 0px; border: none; color: rgb(0, 102, 153); f=
+ont-weight: bold; background-color: inherit;">else</span><span st=
+yle=3D"margin: 0px; padding: 0px; border: none; background-color:=
+ inherit;">&nbsp;</span><span class=3D"number" style=3D"margin: 0=
+px; padding: 0px; border: none; color: rgb(192, 0, 0); background=
+-color: inherit;">1</span><span style=3D"margin: 0px; padding: 0p=
+x; border: none; background-color: inherit;">&nbsp;&nbsp;</span><=
+/span></li><li style=3D"border-style: none none none solid; borde=
+r-left-width: 3px; border-left-color: rgb(108, 226, 108); list-st=
+yle: decimal-leading-zero outside; line-height: 18px; background-=
+color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"=
+><span style=3D"margin: 0px; padding: 0px; border: none; color: b=
+lack; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;}&nbsp;<span class=3D"keyword" style=3D"margin: 0px; padding=
+: 0px; border: none; color: rgb(0, 102, 153); font-weight: bold;=20=
+background-color: inherit;">else</span><span style=3D"margin: 0px=
+; padding: 0px; border: none; background-color: inherit;">&nbsp;<=
+/span><span class=3D"keyword" style=3D"margin: 0px; padding: 0px;=
+ border: none; color: rgb(0, 102, 153); font-weight: bold; backgr=
+ound-color: inherit;">if</span><span style=3D"margin: 0px; paddin=
+g: 0px; border: none; background-color: inherit;">&nbsp;(right&nb=
+sp;=3D=3D&nbsp;</span><span class=3D"keyword" style=3D"margin: 0p=
+x; padding: 0px; border: none; color: rgb(0, 102, 153); font-weig=
+ht: bold; background-color: inherit;">null</span><span style=3D"m=
+argin: 0px; padding: 0px; border: none; background-color: inherit=
+;">)&nbsp;{&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=
+=3D"border-style: none none none solid; border-left-width: 3px; b=
+order-left-color: rgb(108, 226, 108); list-style: decimal-leading=
+-zero outside; color: inherit; line-height: 18px; padding: 0px 3p=
+x 0px 10px !important;"><span style=3D"margin: 0px; padding: 0px;=
+ border: none; color: black; background-color: inherit;">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" s=
+tyle=3D"margin: 0px; padding: 0px; border: none; color: rgb(0, 10=
+2, 153); font-weight: bold; background-color: inherit;">return</s=
+pan><span style=3D"margin: 0px; padding: 0px; border: none; backg=
+round-color: inherit;">&nbsp;</span><span class=3D"keyword" style=
+=3D"margin: 0px; padding: 0px; border: none; color: rgb(0, 102, 1=
+53); font-weight: bold; background-color: inherit;">if</span><spa=
+n style=3D"margin: 0px; padding: 0px; border: none; background-co=
+lor: inherit;">&nbsp;(order.direction&nbsp;=3D=3D&nbsp;Ascending)=
+&nbsp;</span><span class=3D"number" style=3D"margin: 0px; padding=
+: 0px; border: none; color: rgb(192, 0, 0); background-color: inh=
+erit;">1</span><span style=3D"margin: 0px; padding: 0px; border:=20=
+none; background-color: inherit;">&nbsp;</span><span class=3D"key=
+word" style=3D"margin: 0px; padding: 0px; border: none; color: rg=
+b(0, 102, 153); font-weight: bold; background-color: inherit;">el=
+se</span><span style=3D"margin: 0px; padding: 0px; border: none;=20=
+background-color: inherit;">&nbsp;-</span><span class=3D"number"=20=
+style=3D"margin: 0px; padding: 0px; border: none; color: rgb(192,=
+ 0, 0); background-color: inherit;">1</span><span style=3D"margin=
+: 0px; padding: 0px; border: none; background-color: inherit;">&n=
+bsp;&nbsp;</span></span></li><li style=3D"border-style: none none=
+ none solid; border-left-width: 3px; border-left-color: rgb(108,=20=
+226, 108); list-style: decimal-leading-zero outside; line-height:=
+ 18px; background-color: rgb(248, 248, 248); padding: 0px 3px 0px=
+ 10px !important;"><span style=3D"margin: 0px; padding: 0px; bord=
+er: none; color: black; background-color: inherit;">&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;<span class=3D"keyword" style=3D"ma=
+rgin: 0px; padding: 0px; border: none; color: rgb(0, 102, 153); f=
+ont-weight: bold; background-color: inherit;">else</span><span st=
+yle=3D"margin: 0px; padding: 0px; border: none; background-color:=
+ inherit;">&nbsp;{&nbsp;&nbsp;</span></span></li><li class=3D"alt=
+" style=3D"border-style: none none none solid; border-left-width:=
+ 3px; border-left-color: rgb(108, 226, 108); list-style: decimal-=
+leading-zero outside; color: inherit; line-height: 18px; padding:=
+ 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; paddin=
+g: 0px; border: none; color: black; background-color: inherit;">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;compariso=
+n&nbsp;=3D&nbsp;order.dataType&nbsp;match&nbsp;{&nbsp;&nbsp;</spa=
+n></li><li style=3D"border-style: none none none solid; border-le=
+ft-width: 3px; border-left-color: rgb(108, 226, 108); list-style:=
+ decimal-leading-zero outside; line-height: 18px; background-colo=
+r: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><sp=
+an style=3D"margin: 0px; padding: 0px; border: none; color: black=
+; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" style=3D"margin:=
+ 0px; padding: 0px; border: none; color: rgb(0, 102, 153); font-w=
+eight: bold; background-color: inherit;">case</span><span style=3D=
+"margin: 0px; padding: 0px; border: none; background-color: inher=
+it;">&nbsp;n:&nbsp;AtomicType&nbsp;</span><span class=3D"keyword"=
+ style=3D"margin: 0px; padding: 0px; border: none; color: rgb(0,=20=
+102, 153); font-weight: bold; background-color: inherit;">if</spa=
+n><span style=3D"margin: 0px; padding: 0px; border: none; backgro=
+und-color: inherit;">&nbsp;order.direction&nbsp;=3D=3D&nbsp;Ascen=
+ding&nbsp;=3D&gt;&nbsp;&nbsp;</span></span></li><li class=3D"alt"=
+ style=3D"border-style: none none none solid; border-left-width:=20=
+3px; border-left-color: rgb(108, 226, 108); list-style: decimal-l=
+eading-zero outside; color: inherit; line-height: 18px; padding:=20=
+0px 3px 0px 10px !important;"><span style=3D"margin: 0px; padding=
+: 0px; border: none; color: black; background-color: inherit;">&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;n.ordering.asInstanceOf[Ordering[Any]].compare(left,&nbsp;ri=
+ght)<span class=3D"comment" style=3D"margin: 0px; padding: 0px; b=
+order: none; color: rgb(0, 130, 0); background-color: inherit;">/=
+/=B5=F7=D3=C3=BE=DF=CC=E5=B6=D4=CF=F3=B5=C4compare=BA=AF=CA=FD</s=
+pan><span style=3D"margin: 0px; padding: 0px; border: none; backg=
+round-color: inherit;">&nbsp;&nbsp;</span></span></li><li style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; line-height: 18px; background-color: rgb(248, 248, 24=
+8); padding: 0px 3px 0px 10px !important;"><span style=3D"margin:=
+ 0px; padding: 0px; border: none; color: black; background-color:=
+ inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;<span class=3D"keyword" style=3D"margin: 0px; padding: 0px;=
+ border: none; color: rgb(0, 102, 153); font-weight: bold; backgr=
+ound-color: inherit;">case</span><span style=3D"margin: 0px; padd=
+ing: 0px; border: none; background-color: inherit;">&nbsp;n:&nbsp=
+;AtomicType&nbsp;</span><span class=3D"keyword" style=3D"margin:=20=
+0px; padding: 0px; border: none; color: rgb(0, 102, 153); font-we=
+ight: bold; background-color: inherit;">if</span><span style=3D"m=
+argin: 0px; padding: 0px; border: none; background-color: inherit=
+;">&nbsp;order.direction&nbsp;=3D=3D&nbsp;Descending&nbsp;=3D&gt;=
+&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=3D"border-=
+style: none none none solid; border-left-width: 3px; border-left-=
+color: rgb(108, 226, 108); list-style: decimal-leading-zero outsi=
+de; color: inherit; line-height: 18px; padding: 0px 3px 0px 10px=20=
+!important;"><span style=3D"margin: 0px; padding: 0px; border: no=
+ne; color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;n.ordering.a=
+sInstanceOf[Ordering[Any]].reverse.compare(left,&nbsp;right)<span=
+ class=3D"comment" style=3D"margin: 0px; padding: 0px; border: no=
+ne; color: rgb(0, 130, 0); background-color: inherit;">//=B5=F7=D3=
+=C3=BE=DF=CC=E5=B6=D4=CF=F3=B5=C4compare=BA=AF=CA=FD</span><span=20=
+style=3D"margin: 0px; padding: 0px; border: none; background-colo=
+r: inherit;">&nbsp;&nbsp;</span></span></li><li style=3D"border-s=
+tyle: none none none solid; border-left-width: 3px; border-left-c=
+olor: rgb(108, 226, 108); list-style: decimal-leading-zero outsid=
+e; line-height: 18px; background-color: rgb(248, 248, 248); paddi=
+ng: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; pad=
+ding: 0px; border: none; color: black; background-color: inherit;=
+">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sp=
+an class=3D"keyword" style=3D"margin: 0px; padding: 0px; border:=20=
+none; color: rgb(0, 102, 153); font-weight: bold; background-colo=
+r: inherit;">case</span><span style=3D"margin: 0px; padding: 0px;=
+ border: none; background-color: inherit;">&nbsp;other&nbsp;=3D&g=
+t;&nbsp;sys.error(s</span><span class=3D"string" style=3D"margin:=
+ 0px; padding: 0px; border: none; color: blue; background-color:=20=
+inherit;">"Type&nbsp;$other&nbsp;does&nbsp;not&nbsp;support&nbsp;=
+ordered&nbsp;operations"</span><span style=3D"margin: 0px; paddin=
+g: 0px; border: none; background-color: inherit;">)&nbsp;&nbsp;</=
+span></span></li><li class=3D"alt" style=3D"border-style: none no=
+ne none solid; border-left-width: 3px; border-left-color: rgb(108=
+, 226, 108); list-style: decimal-leading-zero outside; color: inh=
+erit; line-height: 18px; padding: 0px 3px 0px 10px !important;"><=
+span style=3D"margin: 0px; padding: 0px; border: none; color: bla=
+ck; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;}&nbsp;&nbsp;</span></li><li style=3D"border-style=
+: none none none solid; border-left-width: 3px; border-left-color=
+: rgb(108, 226, 108); list-style: decimal-leading-zero outside; l=
+ine-height: 18px; background-color: rgb(248, 248, 248); padding:=20=
+0px 3px 0px 10px !important;"><span style=3D"margin: 0px; padding=
+: 0px; border: none; color: black; background-color: inherit;">&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyw=
+ord" style=3D"margin: 0px; padding: 0px; border: none; color: rgb=
+(0, 102, 153); font-weight: bold; background-color: inherit;">if<=
+/span><span style=3D"margin: 0px; padding: 0px; border: none; bac=
+kground-color: inherit;">&nbsp;(comparison&nbsp;!=3D&nbsp;</span>=
+<span class=3D"number" style=3D"margin: 0px; padding: 0px; border=
+: none; color: rgb(192, 0, 0); background-color: inherit;">0</spa=
+n><span style=3D"margin: 0px; padding: 0px; border: none; backgro=
+und-color: inherit;">)&nbsp;</span><span class=3D"keyword" style=3D=
+"margin: 0px; padding: 0px; border: none; color: rgb(0, 102, 153)=
+; font-weight: bold; background-color: inherit;">return</span><sp=
+an style=3D"margin: 0px; padding: 0px; border: none; background-c=
+olor: inherit;">&nbsp;comparison&nbsp;&nbsp;</span></span></li><l=
+i class=3D"alt" style=3D"border-style: none none none solid; bord=
+er-left-width: 3px; border-left-color: rgb(108, 226, 108); list-s=
+tyle: decimal-leading-zero outside; color: inherit; line-height:=20=
+18px; padding: 0px 3px 0px 10px !important;"><span style=3D"margi=
+n: 0px; padding: 0px; border: none; color: black; background-colo=
+r: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</s=
+pan></li><li style=3D"border-style: none none none solid; border-=
+left-width: 3px; border-left-color: rgb(108, 226, 108); list-styl=
+e: decimal-leading-zero outside; line-height: 18px; background-co=
+lor: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><=
+span style=3D"margin: 0px; padding: 0px; border: none; color: bla=
+ck; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;i&nbsp;+=3D&nbsp;<span class=3D"number" style=3D"margin: 0px;=20=
+padding: 0px; border: none; color: rgb(192, 0, 0); background-col=
+or: inherit;">1</span><span style=3D"margin: 0px; padding: 0px; b=
+order: none; background-color: inherit;">&nbsp;&nbsp;</span></spa=
+n></li><li class=3D"alt" style=3D"border-style: none none none so=
+lid; border-left-width: 3px; border-left-color: rgb(108, 226, 108=
+); list-style: decimal-leading-zero outside; color: inherit; line=
+-height: 18px; padding: 0px 3px 0px 10px !important;"><span style=
+=3D"margin: 0px; padding: 0px; border: none; color: black; backgr=
+ound-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</span=
+></li><li style=3D"border-style: none none none solid; border-lef=
+t-width: 3px; border-left-color: rgb(108, 226, 108); list-style:=20=
+decimal-leading-zero outside; line-height: 18px; background-color=
+: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><spa=
+n style=3D"margin: 0px; padding: 0px; border: none; color: black;=
+ background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D=
+"keyword" style=3D"margin: 0px; padding: 0px; border: none; color=
+: rgb(0, 102, 153); font-weight: bold; background-color: inherit;=
+">return</span><span style=3D"margin: 0px; padding: 0px; border:=20=
+none; background-color: inherit;">&nbsp;</span><span class=3D"num=
+ber" style=3D"margin: 0px; padding: 0px; border: none; color: rgb=
+(192, 0, 0); background-color: inherit;">0</span><span style=3D"m=
+argin: 0px; padding: 0px; border: none; background-color: inherit=
+;">&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=3D"bord=
+er-style: none none none solid; border-left-width: 3px; border-le=
+ft-color: rgb(108, 226, 108); list-style: decimal-leading-zero ou=
+tside; color: inherit; line-height: 18px; padding: 0px 3px 0px 10=
+px !important;"><span style=3D"margin: 0px; padding: 0px; border:=
+ none; color: black; background-color: inherit;">&nbsp;&nbsp;}&nb=
+sp;&nbsp;</span></li><li style=3D"border-style: none none none so=
+lid; border-left-width: 3px; border-left-color: rgb(108, 226, 108=
+); list-style: decimal-leading-zero outside; line-height: 18px; b=
+ackground-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !i=
+mportant;"><span style=3D"margin: 0px; padding: 0px; border: none=
+; color: black; background-color: inherit;">}&nbsp;&nbsp;</span><=
+/li></ol></div><p>=C6=E4=C9=E6=BC=B0=B5=BD=D0=E9=BA=AF=CA=FD=B5=F7=
+=D3=C3=BC=B0=D7=B0=CF=E4=A3=AC=D0=E9=BA=AF=CA=FD=B5=C4=B5=F7=D3=C3=
+=CF=E0=B6=D4=C6=D5=CD=A8=BA=AF=CA=FD=B6=F8=D1=D4=B1=C8=BD=CF=BA=C4=
+=CA=B1=A1=A3</p><p>=B5=B1=BF=AA=C6=F4=B6=AF=CC=AC=D7=D6=BD=DA=C2=EB=
+=BC=BC=CA=F5=B5=C4=CA=B1=BA=F2=A3=AC=C6=E4Compare=BA=AF=CA=FD=C8=E7=
+=CF=C2=A3=BA</p><pre style=3D"white-space: pre-wrap; word-wrap: b=
+reak-word; background-position: initial initial; background-repea=
+t: initial initial;"><span style=3D"font-size: 0.75rem; font-fami=
+ly: Calibri, sans-serif;"></span><div class=3D"dp-highlighter bg_=
+java" style=3D"font-family: Consolas, 'Courier New', Courier, mon=
+o, serif; font-size: 0.75rem; width: 700.906px; overflow-y: hidde=
+n; overflow-x: auto; padding-top: 1px; position: relative; margin=
+-top: 18px !important; margin-bottom: 18px !important; background=
+-color: rgb(231, 229, 220);"><div class=3D"bar" style=3D"padding-=
+left: 45px;"><div class=3D"tools" style=3D"padding: 3px 8px 10px=20=
+10px; font-size: 0.563rem; line-height: normal; font-family: Verd=
+ana, Geneva, Arial, Helvetica, sans-serif; color: silver; border-=
+left-width: 3px; border-left-style: solid; border-left-color: rgb=
+(108, 226, 108); background-color: rgb(248, 248, 248);"><b>[java]=
+</b> <a href=3D"http://blog.csdn.net/wl044090432/article/details/=
+52190736#" class=3D"ViewSource" title=3D"view plain" target=3D"_b=
+lank" style=3D"color: rgb(160, 160, 160); text-decoration: none;=20=
+border: none; padding: 1px; margin: 0px 10px 0px 0px; display: in=
+line-block; width: 16px; height: 16px; text-indent: -2000px; back=
+ground-image: url(&quot;&quot;); background-color: inherit; backg=
+round-position: 0% 0%; background-repeat: no-repeat no-repeat;">v=
+iew plain</a><span data-mod=3D"popu_168"> <a href=3D"http://blog.=
+csdn.net/wl044090432/article/details/52190736#" class=3D"CopyToCl=
+ipboard" title=3D"copy" target=3D"_blank" style=3D"color: rgb(160=
+, 160, 160); text-decoration: none; border: none; padding: 1px; m=
+argin: 0px 10px 0px 0px; display: inline-block; width: 16px; heig=
+ht: 16px; text-indent: -2000px; background-image: url(&quot;&quot=
+;); background-color: inherit; background-position: 0% 0%; backgr=
+ound-repeat: no-repeat no-repeat;">copy</a><div style=3D"position=
+: absolute; left: 561px; top: 1995px; width: 18px; height: 18px;=20=
+z-index: 99;"><embed id=3D"ZeroClipboardMovie_3" src=3D"http://st=
+atic.blog.csdn.net/scripts/ZeroClipboard/ZeroClipboard.swf" loop=3D=
+"false" menu=3D"false" quality=3D"best" bgcolor=3D"#ffffff" width=
+=3D"18" height=3D"18" name=3D"ZeroClipboardMovie_3" align=3D"midd=
+le" allowscriptaccess=3D"always" allowfullscreen=3D"false" type=3D=
+"application/x-shockwave-flash" pluginspage=3D"http://www.macrome=
+dia.com/go/getflashplayer" flashvars=3D"id=3D3&amp;width=3D18&amp=
+;height=3D18" wmode=3D"transparent"></div></span><span data-mod=3D=
+"popu_169"> </span></div></div><ol class=3D"dp-j wiz-list-level1"=
+ style=3D"padding: 0px; border: none; list-style-position: initia=
+l; list-style-image: initial; color: rgb(92, 92, 92); background-=
+color: rgb(255, 255, 255); margin-bottom: 1px !important; margin-=
+left: 45px !important;"><li class=3D"alt" style=3D"border-style:=20=
+none none none solid; border-left-width: 3px; border-left-color:=20=
+rgb(108, 226, 108); list-style: decimal-leading-zero outside; col=
+or: inherit; line-height: 18px; padding: 0px 3px 0px 10px !import=
+ant;"><span style=3D"margin: 0px; padding: 0px; border: none; col=
+or: black; background-color: inherit;"><span style=3D"margin: 0px=
+; padding: 0px; border: none; background-color: inherit;">object&=
+nbsp;GenerateOrdering&nbsp;</span><span class=3D"keyword" style=3D=
+"margin: 0px; padding: 0px; border: none; color: rgb(0, 102, 153)=
+; font-weight: bold; background-color: inherit;">extends</span><s=
+pan style=3D"margin: 0px; padding: 0px; border: none; background-=
+color: inherit;">&nbsp;CodeGenerator[Seq[SortOrder],&nbsp;Orderin=
+g[Row]]&nbsp;with&nbsp;Logging&nbsp;{&nbsp;&nbsp;</span></span></=
+li><li style=3D"border-style: none none none solid; border-left-w=
+idth: 3px; border-left-color: rgb(108, 226, 108); list-style: dec=
+imal-leading-zero outside; line-height: 18px; background-color: r=
+gb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><span s=
+tyle=3D"margin: 0px; padding: 0px; border: none; color: black; ba=
+ckground-color: inherit;">&nbsp;&nbsp;<span class=3D"keyword" sty=
+le=3D"margin: 0px; padding: 0px; border: none; color: rgb(0, 102,=
+ 153); font-weight: bold; background-color: inherit;">import</spa=
+n><span style=3D"margin: 0px; padding: 0px; border: none; backgro=
+und-color: inherit;">&nbsp;scala.reflect.runtime.{universe&nbsp;=3D=
+&gt;&nbsp;ru}&nbsp;&nbsp;</span></span></li><li class=3D"alt" sty=
+le=3D"border-style: none none none solid; border-left-width: 3px;=
+ border-left-color: rgb(108, 226, 108); list-style: decimal-leadi=
+ng-zero outside; color: inherit; line-height: 18px; padding: 0px=20=
+3px 0px 10px !important;"><span style=3D"margin: 0px; padding: 0p=
+x; border: none; color: black; background-color: inherit;">&nbsp;=
+&nbsp;<span class=3D"keyword" style=3D"margin: 0px; padding: 0px;=
+ border: none; color: rgb(0, 102, 153); font-weight: bold; backgr=
+ound-color: inherit;">import</span><span style=3D"margin: 0px; pa=
+dding: 0px; border: none; background-color: inherit;">&nbsp;scala=
+.reflect.runtime.universe._&nbsp;&nbsp;</span></span></li><li sty=
+le=3D"border-style: none none none solid; border-left-width: 3px;=
+ border-left-color: rgb(108, 226, 108); list-style: decimal-leadi=
+ng-zero outside; line-height: 18px; background-color: rgb(248, 24=
+8, 248); padding: 0px 3px 0px 10px !important;"><span style=3D"ma=
+rgin: 0px; padding: 0px; border: none; color: black; background-c=
+olor: inherit;">&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; color: inherit; line-height: 18px; padding: 0px 3px 0=
+px 10px !important;"><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; color: black; background-color: inherit;">&nbsp;<span=
+ class=3D"keyword" style=3D"margin: 0px; padding: 0px; border: no=
+ne; color: rgb(0, 102, 153); font-weight: bold; background-color:=
+ inherit;">protected</span><span style=3D"margin: 0px; padding: 0=
+px; border: none; background-color: inherit;">&nbsp;def&nbsp;cano=
+nicalize(in:&nbsp;Seq[SortOrder]):&nbsp;Seq[SortOrder]&nbsp;=3D&n=
+bsp;&nbsp;</span></span></li><li style=3D"border-style: none none=
+ none solid; border-left-width: 3px; border-left-color: rgb(108,=20=
+226, 108); list-style: decimal-leading-zero outside; line-height:=
+ 18px; background-color: rgb(248, 248, 248); padding: 0px 3px 0px=
+ 10px !important;"><span style=3D"margin: 0px; padding: 0px; bord=
+er: none; color: black; background-color: inherit;">&nbsp;&nbsp;&=
+nbsp;&nbsp;in.map(ExpressionCanonicalizer.execute(_).asInstanceOf=
+[SortOrder])&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D"bo=
+rder-style: none none none solid; border-left-width: 3px; border-=
+left-color: rgb(108, 226, 108); list-style: decimal-leading-zero=20=
+outside; color: inherit; line-height: 18px; padding: 0px 3px 0px=20=
+10px !important;"><span style=3D"margin: 0px; padding: 0px; borde=
+r: none; color: black; background-color: inherit;">&nbsp;&nbsp;</=
+span></li><li style=3D"border-style: none none none solid; border=
+-left-width: 3px; border-left-color: rgb(108, 226, 108); list-sty=
+le: decimal-leading-zero outside; line-height: 18px; background-c=
+olor: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;">=
+<span style=3D"margin: 0px; padding: 0px; border: none; color: bl=
+ack; background-color: inherit;">&nbsp;&nbsp;<span class=3D"keywo=
+rd" style=3D"margin: 0px; padding: 0px; border: none; color: rgb(=
+0, 102, 153); font-weight: bold; background-color: inherit;">prot=
+ected</span><span style=3D"margin: 0px; padding: 0px; border: non=
+e; background-color: inherit;">&nbsp;def&nbsp;bind(in:&nbsp;Seq[S=
+ortOrder],&nbsp;inputSchema:&nbsp;Seq[Attribute]):&nbsp;Seq[SortO=
+rder]&nbsp;=3D&nbsp;&nbsp;</span></span></li><li class=3D"alt" st=
+yle=3D"border-style: none none none solid; border-left-width: 3px=
+; border-left-color: rgb(108, 226, 108); list-style: decimal-lead=
+ing-zero outside; color: inherit; line-height: 18px; padding: 0px=
+ 3px 0px 10px !important;"><span style=3D"margin: 0px; padding: 0=
+px; border: none; color: black; background-color: inherit;">&nbsp=
+;&nbsp;&nbsp;&nbsp;in.map(BindReferences.bindReference(_,&nbsp;in=
+putSchema))&nbsp;&nbsp;</span></li><li style=3D"border-style: non=
+e none none solid; border-left-width: 3px; border-left-color: rgb=
+(108, 226, 108); list-style: decimal-leading-zero outside; line-h=
+eight: 18px; background-color: rgb(248, 248, 248); padding: 0px 3=
+px 0px 10px !important;"><span style=3D"margin: 0px; padding: 0px=
+; border: none; color: black; background-color: inherit;">&nbsp;&=
+nbsp;</span></li><li class=3D"alt" style=3D"border-style: none no=
+ne none solid; border-left-width: 3px; border-left-color: rgb(108=
+, 226, 108); list-style: decimal-leading-zero outside; color: inh=
+erit; line-height: 18px; padding: 0px 3px 0px 10px !important;"><=
+span style=3D"margin: 0px; padding: 0px; border: none; color: bla=
+ck; background-color: inherit;">&nbsp;&nbsp;<span class=3D"keywor=
+d" style=3D"margin: 0px; padding: 0px; border: none; color: rgb(0=
+, 102, 153); font-weight: bold; background-color: inherit;">prote=
+cted</span><span style=3D"margin: 0px; padding: 0px; border: none=
+; background-color: inherit;">&nbsp;def&nbsp;create(ordering:&nbs=
+p;Seq[SortOrder]):&nbsp;Ordering[Row]&nbsp;=3D&nbsp;{&nbsp;&nbsp;=
+</span></span></li><li style=3D"border-style: none none none soli=
+d; border-left-width: 3px; border-left-color: rgb(108, 226, 108);=
+ list-style: decimal-leading-zero outside; line-height: 18px; bac=
+kground-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !imp=
+ortant;"><span style=3D"margin: 0px; padding: 0px; border: none;=20=
+color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp=
+;val&nbsp;a&nbsp;=3D&nbsp;newTermName(<span class=3D"string" styl=
+e=3D"margin: 0px; padding: 0px; border: none; color: blue; backgr=
+ound-color: inherit;">"a"</span><span style=3D"margin: 0px; paddi=
+ng: 0px; border: none; background-color: inherit;">)&nbsp;&nbsp;<=
+/span></span></li><li class=3D"alt" style=3D"border-style: none n=
+one none solid; border-left-width: 3px; border-left-color: rgb(10=
+8, 226, 108); list-style: decimal-leading-zero outside; color: in=
+herit; line-height: 18px; padding: 0px 3px 0px 10px !important;">=
+<span style=3D"margin: 0px; padding: 0px; border: none; color: bl=
+ack; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp=
+;b&nbsp;=3D&nbsp;newTermName(<span class=3D"string" style=3D"marg=
+in: 0px; padding: 0px; border: none; color: blue; background-colo=
+r: inherit;">"b"</span><span style=3D"margin: 0px; padding: 0px;=20=
+border: none; background-color: inherit;">)&nbsp;&nbsp;</span></s=
+pan></li><li style=3D"border-style: none none none solid; border-=
+left-width: 3px; border-left-color: rgb(108, 226, 108); list-styl=
+e: decimal-leading-zero outside; line-height: 18px; background-co=
+lor: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><=
+span style=3D"margin: 0px; padding: 0px; border: none; color: bla=
+ck; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;=
+comparisons&nbsp;=3D&nbsp;ordering.zipWithIndex.map&nbsp;{&nbsp;<=
+span class=3D"keyword" style=3D"margin: 0px; padding: 0px; border=
+: none; color: rgb(0, 102, 153); font-weight: bold; background-co=
+lor: inherit;">case</span><span style=3D"margin: 0px; padding: 0p=
+x; border: none; background-color: inherit;">&nbsp;(order,&nbsp;i=
+)&nbsp;=3D&gt;&nbsp;&nbsp;</span></span></li><li class=3D"alt" st=
+yle=3D"border-style: none none none solid; border-left-width: 3px=
+; border-left-color: rgb(108, 226, 108); list-style: decimal-lead=
+ing-zero outside; color: inherit; line-height: 18px; padding: 0px=
+ 3px 0px 10px !important;"><span style=3D"margin: 0px; padding: 0=
+px; border: none; color: black; background-color: inherit;">&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;evalA&nbsp;=3D&nbsp;expre=
+ssionEvaluator(order.child)&nbsp;&nbsp;</span></li><li style=3D"b=
+order-style: none none none solid; border-left-width: 3px; border=
+-left-color: rgb(108, 226, 108); list-style: decimal-leading-zero=
+ outside; line-height: 18px; background-color: rgb(248, 248, 248)=
+; padding: 0px 3px 0px 10px !important;"><span style=3D"margin: 0=
+px; padding: 0px; border: none; color: black; background-color: i=
+nherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;evalB&nbsp;=
+=3D&nbsp;expressionEvaluator(order.child)&nbsp;&nbsp;</span></li>=
+<li class=3D"alt" style=3D"border-style: none none none solid; bo=
+rder-left-width: 3px; border-left-color: rgb(108, 226, 108); list=
+-style: decimal-leading-zero outside; color: inherit; line-height=
+: 18px; padding: 0px 3px 0px 10px !important;"><span style=3D"mar=
+gin: 0px; padding: 0px; border: none; color: black; background-co=
+lor: inherit;">&nbsp;&nbsp;</span></li><li style=3D"border-style:=
+ none none none solid; border-left-width: 3px; border-left-color:=
+ rgb(108, 226, 108); list-style: decimal-leading-zero outside; li=
+ne-height: 18px; background-color: rgb(248, 248, 248); padding: 0=
+px 3px 0px 10px !important;"><span style=3D"margin: 0px; padding:=
+ 0px; border: none; color: black; background-color: inherit;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;compare&nbsp;=3D&nbsp;o=
+rder.child.dataType&nbsp;match&nbsp;{&nbsp;&nbsp;</span></li><li=20=
+class=3D"alt" style=3D"border-style: none none none solid; border=
+-left-width: 3px; border-left-color: rgb(108, 226, 108); list-sty=
+le: decimal-leading-zero outside; color: inherit; line-height: 18=
+px; padding: 0px 3px 0px 10px !important;"><span style=3D"margin:=
+ 0px; padding: 0px; border: none; color: black; background-color:=
+ inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span=20=
+class=3D"keyword" style=3D"margin: 0px; padding: 0px; border: non=
+e; color: rgb(0, 102, 153); font-weight: bold; background-color:=20=
+inherit;">case</span><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; background-color: inherit;">&nbsp;BinaryType&nbsp;=3D=
+&gt;&nbsp;&nbsp;</span></span></li><li style=3D"border-style: non=
+e none none solid; border-left-width: 3px; border-left-color: rgb=
+(108, 226, 108); list-style: decimal-leading-zero outside; line-h=
+eight: 18px; background-color: rgb(248, 248, 248); padding: 0px 3=
+px 0px 10px !important;"><span style=3D"margin: 0px; padding: 0px=
+; border: none; color: black; background-color: inherit;">&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;q<span class=
+=3D"string" style=3D"margin: 0px; padding: 0px; border: none; col=
+or: blue; background-color: inherit;">""</span><span style=3D"mar=
+gin: 0px; padding: 0px; border: none; background-color: inherit;"=
+>"&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=3D"borde=
+r-style: none none none solid; border-left-width: 3px; border-lef=
+t-color: rgb(108, 226, 108); list-style: decimal-leading-zero out=
+side; color: inherit; line-height: 18px; padding: 0px 3px 0px 10p=
+x !important;"><span style=3D"margin: 0px; padding: 0px; border:=20=
+none; color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;x&nbsp;=3D&nb=
+sp;${<span class=3D"keyword" style=3D"margin: 0px; padding: 0px;=20=
+border: none; color: rgb(0, 102, 153); font-weight: bold; backgro=
+und-color: inherit;">if</span><span style=3D"margin: 0px; padding=
+: 0px; border: none; background-color: inherit;">&nbsp;(order.dir=
+ection&nbsp;=3D=3D&nbsp;Ascending)&nbsp;evalA.primitiveTerm&nbsp;=
+</span><span class=3D"keyword" style=3D"margin: 0px; padding: 0px=
+; border: none; color: rgb(0, 102, 153); font-weight: bold; backg=
+round-color: inherit;">else</span><span style=3D"margin: 0px; pad=
+ding: 0px; border: none; background-color: inherit;">&nbsp;evalB.=
+primitiveTerm}</span><span class=3D"comment" style=3D"margin: 0px=
+; padding: 0px; border: none; color: rgb(0, 130, 0); background-c=
+olor: inherit;">//=D6=B1=BD=D3=D6=B8=B6=A8=C0=E0=D0=CD=A3=AC=B2=BB=
+=C9=E6=BC=B0=D0=E9=BA=AF=CA=FD=B5=F7=D3=C3</span><span style=3D"m=
+argin: 0px; padding: 0px; border: none; background-color: inherit=
+;">&nbsp;&nbsp;</span></span></li><li style=3D"border-style: none=
+ none none solid; border-left-width: 3px; border-left-color: rgb(=
+108, 226, 108); list-style: decimal-leading-zero outside; line-he=
+ight: 18px; background-color: rgb(248, 248, 248); padding: 0px 3p=
+x 0px 10px !important;"><span style=3D"margin: 0px; padding: 0px;=
+ border: none; color: black; background-color: inherit;">&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;y&nb=
+sp;=3D&nbsp;${<span class=3D"keyword" style=3D"margin: 0px; paddi=
+ng: 0px; border: none; color: rgb(0, 102, 153); font-weight: bold=
+; background-color: inherit;">if</span><span style=3D"margin: 0px=
+; padding: 0px; border: none; background-color: inherit;">&nbsp;(=
+order.direction&nbsp;!=3D&nbsp;Ascending)&nbsp;evalB.primitiveTer=
+m&nbsp;</span><span class=3D"keyword" style=3D"margin: 0px; paddi=
+ng: 0px; border: none; color: rgb(0, 102, 153); font-weight: bold=
+; background-color: inherit;">else</span><span style=3D"margin: 0=
+px; padding: 0px; border: none; background-color: inherit;">&nbsp=
+;evalA.primitiveTerm}</span><span class=3D"comment" style=3D"marg=
+in: 0px; padding: 0px; border: none; color: rgb(0, 130, 0); backg=
+round-color: inherit;">//=D6=B1=BD=D3=D6=B8=B6=A8=C0=E0=D0=CD=A3=AC=
+=B2=BB=C9=E6=BC=B0=D0=E9=BA=AF=CA=FD=B5=F7=D3=C3</span><span styl=
+e=3D"margin: 0px; padding: 0px; border: none; background-color: i=
+nherit;">&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; color: inherit; line-height: 18px; padding: 0px 3px 0=
+px 10px !important;"><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; color: black; background-color: inherit;">&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var&nbsp;i&nbsp;=
+=3D&nbsp;<span class=3D"number" style=3D"margin: 0px; padding: 0p=
+x; border: none; color: rgb(192, 0, 0); background-color: inherit=
+;">0</span><span style=3D"margin: 0px; padding: 0px; border: none=
+; background-color: inherit;">&nbsp;&nbsp;</span></span></li><li=20=
+style=3D"border-style: none none none solid; border-left-width: 3=
+px; border-left-color: rgb(108, 226, 108); list-style: decimal-le=
+ading-zero outside; line-height: 18px; background-color: rgb(248,=
+ 248, 248); padding: 0px 3px 0px 10px !important;"><span style=3D=
+"margin: 0px; padding: 0px; border: none; color: black; backgroun=
+d-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;<span class=3D"keyword" style=3D"margin: 0px; paddi=
+ng: 0px; border: none; color: rgb(0, 102, 153); font-weight: bold=
+; background-color: inherit;">while</span><span style=3D"margin:=20=
+0px; padding: 0px; border: none; background-color: inherit;">&nbs=
+p;(i&nbsp;&lt;&nbsp;x.length&nbsp;&amp;&amp;&nbsp;i&nbsp;&lt;&nbs=
+p;y.length)&nbsp;{&nbsp;&nbsp;</span></span></li><li class=3D"alt=
+" style=3D"border-style: none none none solid; border-left-width:=
+ 3px; border-left-color: rgb(108, 226, 108); list-style: decimal-=
+leading-zero outside; color: inherit; line-height: 18px; padding:=
+ 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; paddin=
+g: 0px; border: none; color: black; background-color: inherit;">&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;val&nbsp;res&nbsp;=3D&nbsp;x(i).compareTo(y(i))&nbsp;&nbsp;=
+</span></li><li style=3D"border-style: none none none solid; bord=
+er-left-width: 3px; border-left-color: rgb(108, 226, 108); list-s=
+tyle: decimal-leading-zero outside; line-height: 18px; background=
+-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;=
+"><span style=3D"margin: 0px; padding: 0px; border: none; color:=20=
+black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword"=
+ style=3D"margin: 0px; padding: 0px; border: none; color: rgb(0,=20=
+102, 153); font-weight: bold; background-color: inherit;">if</spa=
+n><span style=3D"margin: 0px; padding: 0px; border: none; backgro=
+und-color: inherit;">&nbsp;(res&nbsp;!=3D&nbsp;</span><span class=
+=3D"number" style=3D"margin: 0px; padding: 0px; border: none; col=
+or: rgb(192, 0, 0); background-color: inherit;">0</span><span sty=
+le=3D"margin: 0px; padding: 0px; border: none; background-color:=20=
+inherit;">)&nbsp;</span><span class=3D"keyword" style=3D"margin:=20=
+0px; padding: 0px; border: none; color: rgb(0, 102, 153); font-we=
+ight: bold; background-color: inherit;">return</span><span style=3D=
+"margin: 0px; padding: 0px; border: none; background-color: inher=
+it;">&nbsp;res&nbsp;&nbsp;</span></span></li><li class=3D"alt" st=
+yle=3D"border-style: none none none solid; border-left-width: 3px=
+; border-left-color: rgb(108, 226, 108); list-style: decimal-lead=
+ing-zero outside; color: inherit; line-height: 18px; padding: 0px=
+ 3px 0px 10px !important;"><span style=3D"margin: 0px; padding: 0=
+px; border: none; color: black; background-color: inherit;">&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;i&nbsp;=3D&nbsp;i+<span class=3D"number" style=3D"margin: 0px;=20=
+padding: 0px; border: none; color: rgb(192, 0, 0); background-col=
+or: inherit;">1</span><span style=3D"margin: 0px; padding: 0px; b=
+order: none; background-color: inherit;">&nbsp;&nbsp;</span></spa=
+n></li><li style=3D"border-style: none none none solid; border-le=
+ft-width: 3px; border-left-color: rgb(108, 226, 108); list-style:=
+ decimal-leading-zero outside; line-height: 18px; background-colo=
+r: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><sp=
+an style=3D"margin: 0px; padding: 0px; border: none; color: black=
+; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</span></li><li class=3D"al=
+t" style=3D"border-style: none none none solid; border-left-width=
+: 3px; border-left-color: rgb(108, 226, 108); list-style: decimal=
+-leading-zero outside; color: inherit; line-height: 18px; padding=
+: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; paddi=
+ng: 0px; border: none; color: black; background-color: inherit;">=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span=
+ class=3D"keyword" style=3D"margin: 0px; padding: 0px; border: no=
+ne; color: rgb(0, 102, 153); font-weight: bold; background-color:=
+ inherit;">return</span><span style=3D"margin: 0px; padding: 0px;=
+ border: none; background-color: inherit;">&nbsp;x.length&nbsp;-&=
+nbsp;y.length&nbsp;&nbsp;</span></span></li><li style=3D"border-s=
+tyle: none none none solid; border-left-width: 3px; border-left-c=
+olor: rgb(108, 226, 108); list-style: decimal-leading-zero outsid=
+e; line-height: 18px; background-color: rgb(248, 248, 248); paddi=
+ng: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; pad=
+ding: 0px; border: none; color: black; background-color: inherit;=
+">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sp=
+an class=3D"string" style=3D"margin: 0px; padding: 0px; border: n=
+one; color: blue; background-color: inherit;">""</span><span styl=
+e=3D"margin: 0px; padding: 0px; border: none; background-color: i=
+nherit;">"&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; color: inherit; line-height: 18px; padding: 0px 3px 0=
+px 10px !important;"><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; color: black; background-color: inherit;">&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" styl=
+e=3D"margin: 0px; padding: 0px; border: none; color: rgb(0, 102,=20=
+153); font-weight: bold; background-color: inherit;">case</span><=
+span style=3D"margin: 0px; padding: 0px; border: none; background=
+-color: inherit;">&nbsp;_:&nbsp;NumericType&nbsp;=3D&gt;&nbsp;&nb=
+sp;</span></span></li><li style=3D"border-style: none none none s=
+olid; border-left-width: 3px; border-left-color: rgb(108, 226, 10=
+8); list-style: decimal-leading-zero outside; line-height: 18px;=20=
+background-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !=
+important;"><span style=3D"margin: 0px; padding: 0px; border: non=
+e; color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;q<span class=3D"string" s=
+tyle=3D"margin: 0px; padding: 0px; border: none; color: blue; bac=
+kground-color: inherit;">""</span><span style=3D"margin: 0px; pad=
+ding: 0px; border: none; background-color: inherit;">"&nbsp;&nbsp=
+;</span></span></li><li class=3D"alt" style=3D"border-style: none=
+ none none solid; border-left-width: 3px; border-left-color: rgb(=
+108, 226, 108); list-style: decimal-leading-zero outside; color:=20=
+inherit; line-height: 18px; padding: 0px 3px 0px 10px !important;=
+"><span style=3D"margin: 0px; padding: 0px; border: none; color:=20=
+black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;comp&nbsp;=3D&nbsp;${evalA=
+.primitiveTerm}&nbsp;-&nbsp;${evalB.primitiveTerm}<span class=3D"=
+comment" style=3D"margin: 0px; padding: 0px; border: none; color:=
+ rgb(0, 130, 0); background-color: inherit;">//=D6=B1=BD=D3=D6=B8=
+=B6=A8=C0=E0=D0=CD</span><span style=3D"margin: 0px; padding: 0px=
+; border: none; background-color: inherit;">&nbsp;&nbsp;</span></=
+span></li><li style=3D"border-style: none none none solid; border=
+-left-width: 3px; border-left-color: rgb(108, 226, 108); list-sty=
+le: decimal-leading-zero outside; line-height: 18px; background-c=
+olor: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;">=
+<span style=3D"margin: 0px; padding: 0px; border: none; color: bl=
+ack; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" style=3D"marg=
+in: 0px; padding: 0px; border: none; color: rgb(0, 102, 153); fon=
+t-weight: bold; background-color: inherit;">if</span><span style=3D=
+"margin: 0px; padding: 0px; border: none; background-color: inher=
+it;">(comp&nbsp;!=3D&nbsp;</span><span class=3D"number" style=3D"=
+margin: 0px; padding: 0px; border: none; color: rgb(192, 0, 0); b=
+ackground-color: inherit;">0</span><span style=3D"margin: 0px; pa=
+dding: 0px; border: none; background-color: inherit;">)&nbsp;{&nb=
+sp;&nbsp;</span></span></li><li class=3D"alt" style=3D"border-sty=
+le: none none none solid; border-left-width: 3px; border-left-col=
+or: rgb(108, 226, 108); list-style: decimal-leading-zero outside;=
+ color: inherit; line-height: 18px; padding: 0px 3px 0px 10px !im=
+portant;"><span style=3D"margin: 0px; padding: 0px; border: none;=
+ color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"=
+keyword" style=3D"margin: 0px; padding: 0px; border: none; color:=
+ rgb(0, 102, 153); font-weight: bold; background-color: inherit;"=
+>return</span><span style=3D"margin: 0px; padding: 0px; border: n=
+one; background-color: inherit;">&nbsp;${</span><span class=3D"ke=
+yword" style=3D"margin: 0px; padding: 0px; border: none; color: r=
+gb(0, 102, 153); font-weight: bold; background-color: inherit;">i=
+f</span><span style=3D"margin: 0px; padding: 0px; border: none; b=
+ackground-color: inherit;">&nbsp;(order.direction&nbsp;=3D=3D&nbs=
+p;Ascending)&nbsp;q</span><span class=3D"string" style=3D"margin:=
+ 0px; padding: 0px; border: none; color: blue; background-color:=20=
+inherit;">"comp.toInt"</span><span style=3D"margin: 0px; padding:=
+ 0px; border: none; background-color: inherit;">&nbsp;</span><spa=
+n class=3D"keyword" style=3D"margin: 0px; padding: 0px; border: n=
+one; color: rgb(0, 102, 153); font-weight: bold; background-color=
+: inherit;">else</span><span style=3D"margin: 0px; padding: 0px;=20=
+border: none; background-color: inherit;">&nbsp;q</span><span cla=
+ss=3D"string" style=3D"margin: 0px; padding: 0px; border: none; c=
+olor: blue; background-color: inherit;">"-comp.toInt"</span><span=
+ style=3D"margin: 0px; padding: 0px; border: none; background-col=
+or: inherit;">}&nbsp;&nbsp;</span></span></li><li style=3D"border=
+-style: none none none solid; border-left-width: 3px; border-left=
+-color: rgb(108, 226, 108); list-style: decimal-leading-zero outs=
+ide; line-height: 18px; background-color: rgb(248, 248, 248); pad=
+ding: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; p=
+adding: 0px; border: none; color: black; background-color: inheri=
+t;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}=
+&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D"border-style:=20=
+none none none solid; border-left-width: 3px; border-left-color:=20=
+rgb(108, 226, 108); list-style: decimal-leading-zero outside; col=
+or: inherit; line-height: 18px; padding: 0px 3px 0px 10px !import=
+ant;"><span style=3D"margin: 0px; padding: 0px; border: none; col=
+or: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"string" style=3D=
+"margin: 0px; padding: 0px; border: none; color: blue; background=
+-color: inherit;">""</span><span style=3D"margin: 0px; padding: 0=
+px; border: none; background-color: inherit;">"&nbsp;&nbsp;</span=
+></span></li><li style=3D"border-style: none none none solid; bor=
+der-left-width: 3px; border-left-color: rgb(108, 226, 108); list-=
+style: decimal-leading-zero outside; line-height: 18px; backgroun=
+d-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important=
+;"><span style=3D"margin: 0px; padding: 0px; border: none; color:=
+ black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" style=3D"margin: 0px;=20=
+padding: 0px; border: none; color: rgb(0, 102, 153); font-weight:=
+ bold; background-color: inherit;">case</span><span style=3D"marg=
+in: 0px; padding: 0px; border: none; background-color: inherit;">=
+&nbsp;StringType&nbsp;=3D&gt;&nbsp;&nbsp;</span></span></li><li c=
+lass=3D"alt" style=3D"border-style: none none none solid; border-=
+left-width: 3px; border-left-color: rgb(108, 226, 108); list-styl=
+e: decimal-leading-zero outside; color: inherit; line-height: 18p=
+x; padding: 0px 3px 0px 10px !important;"><span style=3D"margin:=20=
+0px; padding: 0px; border: none; color: black; background-color:=20=
+inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;<span class=3D"keyword" style=3D"margin: 0px; padding: 0px;=20=
+border: none; color: rgb(0, 102, 153); font-weight: bold; backgro=
+und-color: inherit;">if</span><span style=3D"margin: 0px; padding=
+: 0px; border: none; background-color: inherit;">&nbsp;(order.dir=
+ection&nbsp;=3D=3D&nbsp;Ascending)&nbsp;{&nbsp;&nbsp;</span></spa=
+n></li><li style=3D"border-style: none none none solid; border-le=
+ft-width: 3px; border-left-color: rgb(108, 226, 108); list-style:=
+ decimal-leading-zero outside; line-height: 18px; background-colo=
+r: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><sp=
+an style=3D"margin: 0px; padding: 0px; border: none; color: black=
+; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;q<span class=3D"string" styl=
+e=3D"margin: 0px; padding: 0px; border: none; color: blue; backgr=
+ound-color: inherit;">""</span><span class=3D"string" style=3D"ma=
+rgin: 0px; padding: 0px; border: none; color: blue; background-co=
+lor: inherit;">"return&nbsp;${evalA.primitiveTerm}.compare(${eval=
+B.primitiveTerm})"</span><span class=3D"string" style=3D"margin:=20=
+0px; padding: 0px; border: none; color: blue; background-color: i=
+nherit;">""</span><span class=3D"comment" style=3D"margin: 0px; p=
+adding: 0px; border: none; color: rgb(0, 130, 0); background-colo=
+r: inherit;">//=D6=B1=BD=D3=D6=B8=B6=A8=C0=E0=D0=CD=A3=AC=B2=BB=C9=
+=E6=BC=B0=D0=E9=BA=AF=CA=FD=B5=F7=D3=C3</span><span style=3D"marg=
+in: 0px; padding: 0px; border: none; background-color: inherit;">=
+&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=3D"border-=
+style: none none none solid; border-left-width: 3px; border-left-=
+color: rgb(108, 226, 108); list-style: decimal-leading-zero outsi=
+de; color: inherit; line-height: 18px; padding: 0px 3px 0px 10px=20=
+!important;"><span style=3D"margin: 0px; padding: 0px; border: no=
+ne; color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;<span class=3D"ke=
+yword" style=3D"margin: 0px; padding: 0px; border: none; color: r=
+gb(0, 102, 153); font-weight: bold; background-color: inherit;">e=
+lse</span><span style=3D"margin: 0px; padding: 0px; border: none;=
+ background-color: inherit;">&nbsp;{&nbsp;&nbsp;</span></span></l=
+i><li style=3D"border-style: none none none solid; border-left-wi=
+dth: 3px; border-left-color: rgb(108, 226, 108); list-style: deci=
+mal-leading-zero outside; line-height: 18px; background-color: rg=
+b(248, 248, 248); padding: 0px 3px 0px 10px !important;"><span st=
+yle=3D"margin: 0px; padding: 0px; border: none; color: black; bac=
+kground-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;q<span class=3D"string" style=3D"=
+margin: 0px; padding: 0px; border: none; color: blue; background-=
+color: inherit;">""</span><span class=3D"string" style=3D"margin:=
+ 0px; padding: 0px; border: none; color: blue; background-color:=20=
+inherit;">"return&nbsp;${evalB.primitiveTerm}.compare(${evalA.pri=
+mitiveTerm})"</span><span class=3D"string" style=3D"margin: 0px;=20=
+padding: 0px; border: none; color: blue; background-color: inheri=
+t;">""</span><span style=3D"margin: 0px; padding: 0px; border: no=
+ne; background-color: inherit;">&nbsp;&nbsp;</span></span></li><l=
+i class=3D"alt" style=3D"border-style: none none none solid; bord=
+er-left-width: 3px; border-left-color: rgb(108, 226, 108); list-s=
+tyle: decimal-leading-zero outside; color: inherit; line-height:=20=
+18px; padding: 0px 3px 0px 10px !important;"><span style=3D"margi=
+n: 0px; padding: 0px; border: none; color: black; background-colo=
+r: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;}&nbsp;&nbsp;</span></li><li style=3D"border-style: none=20=
+none none solid; border-left-width: 3px; border-left-color: rgb(1=
+08, 226, 108); list-style: decimal-leading-zero outside; line-hei=
+ght: 18px; background-color: rgb(248, 248, 248); padding: 0px 3px=
+ 0px 10px !important;"><span style=3D"margin: 0px; padding: 0px;=20=
+border: none; color: black; background-color: inherit;">&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</span></li><li class=3D"=
+alt" style=3D"border-style: none none none solid; border-left-wid=
+th: 3px; border-left-color: rgb(108, 226, 108); list-style: decim=
+al-leading-zero outside; color: inherit; line-height: 18px; paddi=
+ng: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; pad=
+ding: 0px; border: none; color: black; background-color: inherit;=
+">&nbsp;&nbsp;</span></li><li style=3D"border-style: none none no=
+ne solid; border-left-width: 3px; border-left-color: rgb(108, 226=
+, 108); list-style: decimal-leading-zero outside; line-height: 18=
+px; background-color: rgb(248, 248, 248); padding: 0px 3px 0px 10=
+px !important;"><span style=3D"margin: 0px; padding: 0px; border:=
+ none; color: black; background-color: inherit;">&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;q<span class=3D"string" style=3D"margin: 0px;=
+ padding: 0px; border: none; color: blue; background-color: inher=
+it;">""</span><span style=3D"margin: 0px; padding: 0px; border: n=
+one; background-color: inherit;">"&nbsp;&nbsp;</span></span></li>=
+<li class=3D"alt" style=3D"border-style: none none none solid; bo=
+rder-left-width: 3px; border-left-color: rgb(108, 226, 108); list=
+-style: decimal-leading-zero outside; color: inherit; line-height=
+: 18px; padding: 0px 3px 0px 10px !important;"><span style=3D"mar=
+gin: 0px; padding: 0px; border: none; color: black; background-co=
+lor: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i&=
+nbsp;=3D&nbsp;$a&nbsp;&nbsp;</span></li><li style=3D"border-style=
+: none none none solid; border-left-width: 3px; border-left-color=
+: rgb(108, 226, 108); list-style: decimal-leading-zero outside; l=
+ine-height: 18px; background-color: rgb(248, 248, 248); padding:=20=
+0px 3px 0px 10px !important;"><span style=3D"margin: 0px; padding=
+: 0px; border: none; color: black; background-color: inherit;">&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..${evalA.code}&nbs=
+p;&nbsp;</span></li><li class=3D"alt" style=3D"border-style: none=
+ none none solid; border-left-width: 3px; border-left-color: rgb(=
+108, 226, 108); list-style: decimal-leading-zero outside; color:=20=
+inherit; line-height: 18px; padding: 0px 3px 0px 10px !important;=
+"><span style=3D"margin: 0px; padding: 0px; border: none; color:=20=
+black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;i&nbsp;=3D&nbsp;$b&nbsp;&nbsp;</span></li><li s=
+tyle=3D"border-style: none none none solid; border-left-width: 3p=
+x; border-left-color: rgb(108, 226, 108); list-style: decimal-lea=
+ding-zero outside; line-height: 18px; background-color: rgb(248,=20=
+248, 248); padding: 0px 3px 0px 10px !important;"><span style=3D"=
+margin: 0px; padding: 0px; border: none; color: black; background=
+-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;..${evalB.code}&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; color: inherit; line-height: 18px; padding: 0px 3px 0=
+px 10px !important;"><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; color: black; background-color: inherit;">&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" styl=
+e=3D"margin: 0px; padding: 0px; border: none; color: rgb(0, 102,=20=
+153); font-weight: bold; background-color: inherit;">if</span><sp=
+an style=3D"margin: 0px; padding: 0px; border: none; background-c=
+olor: inherit;">&nbsp;(${evalA.nullTerm}&nbsp;&amp;&amp;&nbsp;${e=
+valB.nullTerm})&nbsp;{&nbsp;&nbsp;</span></span></li><li style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; line-height: 18px; background-color: rgb(248, 248, 24=
+8); padding: 0px 3px 0px 10px !important;"><span style=3D"margin:=
+ 0px; padding: 0px; border: none; color: black; background-color:=
+ inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;<span class=3D"comment" style=3D"margin: 0px; padding: 0px;=
+ border: none; color: rgb(0, 130, 0); background-color: inherit;"=
+>//&nbsp;Nothing</span><span style=3D"margin: 0px; padding: 0px;=20=
+border: none; background-color: inherit;">&nbsp;&nbsp;</span></sp=
+an></li><li class=3D"alt" style=3D"border-style: none none none s=
+olid; border-left-width: 3px; border-left-color: rgb(108, 226, 10=
+8); list-style: decimal-leading-zero outside; color: inherit; lin=
+e-height: 18px; padding: 0px 3px 0px 10px !important;"><span styl=
+e=3D"margin: 0px; padding: 0px; border: none; color: black; backg=
+round-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;}&nbsp;<span class=3D"keyword" style=3D"margin: 0px; paddin=
+g: 0px; border: none; color: rgb(0, 102, 153); font-weight: bold;=
+ background-color: inherit;">else</span><span style=3D"margin: 0p=
+x; padding: 0px; border: none; background-color: inherit;">&nbsp;=
+</span><span class=3D"keyword" style=3D"margin: 0px; padding: 0px=
+; border: none; color: rgb(0, 102, 153); font-weight: bold; backg=
+round-color: inherit;">if</span><span style=3D"margin: 0px; paddi=
+ng: 0px; border: none; background-color: inherit;">&nbsp;(${evalA=
+.nullTerm})&nbsp;{&nbsp;&nbsp;</span></span></li><li style=3D"bor=
+der-style: none none none solid; border-left-width: 3px; border-l=
+eft-color: rgb(108, 226, 108); list-style: decimal-leading-zero o=
+utside; line-height: 18px; background-color: rgb(248, 248, 248);=20=
+padding: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px=
+; padding: 0px; border: none; color: black; background-color: inh=
+erit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;<span class=3D"keyword" style=3D"margin: 0px; padding: 0px; bor=
+der: none; color: rgb(0, 102, 153); font-weight: bold; background=
+-color: inherit;">return</span><span style=3D"margin: 0px; paddin=
+g: 0px; border: none; background-color: inherit;">&nbsp;${</span>=
+<span class=3D"keyword" style=3D"margin: 0px; padding: 0px; borde=
+r: none; color: rgb(0, 102, 153); font-weight: bold; background-c=
+olor: inherit;">if</span><span style=3D"margin: 0px; padding: 0px=
+; border: none; background-color: inherit;">&nbsp;(order.directio=
+n&nbsp;=3D=3D&nbsp;Ascending)&nbsp;q</span><span class=3D"string"=
+ style=3D"margin: 0px; padding: 0px; border: none; color: blue; b=
+ackground-color: inherit;">"-1"</span><span style=3D"margin: 0px;=
+ padding: 0px; border: none; background-color: inherit;">&nbsp;</=
+span><span class=3D"keyword" style=3D"margin: 0px; padding: 0px;=20=
+border: none; color: rgb(0, 102, 153); font-weight: bold; backgro=
+und-color: inherit;">else</span><span style=3D"margin: 0px; paddi=
+ng: 0px; border: none; background-color: inherit;">&nbsp;q</span>=
+<span class=3D"string" style=3D"margin: 0px; padding: 0px; border=
+: none; color: blue; background-color: inherit;">"1"</span><span=20=
+style=3D"margin: 0px; padding: 0px; border: none; background-colo=
+r: inherit;">}&nbsp;&nbsp;</span></span></li><li class=3D"alt" st=
+yle=3D"border-style: none none none solid; border-left-width: 3px=
+; border-left-color: rgb(108, 226, 108); list-style: decimal-lead=
+ing-zero outside; color: inherit; line-height: 18px; padding: 0px=
+ 3px 0px 10px !important;"><span style=3D"margin: 0px; padding: 0=
+px; border: none; color: black; background-color: inherit;">&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;<span class=3D"=
+keyword" style=3D"margin: 0px; padding: 0px; border: none; color:=
+ rgb(0, 102, 153); font-weight: bold; background-color: inherit;"=
+>else</span><span style=3D"margin: 0px; padding: 0px; border: non=
+e; background-color: inherit;">&nbsp;</span><span class=3D"keywor=
+d" style=3D"margin: 0px; padding: 0px; border: none; color: rgb(0=
+, 102, 153); font-weight: bold; background-color: inherit;">if</s=
+pan><span style=3D"margin: 0px; padding: 0px; border: none; backg=
+round-color: inherit;">&nbsp;(${evalB.nullTerm})&nbsp;{&nbsp;&nbs=
+p;</span></span></li><li style=3D"border-style: none none none so=
+lid; border-left-width: 3px; border-left-color: rgb(108, 226, 108=
+); list-style: decimal-leading-zero outside; line-height: 18px; b=
+ackground-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !i=
+mportant;"><span style=3D"margin: 0px; padding: 0px; border: none=
+; color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" st=
+yle=3D"margin: 0px; padding: 0px; border: none; color: rgb(0, 102=
+, 153); font-weight: bold; background-color: inherit;">return</sp=
+an><span style=3D"margin: 0px; padding: 0px; border: none; backgr=
+ound-color: inherit;">&nbsp;${</span><span class=3D"keyword" styl=
+e=3D"margin: 0px; padding: 0px; border: none; color: rgb(0, 102,=20=
+153); font-weight: bold; background-color: inherit;">if</span><sp=
+an style=3D"margin: 0px; padding: 0px; border: none; background-c=
+olor: inherit;">&nbsp;(order.direction&nbsp;=3D=3D&nbsp;Ascending=
+)&nbsp;q</span><span class=3D"string" style=3D"margin: 0px; paddi=
+ng: 0px; border: none; color: blue; background-color: inherit;">"=
+1"</span><span style=3D"margin: 0px; padding: 0px; border: none;=20=
+background-color: inherit;">&nbsp;</span><span class=3D"keyword"=20=
+style=3D"margin: 0px; padding: 0px; border: none; color: rgb(0, 1=
+02, 153); font-weight: bold; background-color: inherit;">else</sp=
+an><span style=3D"margin: 0px; padding: 0px; border: none; backgr=
+ound-color: inherit;">&nbsp;q</span><span class=3D"string" style=3D=
+"margin: 0px; padding: 0px; border: none; color: blue; background=
+-color: inherit;">"-1"</span><span style=3D"margin: 0px; padding:=
+ 0px; border: none; background-color: inherit;">}&nbsp;&nbsp;</sp=
+an></span></li><li class=3D"alt" style=3D"border-style: none none=
+ none solid; border-left-width: 3px; border-left-color: rgb(108,=20=
+226, 108); list-style: decimal-leading-zero outside; color: inher=
+it; line-height: 18px; padding: 0px 3px 0px 10px !important;"><sp=
+an style=3D"margin: 0px; padding: 0px; border: none; color: black=
+; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;}&nbsp;<span class=3D"keyword" style=3D"margin: 0px;=
+ padding: 0px; border: none; color: rgb(0, 102, 153); font-weight=
+: bold; background-color: inherit;">else</span><span style=3D"mar=
+gin: 0px; padding: 0px; border: none; background-color: inherit;"=
+>&nbsp;{&nbsp;&nbsp;</span></span></li><li style=3D"border-style:=
+ none none none solid; border-left-width: 3px; border-left-color:=
+ rgb(108, 226, 108); list-style: decimal-leading-zero outside; li=
+ne-height: 18px; background-color: rgb(248, 248, 248); padding: 0=
+px 3px 0px 10px !important;"><span style=3D"margin: 0px; padding:=
+ 0px; border: none; color: black; background-color: inherit;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;$compare=
+&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D"border-style:=20=
+none none none solid; border-left-width: 3px; border-left-color:=20=
+rgb(108, 226, 108); list-style: decimal-leading-zero outside; col=
+or: inherit; line-height: 18px; padding: 0px 3px 0px 10px !import=
+ant;"><span style=3D"margin: 0px; padding: 0px; border: none; col=
+or: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</span></li><li style=3D"borde=
+r-style: none none none solid; border-left-width: 3px; border-lef=
+t-color: rgb(108, 226, 108); list-style: decimal-leading-zero out=
+side; line-height: 18px; background-color: rgb(248, 248, 248); pa=
+dding: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px;=20=
+padding: 0px; border: none; color: black; background-color: inher=
+it;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"string" s=
+tyle=3D"margin: 0px; padding: 0px; border: none; color: blue; bac=
+kground-color: inherit;">""</span><span style=3D"margin: 0px; pad=
+ding: 0px; border: none; background-color: inherit;">"&nbsp;&nbsp=
+;</span></span></li><li class=3D"alt" style=3D"border-style: none=
+ none none solid; border-left-width: 3px; border-left-color: rgb(=
+108, 226, 108); list-style: decimal-leading-zero outside; color:=20=
+inherit; line-height: 18px; padding: 0px 3px 0px 10px !important;=
+"><span style=3D"margin: 0px; padding: 0px; border: none; color:=20=
+black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp=
+;&nbsp;</span></li><li style=3D"border-style: none none none soli=
+d; border-left-width: 3px; border-left-color: rgb(108, 226, 108);=
+ list-style: decimal-leading-zero outside; line-height: 18px; bac=
+kground-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !imp=
+ortant;"><span style=3D"margin: 0px; padding: 0px; border: none;=20=
+color: black; background-color: inherit;">&nbsp;&nbsp;</span></li=
+><li class=3D"alt" style=3D"border-style: none none none solid; b=
+order-left-width: 3px; border-left-color: rgb(108, 226, 108); lis=
+t-style: decimal-leading-zero outside; color: inherit; line-heigh=
+t: 18px; padding: 0px 3px 0px 10px !important;"><span style=3D"ma=
+rgin: 0px; padding: 0px; border: none; color: black; background-c=
+olor: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;q<span class=3D"=
+string" style=3D"margin: 0px; padding: 0px; border: none; color:=20=
+blue; background-color: inherit;">"class&nbsp;$orderingName&nbsp;=
+extends&nbsp;$orderingType&nbsp;{&nbsp;..$body&nbsp;}"</span><spa=
+n style=3D"margin: 0px; padding: 0px; border: none; background-co=
+lor: inherit;">&nbsp;=3D&nbsp;reify&nbsp;{&nbsp;&nbsp;</span></sp=
+an></li><li style=3D"border-style: none none none solid; border-l=
+eft-width: 3px; border-left-color: rgb(108, 226, 108); list-style=
+: decimal-leading-zero outside; line-height: 18px; background-col=
+or: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><s=
+pan style=3D"margin: 0px; padding: 0px; border: none; color: blac=
+k; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;<span class=3D"keyword" style=3D"margin: 0px; padding: 0px; bor=
+der: none; color: rgb(0, 102, 153); font-weight: bold; background=
+-color: inherit;">class</span><span style=3D"margin: 0px; padding=
+: 0px; border: none; background-color: inherit;">&nbsp;SpecificOr=
+dering&nbsp;</span><span class=3D"keyword" style=3D"margin: 0px;=20=
+padding: 0px; border: none; color: rgb(0, 102, 153); font-weight:=
+ bold; background-color: inherit;">extends</span><span style=3D"m=
+argin: 0px; padding: 0px; border: none; background-color: inherit=
+;">&nbsp;Ordering[Row]&nbsp;{&nbsp;&nbsp;</span></span></li><li c=
+lass=3D"alt" style=3D"border-style: none none none solid; border-=
+left-width: 3px; border-left-color: rgb(108, 226, 108); list-styl=
+e: decimal-leading-zero outside; color: inherit; line-height: 18p=
+x; padding: 0px 3px 0px 10px !important;"><span style=3D"margin:=20=
+0px; padding: 0px; border: none; color: black; background-color:=20=
+inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;val&nbs=
+p;o&nbsp;=3D&nbsp;ordering&nbsp;&nbsp;</span></li><li style=3D"bo=
+rder-style: none none none solid; border-left-width: 3px; border-=
+left-color: rgb(108, 226, 108); list-style: decimal-leading-zero=20=
+outside; line-height: 18px; background-color: rgb(248, 248, 248);=
+ padding: 0px 3px 0px 10px !important;"><span style=3D"margin: 0p=
+x; padding: 0px; border: none; color: black; background-color: in=
+herit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</span><=
+/li><li class=3D"alt" style=3D"border-style: none none none solid=
+; border-left-width: 3px; border-left-color: rgb(108, 226, 108);=20=
+list-style: decimal-leading-zero outside; color: inherit; line-he=
+ight: 18px; padding: 0px 3px 0px 10px !important;"><span style=3D=
+"margin: 0px; padding: 0px; border: none; color: black; backgroun=
+d-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;}.tree.children.head&n=
+bsp;&nbsp;</span></li><li style=3D"border-style: none none none s=
+olid; border-left-width: 3px; border-left-color: rgb(108, 226, 10=
+8); list-style: decimal-leading-zero outside; line-height: 18px;=20=
+background-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !=
+important;"><span style=3D"margin: 0px; padding: 0px; border: non=
+e; color: black; background-color: inherit;">&nbsp;&nbsp;</span><=
+/li><li class=3D"alt" style=3D"border-style: none none none solid=
+; border-left-width: 3px; border-left-color: rgb(108, 226, 108);=20=
+list-style: decimal-leading-zero outside; color: inherit; line-he=
+ight: 18px; padding: 0px 3px 0px 10px !important;"><span style=3D=
+"margin: 0px; padding: 0px; border: none; color: black; backgroun=
+d-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;val&nbsp;code&nbsp;=3D=
+&nbsp;q<span class=3D"string" style=3D"margin: 0px; padding: 0px;=
+ border: none; color: blue; background-color: inherit;">""</span>=
+<span style=3D"margin: 0px; padding: 0px; border: none; backgroun=
+d-color: inherit;">"&nbsp;&nbsp;</span></span></li><li style=3D"b=
+order-style: none none none solid; border-left-width: 3px; border=
+-left-color: rgb(108, 226, 108); list-style: decimal-leading-zero=
+ outside; line-height: 18px; background-color: rgb(248, 248, 248)=
+; padding: 0px 3px 0px 10px !important;"><span style=3D"margin: 0=
+px; padding: 0px; border: none; color: black; background-color: i=
+nherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keywo=
+rd" style=3D"margin: 0px; padding: 0px; border: none; color: rgb(=
+0, 102, 153); font-weight: bold; background-color: inherit;">clas=
+s</span><span style=3D"margin: 0px; padding: 0px; border: none; b=
+ackground-color: inherit;">&nbsp;$orderingName&nbsp;</span><span=20=
+class=3D"keyword" style=3D"margin: 0px; padding: 0px; border: non=
+e; color: rgb(0, 102, 153); font-weight: bold; background-color:=20=
+inherit;">extends</span><span style=3D"margin: 0px; padding: 0px;=
+ border: none; background-color: inherit;">&nbsp;$orderingType&nb=
+sp;{&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=3D"bor=
+der-style: none none none solid; border-left-width: 3px; border-l=
+eft-color: rgb(108, 226, 108); list-style: decimal-leading-zero o=
+utside; color: inherit; line-height: 18px; padding: 0px 3px 0px 1=
+0px !important;"><span style=3D"margin: 0px; padding: 0px; border=
+: none; color: black; background-color: inherit;">&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;..$body&nbsp;&nbsp;</span></li><=
+li style=3D"border-style: none none none solid; border-left-width=
+: 3px; border-left-color: rgb(108, 226, 108); list-style: decimal=
+-leading-zero outside; line-height: 18px; background-color: rgb(2=
+48, 248, 248); padding: 0px 3px 0px 10px !important;"><span style=
+=3D"margin: 0px; padding: 0px; border: none; color: black; backgr=
+ound-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;def&nbsp;compare(a:&nbsp;$rowType,&nbsp;b:&nbsp;$rowType):&n=
+bsp;Int&nbsp;=3D&nbsp;{&nbsp;&nbsp;</span></li><li class=3D"alt"=20=
+style=3D"border-style: none none none solid; border-left-width: 3=
+px; border-left-color: rgb(108, 226, 108); list-style: decimal-le=
+ading-zero outside; color: inherit; line-height: 18px; padding: 0=
+px 3px 0px 10px !important;"><span style=3D"margin: 0px; padding:=
+ 0px; border: none; color: black; background-color: inherit;">&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;var&nbsp=
+;i:&nbsp;$rowType&nbsp;=3D&nbsp;<span class=3D"keyword" style=3D"=
+margin: 0px; padding: 0px; border: none; color: rgb(0, 102, 153);=
+ font-weight: bold; background-color: inherit;">null</span><span=20=
+style=3D"margin: 0px; padding: 0px; border: none; background-colo=
+r: inherit;">&nbsp;</span><span class=3D"comment" style=3D"margin=
+: 0px; padding: 0px; border: none; color: rgb(0, 130, 0); backgro=
+und-color: inherit;">//&nbsp;Holds&nbsp;current&nbsp;row&nbsp;bei=
+ng&nbsp;evaluated.</span><span style=3D"margin: 0px; padding: 0px=
+; border: none; background-color: inherit;">&nbsp;&nbsp;</span></=
+span></li><li style=3D"border-style: none none none solid; border=
+-left-width: 3px; border-left-color: rgb(108, 226, 108); list-sty=
+le: decimal-leading-zero outside; line-height: 18px; background-c=
+olor: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;">=
+<span style=3D"margin: 0px; padding: 0px; border: none; color: bl=
+ack; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;..$comparisons&nbsp;&nbsp;</span></li=
+><li class=3D"alt" style=3D"border-style: none none none solid; b=
+order-left-width: 3px; border-left-color: rgb(108, 226, 108); lis=
+t-style: decimal-leading-zero outside; color: inherit; line-heigh=
+t: 18px; padding: 0px 3px 0px 10px !important;"><span style=3D"ma=
+rgin: 0px; padding: 0px; border: none; color: black; background-c=
+olor: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;<span class=3D"keyword" style=3D"margin: 0px; padding:=
+ 0px; border: none; color: rgb(0, 102, 153); font-weight: bold; b=
+ackground-color: inherit;">return</span><span style=3D"margin: 0p=
+x; padding: 0px; border: none; background-color: inherit;">&nbsp;=
+</span><span class=3D"number" style=3D"margin: 0px; padding: 0px;=
+ border: none; color: rgb(192, 0, 0); background-color: inherit;"=
+>0</span><span style=3D"margin: 0px; padding: 0px; border: none;=20=
+background-color: inherit;">&nbsp;&nbsp;</span></span></li><li st=
+yle=3D"border-style: none none none solid; border-left-width: 3px=
+; border-left-color: rgb(108, 226, 108); list-style: decimal-lead=
+ing-zero outside; line-height: 18px; background-color: rgb(248, 2=
+48, 248); padding: 0px 3px 0px 10px !important;"><span style=3D"m=
+argin: 0px; padding: 0px; border: none; color: black; background-=
+color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+}&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D"border-style:=
+ none none none solid; border-left-width: 3px; border-left-color:=
+ rgb(108, 226, 108); list-style: decimal-leading-zero outside; co=
+lor: inherit; line-height: 18px; padding: 0px 3px 0px 10px !impor=
+tant;"><span style=3D"margin: 0px; padding: 0px; border: none; co=
+lor: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;}&nbsp;&nbsp;</span></li><li style=3D"border-style: no=
+ne none none solid; border-left-width: 3px; border-left-color: rg=
+b(108, 226, 108); list-style: decimal-leading-zero outside; line-=
+height: 18px; background-color: rgb(248, 248, 248); padding: 0px=20=
+3px 0px 10px !important;"><span style=3D"margin: 0px; padding: 0p=
+x; border: none; color: black; background-color: inherit;">&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword" style=3D"ma=
+rgin: 0px; padding: 0px; border: none; color: rgb(0, 102, 153); f=
+ont-weight: bold; background-color: inherit;">new</span><span sty=
+le=3D"margin: 0px; padding: 0px; border: none; background-color:=20=
+inherit;">&nbsp;$orderingName()&nbsp;&nbsp;</span></span></li><li=
+ class=3D"alt" style=3D"border-style: none none none solid; borde=
+r-left-width: 3px; border-left-color: rgb(108, 226, 108); list-st=
+yle: decimal-leading-zero outside; color: inherit; line-height: 1=
+8px; padding: 0px 3px 0px 10px !important;"><span style=3D"margin=
+: 0px; padding: 0px; border: none; color: black; background-color=
+: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"st=
+ring" style=3D"margin: 0px; padding: 0px; border: none; color: bl=
+ue; background-color: inherit;">""</span><span style=3D"margin: 0=
+px; padding: 0px; border: none; background-color: inherit;">"&nbs=
+p;&nbsp;</span></span></li><li style=3D"border-style: none none n=
+one solid; border-left-width: 3px; border-left-color: rgb(108, 22=
+6, 108); list-style: decimal-leading-zero outside; line-height: 1=
+8px; background-color: rgb(248, 248, 248); padding: 0px 3px 0px 1=
+0px !important;"><span style=3D"margin: 0px; padding: 0px; border=
+: none; color: black; background-color: inherit;">&nbsp;&nbsp;&nb=
+sp;&nbsp;logDebug(s<span class=3D"string" style=3D"margin: 0px; p=
+adding: 0px; border: none; color: blue; background-color: inherit=
+;">"Generated&nbsp;Ordering:&nbsp;$code"</span><span style=3D"mar=
+gin: 0px; padding: 0px; border: none; background-color: inherit;"=
+>)&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=3D"borde=
+r-style: none none none solid; border-left-width: 3px; border-lef=
+t-color: rgb(108, 226, 108); list-style: decimal-leading-zero out=
+side; color: inherit; line-height: 18px; padding: 0px 3px 0px 10p=
+x !important;"><span style=3D"margin: 0px; padding: 0px; border:=20=
+none; color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp=
+;&nbsp;toolBox.eval(code).asInstanceOf[Ordering[Row]]&nbsp;&nbsp;=
+</span></li><li style=3D"border-style: none none none solid; bord=
+er-left-width: 3px; border-left-color: rgb(108, 226, 108); list-s=
+tyle: decimal-leading-zero outside; line-height: 18px; background=
+-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;=
+"><span style=3D"margin: 0px; padding: 0px; border: none; color:=20=
+black; background-color: inherit;">&nbsp;&nbsp;}&nbsp;&nbsp;</spa=
+n></li><li class=3D"alt" style=3D"border-style: none none none so=
+lid; border-left-width: 3px; border-left-color: rgb(108, 226, 108=
+); list-style: decimal-leading-zero outside; color: inherit; line=
+-height: 18px; padding: 0px 3px 0px 10px !important;"><span style=
+=3D"margin: 0px; padding: 0px; border: none; color: black; backgr=
+ound-color: inherit;">}&nbsp;&nbsp;</span></li></ol></div><p>=BF=C9=
+=BC=FB=B6=AF=CC=AC=D7=D6=BD=DA=C2=EB=BC=BC=CA=F5=D6=D0=B2=BB=C9=E6=
+=BC=B0=D0=E9=BA=AF=CA=FD=B5=C4=B5=F7=D3=C3=A3=AC=C6=E4=B1=BE=D6=CA=
+=BE=CD=CA=C7<a href=3D"http://lib.csdn.net/base/scala" class=3D"r=
+eplace_word" title=3D"Scala=D6=AA=CA=B6=BF=E2" target=3D"_blank"=20=
+style=3D"color: rgb(223, 52, 52); text-decoration: none; font-wei=
+ght: bold;">Scala</a>=B5=C4=B7=B4=C9=E4=BB=FA=D6=C6=A1=A3=B9=D8=D3=
+=DA=D0=E9=B5=F7=D3=C3=CE=AA=CA=B2=C3=B4=BA=C4=CA=B1=B5=C4=D4=AD=D2=
+=F2=C8=E7=CF=C2:</p><div class=3D"dp-highlighter bg_java" style=3D=
+"font-family: Consolas, 'Courier New', Courier, mono, serif; font=
+-size: 0.75rem; width: 700.906px; overflow-y: hidden; overflow-x:=
+ auto; padding-top: 1px; position: relative; margin-top: 18px !im=
+portant; margin-bottom: 18px !important; background-color: rgb(23=
+1, 229, 220);"><div class=3D"bar" style=3D"padding-left: 45px;"><=
+div class=3D"tools" style=3D"padding: 3px 8px 10px 10px; font-siz=
+e: 0.563rem; line-height: normal; font-family: Verdana, Geneva, A=
+rial, Helvetica, sans-serif; color: silver; border-left-width: 3p=
+x; border-left-style: solid; border-left-color: rgb(108, 226, 108=
+); background-color: rgb(248, 248, 248);"><b>[java]</b> <a href=3D=
+"http://blog.csdn.net/wl044090432/article/details/52190736#" clas=
+s=3D"ViewSource" title=3D"view plain" target=3D"_blank" style=3D"=
+color: rgb(160, 160, 160); text-decoration: none; border: none; p=
+adding: 1px; margin: 0px 10px 0px 0px; display: inline-block; wid=
+th: 16px; height: 16px; text-indent: -2000px; background-image: u=
+rl(&quot;&quot;); background-color: inherit; background-position:=
+ 0% 0%; background-repeat: no-repeat no-repeat;">view plain</a><s=
+pan data-mod=3D"popu_168"> <a href=3D"http://blog.csdn.net/wl0440=
+90432/article/details/52190736#" class=3D"CopyToClipboard" title=3D=
+"copy" target=3D"_blank" style=3D"color: rgb(160, 160, 160); text=
+-decoration: none; border: none; padding: 1px; margin: 0px 10px 0=
+px 0px; display: inline-block; width: 16px; height: 16px; text-in=
+dent: -2000px; background-image: url(&quot;&quot;); background-co=
+lor: inherit; background-position: 0% 0%; background-repeat: no-r=
+epeat no-repeat;">copy</a><div style=3D"position: absolute; left:=
+ 561px; top: 3656px; width: 18px; height: 18px; z-index: 99;"><em=
+bed id=3D"ZeroClipboardMovie_4" src=3D"http://static.blog.csdn.ne=
+t/scripts/ZeroClipboard/ZeroClipboard.swf" loop=3D"false" menu=3D=
+"false" quality=3D"best" bgcolor=3D"#ffffff" width=3D"18" height=3D=
+"18" name=3D"ZeroClipboardMovie_4" align=3D"middle" allowscriptac=
+cess=3D"always" allowfullscreen=3D"false" type=3D"application/x-s=
+hockwave-flash" pluginspage=3D"http://www.macromedia.com/go/getfl=
+ashplayer" flashvars=3D"id=3D4&amp;width=3D18&amp;height=3D18" wm=
+ode=3D"transparent"></div></span><span data-mod=3D"popu_169"> </s=
+pan></div></div><ol class=3D"dp-j wiz-list-level1" style=3D"paddi=
+ng: 0px; border: none; list-style-position: initial; list-style-i=
+mage: initial; color: rgb(92, 92, 92); background-color: rgb(255,=
+ 255, 255); margin-bottom: 1px !important; margin-left: 45px !imp=
+ortant;"><li class=3D"alt" style=3D"border-style: none none none=20=
+solid; border-left-width: 3px; border-left-color: rgb(108, 226, 1=
+08); list-style: decimal-leading-zero outside; color: inherit; li=
+ne-height: 18px; padding: 0px 3px 0px 10px !important;"><span sty=
+le=3D"margin: 0px; padding: 0px; border: none; color: black; back=
+ground-color: inherit;"><span style=3D"margin: 0px; padding: 0px;=
+ border: none; background-color: inherit;">=D2=D4=BE=DF=CC=E5=B5=C4=
+SQL=D3=EF=BE=E4&nbsp;select&nbsp;a+b&nbsp;fromtable&nbsp;=CE=AA=C0=
+=FD=BD=F8=D0=D0=CB=B5=C3=F7=A3=AC=CF=C2=C3=E6=CA=C7=CB=FC=B5=C4=BD=
+=E2=CE=F6=B9=FD=B3=CC=A3=BA&nbsp;&nbsp;&nbsp;</span></span></li><=
+li style=3D"border-style: none none none solid; border-left-width=
+: 3px; border-left-color: rgb(108, 226, 108); list-style: decimal=
+-leading-zero outside; line-height: 18px; background-color: rgb(2=
+48, 248, 248); padding: 0px 3px 0px 10px !important;"><span style=
+=3D"margin: 0px; padding: 0px; border: none; color: black; backgr=
+ound-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"numb=
+er" style=3D"margin: 0px; padding: 0px; border: none; color: rgb(=
+192, 0, 0); background-color: inherit;">1</span><span style=3D"ma=
+rgin: 0px; padding: 0px; border: none; background-color: inherit;=
+">.=B5=F7=D3=C3=D0=E9=BA=AF=CA=FDAdd.eval(),=D0=E8=C8=B7=C8=CFAdd=
+=C1=BD=B1=DF=CA=FD=BE=DD=C0=E0=D0=CD&nbsp;&nbsp;&nbsp;</span></sp=
+an></li><li class=3D"alt" style=3D"border-style: none none none s=
+olid; border-left-width: 3px; border-left-color: rgb(108, 226, 10=
+8); list-style: decimal-leading-zero outside; color: inherit; lin=
+e-height: 18px; padding: 0px 3px 0px 10px !important;"><span styl=
+e=3D"margin: 0px; padding: 0px; border: none; color: black; backg=
+round-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"num=
+ber" style=3D"margin: 0px; padding: 0px; border: none; color: rgb=
+(192, 0, 0); background-color: inherit;">2</span><span style=3D"m=
+argin: 0px; padding: 0px; border: none; background-color: inherit=
+;">.=B5=F7=D3=C3=D0=E9=BA=AF=CA=FDa.eval()=A3=AC=D0=E8=D2=AA=C8=B7=
+=C8=CFa=B5=C4=CA=FD=BE=DD=C0=E0=D0=CD&nbsp;&nbsp;&nbsp;</span></s=
+pan></li><li style=3D"border-style: none none none solid; border-=
+left-width: 3px; border-left-color: rgb(108, 226, 108); list-styl=
+e: decimal-leading-zero outside; line-height: 18px; background-co=
+lor: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;"><=
+span style=3D"margin: 0px; padding: 0px; border: none; color: bla=
+ck; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;<span cla=
+ss=3D"number" style=3D"margin: 0px; padding: 0px; border: none; c=
+olor: rgb(192, 0, 0); background-color: inherit;">3</span><span s=
+tyle=3D"margin: 0px; padding: 0px; border: none; background-color=
+: inherit;">.=C8=B7=C8=CFa=B5=C4=CA=FD=BE=DD=C0=E0=D0=CD=CA=C7</s=
+pan><span class=3D"keyword" style=3D"margin: 0px; padding: 0px; b=
+order: none; color: rgb(0, 102, 153); font-weight: bold; backgrou=
+nd-color: inherit;">int</span><span style=3D"margin: 0px; padding=
+: 0px; border: none; background-color: inherit;">=A3=AC=D7=B0=CF=E4=
+&nbsp;&nbsp;&nbsp;</span></span></li><li class=3D"alt" style=3D"b=
+order-style: none none none solid; border-left-width: 3px; border=
+-left-color: rgb(108, 226, 108); list-style: decimal-leading-zero=
+ outside; color: inherit; line-height: 18px; padding: 0px 3px 0px=
+ 10px !important;"><span style=3D"margin: 0px; padding: 0px; bord=
+er: none; color: black; background-color: inherit;">&nbsp;&nbsp;&=
+nbsp;&nbsp;<span class=3D"number" style=3D"margin: 0px; padding:=20=
+0px; border: none; color: rgb(192, 0, 0); background-color: inher=
+it;">4</span><span style=3D"margin: 0px; padding: 0px; border: no=
+ne; background-color: inherit;">.=B5=F7=D3=C3=D0=E9=BA=AF=CA=FDb.=
+eval(),=D0=E8=C8=B7=C8=CFb=B5=C4=CA=FD=BE=DD=C0=E0=D0=CD&nbsp;&nb=
+sp;&nbsp;</span></span></li><li style=3D"border-style: none none=20=
+none solid; border-left-width: 3px; border-left-color: rgb(108, 2=
+26, 108); list-style: decimal-leading-zero outside; line-height:=20=
+18px; background-color: rgb(248, 248, 248); padding: 0px 3px 0px=20=
+10px !important;"><span style=3D"margin: 0px; padding: 0px; borde=
+r: none; color: black; background-color: inherit;">&nbsp;&nbsp;&n=
+bsp;&nbsp;<span class=3D"number" style=3D"margin: 0px; padding: 0=
+px; border: none; color: rgb(192, 0, 0); background-color: inheri=
+t;">5</span><span style=3D"margin: 0px; padding: 0px; border: non=
+e; background-color: inherit;">.=C8=B7=C8=CFb=B5=C4=CA=FD=BE=DD=C0=
+=E0=D0=CD=CA=C7</span><span class=3D"keyword" style=3D"margin: 0p=
+x; padding: 0px; border: none; color: rgb(0, 102, 153); font-weig=
+ht: bold; background-color: inherit;">int</span><span style=3D"ma=
+rgin: 0px; padding: 0px; border: none; background-color: inherit;=
+">=A3=AC=D7=B0=CF=E4&nbsp;&nbsp;&nbsp;</span></span></li><li clas=
+s=3D"alt" style=3D"border-style: none none none solid; border-lef=
+t-width: 3px; border-left-color: rgb(108, 226, 108); list-style:=20=
+decimal-leading-zero outside; color: inherit; line-height: 18px;=20=
+padding: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px=
+; padding: 0px; border: none; color: black; background-color: inh=
+erit;">&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"number" style=3D"ma=
+rgin: 0px; padding: 0px; border: none; color: rgb(192, 0, 0); bac=
+kground-color: inherit;">6</span><span style=3D"margin: 0px; padd=
+ing: 0px; border: none; background-color: inherit;">.=B5=F7=D3=C3=
+</span><span class=3D"keyword" style=3D"margin: 0px; padding: 0px=
+; border: none; color: rgb(0, 102, 153); font-weight: bold; backg=
+round-color: inherit;">int</span><span style=3D"margin: 0px; padd=
+ing: 0px; border: none; background-color: inherit;">=C0=E0=D0=CD=B5=
+=C4add&nbsp;&nbsp;&nbsp;</span></span></li><li style=3D"border-st=
+yle: none none none solid; border-left-width: 3px; border-left-co=
+lor: rgb(108, 226, 108); list-style: decimal-leading-zero outside=
+; line-height: 18px; background-color: rgb(248, 248, 248); paddin=
+g: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; padd=
+ing: 0px; border: none; color: black; background-color: inherit;"=
+>&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"number" style=3D"margin:=20=
+0px; padding: 0px; border: none; color: rgb(192, 0, 0); backgroun=
+d-color: inherit;">7</span><span style=3D"margin: 0px; padding: 0=
+px; border: none; background-color: inherit;">.=B7=B5=BB=D8=D7=B0=
+=CF=E4=BA=F3=B5=C4=BC=C6=CB=E3=BD=E1=B9=FB&nbsp;&nbsp;&nbsp;</spa=
+n></span></li><li class=3D"alt" style=3D"border-style: none none=20=
+none solid; border-left-width: 3px; border-left-color: rgb(108, 2=
+26, 108); list-style: decimal-leading-zero outside; color: inheri=
+t; line-height: 18px; padding: 0px 3px 0px 10px !important;"><spa=
+n style=3D"margin: 0px; padding: 0px; border: none; color: black;=
+ background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;=B4=D3=C9=CF=
+=C3=E6=B5=C4=B2=BD=D6=E8=BF=C9=D2=D4=BF=B4=B3=F6=A3=AC=D2=BB=CC=F5=
+SQL=D3=EF=BE=E4=B5=C4=BD=E2=CE=F6=D0=E8=D2=AA=BD=F8=D0=D0=B6=E0=B4=
+=CE=D0=E9=BA=AF=CA=FD=B5=C4=B5=F7=D3=C3=A1=A3=CE=D2=C3=C7=D6=AA=B5=
+=C0=A3=AC=D0=E9=BA=AF=CA=FD=B5=C4=B5=F7=D3=C3=BB=E1=BC=AB=B4=F3=B5=
+=C4=BD=B5=B5=CD=D0=A7=C2=CA=A1=A3=C4=C7=C3=B4=A3=AC=D0=E9=BA=AF=CA=
+=FD=B5=C4=B5=F7=D3=C3=CE=AA=CA=B2=C3=B4=BB=E1=D3=B0=CF=EC=D0=A7=C2=
+=CA=C4=D8=A3=BF&nbsp;&nbsp;&nbsp;</span></li><li style=3D"border-=
+style: none none none solid; border-left-width: 3px; border-left-=
+color: rgb(108, 226, 108); list-style: decimal-leading-zero outsi=
+de; line-height: 18px; background-color: rgb(248, 248, 248); padd=
+ing: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; pa=
+dding: 0px; border: none; color: black; background-color: inherit=
+;">&nbsp;&nbsp;&nbsp;&nbsp;=D3=D0=C8=CB=B4=F0=B0=B8=CA=C7=A3=BA=D0=
+=E9=BA=AF=CA=FD=B5=F7=D3=C3=BB=E1=BD=F8=D0=D0=D2=BB=B4=CE=BC=E4=BD=
+=D3=D1=B0=D6=B7=B9=FD=B3=CC=A1=A3=CA=C2=CA=B5=C9=CF=D5=E2=D2=BB=B2=
+=BD=BC=E4=BD=D3=D1=B0=D6=B7=D5=E6=B5=C4=BB=E1=CF=D4=D6=F8=BD=B5=B5=
+=CD=D4=CB=D0=D0=D0=A7=C2=CA=A3=BF=CF=D4=C8=BB=B2=BB=CA=C7=A1=A3&n=
+bsp;&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D"border-sty=
+le: none none none solid; border-left-width: 3px; border-left-col=
+or: rgb(108, 226, 108); list-style: decimal-leading-zero outside;=
+ color: inherit; line-height: 18px; padding: 0px 3px 0px 10px !im=
+portant;"><span style=3D"margin: 0px; padding: 0px; border: none;=
+ color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbs=
+p;=C1=F7=CB=AE=CF=DF=B5=C4=B4=F2=B6=CF=B2=C5=CA=C7=D5=E6=D5=FD=BD=
+=B5=B5=CD=D0=A7=C2=CA=B5=C4=D4=AD=D2=F2=A1=A3&nbsp;&nbsp;&nbsp;</=
+span></li><li style=3D"border-style: none none none solid; border=
+-left-width: 3px; border-left-color: rgb(108, 226, 108); list-sty=
+le: decimal-leading-zero outside; line-height: 18px; background-c=
+olor: rgb(248, 248, 248); padding: 0px 3px 0px 10px !important;">=
+<span style=3D"margin: 0px; padding: 0px; border: none; color: bl=
+ack; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;=CE=D2=C3=
+=C7=D6=AA=B5=C0=A3=AC=D0=E9=BA=AF=CA=FD=B5=C4=B5=F7=D3=C3=CA=B1=CA=
+=C7=D4=CB=D0=D0=CA=B1=B6=E0=CC=AC=A3=AC=D2=E2=CB=BC=BE=CD=CA=C7=D4=
+=DA=B1=E0=D2=EB=C6=DA=C4=E3=CA=C7=CE=DE=B7=A8=D6=AA=B5=C0=D0=E9=BA=
+=AF=CA=FD=B5=C4=BE=DF=CC=E5=B5=F7=D3=C3=A1=A3=C9=E8=CF=EB=D2=BB=CF=
+=C2=A3=AC=C8=E7=B9=FB=CB=B5=B2=BB=CA=C7=D0=E9=BA=AF=CA=FD=A3=AC=C4=
+=C7=C3=B4=D4=DA=B1=E0=D2=EB=CA=B1=C6=DA=A3=AC=C6=E4=CF=E0=B6=D4=B5=
+=D8=D6=B7=CA=C7=C8=B7=B6=A8=B5=C4=A3=AC=B1=E0=D2=EB=C6=F7=BF=C9=D2=
+=D4=D6=B1=BD=D3=C9=FA=B3=C9jmp/invoke=D6=B8=C1=EE=A3=BB&nbsp;=C8=E7=
+=B9=FB=CA=C7=D0=E9=BA=AF=CA=FD=A3=AC=B6=E0=B3=F6=C0=B4=B5=C4=D2=BB=
+=B4=CE=B2=E9=D5=D2vtable=CB=F9=B4=F8=C0=B4=B5=C4=BF=AA=CF=FA=A3=AC=
+=B5=B9=CA=C7=B4=CE=D2=AA=B5=C4=A3=AC=B9=D8=BC=FC=D4=DA=D3=DA=A3=AC=
+=D5=E2=B8=F6=BA=AF=CA=FD=B5=D8=D6=B7=CA=C7=B6=AF=CC=AC=B5=C4=A3=AC=
+=C6=A9=C8=E7&nbsp;=C8=A1=B5=BD=B5=C4=B5=D8=D6=B7=D4=DAeax=C0=EF=A3=
+=AC=D4=F2=D4=DAcall&nbsp;eax=D6=AE=BA=F3=B5=C4=C4=C7=D0=A9=D2=D1=BE=
+=AD=B1=BB=D4=A4=C8=A1=BD=F8=C8=EB=C1=F7=CB=AE=CF=DF=B5=C4=CB=F9=D3=
+=D0=D6=B8=C1=EE=B6=BC=BD=AB=CA=A7=D0=A7=A1=A3=C1=F7=CB=AE=CF=DF=D4=
+=BD=B3=A4=A3=AC=D2=BB=B4=CE=B7=D6=D6=A7=D4=A4=B2=E2=CA=A7=B0=DC=B5=
+=C4=B4=FA=BC=DB=D2=B2=BE=CD=D4=BD=B4=F3=A3=AC=C8=E7=CF=C2=CB=F9=CA=
+=BE=A3=BA&nbsp;&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; color: inherit; line-height: 18px; padding: 0px 3px 0=
+px 10px !important;"><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; color: black; background-color: inherit;">&nbsp;&nbsp=
+;&nbsp;pf-&gt;test&nbsp;&nbsp;&nbsp;</span></li><li style=3D"bord=
+er-style: none none none solid; border-left-width: 3px; border-le=
+ft-color: rgb(108, 226, 108); list-style: decimal-leading-zero ou=
+tside; line-height: 18px; background-color: rgb(248, 248, 248); p=
+adding: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px;=
+ padding: 0px; border: none; color: black; background-color: inhe=
+rit;">&nbsp;&nbsp;&nbsp;&nbsp;001E146D&nbsp;mov&nbsp;eax,dword&nb=
+sp;ptr[pf]&nbsp;&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D=
+"border-style: none none none solid; border-left-width: 3px; bord=
+er-left-color: rgb(108, 226, 108); list-style: decimal-leading-ze=
+ro outside; color: inherit; line-height: 18px; padding: 0px 3px 0=
+px 10px !important;"><span style=3D"margin: 0px; padding: 0px; bo=
+rder: none; color: black; background-color: inherit;">&nbsp;&nbsp=
+;&nbsp;&nbsp;011E1470&nbsp;mov&nbsp;edx,dword,ptr[eax]&nbsp;&nbsp=
+;&nbsp;</span></li><li style=3D"border-style: none none none soli=
+d; border-left-width: 3px; border-left-color: rgb(108, 226, 108);=
+ list-style: decimal-leading-zero outside; line-height: 18px; bac=
+kground-color: rgb(248, 248, 248); padding: 0px 3px 0px 10px !imp=
+ortant;"><span style=3D"margin: 0px; padding: 0px; border: none;=20=
+color: black; background-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp=
+;011E1472&nbsp;mov&nbsp;esi,esp&nbsp;&nbsp;&nbsp;</span></li><li=20=
+class=3D"alt" style=3D"border-style: none none none solid; border=
+-left-width: 3px; border-left-color: rgb(108, 226, 108); list-sty=
+le: decimal-leading-zero outside; color: inherit; line-height: 18=
+px; padding: 0px 3px 0px 10px !important;"><span style=3D"margin:=
+ 0px; padding: 0px; border: none; color: black; background-color:=
+ inherit;">&nbsp;&nbsp;&nbsp;&nbsp;011E1474&nbsp;mov&nbsp;ecx,dwo=
+rd&nbsp;ptr[pf]&nbsp;&nbsp;&nbsp;</span></li><li style=3D"border-=
+style: none none none solid; border-left-width: 3px; border-left-=
+color: rgb(108, 226, 108); list-style: decimal-leading-zero outsi=
+de; line-height: 18px; background-color: rgb(248, 248, 248); padd=
+ing: 0px 3px 0px 10px !important;"><span style=3D"margin: 0px; pa=
+dding: 0px; border: none; color: black; background-color: inherit=
+;">&nbsp;&nbsp;&nbsp;&nbsp;011E1477&nbsp;mov&nbsp;eax,dword&nbsp;=
+ptr[edx]&nbsp;&nbsp;&nbsp;</span></li><li class=3D"alt" style=3D"=
+border-style: none none none solid; border-left-width: 3px; borde=
+r-left-color: rgb(108, 226, 108); list-style: decimal-leading-zer=
+o outside; color: inherit; line-height: 18px; padding: 0px 3px 0p=
+x 10px !important;"><span style=3D"margin: 0px; padding: 0px; bor=
+der: none; color: black; background-color: inherit;">&nbsp;&nbsp;=
+&nbsp;&nbsp;011E1479&nbsp;eax&nbsp;&lt;-----------------------=B7=
+=D6=D6=A7=D4=A4=B2=E2=CA=A7=B0=DC&nbsp;&nbsp;&nbsp;</span></li><l=
+i style=3D"border-style: none none none solid; border-left-width:=
+ 3px; border-left-color: rgb(108, 226, 108); list-style: decimal-=
+leading-zero outside; line-height: 18px; background-color: rgb(24=
+8, 248, 248); padding: 0px 3px 0px 10px !important;"><span style=3D=
+"margin: 0px; padding: 0px; border: none; color: black; backgroun=
+d-color: inherit;">&nbsp;&nbsp;&nbsp;&nbsp;011E147B&nbsp;cmp&nbsp=
+;esi&nbsp;esp&nbsp;&nbsp;&nbsp;</span></li><li class=3D"alt" styl=
+e=3D"border-style: none none none solid; border-left-width: 3px;=20=
+border-left-color: rgb(108, 226, 108); list-style: decimal-leadin=
+g-zero outside; color: inherit; line-height: 18px; padding: 0px 3=
+px 0px 10px !important;"><span style=3D"margin: 0px; padding: 0px=
+; border: none; color: black; background-color: inherit;">&nbsp;&=
+nbsp;&nbsp;&nbsp;011E147D&nbsp;<span class=3D"annotation" style=3D=
+"margin: 0px; padding: 0px; border: none; color: rgb(100, 100, 10=
+0); background-color: inherit;">@ILT</span><span style=3D"margin:=
+ 0px; padding: 0px; border: none; background-color: inherit;">+</=
+span><span class=3D"number" style=3D"margin: 0px; padding: 0px; b=
+order: none; color: rgb(192, 0, 0); background-color: inherit;">3=
+55</span><span style=3D"margin: 0px; padding: 0px; border: none;=20=
+background-color: inherit;">(__RTC_CheckEsp)(11E1168h)&nbsp;&nbsp=
+;&nbsp;</span></span></li></ol></div></pre></pre></div><div class=
+=3D"bdsharebuttonbox tracking-ad bdshare-button-style0-16" data-m=
+od=3D"popu_172" data-bd-bind=3D"1497442775576" style=3D"zoom: 1;=20=
+color: rgb(51, 51, 51); font-family: Arial, Console, Verdana, 'Co=
+urier New'; font-size: 0.75rem; line-height: normal; widows: 1; f=
+loat: right; background-color: rgb(255, 255, 255);"><a href=3D"ht=
+tp://blog.csdn.net/wl044090432/article/details/52190736#" class=3D=
+"bds_more" data-cmd=3D"more" target=3D"_blank" style=3D"color: rg=
+b(51, 51, 51); text-decoration: none; float: left; padding-left:=20=
+17px; line-height: 16px; height: 16px; cursor: pointer; margin: 6=
+px 6px 6px 0px; background-image: url(&quot;&quot;) !important; b=
+ackground-position: 0px 0px !important; background-repeat: no-rep=
+eat no-repeat;"></a><a href=3D"http://blog.csdn.net/wl044090432/a=
+rticle/details/52190736#" class=3D"bds_qzone" data-cmd=3D"qzone"=20=
+title=3D"=B7=D6=CF=ED=B5=BDQQ=BF=D5=BC=E4" target=3D"_blank" styl=
+e=3D"color: rgb(51, 102, 153); text-decoration: none; float: left=
+; padding-left: 17px; line-height: 16px; height: 16px; cursor: po=
+inter; margin: 6px 6px 6px 0px; background-image: url(&quot;&quot=
+;); background-position: 0px -52px !important; background-repeat:=
+ no-repeat no-repeat;"></a><a href=3D"http://blog.csdn.net/wl0440=
+90432/article/details/52190736#" class=3D"bds_tsina" data-cmd=3D"=
+tsina" title=3D"=B7=D6=CF=ED=B5=BD=D0=C2=C0=CB=CE=A2=B2=A9" targe=
+t=3D"_blank" style=3D"color: rgb(51, 102, 153); text-decoration:=20=
+none; float: left; padding-left: 17px; line-height: 16px; height:=
+ 16px; cursor: pointer; margin: 6px 6px 6px 0px; background-image=
+: url(&quot;&quot;); background-position: 0px -104px !important;=20=
+background-repeat: no-repeat no-repeat;"></a><a href=3D"http://bl=
+og.csdn.net/wl044090432/article/details/52190736#" class=3D"bds_t=
+qq" data-cmd=3D"tqq" title=3D"=B7=D6=CF=ED=B5=BD=CC=DA=D1=B6=CE=A2=
+=B2=A9" target=3D"_blank" style=3D"color: rgb(51, 102, 153); text=
+-decoration: none; float: left; padding-left: 17px; line-height:=20=
+16px; height: 16px; cursor: pointer; margin: 6px 6px 6px 0px; bac=
+kground-image: url(&quot;&quot;); background-position: 0px -260px=
+ !important; background-repeat: no-repeat no-repeat;"></a><a href=
+=3D"http://blog.csdn.net/wl044090432/article/details/52190736#" c=
+lass=3D"bds_renren" data-cmd=3D"renren" title=3D"=B7=D6=CF=ED=B5=BD=
+=C8=CB=C8=CB=CD=F8" target=3D"_blank" style=3D"color: rgb(51, 102=
+, 153); text-decoration: none; float: left; padding-left: 17px; l=
+ine-height: 16px; height: 16px; cursor: pointer; margin: 6px 6px=20=
+6px 0px; background-image: url(&quot;&quot;); background-position=
+: 0px -208px !important; background-repeat: no-repeat no-repeat;"=
+></a><a href=3D"http://blog.csdn.net/wl044090432/article/details/=
+52190736#" class=3D"bds_weixin" data-cmd=3D"weixin" title=3D"=B7=D6=
+=CF=ED=B5=BD=CE=A2=D0=C5" target=3D"_blank" style=3D"color: rgb(5=
+1, 102, 153); text-decoration: none; float: left; padding-left: 1=
+7px; line-height: 16px; height: 16px; cursor: pointer; margin: 6p=
+x 6px 6px 0px; background-image: url(&quot;&quot;); background-po=
+sition: 0px -1612px !important; background-repeat: no-repeat no-r=
+epeat;"></a></div><div id=3D"digg" style=3D"clear: both; width: 1=
+82px; margin-right: auto; margin-left: auto; padding: 30px 0px 15=
+px; text-align: center; color: rgb(51, 51, 51); font-family: Aria=
+l, Console, Verdana, 'Courier New'; font-size: 0.75rem; line-heig=
+ht: normal; widows: 1; background-color: rgb(255, 255, 255);"><dl=
+ id=3D"btnDigg" class=3D"digg digg_disable" style=3D"display: inl=
+ine-block; float: left; width: 72px; height: 72px; overflow: hidd=
+en; margin-right: 2px; margin-left: 2px; color: rgb(255, 255, 255=
+); background-color: rgb(153, 153, 153); background-position: ini=
+tial initial; background-repeat: initial initial;"><br><div style=
+=3D"color:gray"><small>=C0=B4=D4=B4=A3=BA&nbsp;<a href=3D"http://=
+blog.csdn.net/wl044090432/article/details/52190736">http://blog.c=
+sdn.net/wl044090432/article/details/52190736</a></small></div><di=
+v></div></dl></div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000431546.893--
+
+------=_Next_Part_0001294638.333
+Content-Type: image/png;
+	name="0.3891620452936726.png"
+Content-Transfer-Encoding: base64
+Content-ID: <0.3891620452936726.png>
+Content-Location: 0.3891620452936726.png
+
+iVBORw0KGgoAAAANSUhEUgAAAA8AAAANCAYAAAB2HjRBAAAAxUlEQVQoU52SwRGEIAxFQy14UEtQC5AiHBuyCrUAqnCsBaiB7PwcGN2dlWVzwpm8+B9Bee/ZWkt931PTNFRSyhjDzjlSStG6rjRN00/8siwksPeemFngeZ7lnCuBEfs8T6qqiuq6vjEYgkTfSmA4d11HbdumvhyIxuSMj23b/nOOMQoMZ5yf4uJHN2etdfmqnHPiPAzDB5zzTs5o3Pc9OSP208ok9jiOHEKQxvcLexogcAiBj+OQPeN55qJed674kq0ExJAXPHSMWhHX0AoAAAAASUVORK5CYII=
+
+------=_Next_Part_0001294638.333
+Content-Type: image/png;
+	name="48751fb5-7b80-41a6-906d-81447aa4d628.png"
+Content-Transfer-Encoding: base64
+Content-ID: <48751fb5-7b80-41a6-906d-81447aa4d628.png>
+Content-Location: 48751fb5-7b80-41a6-906d-81447aa4d628.png
+
+iVBORw0KGgoAAAANSUhEUgAAAAoAAAAFCAYAAAB8ZH1oAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABxSURBVBhXTYw7CgAhDES9fyv+0fNYeQELGxvxAIKFsyTuwj5IhMxzhHMONN57WGthjOH3u9daQYgxBgdaa8QYOQwh8MecM0uEoNV7R0oJUkoWqbWUgr03S+ecKxKtNW5USrG01nqTi/gf5pzc/m+6AA9wtqs9FZMmwwAAAABJRU5ErkJggg==
+
+------=_Next_Part_0001294638.333--
+

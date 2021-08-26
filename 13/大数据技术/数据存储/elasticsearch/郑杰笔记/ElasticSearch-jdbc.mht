@@ -1,0 +1,699 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?RWxhc3RpY1NlYXJjaC1qZGJj?=
+Date: Date: Fri, 23 Jul 2021 05:52:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000967686.579"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000967686.579
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000322562.058"
+
+
+------=_Next_Part_0000322562.058
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000322562.058
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<title>ElasticSearch-jdbc</title>=0A    =0A=0A=
+=0A<style id=3D"wiz_custom_css">        html, body {            f=
+ont-size: 15px;        }        body {            font-family: He=
+lvetica, 'Hiragino Sans GB', '=CE=A2=C8=ED=D1=C5=BA=DA', 'Microso=
+ft YaHei UI', SimSun, SimHei, arial, sans-serif;            line-=
+height: 1.6;            margin: 0;            padding: 20px 36px;=
+            padding: 1.33rem 2.4rem;        }        h1, h2, h3,=20=
+h4, h5, h6 {            margin: 20px 0 10px;            margin: 1=
+.33rem 0 0.667rem;            padding: 0;            font-weight:=
+ bold;        }        h1 {            font-size: 21px;         =20=
+  font-size: 1.4rem;        }        h2 {            font-size: 2=
+0px;            font-size: 1.33rem;        }        h3 {        =20=
+   font-size: 18px;            font-size: 1.2rem;        }      =20=
+ h4 {            font-size: 17px;            font-size: 1.13rem;=20=
+       }        h5 {            font-size: 15px;            font-=
+size: 1rem;        }        h6 {            font-size: 15px;    =20=
+       font-size: 1rem;            color: #777777;            mar=
+gin: 1rem 0;        }        div, p, ul, ol, dl, li {           =20=
+margin: 0;        }        blockquote, table, pre, code{        =20=
+   margin: 8px 0;        }        ul, ol {            padding-lef=
+t: 32px;            padding-left: 2.13rem;        }        blockq=
+uote {            border-left: 4px solid #dddddd;            padd=
+ing: 0 12px;            padding: 0 0.8rem;            color: #aaa=
+;        }        blockquote > :first-child {            margin-t=
+op: 0;        }        blockquote > :last-child {            marg=
+in-bottom: 0;        }        img {            border: 0;       =20=
+    max-width: 100%;            height: auto !important;        =20=
+   margin: 2px 0;        }        table {            border-colla=
+pse: collapse;            border: 1px solid #bbbbbb;        }   =20=
+    td {            padding:4px 8px;            border-collapse:=20=
+collapse;            border: 1px solid #bbbbbb;        }        @=
+media screen and (max-width: 660px) {            body {         =20=
+      padding: 20px 18px;                padding: 1.33rem 1.2rem;=
+            }        }        @media only screen and (-webkit-max=
+-device-width: 1024px), only screen and (-o-max-device-width: 102=
+4px), only screen and (max-device-width: 1024px), only screen and=
+ (-webkit-min-device-pixel-ratio: 3), only screen and (-o-min-dev=
+ice-pixel-ratio: 3), only screen and (min-device-pixel-ratio: 3)=20=
+{            html, body {                font-size: 17px;       =20=
+    }            body {                line-height: 1.7;        =20=
+       padding: 0.75rem 0.9375rem;                color: #353c47;=
+            }            h1 {                font-size: 2.125rem;=
+            }            h2 {                font-size: 1.875rem;=
+            }            h3 {                font-size: 1.625rem;=
+            }            h4 {                font-size: 1.375rem;=
+            }            h5 {                font-size: 1.125rem;=
+            }            h6 {                color: inherit;    =20=
+       }            ul, ol {                padding-left: 2.5rem;=
+            }            blockquote {                border-left:=
+ 4px solid #c8d4e8;                padding: 0 0.9375rem;        =20=
+       color: #b3c2dd;            }        }</style><style type=3D=
+"text/css" id=3D"wiz_todo_style_id" wiz_link_version=3D"01.00.09"=
+>.wiz-todo, .wiz-todo-img {width: 16px; height: 16px; cursor: def=
+ault; padding: 0 10px 0 2px; vertical-align: -10%;-webkit-user-se=
+lect: none;} .wiz-todo-label { display: inline-block; padding-top=
+: 7px; padding-bottom: 6px; line-height: 1.5;} .wiz-todo-label-ch=
+ecked {  color: #666;} .wiz-todo-label-unchecked {text-decoration=
+: initial;} .wiz-todo-completed-info {padding-left: 44px; display=
+: inline-block; } .wiz-todo-avatar { width:20px; height: 20px; ve=
+rtical-align: -20%; margin-right:10px; border-radius: 2px;} .wiz-=
+todo-account, .wiz-todo-dt { color: #666; }</style></head>=0A=0A<=
+body style><pre style=3D"font-family: Consolas, 'Liberation Mono'=
+, Menlo, Courier, monospace; font-size: 13.6px; line-height: 16px=
+; white-space: pre-wrap; widows: 1; color: rgb(51, 51, 51); backg=
+round-color: rgb(247, 247, 247);"><code style=3D"font-family: Con=
+solas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 1=
+3.6px; background-color: rgba(0, 0, 0, 0.0392157);"><span style=3D=
+"color: rgb(34, 34, 34); font-family: '\\5FAE=C8=ED=D1=C5=BA=DA',=
+ 'Microsoft Yahei', 'Helvetica Neue', 'Hiragino Sans GB', '\\5B8B=
+=CC=E5', simsun, '\\9ED1=CC=E5', Arial, sans-serif; font-size: 24=
+px; line-height: 36px; white-space: normal; background-color: rgb=
+(255, 255, 255);">ElasticSearch-jdbc</span><span style=3D"font-fa=
+mily: Monaco, Consolas, Courier, 'Lucida Console', monospace; fon=
+t-size: 13.6px; line-height: 1.5; background-color: rgb(247, 247,=
+ 247);"><br></span></code></pre><pre style=3D"font-family: Consol=
+as, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6=
+px; line-height: 16px; white-space: pre-wrap; widows: 1; color: r=
+gb(51, 51, 51); background-color: rgb(247, 247, 247);"><code styl=
+e=3D"font-family: Consolas, 'Liberation Mono', Menlo, Courier, mo=
+nospace; font-size: 13.6px; background-color: rgba(0, 0, 0, 0.039=
+2157);"><span style=3D"font-family: Monaco, Consolas, Courier, 'L=
+ucida Console', monospace; font-size: 13.6px; line-height: 1.5; b=
+ackground-color: rgb(247, 247, 247);">{</span></code></pre><pre s=
+tyle=3D"font-family: Consolas, 'Liberation Mono', Menlo, Courier,=
+ monospace; font-size: 13.6px; line-height: 1.5; white-space: pre=
+-wrap; widows: 1; color: rgb(51, 51, 51); background-color: rgb(2=
+47, 247, 247);"><code style=3D"font-family: Consolas, 'Liberation=
+ Mono', Menlo, Courier, monospace; font-size: 13.6px; line-height=
+: 16px; background-color: rgba(0, 0, 0, 0.0392157);"><code style=3D=
+"font-family: Consolas, 'Liberation Mono', Menlo, Courier, monosp=
+ace; font-size: 13.6px; background-color: transparent;">    "type=
+" : "jdbc",</code></code></pre><pre style=3D"font-family: Monaco,=
+ Consolas, Courier, 'Lucida Console', monospace; font-size: 13.6p=
+x; line-height: 16px; white-space: pre-wrap; widows: 1; color: rg=
+b(51, 51, 51); background-color: rgb(247, 247, 247);"><div style=3D=
+"line-height: 1.5; background-color: inherit;"><span style=3D"fon=
+t-size: 13.6px; line-height: 1.5; background-color: inherit;"><fo=
+nt face=3D"Consolas, Liberation Mono, Menlo, Courier, monospace"=20=
+style=3D"background-color: inherit;"></font></span><span style=3D=
+"font-size: 13.6px; line-height: 1.5; background-color: inherit;"=
+>    "jdbc" : {</span></div><code style=3D"font-family: Monaco, C=
+onsolas, Courier, 'Lucida Console', monospace; font-size: 13.6px;=
+ background-color: rgba(0, 0, 0, 0.0392157);"><code style=3D"font=
+-family: Monaco, Consolas, Courier, 'Lucida Console', monospace;=20=
+font-size: 13.6px; background-color: transparent;"><pre style=3D"=
+font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospa=
+ce; font-size: 13.6px; white-space: pre-wrap; background-color: r=
+gb(247, 247, 247);"><code style=3D"font-family: Consolas, 'Libera=
+tion Mono', Menlo, Courier, monospace; font-size: 13.6px; backgro=
+und-color: transparent;">        "strategy" : "standard",=0A    =20=
+   "url" : null,=0A        "user" : null,=0A        "password" :=20=
+null,=0A        "sql" : null,=0A        "locale" : /* equivalent=20=
+to Locale.getDefault().toLanguageTag() */,=0A        "timezone" :=
+ /* equivalent to TimeZone.getDefault() */,=0A        "rounding"=20=
+: null,=0A        "scale" : 2,=0A        "autocommit" : false,=0A=
+        "fetchsize" : 10, /* if URL contains MySQL JDBC driver UR=
+L, this is Integer.MIN */=0A        "max_rows" : 0,=0A        "ma=
+x_retries" : 3,=0A        "max_retries_wait" : "30s",=0A        "=
+resultset_type" : "TYPE_FORWARD_ONLY",=0A        "resultset_concu=
+rreny" : "CONCUR_UPDATABLE",=0A        "ignore_null_values" : fal=
+se,=0A        "prepare_database_metadata" : false,=0A        "pre=
+pare_resultset_metadata" : false,=0A        "column_name_map" : n=
+ull,=0A        "query_timeout" : 1800,=0A        "connection_prop=
+erties" : null,=0A        "schedule" : null,=0A        "interval"=
+ : 0L,=0A        "threadpoolsize" : 1,=0A        "index" : "jdbc"=
+,=0A        "type" : "jdbc",=0A        "index_settings" : null,=0A=
+        "type_mapping" : null,=0A        "max_bulk_actions" : 100=
+00,=0A        "max_concurrent_bulk_requests" : 2 * available CPU=20=
+cores,=0A        "max_bulk_volume" : "10m",=0A        "max_reques=
+t_wait" : "60s",=0A        "flush_interval" : "5s"=0A    }</code>=
+</pre><font face=3D"Consolas, Liberation Mono, Menlo, Courier, mo=
+nospace" style=3D"background-color: inherit;">}</font></code></co=
+de></pre><pre style=3D"font-family: Consolas, 'Liberation Mono',=20=
+Menlo, Courier, monospace; font-size: 13.6px; line-height: 16px;=20=
+white-space: pre-wrap; widows: 1; color: rgb(51, 51, 51); backgro=
+und-color: rgb(247, 247, 247);"><code style=3D"font-family: Conso=
+las, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.=
+6px; background-color: rgba(0, 0, 0, 0.0392157);"><code style=3D"=
+font-family: Consolas, 'Liberation Mono', Menlo, Courier, monospa=
+ce; font-size: 13.6px; background-color: transparent;">java \=0A=20=
+   -cp "${lib}/*" \=0A    -Dlog4j.configurationFile=3D${bin}/log4=
+j2.xml \=0A    org.xbib.tools.Runner \=0A    org.xbib.tools.JDBCI=
+mporter \=0A    statefile.json</code></code></pre><pre style=3D"f=
+ont-family: Consolas, 'Liberation Mono', Menlo, Courier, monospac=
+e; font-size: 13.6px; line-height: 16px; white-space: pre-wrap; w=
+idows: 1; color: rgb(51, 51, 51); background-color: rgb(247, 247,=
+ 247);"><code style=3D"font-family: Consolas, 'Liberation Mono',=20=
+Menlo, Courier, monospace; font-size: 13.6px; background-color: r=
+gba(0, 0, 0, 0.0392157);"><code style=3D"font-family: Consolas, '=
+Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; b=
+ackground-color: transparent;"> statefile.json  //=BF=C9=D2=D4=C5=
+=E4=D6=C3json =CE=C4=BC=FE</code></code></pre><p style=3D"margin-=
+top: 5px; margin-bottom: 5px; font-family: -apple-system, BlinkMa=
+cSystemFont, 'PingFang SC', Helvetica, Tahoma, Arial, 'Hiragino S=
+ans GB', 'Microsoft YaHei', =CE=A2=C8=ED=D1=C5=BA=DA, SimSun, =CB=
+=CE=CC=E5, Heiti, =BA=DA=CC=E5, sans-serif; font-size: 14px; line=
+-height: 24.5px; widows: 1;"></p><p style=3D"margin-top: 5px; mar=
+gin-bottom: 5px; widows: 1; color: rgb(51, 51, 51); font-family:=20=
+'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-se=
+rif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; fo=
+nt-size: 16px;"><br></p><p style=3D"margin-top: 5px; margin-botto=
+m: 5px; widows: 1; color: rgb(51, 51, 51); font-family: 'Helvetic=
+a Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'App=
+le Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size:=20=
+16px;"><code style=3D"font-family: Consolas, 'Liberation Mono', M=
+enlo, Courier, monospace; font-size: 13.6px; line-height: 16px; b=
+ackground-color: rgba(0, 0, 0, 0.0392157);">sql.statement</code>&=
+nbsp;- the SQL statement //sql =D3=EF=BE=E4</p><p style=3D"margin=
+-top: 5px; margin-bottom: 5px; widows: 1; color: rgb(51, 51, 51);=
+ font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, fre=
+esans, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe=20=
+UI Symbol'; font-size: 16px;"><code style=3D"font-family: Consola=
+s, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6p=
+x; line-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);=
+">sql.write</code>&nbsp;- boolean flag, if true, the SQL statemen=
+t is interpreted as an insert/update statement that needs write a=
+ccess (default: false). // =CA=C7=B7=F1=D0=B4=C8=EB</p><p style=3D=
+"margin-top: 5px; margin-bottom: 5px; widows: 1; color: rgb(51, 5=
+1, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Ari=
+al, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',=20=
+'Segoe UI Symbol'; font-size: 16px;"><code style=3D"font-family:=20=
+Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size=
+: 13.6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.03=
+92157);">sql.callable</code>&nbsp;- boolean flag, if true, the SQ=
+L statement is interpreted as a JDBC<code style=3D"font-family: C=
+onsolas, 'Liberation Mono', Menlo, Courier, monospace; font-size:=
+ 13.6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.039=
+2157);">CallableStatement</code>&nbsp;for stored procedures (defa=
+ult: false). // =CA=C7=B7=F1=B4=E6=B4=A2=B9=FD=B3=CC</p><p style=3D=
+"margin-top: 5px; margin-bottom: 5px; widows: 1; color: rgb(51, 5=
+1, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Ari=
+al, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',=20=
+'Segoe UI Symbol'; font-size: 16px;"><code style=3D"font-family:=20=
+Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size=
+: 13.6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.03=
+92157);">sql.parameter</code>&nbsp;- bind parameters for the SQL=20=
+statement (in order). Some special values can be used with the fo=
+llowing meanings: // =B2=CE=CA=FD=CB=B5=C3=F7</p><ul style=3D"fon=
+t-size: 16px; font-family: 'Helvetica Neue', Helvetica, 'Segoe UI=
+', Arial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI Em=
+oji', 'Segoe UI Symbol'; color: rgb(51, 51, 51); line-height: 1.7=
+5; widows: 1;"><li><code style=3D"font-family: Consolas, 'Liberat=
+ion Mono', Menlo, Courier, monospace; font-size: 13.6px; line-hei=
+ght: 16px; background-color: rgba(0, 0, 0, 0.0392157);">$now</cod=
+e>&nbsp;- the current timestamp // =B5=B1=C7=B0=CA=B1=BC=E4=B4=C1=
+</li><li><code style=3D"font-family: Consolas, 'Liberation Mono',=
+ Menlo, Courier, monospace; font-size: 13.6px; line-height: 16px;=
+ background-color: rgba(0, 0, 0, 0.0392157);">$state</code>&nbsp;=
+- the state, one of: BEFORE_FETCH, FETCH, AFTER_FETCH, IDLE, EXCE=
+PTION</li><li><code style=3D"font-family: Consolas, 'Liberation M=
+ono', Menlo, Courier, monospace; font-size: 13.6px; line-height:=20=
+16px; background-color: rgba(0, 0, 0, 0.0392157);">$metrics.count=
+er</code>&nbsp;- a counter</li><li><code style=3D"font-family: Co=
+nsolas, 'Liberation Mono', Menlo, Courier, monospace; font-size:=20=
+13.6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.0392=
+157);">$lastrowcount</code>&nbsp;- number of rows from last state=
+ment // =D7=EE=BA=F3=D2=BB=B4=CEsql =D0=D0=CA=FD</li><li><code st=
+yle=3D"font-family: Consolas, 'Liberation Mono', Menlo, Courier,=20=
+monospace; font-size: 13.6px; line-height: 16px; background-color=
+: rgba(0, 0, 0, 0.0392157);">$lastexceptiondate</code>&nbsp;- SQL=
+ timestamp of last exception</li><li><code style=3D"font-family:=20=
+Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size=
+: 13.6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.03=
+92157);">$lastexception</code>&nbsp;- full stack trace of last ex=
+ception // =D2=EC=B3=A3=B6=D1=D5=BB</li><li><code style=3D"font-f=
+amily: Consolas, 'Liberation Mono', Menlo, Courier, monospace; fo=
+nt-size: 13.6px; line-height: 16px; background-color: rgba(0, 0,=20=
+0, 0.0392157);">$metrics.lastexecutionstart</code>&nbsp;- SQL tim=
+estamp of the time when last execution started</li><li><code styl=
+e=3D"font-family: Consolas, 'Liberation Mono', Menlo, Courier, mo=
+nospace; font-size: 13.6px; line-height: 16px; background-color:=20=
+rgba(0, 0, 0, 0.0392157);">$metrics.lastexecutionend</code>&nbsp;=
+- SQL timestamp of the time when last execution ended</li><li><co=
+de style=3D"font-family: Consolas, 'Liberation Mono', Menlo, Cour=
+ier, monospace; font-size: 13.6px; line-height: 16px; background-=
+color: rgba(0, 0, 0, 0.0392157);">$metrics.totalrows</code>&nbsp;=
+- total number of rows fetched</li><li><code style=3D"font-family=
+: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-si=
+ze: 13.6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.=
+0392157);">$metrics.totalbytes</code>&nbsp;- total number of byte=
+s fetched</li><li><code style=3D"font-family: Consolas, 'Liberati=
+on Mono', Menlo, Courier, monospace; font-size: 13.6px; line-heig=
+ht: 16px; background-color: rgba(0, 0, 0, 0.0392157);">$metrics.f=
+ailed</code>&nbsp;- total number of failed SQL executions</li><li=
+><code style=3D"font-family: Consolas, 'Liberation Mono', Menlo,=20=
+Courier, monospace; font-size: 13.6px; line-height: 16px; backgro=
+und-color: rgba(0, 0, 0, 0.0392157);">$metrics.succeeded</code>&n=
+bsp;- total number of succeeded SQL executions</li></ul><div styl=
+e=3D"font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC=
+', Helvetica, Tahoma, Arial, 'Hiragino Sans GB', 'Microsoft YaHei=
+', =CE=A2=C8=ED=D1=C5=BA=DA, SimSun, =CB=CE=CC=E5, Heiti, =BA=DA=CC=
+=E5, sans-serif; font-size: 14px; line-height: 24.5px; widows: 1;=
+"><font size=3D"3" face=3D"Helvetica Neue, Helvetica, Segoe UI, A=
+rial, freesans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Se=
+goe UI Symbol" color=3D"#333333"><span style=3D"line-height: 24px=
+;"><br></span></font></div><div style=3D"font-family: -apple-syst=
+em, BlinkMacSystemFont, 'PingFang SC', Helvetica, Tahoma, Arial,=20=
+'Hiragino Sans GB', 'Microsoft YaHei', =CE=A2=C8=ED=D1=C5=BA=DA,=20=
+SimSun, =CB=CE=CC=E5, Heiti, =BA=DA=CC=E5, sans-serif; font-size:=
+ 14px; line-height: 24.5px; widows: 1;"><p style=3D"margin-top: 5=
+px; margin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Hel=
+vetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif,=
+ 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-s=
+ize: 16px;"><code style=3D"font-family: Consolas, 'Liberation Mon=
+o', Menlo, Courier, monospace; font-size: 13.6px; line-height: 16=
+px; background-color: rgba(0, 0, 0, 0.0392157);">locale</code>&nb=
+sp;- the default locale (used for parsing numerical values, float=
+ing point character. Recommended values is "en_US")</p><p style=3D=
+"margin-top: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); fon=
+t-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesan=
+s, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI S=
+ymbol'; font-size: 16px;"><code style=3D"font-family: Consolas, '=
+Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; l=
+ine-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);">ti=
+mezone</code>&nbsp;- the timezone for JDBC setTimestamp() calls w=
+hen binding parameters with timestamp values</p><p style=3D"margi=
+n-top: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); font-fami=
+ly: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, san=
+s-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'=
+; font-size: 16px;"><code style=3D"font-family: Consolas, 'Libera=
+tion Mono', Menlo, Courier, monospace; font-size: 13.6px; line-he=
+ight: 16px; background-color: rgba(0, 0, 0, 0.0392157);">rounding=
+</code>&nbsp;- rounding mode for parsing numeric values. Possible=
+ values "ceiling", "down", "floor", "halfdown", "halfeven", "half=
+up", "unnecessary", "up"</p><p style=3D"margin-top: 5px; margin-b=
+ottom: 5px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue'=
+, Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple Colo=
+r Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;">=
+<code style=3D"font-family: Consolas, 'Liberation Mono', Menlo, C=
+ourier, monospace; font-size: 13.6px; line-height: 16px; backgrou=
+nd-color: rgba(0, 0, 0, 0.0392157);">scale</code>&nbsp;- the prec=
+ision of parsing numeric values</p><p style=3D"margin-top: 5px; m=
+argin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helvetic=
+a Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'App=
+le Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size:=20=
+16px;"><code style=3D"font-family: Consolas, 'Liberation Mono', M=
+enlo, Courier, monospace; font-size: 13.6px; line-height: 16px; b=
+ackground-color: rgba(0, 0, 0, 0.0392157);">autocommit</code>&nbs=
+p;-&nbsp;<code style=3D"font-family: Consolas, 'Liberation Mono',=
+ Menlo, Courier, monospace; font-size: 13.6px; line-height: 16px;=
+ background-color: rgba(0, 0, 0, 0.0392157);">true</code>&nbsp;if=
+ each statement should be automatically executed. Default is&nbsp=
+;<code style=3D"font-family: Consolas, 'Liberation Mono', Menlo,=20=
+Courier, monospace; font-size: 13.6px; line-height: 16px; backgro=
+und-color: rgba(0, 0, 0, 0.0392157);">false</code></p><p style=3D=
+"margin-top: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); fon=
+t-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesan=
+s, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI S=
+ymbol'; font-size: 16px;"><code style=3D"font-family: Consolas, '=
+Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; l=
+ine-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);">fe=
+tchsize</code>&nbsp;- the fetchsize for large result sets, most d=
+rivers use this to control the amount of rows in the buffer while=
+ iterating through the result set</p><p style=3D"margin-top: 5px;=
+ margin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helvet=
+ica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'A=
+pple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size=
+: 16px;"><code style=3D"font-family: Consolas, 'Liberation Mono',=
+ Menlo, Courier, monospace; font-size: 13.6px; line-height: 16px;=
+ background-color: rgba(0, 0, 0, 0.0392157);">max_rows</code>&nbs=
+p;- limit the number of rows fetches by a statement, the rest of=20=
+the rows is ignored</p><p style=3D"margin-top: 5px; margin-bottom=
+: 5px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Hel=
+vetica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple Color Emo=
+ji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;"><code=
+ style=3D"font-family: Consolas, 'Liberation Mono', Menlo, Courie=
+r, monospace; font-size: 13.6px; line-height: 16px; background-co=
+lor: rgba(0, 0, 0, 0.0392157);">max_retries</code>&nbsp;- the num=
+ber of retries to (re)connect to a database</p><p style=3D"margin=
+-top: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); font-famil=
+y: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans=
+-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';=
+ font-size: 16px;"><code style=3D"font-family: Consolas, 'Liberat=
+ion Mono', Menlo, Courier, monospace; font-size: 13.6px; line-hei=
+ght: 16px; background-color: rgba(0, 0, 0, 0.0392157);">max_retri=
+es_wait</code>&nbsp;- a time value for the time that should be wa=
+ited between retries. Default is "30s"</p><p style=3D"margin-top:=
+ 5px; margin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'H=
+elvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-seri=
+f, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font=
+-size: 16px;"><code style=3D"font-family: Consolas, 'Liberation M=
+ono', Menlo, Courier, monospace; font-size: 13.6px; line-height:=20=
+16px; background-color: rgba(0, 0, 0, 0.0392157);">resultset_type=
+</code>&nbsp;- the JDBC result set type, can be TYPE_FORWARD_ONLY=
+, TYPE_SCROLL_SENSITIVE, TYPE_SCROLL_INSENSITIVE. Default is TYPE=
+_FORWARD_ONLY</p><p style=3D"margin-top: 5px; margin-bottom: 5px;=
+ color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica=
+, 'Segoe UI', Arial, freesans, sans-serif, 'Apple Color Emoji', '=
+Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;"><code style=
+=3D"font-family: Consolas, 'Liberation Mono', Menlo, Courier, mon=
+ospace; font-size: 13.6px; line-height: 16px; background-color: r=
+gba(0, 0, 0, 0.0392157);">resultset_concurrency</code>&nbsp;- the=
+ JDBC result set concurrency, can be CONCUR_READ_ONLY, CONCUR_UPD=
+ATABLE. Default is CONCUR_UPDATABLE</p><p style=3D"margin-top: 5p=
+x; margin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helv=
+etica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif,=20=
+'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-si=
+ze: 16px;"><code style=3D"font-family: Consolas, 'Liberation Mono=
+', Menlo, Courier, monospace; font-size: 13.6px; line-height: 16p=
+x; background-color: rgba(0, 0, 0, 0.0392157);">ignore_null_value=
+s</code>&nbsp;- if NULL values should be ignored when constructin=
+g JSON documents. Default is&nbsp;<code style=3D"font-family: Con=
+solas, 'Liberation Mono', Menlo, Courier, monospace; font-size: 1=
+3.6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.03921=
+57);">false</code></p><p style=3D"margin-top: 5px; margin-bottom:=
+ 5px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helv=
+etica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple Color Emoj=
+i', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;"><code=20=
+style=3D"font-family: Consolas, 'Liberation Mono', Menlo, Courier=
+, monospace; font-size: 13.6px; line-height: 16px; background-col=
+or: rgba(0, 0, 0, 0.0392157);">detect_geo</code>&nbsp;- if geo po=
+lygons / points in SQL columns should be parsed when constructing=
+ JSON documents. Default is<code style=3D"font-family: Consolas,=20=
+'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px;=20=
+line-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);">t=
+rue</code></p><p style=3D"margin-top: 5px; margin-bottom: 5px; co=
+lor: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, '=
+Segoe UI', Arial, freesans, sans-serif, 'Apple Color Emoji', 'Seg=
+oe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;"><code style=3D=
+"font-family: Consolas, 'Liberation Mono', Menlo, Courier, monosp=
+ace; font-size: 13.6px; line-height: 16px; background-color: rgba=
+(0, 0, 0, 0.0392157);">detect_json</code>&nbsp;- if json structur=
+es in SQL columns should be parsed when constructing JSON documen=
+ts. Default is&nbsp;<code style=3D"font-family: Consolas, 'Libera=
+tion Mono', Menlo, Courier, monospace; font-size: 13.6px; line-he=
+ight: 16px; background-color: rgba(0, 0, 0, 0.0392157);">true</co=
+de></p><p style=3D"margin-top: 5px; margin-bottom: 5px; color: rg=
+b(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe U=
+I', Arial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI E=
+moji', 'Segoe UI Symbol'; font-size: 16px;"><code style=3D"font-f=
+amily: Consolas, 'Liberation Mono', Menlo, Courier, monospace; fo=
+nt-size: 13.6px; line-height: 16px; background-color: rgba(0, 0,=20=
+0, 0.0392157);">prepare_database_metadata</code>&nbsp;- if the dr=
+iver metadata should be prepared as parameters. Default is&nbsp;<=
+code style=3D"font-family: Consolas, 'Liberation Mono', Menlo, Co=
+urier, monospace; font-size: 13.6px; line-height: 16px; backgroun=
+d-color: rgba(0, 0, 0, 0.0392157);">false</code></p><p style=3D"m=
+argin-top: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); font-=
+family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans,=
+ sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Sym=
+bol'; font-size: 16px;"><code style=3D"font-family: Consolas, 'Li=
+beration Mono', Menlo, Courier, monospace; font-size: 13.6px; lin=
+e-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);">prep=
+are_resultset_metadata</code>&nbsp;- if the result set metadata s=
+hould be prepared as parameters. Default is&nbsp;<code style=3D"f=
+ont-family: Consolas, 'Liberation Mono', Menlo, Courier, monospac=
+e; font-size: 13.6px; line-height: 16px; background-color: rgba(0=
+, 0, 0, 0.0392157);">false</code></p><p style=3D"margin-top: 5px;=
+ margin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helvet=
+ica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'A=
+pple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size=
+: 16px;"><code style=3D"font-family: Consolas, 'Liberation Mono',=
+ Menlo, Courier, monospace; font-size: 13.6px; line-height: 16px;=
+ background-color: rgba(0, 0, 0, 0.0392157);">column_name_map</co=
+de>&nbsp;- a map of aliases that should be used as a replacement=20=
+for column names of the database. Useful for Oracle 30 char colum=
+n name limit. Default is&nbsp;<code style=3D"font-family: Consola=
+s, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6p=
+x; line-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);=
+">null</code></p><p style=3D"margin-top: 5px; margin-bottom: 5px;=
+ color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica=
+, 'Segoe UI', Arial, freesans, sans-serif, 'Apple Color Emoji', '=
+Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;"><code style=
+=3D"font-family: Consolas, 'Liberation Mono', Menlo, Courier, mon=
+ospace; font-size: 13.6px; line-height: 16px; background-color: r=
+gba(0, 0, 0, 0.0392157);">query_timeout</code>&nbsp;- a second va=
+lue for how long an SQL statement is allowed to be executed befor=
+e it is considered as lost. Default is&nbsp;<code style=3D"font-f=
+amily: Consolas, 'Liberation Mono', Menlo, Courier, monospace; fo=
+nt-size: 13.6px; line-height: 16px; background-color: rgba(0, 0,=20=
+0, 0.0392157);">1800</code></p><p style=3D"margin-top: 5px; margi=
+n-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helvetica Ne=
+ue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple C=
+olor Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px=
+;"><code style=3D"font-family: Consolas, 'Liberation Mono', Menlo=
+, Courier, monospace; font-size: 13.6px; line-height: 16px; backg=
+round-color: rgba(0, 0, 0, 0.0392157);">connection_properties</co=
+de>&nbsp;- a map for the connection properties for driver connect=
+ion creation. Default is&nbsp;<code style=3D"font-family: Consola=
+s, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.6p=
+x; line-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);=
+">null</code></p><p style=3D"margin-top: 5px; margin-bottom: 5px;=
+ color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica=
+, 'Segoe UI', Arial, freesans, sans-serif, 'Apple Color Emoji', '=
+Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;"><code style=
+=3D"font-family: Consolas, 'Liberation Mono', Menlo, Courier, mon=
+ospace; font-size: 13.6px; line-height: 16px; background-color: r=
+gba(0, 0, 0, 0.0392157);">schedule</code>&nbsp;- a single or a li=
+st of cron expressions for scheduled execution. Syntax is equival=
+ent to the Quartz cron expression format (see below for syntax)</=
+p><p style=3D"margin-top: 5px; margin-bottom: 5px; color: rgb(51,=
+ 51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', A=
+rial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'=
+, 'Segoe UI Symbol'; font-size: 16px;"><code style=3D"font-family=
+: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-si=
+ze: 13.6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.=
+0392157);">threadpoolsize</code>&nbsp;- a thread pool size for th=
+e scheduled executions for&nbsp;<code style=3D"font-family: Conso=
+las, 'Liberation Mono', Menlo, Courier, monospace; font-size: 13.=
+6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.0392157=
+);">schedule</code>&nbsp;parameter. If set to&nbsp;<code style=3D=
+"font-family: Consolas, 'Liberation Mono', Menlo, Courier, monosp=
+ace; font-size: 13.6px; line-height: 16px; background-color: rgba=
+(0, 0, 0, 0.0392157);">1</code>, all jobs will be executed serial=
+ly. Default is&nbsp;<code style=3D"font-family: Consolas, 'Libera=
+tion Mono', Menlo, Courier, monospace; font-size: 13.6px; line-he=
+ight: 16px; background-color: rgba(0, 0, 0, 0.0392157);">4</code>=
+.</p><p style=3D"margin-top: 5px; margin-bottom: 5px; color: rgb(=
+51, 51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe UI'=
+, Arial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI Emo=
+ji', 'Segoe UI Symbol'; font-size: 16px;"><code style=3D"font-fam=
+ily: Consolas, 'Liberation Mono', Menlo, Courier, monospace; font=
+-size: 13.6px; line-height: 16px; background-color: rgba(0, 0, 0,=
+ 0.0392157);">interval</code>&nbsp;- a time value for the delay b=
+etween two runs (default: not set)</p><p style=3D"margin-top: 5px=
+; margin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helve=
+tica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, '=
+Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-siz=
+e: 16px;"><code style=3D"font-family: Consolas, 'Liberation Mono'=
+, Menlo, Courier, monospace; font-size: 13.6px; line-height: 16px=
+; background-color: rgba(0, 0, 0, 0.0392157);">elasticsearch.clus=
+ter</code>&nbsp;- Elasticsearch cluster name</p><p style=3D"margi=
+n-top: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); font-fami=
+ly: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, san=
+s-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'=
+; font-size: 16px;"><code style=3D"font-family: Consolas, 'Libera=
+tion Mono', Menlo, Courier, monospace; font-size: 13.6px; line-he=
+ight: 16px; background-color: rgba(0, 0, 0, 0.0392157);">elastics=
+earch.host</code>&nbsp;- array of Elasticsearch host specificatio=
+ns (host name or<code style=3D"font-family: Consolas, 'Liberation=
+ Mono', Menlo, Courier, monospace; font-size: 13.6px; line-height=
+: 16px; background-color: rgba(0, 0, 0, 0.0392157);">host:port</c=
+ode>)</p><p style=3D"margin-top: 5px; margin-bottom: 5px; color:=20=
+rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe=
+ UI', Arial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI=
+ Emoji', 'Segoe UI Symbol'; font-size: 16px;"><code style=3D"font=
+-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;=20=
+font-size: 13.6px; line-height: 16px; background-color: rgba(0, 0=
+, 0, 0.0392157);">elasticsearch.port</code>&nbsp;- port of Elasti=
+csearch host</p><p style=3D"margin-top: 5px; margin-bottom: 5px;=20=
+color: rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica,=
+ 'Segoe UI', Arial, freesans, sans-serif, 'Apple Color Emoji', 'S=
+egoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;"><code style=3D=
+"font-family: Consolas, 'Liberation Mono', Menlo, Courier, monosp=
+ace; font-size: 13.6px; line-height: 16px; background-color: rgba=
+(0, 0, 0, 0.0392157);">elasticsearch.autodiscover</code>&nbsp;- i=
+f&nbsp;<code style=3D"font-family: Consolas, 'Liberation Mono', M=
+enlo, Courier, monospace; font-size: 13.6px; line-height: 16px; b=
+ackground-color: rgba(0, 0, 0, 0.0392157);">true</code>, JDBC imp=
+orter will try to connect to all cluster nodes. Default is&nbsp;<=
+code style=3D"font-family: Consolas, 'Liberation Mono', Menlo, Co=
+urier, monospace; font-size: 13.6px; line-height: 16px; backgroun=
+d-color: rgba(0, 0, 0, 0.0392157);">false</code></p><p style=3D"m=
+argin-top: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); font-=
+family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans,=
+ sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Sym=
+bol'; font-size: 16px;"><code style=3D"font-family: Consolas, 'Li=
+beration Mono', Menlo, Courier, monospace; font-size: 13.6px; lin=
+e-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);">max_=
+bulk_actions</code>&nbsp;- the length of each bulk index request=20=
+submitted (default: 10000)</p><p style=3D"margin-top: 5px; margin=
+-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helvetica Neu=
+e', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple Co=
+lor Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;=
+"><code style=3D"font-family: Consolas, 'Liberation Mono', Menlo,=
+ Courier, monospace; font-size: 13.6px; line-height: 16px; backgr=
+ound-color: rgba(0, 0, 0, 0.0392157);">max_concurrrent_bulk_reque=
+sts</code>&nbsp;- the maximum number of concurrent bulk requests=20=
+(default: 2 * number of CPU cores)</p><p style=3D"margin-top: 5px=
+; margin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helve=
+tica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, '=
+Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-siz=
+e: 16px;"><code style=3D"font-family: Consolas, 'Liberation Mono'=
+, Menlo, Courier, monospace; font-size: 13.6px; line-height: 16px=
+; background-color: rgba(0, 0, 0, 0.0392157);">max_bulk_volume</c=
+ode>&nbsp;- a byte size parameter for the maximum volume allowed=20=
+for a bulk request (default: "10m")</p><p style=3D"margin-top: 5p=
+x; margin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helv=
+etica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif,=20=
+'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-si=
+ze: 16px;"><code style=3D"font-family: Consolas, 'Liberation Mono=
+', Menlo, Courier, monospace; font-size: 13.6px; line-height: 16p=
+x; background-color: rgba(0, 0, 0, 0.0392157);">max_request_wait<=
+/code>&nbsp;- a time value for the maximum wait time for a respon=
+se of a bulk request (default: "60s")</p><p style=3D"margin-top:=20=
+5px; margin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'He=
+lvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif=
+, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-=
+size: 16px;"><code style=3D"font-family: Consolas, 'Liberation Mo=
+no', Menlo, Courier, monospace; font-size: 13.6px; line-height: 1=
+6px; background-color: rgba(0, 0, 0, 0.0392157);">flush_interval<=
+/code>&nbsp;- a time value for the interval period of flushing in=
+dex docs to a bulk action (default: "5s")</p><p style=3D"margin-t=
+op: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); font-family:=
+ 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-s=
+erif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; f=
+ont-size: 16px;"><code style=3D"font-family: Consolas, 'Liberatio=
+n Mono', Menlo, Courier, monospace; font-size: 13.6px; line-heigh=
+t: 16px; background-color: rgba(0, 0, 0, 0.0392157);">index</code=
+>&nbsp;- the Elasticsearch index used for indexing</p><p style=3D=
+"margin-top: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); fon=
+t-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesan=
+s, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI S=
+ymbol'; font-size: 16px;"><code style=3D"font-family: Consolas, '=
+Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; l=
+ine-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);">ty=
+pe</code>&nbsp;- the Elasticsearch type of the index used for ind=
+exing</p><p style=3D"margin-top: 5px; margin-bottom: 5px; color:=20=
+rgb(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe=
+ UI', Arial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI=
+ Emoji', 'Segoe UI Symbol'; font-size: 16px;"><code style=3D"font=
+-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace;=20=
+font-size: 13.6px; line-height: 16px; background-color: rgba(0, 0=
+, 0, 0.0392157);">index_settings</code>&nbsp;- optional settings=20=
+for the Elasticsearch index</p><p style=3D"margin-top: 5px; margi=
+n-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helvetica Ne=
+ue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple C=
+olor Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px=
+;"><code style=3D"font-family: Consolas, 'Liberation Mono', Menlo=
+, Courier, monospace; font-size: 13.6px; line-height: 16px; backg=
+round-color: rgba(0, 0, 0, 0.0392157);">type_mapping</code>&nbsp;=
+- optional mapping for the Elasticsearch index type</p><p style=3D=
+"margin-top: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); fon=
+t-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesan=
+s, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI S=
+ymbol'; font-size: 16px;"><code style=3D"font-family: Consolas, '=
+Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; l=
+ine-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);">st=
+atefile</code>&nbsp;- name of a file where the JDBC importer read=
+s or writes state information //=B6=A8=CA=B1=B8=FC=D0=C2=CA=B1=BC=
+=E4</p><p style=3D"margin-top: 5px; margin-bottom: 5px; color: rg=
+b(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe U=
+I', Arial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI E=
+moji', 'Segoe UI Symbol'; font-size: 16px;"><code style=3D"font-f=
+amily: Consolas, 'Liberation Mono', Menlo, Courier, monospace; fo=
+nt-size: 13.6px; line-height: 16px; background-color: rgba(0, 0,=20=
+0, 0.0392157);">metrics.lastexecutionstart</code>&nbsp;- the UTC=20=
+date/time of the begin of the last execution of a single fetch</p=
+><p style=3D"margin-top: 5px; margin-bottom: 5px; color: rgb(51,=20=
+51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Ar=
+ial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',=
+ 'Segoe UI Symbol'; font-size: 16px;"><code style=3D"font-family:=
+ Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-siz=
+e: 13.6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.0=
+392157);">metrics.lastexecutionend</code>&nbsp;- the UTC date/tim=
+e of the end of the last execution of a single fetch</p><p style=3D=
+"margin-top: 5px; margin-bottom: 5px; color: rgb(51, 51, 51); fon=
+t-family: 'Helvetica Neue', Helvetica, 'Segoe UI', Arial, freesan=
+s, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI S=
+ymbol'; font-size: 16px;"><code style=3D"font-family: Consolas, '=
+Liberation Mono', Menlo, Courier, monospace; font-size: 13.6px; l=
+ine-height: 16px; background-color: rgba(0, 0, 0, 0.0392157);">me=
+trics.counter</code>&nbsp;- a counter for metrics, will be increm=
+ented after each single fetch</p><p style=3D"margin-top: 5px; mar=
+gin-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helvetica=20=
+Neue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple=
+ Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16=
+px;"><code style=3D"font-family: Consolas, 'Liberation Mono', Men=
+lo, Courier, monospace; font-size: 13.6px; line-height: 16px; bac=
+kground-color: rgba(0, 0, 0, 0.0392157);">metrics.enabled</code>&=
+nbsp;- if&nbsp;<code style=3D"font-family: Consolas, 'Liberation=20=
+Mono', Menlo, Courier, monospace; font-size: 13.6px; line-height:=
+ 16px; background-color: rgba(0, 0, 0, 0.0392157);">true</code>,=20=
+metrics logging is enabled. Default is&nbsp;<code style=3D"font-f=
+amily: Consolas, 'Liberation Mono', Menlo, Courier, monospace; fo=
+nt-size: 13.6px; line-height: 16px; background-color: rgba(0, 0,=20=
+0, 0.0392157);">false</code></p><p style=3D"margin-top: 5px; marg=
+in-bottom: 5px; color: rgb(51, 51, 51); font-family: 'Helvetica N=
+eue', Helvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple=20=
+Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16p=
+x;"><code style=3D"font-family: Consolas, 'Liberation Mono', Menl=
+o, Courier, monospace; font-size: 13.6px; line-height: 16px; back=
+ground-color: rgba(0, 0, 0, 0.0392157);">metrics.interval</code>&=
+nbsp;- the interval between metrics logging. Default is 30 second=
+s.</p><p style=3D"margin-top: 5px; margin-bottom: 5px; color: rgb=
+(51, 51, 51); font-family: 'Helvetica Neue', Helvetica, 'Segoe UI=
+', Arial, freesans, sans-serif, 'Apple Color Emoji', 'Segoe UI Em=
+oji', 'Segoe UI Symbol'; font-size: 16px;"><code style=3D"font-fa=
+mily: Consolas, 'Liberation Mono', Menlo, Courier, monospace; fon=
+t-size: 13.6px; line-height: 16px; background-color: rgba(0, 0, 0=
+, 0.0392157);">metrics.logger.plain</code>&nbsp;- if&nbsp;<code s=
+tyle=3D"font-family: Consolas, 'Liberation Mono', Menlo, Courier,=
+ monospace; font-size: 13.6px; line-height: 16px; background-colo=
+r: rgba(0, 0, 0, 0.0392157);">true</code>, write metrics log mess=
+ages in plain text format. Default is<code style=3D"font-family:=20=
+Consolas, 'Liberation Mono', Menlo, Courier, monospace; font-size=
+: 13.6px; line-height: 16px; background-color: rgba(0, 0, 0, 0.03=
+92157);">false</code></p><p style=3D"margin-top: 5px; margin-bott=
+om: 5px; color: rgb(51, 51, 51); font-family: 'Helvetica Neue', H=
+elvetica, 'Segoe UI', Arial, freesans, sans-serif, 'Apple Color E=
+moji', 'Segoe UI Emoji', 'Segoe UI Symbol'; font-size: 16px;"><co=
+de style=3D"font-family: Consolas, 'Liberation Mono', Menlo, Cour=
+ier, monospace; font-size: 13.6px; line-height: 16px; background-=
+color: rgba(0, 0, 0, 0.0392157);">metrics.logger.json</code>&nbsp=
+;- if&nbsp;<code style=3D"font-family: Consolas, 'Liberation Mono=
+', Menlo, Courier, monospace; font-size: 13.6px; line-height: 16p=
+x; background-color: rgba(0, 0, 0, 0.0392157);">true</code>, writ=
+e metric log messages in JSON format. Default is<code style=3D"fo=
+nt-family: Consolas, 'Liberation Mono', Menlo, Courier, monospace=
+; font-size: 13.6px; line-height: 16px; background-color: rgba(0,=
+ 0, 0, 0.0392157);">false</code></p><br><div style=3D"color:gray"=
+><small>=C0=B4=D4=B4=A3=BA&nbsp;<a href=3D"http://note.youdao.com=
+/share/iframe.html">http://note.youdao.com/share/iframe.html</a><=
+/small></div><div></div></div></body></html>=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000322562.058--
+
+------=_Next_Part_0000967686.579--
+

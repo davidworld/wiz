@@ -1,0 +1,252 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?S2VybmVsIENyYXNoIER1bXA=?=
+Date: Date: Fri, 23 Jul 2021 05:50:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000606000.176"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000606000.176
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000202000.705"
+
+
+------=_Next_Part_0000202000.705
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000202000.705
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>Kernel Crash Dump</title>=0A=0A=0A=0A=
+=0A=0A<style type=3D"text/css" id=3D"wiz_todo_style_id" wiz_link_=
+version=3D"01.00.09">.wiz-todo, .wiz-todo-img {width: 16px; heigh=
+t: 16px; cursor: default; padding: 0 10px 0 2px; vertical-align:=20=
+-10%;-webkit-user-select: none;} .wiz-todo-label { display: inlin=
+e-block; padding-top: 7px; padding-bottom: 6px; line-height: 1.5;=
+} .wiz-todo-label-checked {  color: #666;} .wiz-todo-label-unchec=
+ked {text-decoration: initial;} .wiz-todo-completed-info {padding=
+-left: 44px; display: inline-block; } .wiz-todo-avatar { width:20=
+px; height: 20px; vertical-align: -20%; margin-right:10px; border=
+-radius: 2px;} .wiz-todo-account, .wiz-todo-dt { color: #666; }</=
+style>=0A<style type=3D"text/css" id=3D"wiz_custom_css">=0Abody=0A=
+{=0A    font-family: Arial;=0A    font-size: 10.5pt;=0A    line-h=
+eight: 1.5;=0A}=0Ahtml, body=0A{=0A    color: ;=0A    background-=
+color: ;=0A}=0Ah1 {=0A    font-size:1.5em;=0A    font-weight:bold=
+;=0A}=0Ah2 {=0A    font-size:1.4em;=0A    font-weight:bold;=0A}=0A=
+h3 {=0A    font-size:1.3em;=0A    font-weight:bold;=0A}=0Ah4 {=0A=
+    font-size:1.2em;=0A    font-weight:bold;=0A}=0Ah5 {=0A    fon=
+t-size:1.1em;=0A    font-weight:bold;=0A}=0Ah6 {=0A    font-size:=
+1.0em;=0A    font-weight:bold;=0A}=0Aimg {=0A    border:0;=0A   =20=
+max-width: 100%;=0A    height: auto !important;=0A}=0Ablockquote=20=
+{=0A    margin-top:0px;=0A    margin-bottom:0px;=0A}=0Atable {=0A=
+    border-collapse:collapse;=0A    border:1px solid #bbbbbb;=0A}=
+=0Atd {=0A    border-collapse:collapse;=0A    border:1px solid #b=
+bbbbb;=0A}=0A</style>=0A</head>=0A=0A<body style><div id=3D"conta=
+iner-inner"><div id=3D"cwt-content" class=3D"clearfix content-are=
+a"><div id=3D"page"><div id=3D"content"><div class=3D"hgroup"><h1=
+ class=3D"title">Kernel Crash Dump</h1></div><div class=3D"region=
+"><div class=3D"contents"></div><div class=3D"links sectionlinks"=
+><ul><li class=3D"links"><a class=3D"xref" href=3D"https://help.u=
+buntu.com/12.04/serverguide/kernel-crash-dump.html#kernel-dump-in=
+troduction" title=3D"Introduction">Introduction</a></li><li class=
+=3D"links"><a class=3D"xref" href=3D"https://help.ubuntu.com/12.0=
+4/serverguide/kernel-crash-dump.html#kernel-crash-dump-mechanisms=
+" title=3D"Kernel Crash Dump Mechanism">Kernel Crash Dump Mechani=
+sm</a></li><li class=3D"links"><a class=3D"xref" href=3D"https://=
+help.ubuntu.com/12.04/serverguide/kernel-crash-dump.html#Installa=
+tion" title=3D"Installation">Installation</a></li><li class=3D"li=
+nks"><a class=3D"xref" href=3D"https://help.ubuntu.com/12.04/serv=
+erguide/kernel-crash-dump.html#kernel-dump-configuration" title=3D=
+"Configuration">Configuration</a></li><li class=3D"links"><a clas=
+s=3D"xref" href=3D"https://help.ubuntu.com/12.04/serverguide/kern=
+el-crash-dump.html#verification" title=3D"Verification">Verificat=
+ion</a></li><li class=3D"links"><a class=3D"xref" href=3D"https:/=
+/help.ubuntu.com/12.04/serverguide/kernel-crash-dump.html#kdump-t=
+esting" title=3D"Testing the Crash Dump Mechanism">Testing the Cr=
+ash Dump Mechanism</a></li><li class=3D"links"><a class=3D"xref"=20=
+href=3D"https://help.ubuntu.com/12.04/serverguide/kernel-crash-du=
+mp.html#kdump-resources" title=3D"Resources">Resources</a></li></=
+ul></div><div class=3D"sect2 sect" id=3D"kernel-dump-introduction=
+"><div class=3D"inner"><div class=3D"hgroup"><h2 class=3D"title">=
+Introduction</h2></div><div class=3D"region"><div class=3D"conten=
+ts"><p class=3D"para">=0A        A Kernel Crash Dump refers to a=20=
+portion of the contents of volatile memory (RAM) that is copied t=
+o disk whenever=0A         the execution of the kernel is disrupt=
+ed. The following events can cause a kernel disruption :=0A     =20=
+   </p><div class=3D"list itemizedlist"><ul class=3D"list itemize=
+dlist"><li class=3D"list itemizedlist"><p class=3D"para">Kernel P=
+anic</p></li><li class=3D"list itemizedlist"><p class=3D"para">No=
+n Maskable Interrupts (NMI)</p></li><li class=3D"list itemizedlis=
+t"><p class=3D"para">Machine Check Exceptions (MCE)</p></li><li c=
+lass=3D"list itemizedlist"><p class=3D"para">Hardware failure</p>=
+</li><li class=3D"list itemizedlist"><p class=3D"para">Manual int=
+ervention</p></li></ul></div>=0A	 For some of those events (panic=
+, NMI) the kernel will react automatically and trigger the crash=20=
+dump mechanism through <span class=3D"em emphasis">kexec</span>.=0A=
+ In other situations a manual intervention is required in order t=
+o =0Acapture the memory.=0A	 =0A	 Whenever one of the above event=
+s occurs, it is important to find out =0Athe root cause in order=20=
+to prevent it from happening again.  The cause =0Acan be determin=
+ed by inspecting the copied memory contents.=0A        <p></p></d=
+iv></div></div></div><div class=3D"sect2 sect" id=3D"kernel-crash=
+-dump-mechanisms"><div class=3D"inner"><div class=3D"hgroup"><h2=20=
+class=3D"title">Kernel Crash Dump Mechanism</h2></div><div class=3D=
+"region"><div class=3D"contents"><p class=3D"para">=0A	When a ker=
+nel panic occurs, the kernel relies on the <span class=3D"em emph=
+asis">kexec</span>=0A mechanism to quickly reboot a new instance=20=
+of the kernel in a =0Apre-reserved section of memory that had bee=
+n allocated when the system =0Abooted (see below). This permits t=
+he existing memory area to remain =0Auntouched in order to safely=
+ copy its contents to storage.=0A        </p></div></div></div></=
+div><div class=3D"sect2 sect" id=3D"Installation"><div class=3D"i=
+nner"><div class=3D"hgroup"><h2 class=3D"title">Installation</h2>=
+</div><div class=3D"region"><div class=3D"contents"><p class=3D"p=
+ara">=0A      The kernel crash dump utility is installed with the=
+ following command:=0A      </p><div class=3D"screen"><pre class=3D=
+"contents"><span class=3D"cmd command">sudo apt-get install linux=
+-crashdump</span></pre></div></div></div></div></div><div class=3D=
+"sect2 sect" id=3D"kernel-dump-configuration"><div class=3D"inner=
+"><div class=3D"hgroup"><h2 class=3D"title">Configuration</h2></d=
+iv><div class=3D"region"><div class=3D"contents"><p class=3D"para=
+">=0A      Edit <span class=3D"file filename">/etc/default/kdump-=
+tool</span> by including the following line:=0A</p><div class=3D"=
+code"><pre class=3D"contents">USE_KDUMP=3D1=0A</pre></div><p></p>=
+<p class=3D"para">=0A      A reboot is then needed.=0A      </p><=
+/div></div></div></div><div class=3D"sect2 sect" id=3D"verificati=
+on"><div class=3D"inner"><div class=3D"hgroup"><h2 class=3D"title=
+">Verification</h2></div><div class=3D"region"><div class=3D"cont=
+ents"><p class=3D"para">=0A      To confirm that the kernel dump=20=
+mechanism is enabled, there are a few things to verify. First, co=
+nfirm that=0A      the <span class=3D"em emphasis">crashkernel</s=
+pan> boot parameter is present (note: The following line has been=
+ split=0A      into two to fit the format of this document:=0A  =20=
+   </p><div class=3D"screen"><pre class=3D"contents"><span class=3D=
+"cmd command">cat /proc/cmdline</span><span class=3D"output compu=
+teroutput">=0ABOOT_IMAGE=3D/vmlinuz-3.2.0-17-server root=3D/dev/m=
+apper/PreciseS-root ro=0A crashkernel=3D384M-2G:64M,2G-:128M=0A</=
+span></pre></div><p class=3D"para">=0A        The <span class=3D"=
+em emphasis">crashkernel</span> parameter has the following synta=
+x: =0A        </p><div class=3D"code"><pre class=3D"contents">cra=
+shkernel=3D&lt;range1&gt;:&lt;size1&gt;[,&lt;range2&gt;:&lt;size2=
+&gt;,...][@offset]=0A    range=3Dstart-[end] 'start' is inclusive=
+ and 'end' is exclusive.=0A        </pre></div><p></p><p class=3D=
+"para"> =0ASo for the crashkernel parameter found in <span class=3D=
+"file filename">/proc/cmdline</span> we would have :=0A</p><div c=
+lass=3D"code"><pre class=3D"contents">crashkernel=3D384M-2G:64M,2=
+G-:128M=0A</pre></div><p></p><p class=3D"para">The above value me=
+ans:</p><div class=3D"list itemizedlist"><ul class=3D"list itemiz=
+edlist"><li class=3D"list itemizedlist"><p class=3D"para">if the=20=
+RAM is smaller than 384M, then don't reserve anything=0A       (t=
+his is the "rescue" case)</p></li><li class=3D"list itemizedlist"=
+><p class=3D"para">if the RAM size is between 386M and 2G (exclus=
+ive), then reserve 64M</p></li><li class=3D"list itemizedlist"><p=
+ class=3D"para">if the RAM size is larger than 2G, then reserve 1=
+28M</p></li></ul></div><p class=3D"para">=0A      Second, verify=20=
+that the kernel has reserved the requested memory area for the kd=
+ump kernel by doing:=0A      </p><div class=3D"screen"><pre class=
+=3D"contents"><span class=3D"cmd command">dmesg | grep -i crash</=
+span><span class=3D"output computeroutput">=0A...=0A[    0.000000=
+] Reserving 64MB of memory at 800MB for crashkernel (System RAM:=20=
+1023MB)=0A</span></pre></div></div></div></div></div><div class=3D=
+"sect2 sect" id=3D"kdump-testing"><div class=3D"inner"><div class=
+=3D"hgroup"><h2 class=3D"title">Testing the Crash Dump Mechanism<=
+/h2></div><div class=3D"region"><div class=3D"contents"><div clas=
+s=3D"note note-warning"><div class=3D"inner"><div class=3D"region=
+"><div class=3D"contents"><p class=3D"para">=0A	Testing the Crash=
+ Dump Mechanism will cause <span class=3D"em emphasis">a system r=
+eboot.</span> In certain situations, this can=0A	cause data loss=20=
+if the system is under heavy load. If you want to test the mechan=
+ism, make sure that the system=0A	is idle or under very light loa=
+d.=0A	</p></div></div></div></div><p class=3D"para">=0A	Verify th=
+at the <span class=3D"em emphasis">SysRQ</span> mechanism is enab=
+led by looking at the value of the=0A	<span class=3D"file filenam=
+e">/proc/sys/kernel/sysrq</span> kernel parameter : =0A	</p><div=20=
+class=3D"screen"><pre class=3D"contents"><span class=3D"cmd comma=
+nd">cat /proc/sys/kernel/sysrq</span></pre></div><p class=3D"para=
+">=0A      If a value of <span class=3D"em emphasis">0</span> is=20=
+returned the feature is disabled. Enable it with the following co=
+mmand :=0A      </p><div class=3D"screen"><pre class=3D"contents"=
+><span class=3D"cmd command">sudo sysctl -w kernel.sysrq=3D1</spa=
+n></pre></div><p class=3D"para">=0A      Once this is done, you m=
+ust become root, as just using <span class=3D"cmd command">sudo</=
+span> will not be sufficient. As the <span class=3D"em emphasis">=
+root</span>=0A      user, you will have to issue the command <spa=
+n class=3D"cmd command">echo c &gt; /proc/sysrq-trigger</span>.=0A=
+ If you are using a network connection,=0A      you will lose con=
+tact with the system. This is why it is better to=0A do the test=20=
+while being connected to the system console. This has the =0A   =20=
+  advantage of making the kernel dump process visible.=0A      </=
+p><p class=3D"para">=0A      A typical test output should look li=
+ke the following :=0A      </p><div class=3D"screen"><pre class=3D=
+"contents"><span class=3D"cmd command">sudo -s</span>=0A[sudo] pa=
+ssword for ubuntu: =0A# <span class=3D"cmd command">echo c &gt; /=
+proc/sysrq-trigger</span>=0A[   31.659002] SysRq : Trigger a cras=
+h=0A[   31.659749] BUG: unable to handle kernel NULL pointer dere=
+ference at           (null)=0A[   31.662668] IP: [&lt;ffffffff813=
+9f166&gt;] sysrq_handle_crash+0x16/0x20=0A[   31.662668] PGD 3bfb=
+9067 PUD 368a7067 PMD 0 =0A[   31.662668] Oops: 0002 [#1] SMP =0A=
+[   31.662668] CPU 1 =0A....=0A</pre></div><p class=3D"para">=0A=20=
+     The rest of the output is truncated, but you should see the=20=
+system=0A rebooting and somewhere in the log, you will see the fo=
+llowing line :=0A      </p><div class=3D"screen"><pre class=3D"co=
+ntents">Begin: Saving vmcore from kernel crash ...</pre></div>=0A=
+      Once completed, the system will reboot to its normal operat=
+ional mode. You will then find Kernel Crash Dump file in the <spa=
+n class=3D"file filename">/var/crash</span> directory :=0A      <=
+p></p><div class=3D"screen"><pre class=3D"contents"><span class=3D=
+"cmd command">ls /var/crash</span>=0Alinux-image-3.0.0-12-server.=
+0.crash=0A</pre></div></div></div></div></div><div class=3D"sect2=
+ sect" id=3D"kdump-resources"><div class=3D"inner"><div class=3D"=
+hgroup"><h2 class=3D"title">Resources</h2></div><div class=3D"reg=
+ion"><div class=3D"contents"><p class=3D"para">=0A      Kernel Cr=
+ash Dump is a vast topic that requires good knowledge of =0Athe l=
+inux kernel. You can find more information on the topic here :=0A=
+      </p><div class=3D"list itemizedlist"><ul class=3D"list item=
+izedlist"><li class=3D"list itemizedlist"><p class=3D"para"><a hr=
+ef=3D"http://www.kernel.org/doc/Documentation/kdump/kdump.txt" cl=
+ass=3D"ulink" title=3D"http://www.kernel.org/doc/Documentation/kd=
+ump/kdump.txt">Kdump kernel documentation</a>.=0A              </=
+p></li><li class=3D"list itemizedlist"><p class=3D"para"><a href=3D=
+"http://people.redhat.com/~anderson/" class=3D"ulink" title=3D"ht=
+tp://people.redhat.com/~anderson/">The crash tool</a></p></li><li=
+ class=3D"list itemizedlist"><p class=3D"para"><a href=3D"http://=
+www.dedoimedo.com/computers/crash-analyze.html" class=3D"ulink" t=
+itle=3D"http://www.dedoimedo.com/computers/crash-analyze.html">An=
+alyzing Linux Kernel Crash</a> (Based on Fedora, it still gives a=
+ good walkthrough of kernel dump analysis)=0A              </p></=
+li></ul></div></div></div></div></div></div><div class=3D"links n=
+extlinks"><a class=3D"nextlinks-prev" href=3D"https://help.ubuntu=
+.com/12.04/serverguide/advanced-installation.html" title=3D"Advan=
+ced Installation">Previous</a><a class=3D"nextlinks-next" href=3D=
+"https://help.ubuntu.com/12.04/serverguide/package-management.htm=
+l" title=3D"Package Management">Next</a></div><div class=3D"clear=
+"></div></div><div id=3D"pagebottom"></div></div></div></div><div=
+ id=3D"footer"><p>The material in this document is available unde=
+r a free license, see <a href=3D"https://help.ubuntu.com/legal.ht=
+ml">Legal</a> for details.<br>=0A          For information on con=
+tributing see the <a href=3D"https://wiki.ubuntu.com/Documentatio=
+nTeam">Ubuntu Documentation Team wiki page</a>.=0A          To re=
+port errors in this serverguide documentation, <a href=3D"https:/=
+/bugs.launchpad.net/serverguide">file a bug report</a>.</p><br><d=
+iv style=3D"color:gray"><small>=C0=B4=D4=B4=A3=BA&nbsp;&lt;<a hre=
+f=3D"https://help.ubuntu.com/12.04/serverguide/kernel-crash-dump.=
+html">https://help.ubuntu.com/12.04/serverguide/kernel-crash-dump=
+.html</a><small>&gt;</small></small></div><small><small>&nbsp;</s=
+mall></small></div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000202000.705--
+
+------=_Next_Part_0000606000.176--
+

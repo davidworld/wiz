@@ -1,0 +1,2356 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?c3Rvcm0ta2Fma2Gyv8rwzsS1tQ==?=
+Date: Date: Fri, 23 Jul 2021 05:51:18 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000676170.042"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000676170.042
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000225390.310"
+
+
+------=_Next_Part_0000225390.310
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000225390.310
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A<title>storm-kafka=B2=BF=CA=F0=CE=C4=B5=B5</title>=
+=0A    =0A<style id=3D"wiz_custom_css">html, body {font-size: 12p=
+t;}body {font-family: Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=ED=
+=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-=
+serif;line-height: 1.6;margin: 0 auto;padding: 20px 16px;padding:=
+ 1.25rem 1rem;}h1, h2, h3, h4, h5, h6 {margin:20px 0 10px;margin:=
+1.25rem 0 0.625rem;padding: 0;font-weight: bold;}h1 {font-size:20=
+pt;font-size:1.67rem;}h2 {font-size:18pt;font-size:1.5rem;}h3 {fo=
+nt-size:15pt;font-size:1.25rem;}h4 {font-size:14pt;font-size:1.17=
+rem;}h5 {font-size:12pt;font-size:1rem;}h6 {font-size:12pt;font-s=
+ize:1rem;color: #777777;margin: 1rem 0;}div, p, ul, ol, dl, li {m=
+argin:0;}blockquote, table, pre, code {margin:8px 0;}ul, ol {padd=
+ing-left:32px;padding-left:2rem;}ol.wiz-list-level1 > li {list-st=
+yle-type:decimal;}ol.wiz-list-level2 > li {list-style-type:lower-=
+latin;}ol.wiz-list-level3 > li {list-style-type:lower-roman;}bloc=
+kquote {padding:0 12px;padding:0 0.75rem;}blockquote > :first-chi=
+ld {margin-top:0;}blockquote > :last-child {margin-bottom:0;}img=20=
+{border:0;max-width:100%;height:auto !important;margin:2px 0;}tab=
+le {border-collapse:collapse;border:1px solid #bbbbbb;}td, th {pa=
+dding:4px 8px;border-collapse:collapse;border:1px solid #bbbbbb;m=
+in-height:28px;word-break:break-all;box-sizing: border-box;}.wiz-=
+hide {display:none !important;}</style></head>=0A=0A<body class s=
+pellcheck=3D"false"><div>![=B7=E2=C3=E6](=B7=E2=C3=E6.jpg "=B7=E2=
+=C3=E6")<br></div><div><br></div><div>&lt;br&gt;<br></div><div><b=
+r></div><div>## =C4=BF=C2=BC<br></div><div><br></div><div>[TOC]<b=
+r></div><div><br></div><div>## 0 =BC=F2=BD=E9<br></div><div><br><=
+/div><div>### 0.1 =CF=EE=C4=BF=C4=BF=B1=EA<br></div><div><br></di=
+v><div>**=B9=A4=D2=B5** **=B4=F3=CA=FD=BE=DD** **=CA=B5=CA=B1** *=
+*=B7=D6=CE=F6** =D3=EB **=BF=C9=CA=D3=BB=AF**<br></div><div><br><=
+/div><div>### 0.2 =CF=B5=CD=B3=BC=F2=BD=E9<br></div><div><br></di=
+v><div>=CF=B5=CD=B3=B0=E6=B1=BE:<br></div><div><br></div><div>&nb=
+sp; &nbsp; OS:&nbsp; &nbsp; &nbsp; &nbsp; CentOS 7 1511 =B0=E6<br=
+></div><div>&nbsp; &nbsp; Python:&nbsp; &nbsp; 2.7.5 (CentOS 7 =D7=
+=D4=B4=F8)<br></div><div>&nbsp; &nbsp; Java:&nbsp; &nbsp; &nbsp;=20=
+1.8.0_65 (CentOS 7 =D7=D4=B4=F8)<br></div><div>&nbsp; &nbsp; Zook=
+eeper: 3.4.9<br></div><div>&nbsp; &nbsp; Storm:&nbsp; &nbsp;  1.0=
+.2<br></div><div>&nbsp; &nbsp; Kafka:&nbsp; &nbsp;  0.9.0.1<br></=
+div><div>&nbsp; &nbsp; Redis&nbsp; &nbsp; &nbsp; 3.2.5<br></div><=
+div>&nbsp; &nbsp; Node:&nbsp; &nbsp; &nbsp; 6.9.1<br></div><div><=
+br></div><div>IP =BC=B0 =B6=CB=BF=DA =B7=D6=C5=E4:<br></div><div>=
+<br></div><div>&nbsp; &nbsp; Zookeeper: 192.168.1.1 192.168.1.2 1=
+92.168.1.3 =BF=AA=B7=C5=B6=CB=BF=DA: 2181 2888 3888<br></div><div=
+>&nbsp; &nbsp; Storm: Nimbus: 192.168.1.4 192.168.1.5<br></div><d=
+iv>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Supervisor: 192.168.1.6 19=
+2.168.1.7 192.168.1.8 192.168.1.9<br></div><div>&nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp;  =BF=AA=B7=C5=B6=CB=BF=DA: 3772 3773 3774 6627=20=
+6699 8000 8080 6700 6701 6702 6703<br></div><div>&nbsp; &nbsp; Ka=
+fka: Broker: 192.168.1.10 192.168.1.11 192.168.1.12 =BF=AA=B7=C5=B6=
+=CB=BF=DA: 9092 9999<br></div><div>&nbsp; &nbsp; Kafka Manager: =BF=
+=AA=B7=C5=B6=CB=BF=DA: 9100<br></div><div>&nbsp; &nbsp; Redis: 19=
+2.168.1.13 =BF=AA=B7=C5=B6=CB=BF=DA: 6379<br></div><div>&nbsp; &n=
+bsp; Node: 192.168.1.14 =BF=AA=B7=C5=B6=CB=BF=DA: =C8=A1=BE=F6=D3=
+=DA node =B7=FE=CE=F1=C6=F7=BC=E0=CC=FD=B5=C4=B6=CB=BF=DA(=D4=DA=20=
+NodeJs =B4=FA=C2=EB=D6=D0=D0=B4=B5=C4)<br></div><div><br></div><d=
+iv>**PS**: =BD=A8=D2=E9=D6=B1=BD=D3=D4=DA firewall =D6=D0=C5=E4=D6=
+=C3=D5=E2=D0=A9=BB=FA=C6=F7=D6=AE=BC=E4=B5=C4=BB=A5=B7=C3=B2=BB=D7=
+=F6=B6=CB=BF=DA=B9=FD=C2=CB. =CA=B9=D3=C3 rich rule: =B6=D4=D6=B8=
+=B6=A8=B5=C4 IP =B2=BB=D7=F6=C0=B9=BD=D8. =C0=FD=C8=E7=D2=AA=C9=E8=
+=D6=C3=C0=B4=D7=D4 192.168.1.1 =B5=C4=B7=C3=CE=CA=B2=BB=D7=F6=B6=CB=
+=BF=DA=B9=FD=C2=CB, =C3=FC=C1=EE=C8=E7=CF=C2<br></div><div><br></=
+div><div>```bash<br></div><div>sudo firewall-cmd --permanent --ad=
+d-rich-rule=3D"rule family=3D'ipv4' source address=3D'192.168.1.1=
+' accept"<br></div><div>```<br></div><div><br></div><div>## 1 Zoo=
+keeper<br></div><div><br></div><div>### 1.1 =BC=F2=BD=E9<br></div=
+><div><br></div><div>[Apache Zookeeper](http://zookeeper.apache.o=
+rg/) =CA=C7 Hadoop =B5=C4=D2=BB=B8=F6=D7=D3=CF=EE=C4=BF, =CA=C7=D2=
+=BB=B8=F6=D6=C2=C1=A6=D3=DA=BF=AA=B7=A2=BA=CD=B9=DC=C0=ED=BF=AA=D4=
+=B4=B7=FE=CE=F1=C6=F7, =B2=A2=C7=D2=C4=DC=CA=B5=CF=D6=B8=DF=BF=C9=
+=BF=BF=D0=D4=B5=C4=B7=D6=B2=BC=CA=BD=D0=AD=B5=F7=BF=F2=BC=DC. =CB=
+=FC=B0=FC=BA=AC=D2=BB=B8=F6=BC=F2=B5=A5=B5=C4=D4=AD=D3=EF=BC=AF,=20=
+=B7=D6=B2=BC=CA=BD=D3=A6=D3=C3=B3=CC=D0=F2=BF=C9=D2=D4=BB=F9=D3=DA=
+=CB=FC=CA=B5=CF=D6=CD=AC=B2=BD=B7=FE=CE=F1, =C5=E4=D6=C3=CE=AC=BB=
+=A4=BA=CD=C3=FC=C3=FB=B7=FE=CE=F1=B5=C8.<br></div><div><br></div>=
+<div>Zookeeper =B1=A3=D6=A4 2n + 1 =CC=A8=BB=FA=C6=F7=B5=C4=BC=AF=
+=C8=BA=D7=EE=B4=F3=D4=CA=D0=ED n =CC=A8=BB=FA=C6=F7=B9=D2=B5=F4=B6=
+=F8=CA=C2=CE=F1=B2=BB=D6=D0=B6=CF.<br></div><div><br></div><div>#=
+## 1.2 =B4=EE=BD=A8<br></div><div><br></div><div>#### 1.2.1 =B5=A5=
+=BB=FA=C4=A3=CA=BD<br></div><div><br></div><div>=B4=CB=C4=A3=CA=BD=
+=D6=F7=D2=AA=D3=C3=D3=DA**=BF=AA=B7=A2=C8=CB=D4=B1=B1=BE=B5=D8=BB=
+=B7=BE=B3=CF=C2=B2=E2=CA=D4=B4=FA=C2=EB**<br></div><div><br></div=
+><div>##### 1.2.1.1 =BD=E2=D1=B9 Zookeeper =B2=A2=BD=F8=C8=EB=C6=E4=
+=B8=F9=C4=BF=C2=BC<br></div><div><br></div><div>```bash<br></div>=
+<div>tar xzf zookeeper-3.4.9.tar.gz -C /usr/local/<br></div><div>=
+cd /usr/local/zookeeper-3.4.9<br></div><div>```<br></div><div><br=
+></div><div>##### 1.2.1.2 =B4=B4=BD=A8=C5=E4=D6=C3=CE=C4=BC=FE co=
+nf/zoo.cfg<br></div><div><br></div><div>```bash<br></div><div>cp=20=
+conf/zoo_sample.cfg conf/zoo.cfg<br></div><div>```<br></div><div>=
+<br></div><div>##### 1.2.1.3 =D0=DE=B8=C4=C4=DA=C8=DD=C8=E7=CF=C2=
+:<br></div><div><br></div><div>```bash<br></div><div>tickTime=3D2=
+000<br></div><div>initLimit=3D10<br></div><div>syncLimit=3D5<br><=
+/div><div>dataDir=3D/var/lib/zookeeper/data<br></div><div>dataLog=
+Dir=3D/var/lib/zookeeper/logs<br></div><div>clientPort=3D2181<br>=
+</div><div>```<br></div><div><br></div><div>* tickTime: =CA=C7 zo=
+okeeper =B5=C4=D7=EE=D0=A1=CA=B1=BC=E4=B5=A5=D4=AA=B5=C4=B3=A4=B6=
+=C8(=D2=D4=BA=C1=C3=EB=CE=AA=B5=A5=CE=BB), =CB=FC=B1=BB=D3=C3=C0=B4=
+=C9=E8=D6=C3=D0=C4=CC=F8=BC=EC=B2=E2=BA=CD=BB=E1=BB=B0=D7=EE=D0=A1=
+=B3=AC=CA=B1=CA=B1=BC=E4(tickTime =B5=C4=C1=BD=B1=B6)<br></div><d=
+iv>* initLimit: =B3=F5=CA=BC=BB=AF=C1=AC=BD=D3=CA=B1=C4=DC=C8=DD=C8=
+=CC=B5=C4=D7=EE=B3=A4 tickTime =B8=F6=CA=FD<br></div><div>* syncL=
+imit: follower =D3=C3=D3=DA=CD=AC=B2=BD=B5=C4=D7=EE=B3=A4 tickTim=
+e =B8=F6=CA=FD<br></div><div>* dataDir: =B7=FE=CE=F1=C6=F7=B4=E6=B4=
+=A2 **=CA=FD=BE=DD=BF=EC=D5=D5** =B5=C4=C4=BF=C2=BC<br></div><div=
+>* dataLogDir: =B7=FE=CE=F1=C6=F7=B4=E6=B4=A2 **=CA=C2=CE=F1=C8=D5=
+=D6=BE** =B5=C4=C4=BF=C2=BC<br></div><div>* clientPort: =D3=C3=D3=
+=DA client =C1=AC=BD=D3=B5=C4 server =B5=C4=B6=CB=BF=DA<br></div>=
+<div><br></div><div>=C6=E4=D6=D0=D0=E8=D2=AA=D7=A2=D2=E2=B5=C4=CA=
+=C7`dataDir`=BA=CD`dataLogDir`, =B7=D6=B1=F0=CA=C7 zookeeper =D4=CB=
+=D0=D0=CA=B1=B5=C4=CA=FD=BE=DD=C4=BF=C2=BC=BA=CD=C8=D5=D6=BE=C4=BF=
+=C2=BC, =D2=AA=B1=A3=D6=A4 **=D5=E2=C1=BD=B8=F6=C4=BF=C2=BC=D2=D1=
+=B4=B4=BD=A8** =C7=D2 **=D4=CB=D0=D0 zookeeper =B5=C4=D3=C3=BB=A7=
+=D3=B5=D3=D0=D5=E2=C1=BD=B8=F6=C4=BF=C2=BC=B5=C4=CB=F9=D3=D0=C8=A8=
+**<br></div><div><br></div><div>##### 1.2.1.4 =B2=E2=CA=D4<br></d=
+iv><div><br></div><div>* =C6=F4=B6=AF/=B9=D8=B1=D5 Zookeeper:<br>=
+</div><div><br></div><div>```bash<br></div><div>bin/zkServer.sh s=
+tart<br></div><div>bin/zkServer.sh stop<br></div><div>```<br></di=
+v><div><br></div><div>* =B2=E9=BF=B4 Zookeeper =D7=B4=CC=AC:<br><=
+/div><div><br></div><div>```bash<br></div><div>bin/zkServer.sh st=
+atus<br></div><div>```<br></div><div><br></div><div>=CF=D4=CA=BE=20=
+`mode: standalone`, =B5=A5=BB=FA=C4=A3=CA=BD.<br></div><div><br><=
+/div><div>* =CA=B9=D3=C3 java =BF=CD=BB=A7=B6=CB=C1=AC=BD=D3 ZooK=
+eeper<br></div><div><br></div><div>```bash<br></div><div>./bin/zk=
+Cli.sh -server 127.0.0.1:2181<br></div><div>```<br></div><div><br=
+></div><div>=C8=BB=BA=F3=BE=CD=BF=C9=D2=D4=CA=B9=D3=C3=B8=F7=D6=D6=
+=C3=FC=C1=EE=C1=CB, =B8=FA=CE=C4=BC=FE=B2=D9=D7=F7=C3=FC=C1=EE=BA=
+=DC=C0=E0=CB=C6, =CA=E4=C8=EB help =BF=C9=D2=D4=BF=B4=B5=BD=CB=F9=
+=D3=D0=C3=FC=C1=EE.<br></div><div><br></div><div>#### 1.2.2 =BC=AF=
+=C8=BA=C4=A3=CA=BD<br></div><div><br></div><div>=B4=CB=C4=A3=CA=BD=
+=CA=C7 **=C9=FA=B2=FA=BB=B7=BE=B3=D6=D0=CA=B5=BC=CA=CA=B9=D3=C3=B5=
+=C4=C4=A3=CA=BD**<br></div><div><br></div><div>=D2=F2=CE=AA zooke=
+eper =B1=A3=D6=A4 2n + 1 =CC=A8=BB=FA=C6=F7=D7=EE=B4=F3=D4=CA=D0=ED=
+ n =CC=A8=BB=FA=C6=F7=B9=D2=B5=F4, =CB=F9=D2=D4=C5=E4=D6=C3=BC=AF=
+=C8=BA=C4=A3=CA=BD=D7=EE=BA=C3=CA=C7=C6=E6=CA=FD=CC=A8=BB=FA=C6=F7=
+: 3, 5, 7...<br></div><div><br></div><div>=D7=EE=C9=D9 3 =CC=A8=B9=
+=B9=B3=C9=BC=AF=C8=BA<br></div><div><br></div><div>##### 1.2.2.1=20=
+hosts =D3=B3=C9=E4(=BF=C9=D1=A1)<br></div><div><br></div><div>```=
+bash<br></div><div>echo "192.168.1.1 zoo1" &gt;&gt; /etc/hosts<br=
+></div><div>echo "192.168.1.2 zoo2" &gt;&gt; /etc/hosts<br></div>=
+<div>echo "192.168.1.3 zoo3" &gt;&gt; /etc/hosts<br></div><div>``=
+`<br></div><div><br></div><div>##### 1.2.2.2 =D0=DE=B8=C4 zookeep=
+er-3.4.9/conf/zoo.cfg =CE=C4=BC=FE<br></div><div><br></div><div>`=
+``bash<br></div><div>tickTime=3D2000<br></div><div>initLimit=3D10=
+<br></div><div>syncLimit=3D5<br></div><div>dataDir=3D/var/lib/zoo=
+keeper/data<br></div><div>dataLogDir=3D/var/lib/zookeeper/log<br>=
+</div><div>clientPort=3D2181<br></div><div>server.1=3D192.168.1.1=
+:2888:3888<br></div><div>server.2=3D192.168.1.2:2888:3888<br></di=
+v><div>server.3=3D192.168.1.3:2888:3888<br></div><div>```<br></di=
+v><div><br></div><div>=D3=EB=B5=A5=BB=FA=C4=A3=CA=BD=B5=C4=B2=BB=CD=
+=AC=BE=CD=CA=C7=D7=EE=BA=F3=C8=FD=CC=F5: `server.X=3Dhost:portA:p=
+ortB`<br></div><div><br></div><div>```bash<br></div><div>server.1=
+=3D192.168.1.1:2888:3888<br></div><div>server.2=3D192.168.1.2:288=
+8:3888<br></div><div>server.3=3D192.168.1.3:2888:3888<br></div><d=
+iv>```<br></div><div><br></div><div>=BB=F2<br></div><div><br></di=
+v><div>```bash<br></div><div>server.1=3Dzoo1:2888:3888<br></div><=
+div>server.2=3Dzoo2:2888:3888<br></div><div>server.3=3Dzoo3:2888:=
+3888<br></div><div>```<br></div><div><br></div><div>X =CE=AA=B1=EA=
+=CA=B6=CE=AA X =B5=C4=BB=FA=C6=F7, host =CE=AA=C6=E4 hostname =BB=
+=F2 IP, portA =D3=C3=D3=DA=D5=E2=CC=A8=BB=FA=C6=F7=D3=EB=BC=AF=C8=
+=BA=D6=D0=B5=C4 Leader =BB=FA=C6=F7=CD=A8=D0=C5, portB =D3=C3=D3=DA=
+ server =D1=A1=BE=D9 leader.<br></div><div><br></div><div>**PS**:=
+ =D2=AA=C5=E4=B5=A5=BB=FA=CE=B1=B7=D6=B2=BC=CA=BD=B5=C4=BB=B0, =BF=
+=C9=D2=D4=D0=DE=B8=C4=D5=E2=C0=EF=CE=AA<br></div><div><br></div><=
+div>```bash<br></div><div>server.1=3Dlocalhost:2888:3888<br></div=
+><div>server.2=3Dlocalhost:2889:3889<br></div><div>server.3=3Dloc=
+alhost:2890:3890<br></div><div>```<br></div><div><br></div><div>=C8=
+=BB=BA=F3=C3=BF=B8=F6 zookeeper =CA=B5=C0=FD=B5=C4 dataDir =BA=CD=
+ dataLogDir =C5=E4=D6=C3=CE=AA=B2=BB=CD=AC=B5=C4=BC=B4=BF=C9<br><=
+/div><div><br></div><div>##### 1.2.2.3 myid =CE=C4=BC=FE<br></div=
+><div><br></div><div>=D4=DA=B1=EA=CA=BE=CE=AA X =B5=C4=BB=FA=C6=F7=
+=C9=CF, =BD=AB X =D0=B4=C8=EB ${dataDir}/myid =CE=C4=BC=FE, =C8=E7=
+: =D4=DA 192.168.1.2 =BB=FA=C6=F7=C9=CF=B5=C4 /var/lib/zookeeper/=
+data =C4=BF=C2=BC=CF=C2=BD=A8=C1=A2=CE=C4=BC=FE myid, =D0=B4=C8=EB=
+ 2<br></div><div><br></div><div>````bash<br></div><div>echo "2" &=
+gt; /var/lib/zookeeper/data/myid<br></div><div>````<br></div><div=
+><br></div><div>##### 1.2.2.4 =BF=AA=B7=C5=B6=CB=BF=DA<br></div><=
+div><br></div><div>CentOS 7 =CA=B9=D3=C3 firewalld =B4=FA=CC=E6=C1=
+=CB=D4=AD=C0=B4=B5=C4 iptables, =BB=F9=B1=BE=CA=B9=D3=C3=C8=E7=CF=
+=C2<br></div><div><br></div><div>```bash<br></div><div>systemctl=20=
+start firewalld&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; # =C6=F4=B6=AF=B7=C0=BB=F0=C7=BD<br></div><div>=
+firewall-cmd --state&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  # =BC=EC=B2=E9=B7=C0=BB=F0=C7=
+=BD=D7=B4=CC=AC<br></div><div>firewall-cmd --zone=3Dpublic --add-=
+port=3D2888/tcp --permanent&nbsp; &nbsp;  # =D3=C0=BE=C3=BF=AA=C6=
+=F4 2888 =B6=CB=BF=DA<br></div><div>firewall-cmd --reload&nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; # =D6=D8=D0=C2=BC=D3=D4=D8=B7=C0=BB=F0=C7=BD=B9=E6=D4=F2=
+<br></div><div>firewall-cmd --list-all&nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # =C1=D0=B3=F6=CB=
+=F9=D3=D0=B7=C0=BB=F0=C7=BD=B9=E6=D4=F2<br></div><div>```<br></di=
+v><div><br></div><div>=B0=D1 Zookeeper =D3=C3=B5=BD=B5=C4=B6=CB=BF=
+=DA=BF=AA=B7=C5=B3=F6=C0=B4<br></div><div><br></div><div>```bash<=
+br></div><div>firewall-cmd --zone=3Dpublic --add-port=3D2181/tcp=20=
+--permanent&nbsp; &nbsp;  # =D3=C0=BE=C3=BF=AA=C6=F4 2181 =B6=CB=BF=
+=DA<br></div><div>firewall-cmd --zone=3Dpublic --add-port=3D2888/=
+tcp --permanent&nbsp; &nbsp;  # =D3=C0=BE=C3=BF=AA=C6=F4 2888 =B6=
+=CB=BF=DA<br></div><div>firewall-cmd --zone=3Dpublic --add-port=3D=
+3888/tcp --permanent&nbsp; &nbsp;  # =D3=C0=BE=C3=BF=AA=C6=F4 388=
+8 =B6=CB=BF=DA<br></div><div>firewall-cmd --reload&nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; # =D6=D8=D0=C2=BC=D3=D4=D8=B7=C0=BB=F0=C7=BD=B9=E6=D4=F2<br></d=
+iv><div>```<br></div><div><br></div><div>##### 1.2.2.5 =B2=E2=CA=D4=
+<br></div><div><br></div><div>* =D4=DA **=BC=AF=C8=BA=D6=D0=CB=F9=
+=D3=D0=BB=FA=C6=F7=C9=CF** =C6=F4=B6=AF zookeeper(=BE=A1=C1=BF=CD=
+=AC=CA=B1):<br></div><div><br></div><div>```bash<br></div><div>bi=
+n/zkServer.sh start<br></div><div>```<br></div><div><br></div><di=
+v>* =B2=E9=BF=B4=D7=B4=CC=AC, =D3=A6=B8=C3=D3=D0=D2=BB=CC=A8=BB=FA=
+=C6=F7=CF=D4=CA=BE`mode: leader`, =C6=E4=D3=E0=CE=AA`mode: follow=
+er`<br></div><div><br></div><div>```bash<br></div><div>bin/zkServ=
+er.sh status<br></div><div>```<br></div><div><br></div><div>* =CA=
+=B9=D3=C3 java =BF=CD=BB=A7=B6=CB=C1=AC=BD=D3 ZooKeeper<br></div>=
+<div><br></div><div>```bash<br></div><div>./bin/zkCli.sh -server=20=
+192.168.1.1:2181<br></div><div>```<br></div><div><br></div><div>=C8=
+=BB=BA=F3=BE=CD=BF=C9=D2=D4=CA=B9=D3=C3=B8=F7=D6=D6=C3=FC=C1=EE=C1=
+=CB, =B8=FA=CE=C4=BC=FE=B2=D9=D7=F7=C3=FC=C1=EE=BA=DC=C0=E0=CB=C6=
+, =CA=E4=C8=EBhelp=BF=C9=D2=D4=BF=B4=B5=BD=CB=F9=D3=D0=C3=FC=C1=EE=
+.<br></div><div><br></div><div>* =B9=D8=B1=D5 zookeeper:<br></div=
+><div><br></div><div>```bash<br></div><div>./bin/zkServer.sh stop=
+<br></div><div>```<br></div><div><br></div><div>#### 1.2.3 Zookee=
+per =B3=A3=BC=FB=CE=CA=CC=E2<br></div><div><br></div><div>=B2=E9=BF=
+=B4=D7=B4=CC=AC=CA=B1, =D3=A6=B8=C3=D3=D0=D2=BB=CC=A8=BB=FA=C6=F7=
+=CF=D4=CA=BE`mode: leader`, =C6=E4=D3=E0=CE=AA`mode: follower`<br=
+></div><div><br></div><div>```bash<br></div><div>bin/zkServer.sh=20=
+status<br></div><div>```<br></div><div><br></div><div>=B5=B1=CF=D4=
+=CA=BE`Error contacting service. It is probably not running.`=CA=B1=
+, =BF=C9=D2=D4=B2=E9=BF=B4=C8=D5=D6=BE<br></div><div><br></div><d=
+iv>```bash<br></div><div>cat zookeeper.out<br></div><div>```<br><=
+/div><div><br></div><div>=B2=E9=BF=B4 zookeeper.out =C8=D5=D6=BE=BF=
+=C9=D2=D4=BF=B4=B5=BD=CA=C7=C4=C7=D0=A9=BB=FA=C6=F7=C1=AC=B2=BB=C9=
+=CF, =BF=C9=C4=DC=CA=C7 **=CD=F8=C2=E7, ip, =B6=CB=BF=DA, =C5=E4=D6=
+=C3=CE=C4=BC=FE, myid =CE=C4=BC=FE** =B5=C4=CE=CA=CC=E2.<br></div=
+><div>=D5=FD=B3=A3=D3=A6=B8=C3=CA=C7: =CF=C8=CA=C7=D2=BB=D0=A9 ja=
+va =D2=EC=B3=A3, =D5=E2=CA=C7=D2=F2=CE=AA ZooKeeper =BC=AF=C8=BA=C6=
+=F4=B6=AF=B5=C4=CA=B1=BA=F2, =C3=BF=B8=F6=BD=E1=B5=E3=B6=BC=CA=D4=
+=CD=BC=C8=A5=C1=AC=BD=D3=BC=AF=C8=BA=D6=D0=B5=C4=C6=E4=CB=FC=BD=E1=
+=B5=E3, =CF=C8=C6=F4=B6=AF=B5=C4=BF=CF=B6=A8=C1=AC=B2=BB=C9=CF=BA=
+=F3=C3=E6=BB=B9=C3=BB=C6=F4=B6=AF=B5=C4, =CB=F9=D2=D4=C9=CF=C3=E6=
+=C8=D5=D6=BE=C7=B0=C3=E6=B2=BF=B7=D6=B5=C4=D2=EC=B3=A3=CA=C7=BF=C9=
+=D2=D4=BA=F6=C2=D4=B5=C4, =B5=B1=BC=AF=C8=BA=CB=F9=D3=D0=B5=C4=BB=
+=FA=C6=F7=B5=C4 zookeeper =B6=BC=C6=F4=B6=AF=C6=F0=C0=B4, =BE=CD=C3=
+=BB=D3=D0=D2=EC=B3=A3=C1=CB, =B2=A2=D1=A1=BE=D9=B3=F6=C0=B4=C1=CB=
+ leader.<br></div><div><br></div><div>**PS**: =D2=F2=CE=AA zkServ=
+er.sh =BD=C5=B1=BE=D6=D0=CA=C7=D3=C3 nohup =C3=FC=C1=EE=C6=F4=B6=AF=
+ zookeeper =B5=C4, =CB=F9=D2=D4 zookeeper.out =CE=C4=BC=FE=CA=C7=D4=
+=DA=B5=F7=D3=C3 zkServer.sh =CA=B1=B5=C4=C2=B7=BE=B6=CF=C2, =C8=E7=
+:=D3=C3 `bin/zkServer.sh start` =C6=F4=B6=AF=D4=F2 zookeeper.out=20=
+=CE=C4=BC=FE=D4=DA `zookeeper-3.4.9/` =CF=C2; =D3=C3 `zkServer.sh=
+ start` =C6=F4=B6=AF=D4=F2 zookeeper.out =CE=C4=BC=FE=D4=DA `zook=
+eeper-3.4.9/bin/` =CF=C2.<br></div><div><br></div><div>## 2 Storm=
+<br></div><div><br></div><div>### 2.1 =BC=F2=BD=E9<br></div><div>=
+<br></div><div>[Apache Storm](http://storm.apache.org/): =B7=D6=B2=
+=BC=CA=BD=CA=B5=CA=B1=BC=C6=CB=E3=CF=B5=CD=B3<br></div><div><br><=
+/div><div>=D3=EB Hadoop =B5=C4=C5=FA=B4=A6=C0=ED=CF=E0=C0=E0=CB=C6=
+, Storm =BF=C9=D2=D4=B6=D4=B4=F3=C1=BF=B5=C4=CA=FD=BE=DD=C1=F7=BD=
+=F8=D0=D0=BF=C9=BF=BF=B5=C4=CA=B5=CA=B1=B4=A6=C0=ED, =D5=E2=D2=BB=
+=B9=FD=B3=CC=D2=B2=B3=C6=CE=AA"=C1=F7=CA=BD=B4=A6=C0=ED", =CA=C7=B7=
+=D6=B2=BC=CA=BD=B4=F3=CA=FD=BE=DD=B4=A6=C0=ED=B5=C4=D2=BB=B8=F6=D6=
+=D8=D2=AA=B7=BD=CF=F2. Storm =D6=A7=B3=D6=B6=E0=D6=D6=C0=E0=D0=CD=
+=B5=C4=D3=A6=D3=C3, =B0=FC=C0=A8: =CA=B5=CA=B1=B7=D6=CE=F6, =D4=DA=
+=CF=DF=BB=FA=C6=F7=D1=A7=CF=B0, =C1=AC=D0=F8=BC=C6=CB=E3, =B7=D6=B2=
+=BC=CA=BD RPC(DRPC), ETL =B5=C8. Strom =B5=C4=D2=BB=B8=F6=D6=D8=D2=
+=AA=CC=D8=B5=E3=BE=CD=CA=C7"=BF=EC=CB=D9"=B5=C4=CA=FD=BE=DD=B4=A6=
+=C0=ED, =D3=D0 benchmark =CF=D4=CA=BE Storm =C4=DC=B9=BB=B4=EF=B5=
+=BD=B5=A5=B8=F6=BD=DA=B5=E3=C3=BF=C3=EB=B0=D9=CD=F2=BC=B6 tuple =B4=
+=A6=C0=ED(Tuple =CA=C7 Storm =B5=C4=D7=EE=D0=A1=CA=FD=BE=DD=B5=A5=
+=D4=AA)=B5=C4=CB=D9=B6=C8. =BF=EC=CB=D9=B5=C4=CA=FD=BE=DD=B4=A6=C0=
+=ED, =D3=C5=D0=E3=B5=C4=BF=C9=C0=A9=D5=B9=D0=D4=D3=EB=C8=DD=B4=ED=
+=D0=D4, =B1=E3=BD=DD=B5=C4=BF=C9=B2=D9=D7=F7=D0=D4=D3=EB=CE=AC=BB=
+=A4=D0=D4, =BB=EE=D4=BE=B5=C4=C9=E7=C7=F8=BC=BC=CA=F5=D6=A7=B3=D6=
+, =D5=E2=BE=CD=CA=C7 Storm.<br></div><div><br></div><div>Storm =B5=
+=C4=CA=CA=D3=C3=B3=A1=BE=B0:<br></div><div><br></div><div>1. =C1=F7=
+=CA=FD=BE=DD=B4=A6=C0=ED. Storm =BF=C9=D2=D4=D3=C3=C0=B4=B4=A6=C0=
+=ED=D4=B4=D4=B4=B2=BB=B6=CF=C1=F7=BD=F8=C0=B4=B5=C4=CF=FB=CF=A2,=20=
+=B4=A6=C0=ED=D6=AE=BA=F3=BD=AB=BD=E1=B9=FB=D0=B4=C8=EB=B5=BD=C4=B3=
+=B8=F6=B4=E6=B4=A2=D6=D0=C8=A5.<br></div><div>2. =B7=D6=B2=BC=CA=BD=
+ rpc. =D3=C9=D3=DA Storm =B5=C4=B4=A6=C0=ED=D7=E9=BC=FE=CA=C7=B7=D6=
+=B2=BC=CA=BD=B5=C4, =B6=F8=C7=D2=B4=A6=C0=ED=D1=D3=B3=D9=BC=AB=B5=
+=CD, =CB=F9=D2=D4=BF=C9=D2=D4=D7=F7=CE=AA=D2=BB=B8=F6=CD=A8=D3=C3=
+=B5=C4=B7=D6=B2=BC=CA=BD rpc =BF=F2=BC=DC=C0=B4=CA=B9=D3=C3.<br><=
+/div><div><br></div><div>### 2.2 =B4=EE=BD=A8<br></div><div><br><=
+/div><div>#### 2.2.1 =B5=A5=BB=FA=C4=A3=CA=BD<br></div><div><br><=
+/div><div>=B4=CB=C4=A3=CA=BD=D6=F7=D2=AA=D3=C3=D3=DA **=BF=AA=B7=A2=
+=C8=CB=D4=B1=B1=BE=B5=D8=BB=B7=BE=B3=CF=C2=B2=E2=CA=D4=B4=FA=C2=EB=
+**<br></div><div><br></div><div>##### 2.2.1.1 =B4=EE=BD=A8 Zookee=
+per (=B5=A5=BB=FA or =BC=AF=C8=BA)<br></div><div><br></div><div>=BC=
+=FB [1.2.1 =B5=A5=BB=FA=C4=A3=CA=BD](# 1.2.1 =B5=A5=BB=FA=C4=A3=CA=
+=BD) or =BC=FB [1.2.2 =BC=AF=C8=BA=C4=A3=CA=BD](# 1.2.2 =BC=AF=C8=
+=BA=C4=A3=CA=BD)<br></div><div><br></div><div>##### 2.2.1.2 =B0=B2=
+=D7=B0 Storm =D2=C0=C0=B5=BF=E2(Java, Python)<br></div><div><br><=
+/div><div>=D4=DA=BC=AF=C8=BA=D6=D0=B5=C4=CB=F9=D3=D0=BB=FA=C6=F7=C9=
+=CF=B0=B2=D7=B0 Storm =B1=D8=D2=AA=B5=C4=D2=C0=C0=B5=D7=E9=BC=FE:=
+ Java7(or 8), Python2.7.<br></div><div><br></div><div>=CA=B9=D3=C3=
+ CentOS 7 =D7=D4=B4=F8=B5=C4 Python 2.7.5 =BC=B0 openjdk 1.8.0_65=
+ =BC=B4=BF=C9<br></div><div><br></div><div>##### 2.2.1.3 =BD=E2=D1=
+=B9 Storm =B2=A2=C6=F4=B6=AF Storm =B8=F7=B8=F6=BA=F3=CC=A8=BD=F8=
+=B3=CC<br></div><div><br></div><div>=B2=BB=D0=E8=B6=EE=CD=E2=C5=E4=
+=D6=C3, =BC=B4=CA=C7=B5=A5=BB=FA=C4=A3=CA=BD<br></div><div><br></=
+div><div>* **Nimbus**: =D4=CB=D0=D0<br></div><div><br></div><div>=
+```bash<br></div><div>nohup bin/storm nimbus &gt; logs/nimbus-boo=
+t.log 2&gt;&amp;1 &amp;<br></div><div>```<br></div><div><br></div=
+><div>=C6=F4=B6=AF Nimbus =BA=F3=CC=A8=B3=CC=D0=F2, =B2=A2=B7=C5=B5=
+=BD=BA=F3=CC=A8=D6=B4=D0=D0, =B1=EA=D7=BC=CA=E4=B3=F6=BA=CD=B4=ED=
+=CE=F3=CA=E4=B3=F6=B6=A8=CF=F2=B5=BD `./logs/nimbus-boot.log`, =D3=
+=D0=CE=CA=CC=E2=CA=B1=BF=C9=D2=D4=C8=A5=BF=B4=D5=E2=B8=F6=CE=C4=BC=
+=FE<br></div><div><br></div><div>* **Supervisor**: =D4=CB=D0=D0<b=
+r></div><div><br></div><div>```bash<br></div><div>nohup bin/storm=
+ supervisor &gt; logs/supervisor-boot.log 2&gt;&amp;1 &amp;<br></=
+div><div>```<br></div><div><br></div><div>=C6=F4=B6=AF Supervisor=
+ =BA=F3=CC=A8=B3=CC=D0=F2, =B2=A2=B7=C5=B5=BD=BA=F3=CC=A8=D6=B4=D0=
+=D0, =B1=EA=D7=BC=CA=E4=B3=F6=BA=CD=B4=ED=CE=F3=CA=E4=B3=F6=B6=A8=
+=CF=F2=B5=BD `./logs/supervisor-boot.log`, =D3=D0=CE=CA=CC=E2=CA=B1=
+=BF=C9=D2=D4=C8=A5=BF=B4=D5=E2=B8=F6=CE=C4=BC=FE<br></div><div><b=
+r></div><div>* **Storm UI**: =D4=CB=D0=D0<br></div><div><br></div=
+><div>```bash<br></div><div>nohup bin/storm ui &gt; logs/ui-boot.=
+log 2&gt;&amp;1 &amp;<br></div><div>```<br></div><div><br></div><=
+div>=C6=F4=B6=AF Storm UI =BA=F3=CC=A8=B3=CC=D0=F2, =B2=A2=B7=C5=B5=
+=BD=BA=F3=CC=A8=D6=B4=D0=D0, =B1=EA=D7=BC=CA=E4=B3=F6=BA=CD=B4=ED=
+=CE=F3=CA=E4=B3=F6=B6=A8=CF=F2=B5=BD `./logs/ui-boot.log`, =D3=D0=
+=CE=CA=CC=E2=CA=B1=BF=C9=D2=D4=C8=A5=BF=B4=D5=E2=B8=F6=CE=C4=BC=FE=
+.<br></div><div><br></div><div>Storm UI =BF=C9=D2=D4=D4=DA=E4=AF=C0=
+=C0=C6=F7=D6=D0=B7=BD=B1=E3=B5=D8=BC=E0=BF=D8=BC=AF=C8=BA=D3=EB=CD=
+=D8=C6=CB=D4=CB=D0=D0=D7=B4=BF=F6, =C6=F4=B6=AF=BA=F3=BF=C9=D2=D4=
+=CD=A8=B9=FD *http://{nimbus host}:8080* =B9=DB=B2=EC=BC=AF=C8=BA=
+=B5=C4 Worker =D7=CA=D4=B4=CA=B9=D3=C3=C7=E9=BF=F6, Topologies =B5=
+=C4=D4=CB=D0=D0=D7=B4=CC=AC=B5=C8=D0=C5=CF=A2.<br></div><div><br>=
+</div><div>**PS**: Storm =BA=F3=CC=A8=BD=F8=B3=CC=B1=BB=C6=F4=B6=AF=
+=BA=F3, =BD=AB=D4=DA Storm =B0=B2=D7=B0=B2=BF=CA=F0=C4=BF=C2=BC=CF=
+=C2=B5=C4 logs/ =D7=D3=C4=BF=C2=BC=CF=C2=C9=FA=B3=C9=B8=F7=B8=F6=BD=
+=F8=B3=CC=B5=C4=C8=D5=D6=BE=CE=C4=BC=FE, =D5=E2=CA=C7 Storm =B5=C4=
+=C4=AC=C8=CF=C9=E8=D6=C3, =C8=D5=D6=BE=CE=C4=BC=FE=B5=C4=C2=B7=BE=
+=B6=D3=EB=CF=E0=B9=D8=C5=E4=D6=C3=D0=C5=CF=A2=BF=C9=D2=D4=D4=DA {=
+STORM_HOME}/logback/cluster.xml =CE=C4=BC=FE=D6=D0=D0=DE=B8=C4.<b=
+r></div><div><br></div><div>#### 2.2.2 =BC=AF=C8=BA=C4=A3=CA=BD<b=
+r></div><div><br></div><div>=B4=CB=C4=A3=CA=BD=CA=C7 **=C9=FA=B2=FA=
+=BB=B7=BE=B3=D6=D0=CA=B5=BC=CA=CA=B9=D3=C3=B5=C4=C4=A3=CA=BD**<br=
+></div><div><br></div><div>##### 2.2.2.1 hosts =D3=B3=C9=E4(=BF=C9=
+=D1=A1)<br></div><div><br></div><div>=D7=EE=BA=C3=C5=E4=D6=C3=D6=F7=
+=BB=FA=C3=FB, =C5=E4=D6=C3=CE=C4=BC=FE conf/storm.yaml =D6=D0=C8=F4=
+=CA=C7=CC=EE=D0=B4 IP, =D4=DA Storm UI =D6=D0=CF=D4=CA=BE=B2=BB=D5=
+=FD=B3=A3<br></div><div><br></div><div>```bash<br></div><div>echo=
+ "192.168.1.4 nim1" &gt;&gt; /etc/hosts<br></div><div>echo "192.1=
+68.1.5 nim2" &gt;&gt; /etc/hosts<br></div><div><br></div><div>ech=
+o "192.168.1.6 sup1" &gt;&gt; /etc/hosts<br></div><div>echo "192.=
+168.1.7 sup2" &gt;&gt; /etc/hosts<br></div><div>echo "192.168.1.8=
+ sup3" &gt;&gt; /etc/hosts<br></div><div>echo "192.168.1.9 sup4"=20=
+&gt;&gt; /etc/hosts<br></div><div>```<br></div><div><br></div><di=
+v>##### 2.2.2.2 =B4=EE=BD=A8 Zookeeper =BC=AF=C8=BA<br></div><div=
+><br></div><div>=BC=FB [1.2.2 =BC=AF=C8=BA=C4=A3=CA=BD](# 1.2.2 =BC=
+=AF=C8=BA=C4=A3=CA=BD)<br></div><div><br></div><div>=B9=D8=D3=DA=20=
+ZooKeeper =B2=BF=CA=F0=B5=C4=C1=BD=B5=E3=CB=B5=C3=F7:<br></div><d=
+iv><br></div><div>*&nbsp;  ZooKeeper =B1=D8=D0=EB=D4=DA=BC=E0=BF=D8=
+=C4=A3=CA=BD=CF=C2=D4=CB=D0=D0. =D2=F2=CE=AA ZooKeeper =CA=C7=B8=F6=
+=BF=EC=CB=D9=CA=A7=B0=DC=CF=B5=CD=B3, =C8=E7=B9=FB=D3=F6=B5=BD=C1=
+=CB=B9=CA=D5=CF, ZooKeeper =B7=FE=CE=F1=BB=E1=D6=F7=B6=AF=B9=D8=B1=
+=D5. =B8=FC=B6=E0=CF=EA=CF=B8=D0=C5=CF=A2=C7=EB=B2=CE=BF=BC: http=
+://zookeeper.apache.org/doc/r3.3.3/zookeeperAdmin.html#sc_supervi=
+sion. =CE=D2=C3=C7=D1=A1=D4=F1=B5=DA=D2=BB=B8=F6=B7=BD=B0=B8: dae=
+montools: http://cr.yp.to/daemontools.html<br></div><div>*&nbsp;=20=
+ =D0=E8=D2=AA=C9=E8=D6=C3=D2=BB=B8=F6 cron =B7=FE=CE=F1=C0=B4=B6=A8=
+=CA=B1=D1=B9=CB=F5 ZooKeeper =B5=C4=CA=FD=BE=DD=D3=EB=CA=C2=CE=F1=
+=C8=D5=D6=BE. =D2=F2=CE=AA ZooKeeper =B5=C4=BA=F3=CC=A8=BD=F8=B3=CC=
+=B2=BB=BB=E1=B4=A6=C0=ED=D5=E2=B8=F6=CE=CA=CC=E2, =C8=E7=B9=FB=B2=
+=BB=C5=E4=D6=C3 cron, ZooKeeper =B5=C4=C8=D5=D6=BE=BB=E1=BA=DC=BF=
+=EC=CC=EE=C2=FA=B4=C5=C5=CC=BF=D5=BC=E4. =B8=FC=B6=E0=CF=EA=CF=B8=
+=D0=C5=CF=A2=C7=EB=B2=CE=BF=BC: http://zookeeper.apache.org/doc/r=
+3.3.3/zookeeperAdmin.html#sc_maintenance<br></div><div>&nbsp; &nb=
+sp; * =B4=FA=CC=E6=B7=BD=B0=B8: http://nileader.blog.51cto.com/13=
+81108/932156 =B5=DA=CB=C4=D6=D6<br></div><div>&nbsp; &nbsp; &gt;=20=
+=D4=DA zoo.cfg =D6=D0=C5=E4=D6=C3=B5=C4:<br></div><div>&nbsp; &nb=
+sp; &gt; autopurge.purgeInterval =D5=E2=B8=F6=B2=CE=CA=FD=D6=B8=B6=
+=A8=C1=CB=C7=E5=C0=ED=C6=B5=C2=CA, =B5=A5=CE=BB=CA=C7=D0=A1=CA=B1=
+, =D0=E8=D2=AA=CC=EE=D0=B4=D2=BB=B8=F6 1 =BB=F2=B8=FC=B4=F3=B5=C4=
+=D5=FB=CA=FD, =C4=AC=C8=CF=CA=C7 0, =B1=ED=CA=BE=B2=BB=BF=AA=C6=F4=
+=D7=D4=BC=BA=C7=E5=C0=ED=B9=A6=C4=DC.<br></div><div>&nbsp; &nbsp;=
+ &gt; autopurge.snapRetainCount =D5=E2=B8=F6=B2=CE=CA=FD=BA=CD=C9=
+=CF=C3=E6=B5=C4=B2=CE=CA=FD=B4=EE=C5=E4=CA=B9=D3=C3, =D5=E2=B8=F6=
+=B2=CE=CA=FD=D6=B8=B6=A8=C1=CB=D0=E8=D2=AA=B1=A3=C1=F4=B5=C4=BF=EC=
+=D5=D5=CA=FD=C4=BF. =C4=AC=C8=CF=CA=C7=B1=A3=C1=F4 3 =B8=F6.<br><=
+/div><div><br></div><div>##### 2.2.2.3 =B0=B2=D7=B0 Storm =D2=C0=C0=
+=B5=BF=E2(Java, Python)<br></div><div><br></div><div>=D4=DA=BC=AF=
+=C8=BA=D6=D0=B5=C4=CB=F9=D3=D0=BB=FA=C6=F7=C9=CF=B0=B2=D7=B0 Stor=
+m =B1=D8=D2=AA=B5=C4=D2=C0=C0=B5=D7=E9=BC=FE: Java7(or 8), Python=
+2.7.<br></div><div><br></div><div>=CA=B9=D3=C3 CentOS 7 =D7=D4=B4=
+=F8=B5=C4 Python 2.7.5 =BC=B0 openjdk 1.8.0_65 =BC=B4=BF=C9<br></=
+div><div><br></div><div>##### 2.2.2.4 =BD=E2=D1=B9 Storm =B2=A2=BD=
+=F8=C8=EB=C6=E4=B8=F9=C4=BF=C2=BC<br></div><div><br></div><div>``=
+`bash<br></div><div>tar xzf apache-storm-1.0.2.tar.gz -C /usr/loc=
+al/<br></div><div>cd /usr/local/apache-storm-1.0.2<br></div><div>=
+```<br></div><div><br></div><div>##### 2.2.2.5 =D0=DE=B8=C4 conf/=
+storm.yaml =C5=E4=D6=C3=CE=C4=BC=FE<br></div><div><br></div><div>=
+storm.yaml =BB=E1=B8=B2=B8=C7 defaults.yaml =D6=D0=B8=F7=B8=F6=C5=
+=E4=D6=C3=CF=EE=B5=C4=C4=AC=C8=CF=D6=B5, =D2=D4=CF=C2=BC=B8=B8=F6=
+=CA=C7=D4=DA=B0=B2=D7=B0=BC=AF=C8=BA=CA=B1=B1=D8=D0=EB=C5=E4=D6=C3=
+=B5=C4=D1=A1=CF=EE<br></div><div><br></div><div>```bash<br></div>=
+<div>########### These MUST be filled in for a storm configuratio=
+n<br></div><div># yaml =CE=C4=BC=FE=B5=C4=C5=E4=D6=C3=CA=B9=D3=C3=
+"-"=C0=B4=B1=ED=CA=BE=CA=FD=BE=DD=B5=C4=B2=E3=B4=CE=BD=E1=B9=B9,=20=
+=C5=E4=D6=C3=CF=EE=B5=C4:=BA=F3=B1=D8=D0=EB=D3=D0=BF=D5=B8=F1, =B7=
+=F1=D4=F2=B8=C3=C5=E4=D6=C3=CF=EE=CE=DE=B7=A8=CA=B6=B1=F0<br></di=
+v><div># Storm =B9=D8=C1=AA=B5=C4 ZooKeeper =BC=AF=C8=BA=B5=C4=B5=
+=D8=D6=B7=C1=D0=B1=ED<br></div><div>storm.zookeeper.servers:<br><=
+/div><div>&nbsp; &nbsp; - "192.168.1.1"<br></div><div>&nbsp; &nbs=
+p; - "192.168.1.2"<br></div><div>&nbsp; &nbsp; - "192.168.1.3"<br=
+></div><div><br></div><div># =C8=E7=B9=FB=CA=B9=D3=C3=B5=C4 ZooKe=
+eper =BC=AF=C8=BA=B5=C4=B6=CB=BF=DA=B2=BB=CA=C7=C4=AC=C8=CF=B6=CB=
+=BF=DA, =BB=B9=D0=E8=D2=AA=C5=E4=D6=C3 storm.zookeeper.port<br></=
+div><div># storm.zookeeper.port: 2181<br></div><div><br></div><di=
+v># Storm =B9=A4=D7=F7=C4=BF=C2=BC, =D0=E8=D2=AA=CC=E1=C7=B0=B4=B4=
+=BD=A8=B8=C3=C4=BF=C2=BC=B2=A2=B8=F8=D2=D4=D7=E3=B9=BB=B5=C4=B7=C3=
+=CE=CA=C8=A8=CF=DE<br></div><div>storm.local.dir: "/var/lib/storm=
+-workdir"<br></div><div><br></div><div># =D3=C3=D7=F7 nimbus =B5=C4=
+=BB=FA=C6=F7=B5=C4 host list, =C8=F4 nimbus =CA=C7=B5=A5=BB=FA, =BF=
+=C9=D2=D4=CA=B9=D3=C3 nimbus.seeds: ["nim1"], =D5=E2=C0=EF=D3=C3=B5=
+=C4=CB=AB=BB=FA<br></div><div># =C8=F4=CA=C7=CC=EE=D0=B4 IP, =D4=DA=
+ Storm UI =D6=D0=CF=D4=CA=BE=B2=BB=D5=FD=B3=A3<br></div><div>nimb=
+us.seeds: ["nim1", "nim2"]<br></div><div><br></div><div># Supervi=
+sor=B9=A4=D7=F7=BD=DA=B5=E3=C9=CF worker =B5=C4=B6=CB=BF=DA, =C3=BF=
+=B8=F6 worker =D5=BC=D3=C3=D2=BB=B8=F6=B5=A5=B6=C0=B5=C4=B6=CB=BF=
+=DA=D3=C3=D3=DA=BD=D3=CA=D5=CF=FB=CF=A2, =D3=D0=BC=B8=B8=F6=B6=CB=
+=BF=DA=BE=CD=D7=EE=B6=E0=BB=E1=D3=D0=BC=B8=B8=F6 worker =D4=CB=D0=
+=D0, =D5=E2=C0=EF=C5=E4=D6=C3=C1=CB 4 =B8=F6<br></div><div>superv=
+isor.slots.ports:<br></div><div>&nbsp; &nbsp; - 6700<br></div><di=
+v>&nbsp; &nbsp; - 6701<br></div><div>&nbsp; &nbsp; - 6702<br></di=
+v><div>&nbsp; &nbsp; - 6703<br></div><div>```<br></div><div><br><=
+/div><div>##### 2.2.2.6 =BF=AA=B7=C5=B6=CB=BF=DA<br></div><div><b=
+r></div><div>=B0=D1 Storm =D3=C3=B5=BD=B5=C4=B6=CB=BF=DA=BF=AA=B7=
+=C5=B3=F6=C0=B4<br></div><div><br></div><div>```bash<br></div><di=
+v>firewall-cmd --zone=3Dpublic --add-port=3D3772/tcp --permanent&=
+nbsp; &nbsp;  # drpc.port<br></div><div>firewall-cmd --zone=3Dpub=
+lic --add-port=3D3773/tcp --permanent&nbsp; &nbsp;  # drpc.invoca=
+tions.port<br></div><div>firewall-cmd --zone=3Dpublic --add-port=3D=
+3774/tcp --permanent&nbsp; &nbsp;  # drpc.http.port<br></div><div=
+>firewall-cmd --zone=3Dpublic --add-port=3D6627/tcp --permanent&n=
+bsp; &nbsp;  # nimbus.thrift.port<br></div><div>firewall-cmd --zo=
+ne=3Dpublic --add-port=3D6699/tcp --permanent&nbsp; &nbsp;  # pac=
+emaker.port<br></div><div>firewall-cmd --zone=3Dpublic --add-port=
+=3D8000/tcp --permanent&nbsp; &nbsp;  # logviewer.port<br></div><=
+div>firewall-cmd --zone=3Dpublic --add-port=3D8080/tcp --permanen=
+t&nbsp; &nbsp;  # storm.ui.port<br></div><div>firewall-cmd --zone=
+=3Dpublic --add-port=3D6700/tcp --permanent&nbsp; &nbsp;  # super=
+visor.slots.ports -- =C8=A1=BE=F6=D3=DA=C9=CF=C3=E6=B5=C4=C5=E4=D6=
+=C3<br></div><div>firewall-cmd --zone=3Dpublic --add-port=3D6701/=
+tcp --permanent&nbsp; &nbsp;  #<br></div><div>firewall-cmd --zone=
+=3Dpublic --add-port=3D6702/tcp --permanent&nbsp; &nbsp;  #<br></=
+div><div>firewall-cmd --zone=3Dpublic --add-port=3D6703/tcp --per=
+manent&nbsp; &nbsp;  #<br></div><div>firewall-cmd --reload&nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; # =D6=D8=D0=C2=BC=D3=D4=D8=B7=C0=BB=F0=C7=BD=B9=E6=D4=F2=
+<br></div><div>```<br></div><div><br></div><div>##### 2.2.2.7 =C6=
+=F4=B6=AF Storm =B8=F7=B8=F6=BA=F3=CC=A8=BD=F8=B3=CC<br></div><di=
+v><br></div><div>=BA=CD Zookeeper =D2=BB=D1=F9, Storm =D2=B2=CA=C7=
+=BF=EC=CB=D9=CA=A7=B0=DC(fail-fast)=B5=C4=CF=B5=CD=B3, =D5=E2=D1=F9=
+ Storm =B2=C5=C4=DC=D4=DA=C8=CE=D2=E2=CA=B1=BF=CC=B1=BB=CD=A3=D6=B9=
+, =B2=A2=C7=D2=B5=B1=BD=F8=B3=CC=D6=D8=C6=F4=BA=F3=B1=BB=D5=FD=C8=
+=B7=B5=D8=BB=D6=B8=B4=D6=B4=D0=D0. =D5=E2=D2=B2=CA=C7=CE=AA=CA=B2=
+=C3=B4 Storm =B2=BB=D4=DA=BD=F8=B3=CC=C4=DA=B1=A3=B4=E6=D7=B4=CC=AC=
+=B5=C4=D4=AD=D2=F2, =BC=B4=CA=B9 Nimbus =BB=F2 Supervisors =B1=BB=
+=D6=D8=C6=F4, =D4=CB=D0=D0=D6=D0=B5=C4 Topologies =B2=BB=BB=E1=CA=
+=DC=B5=BD=D3=B0=CF=EC. =D2=D4=CF=C2=CA=C7=C6=F4=B6=AF Storm =B8=F7=
+=B8=F6=BA=F3=CC=A8=BD=F8=B3=CC=B5=C4=B7=BD=CA=BD:<br></div><div><=
+br></div><div>```bash<br></div><div># =D4=DA Storm =D6=F7=BF=D8(M=
+aster)=BD=DA=B5=E3=C9=CF=D4=CB=D0=D0 Nimbus =BA=F3=CC=A8=B3=CC=D0=
+=F2, =B2=A2=B7=C5=B5=BD=BA=F3=CC=A8=D6=B4=D0=D0, =B1=EA=D7=BC=CA=E4=
+=B3=F6=BA=CD=B4=ED=CE=F3=CA=E4=B3=F6=B6=A8=CF=F2=B5=BD `./logs/ni=
+mbus-boot.log`, =D3=D0=CE=CA=CC=E2=CA=B1=BF=C9=D2=D4=C8=A5=BF=B4=D5=
+=E2=B8=F6=CE=C4=BC=FE<br></div><div>nohup bin/storm nimbus &gt; l=
+ogs/nimbus-boot.log 2&gt;&amp;1 &amp;<br></div><div><br></div><di=
+v># =D4=DA Storm =B8=F7=B8=F6=B9=A4=D7=F7=BD=DA=B5=E3(Worker)=C9=CF=
+=D4=CB=D0=D0 Supervisor =BA=F3=CC=A8=B3=CC=D0=F2, =B2=A2=B7=C5=B5=
+=BD=BA=F3=CC=A8=D6=B4=D0=D0, =B1=EA=D7=BC=CA=E4=B3=F6=BA=CD=B4=ED=
+=CE=F3=CA=E4=B3=F6=B6=A8=CF=F2=B5=BD `./logs/supervisor-boot.log`=
+, =D3=D0=CE=CA=CC=E2=CA=B1=BF=C9=D2=D4=C8=A5=BF=B4=D5=E2=B8=F6=CE=
+=C4=BC=FE<br></div><div>nohup bin/storm supervisor &gt; logs/supe=
+rvisor-boot.log 2&gt;&amp;1 &amp;<br></div><div><br></div><div>#=20=
+=D4=DA Storm =D6=F7=BF=D8(Master)=BD=DA=B5=E3=C9=CF=D4=CB=D0=D0 S=
+torm UI =BA=F3=CC=A8=B3=CC=D0=F2, =B2=A2=B7=C5=B5=BD=BA=F3=CC=A8=D6=
+=B4=D0=D0, =B1=EA=D7=BC=CA=E4=B3=F6=BA=CD=B4=ED=CE=F3=CA=E4=B3=F6=
+=B6=A8=CF=F2=B5=BD `./logs/ui-boot.log`, =D3=D0=CE=CA=CC=E2=CA=B1=
+=BF=C9=D2=D4=C8=A5=BF=B4=D5=E2=B8=F6=CE=C4=BC=FE.<br></div><div>n=
+ohup bin/storm ui &gt; logs/ui-boot.log 2&gt;&amp;1 &amp;<br></di=
+v><div><br></div><div># =D4=DA=D0=E8=D2=AA=B2=E9=BF=B4 work.log =BD=
+=DA=B5=E3=C9=CF=D4=CB=D0=D0 Logviewer =BA=F3=CC=A8=B3=CC=D0=F2, =B2=
+=A2=B7=C5=B5=BD=BA=F3=CC=A8=D6=B4=D0=D0, =B1=EA=D7=BC=CA=E4=B3=F6=
+=BA=CD=B4=ED=CE=F3=CA=E4=B3=F6=B6=A8=CF=F2=B5=BD `./logs/logviewe=
+r-boot.log`, =D3=D0=CE=CA=CC=E2=CA=B1=BF=C9=D2=D4=C8=A5=BF=B4=D5=E2=
+=B8=F6=CE=C4=BC=FE.<br></div><div>nohup bin/storm logviewer &gt;=20=
+logs/logviewer-boot.log 2&gt;&amp;1 &amp;<br></div><div>```<br></=
+div><div><br></div><div>Storm UI =BF=C9=D2=D4=D4=DA=E4=AF=C0=C0=C6=
+=F7=D6=D0=B7=BD=B1=E3=B5=D8=BC=E0=BF=D8=BC=AF=C8=BA=D3=EB=CD=D8=C6=
+=CB=D4=CB=D0=D0=D7=B4=BF=F6, =C6=F4=B6=AF=BA=F3=BF=C9=D2=D4=CD=A8=
+=B9=FD *http://{nimbus host}:8080* =B9=DB=B2=EC=BC=AF=C8=BA=B5=C4=
+ Worker =D7=CA=D4=B4=CA=B9=D3=C3=C7=E9=BF=F6, Topologies =B5=C4=D4=
+=CB=D0=D0=D7=B4=CC=AC=B5=C8=D0=C5=CF=A2. Logviewer =CA=C7 Storm U=
+I =D6=D0=D3=C3=C0=B4=B2=E9=BF=B4 Nimbus/Supervisor =B5=C4 log =B5=
+=C4=B9=A4=BE=DF.<br></div><div><br></div><div>**PS**: Storm UI =B1=
+=D8=D0=EB=D4=DA Nimbus =BB=FA=C6=F7(Nimbus =BC=AF=C8=BA=B5=C4=BB=B0=
+, =C6=E4=D6=D0=D2=BB=CC=A8=BC=B4=BF=C9)=C9=CF, =B7=F1=D4=F2 UI =CE=
+=DE=B7=A8=D5=FD=B3=A3=B9=A4=D7=F7.<br></div><div><br></div><div>*=
+*Storm =BA=F3=CC=A8=BD=F8=B3=CC=B1=BB=C6=F4=B6=AF=BA=F3, =BD=AB=D4=
+=DA Storm =B0=B2=D7=B0=B2=BF=CA=F0=C4=BF=C2=BC=CF=C2=B5=C4 logs/=20=
+=D7=D3=C4=BF=C2=BC=CF=C2=C9=FA=B3=C9=B8=F7=B8=F6=BD=F8=B3=CC=B5=C4=
+=C8=D5=D6=BE=CE=C4=BC=FE, =D5=E2=CA=C7 Storm =B5=C4=C4=AC=C8=CF=C9=
+=E8=D6=C3, =C8=D5=D6=BE=CE=C4=BC=FE=B5=C4=C2=B7=BE=B6=D3=EB=CF=E0=
+=B9=D8=C5=E4=D6=C3=D0=C5=CF=A2=BF=C9=D2=D4=D4=DA ${STORM_HOME}/lo=
+gback/cluster.xml =CE=C4=BC=FE=D6=D0=D0=DE=B8=C4.**<br></div><div=
+><br></div><div>=D6=C1=B4=CB, Storm =BC=AF=C8=BA=D2=D1=BE=AD=B2=BF=
+=CA=F0, =C5=E4=D6=C3=CD=EA=B1=CF, =BF=C9=D2=D4 =CF=F2=BC=AF=C8=BA=
+ =CC=E1=BD=BB=CD=D8=C6=CB =D4=CB=D0=D0=C1=CB.<br></div><div><br><=
+/div><div>##### 2.2.2.8 =B2=E9=BF=B4 Storm =D7=B4=CC=AC<br></div>=
+<div><br></div><div>=C0=FB=D3=C3 Storm UI, =CD=A8=B9=FD http://{n=
+imbus host}:8080 =B2=E9=BF=B4=BC=AF=C8=BA=B5=C4=B8=F7=D6=D6=D7=B4=
+=CC=AC.<br></div><div><br></div><div>##### 2.2.2.9 =BC=E0=BF=D8 S=
+upervisor =B5=C4=D4=CB=D0=D0=C7=E9=BF=F6(=BF=C9=D1=A1)<br></div><=
+div><br></div><div>Storm =CC=E1=B9=A9=C1=CB=D2=BB=D6=D6=BB=FA=D6=C6=
+, =CA=B9 Supervisor =B6=A8=C6=DA=D4=CB=D0=D0=B9=DC=C0=ED=C8=CB=D4=
+=B1=CC=E1=B9=A9=B5=C4=BD=C5=B1=BE, =D2=D4=C8=B7=B6=A8=BD=DA=B5=E3=
+=CA=C7=B7=F1=D5=FD=B3=A3.<br></div><div><br></div><div>=B9=DC=C0=ED=
+=C8=CB=D4=B1=BF=C9=D2=D4=C8=C3 Supervisor =D6=B4=D0=D0=CE=BB=D3=DA=
+ storm.health.check.dir =D6=D0=B5=C4=BD=C5=B1=BE=C0=B4=C8=B7=B6=A8=
+=BD=DA=B5=E3=CA=C7=B7=F1=B4=A6=D3=DA=BD=A1=BF=B5=D7=B4=CC=AC, =C8=
+=E7=B9=FB=BD=C5=B1=BE=BC=EC=B2=E2=B5=BD=BD=DA=B5=E3=B4=A6=D3=DA=B2=
+=BB=D5=FD=B3=A3=D7=B4=CC=AC, =D4=F2=D4=DA=B1=EA=D7=BC=CA=E4=B3=F6=
+=D6=D0=B4=F2=D3=A1=D2=BB=D0=D0=D2=D4 ERROR =BF=AA=CD=B7=B5=C4=D7=D6=
+=B7=FB=B4=AE.<br></div><div><br></div><div>Supervisor =BD=AB=B6=A8=
+=C6=DA=D4=CB=D0=D0storm.health.check.dir =D6=D0=B5=C4=BD=C5=B1=BE=
+=B2=A2=BC=EC=B2=E9=CA=E4=B3=F6, =C8=E7=B9=FB=BD=C5=B1=BE=B5=C4=CA=
+=E4=B3=F6=B0=FC=BA=AC=D7=D6=B7=FB=B4=AE ERROR, Supervisor =BD=AB=B9=
+=D8=B1=D5=CB=F9=D3=D0=B9=A4=D7=F7=CF=DF=B3=CC=B2=A2=CD=CB=B3=F6.<=
+br></div><div><br></div><div>=C8=E7=B9=FB Supervisor =D5=FD=D4=DA=
+=D4=CB=D0=D0, =BF=C9=D2=D4=B5=F7=D3=C3"/bin/storm node-health-che=
+ck"=C0=B4=C8=B7=B6=A8=BD=DA=B5=E3=CA=C7=B7=F1=D5=FD=B3=A3.<br></d=
+iv><div><br></div><div>=D4=DA conf/storm.yaml =C5=E4=D6=C3 storm.=
+health.check.dir:<br></div><div><br></div><div>```bash<br></div><=
+div>storm.health.check.dir: " healthchecks"<br></div><div>```<br>=
+</div><div><br></div><div>=C5=E4=D6=C3=D6=B4=D0=D0 healthcheck =BD=
+=C5=B1=BE=B5=C4=D6=DC=C6=DA:<br></div><div><br></div><div>```bash=
+<br></div><div>storm.health.check.timeout.ms: 5000<br></div><div>=
+```<br></div><div><br></div><div>**PS**: **=BD=C5=B1=BE=B1=D8=D0=EB=
+=BE=DF=D3=D0=D6=B4=D0=D0=C8=A8=CF=DE.**<br></div><div><br></div><=
+div>##### 2.2.2.10 =C5=E4=D6=C3=CD=E2=B2=BF=BF=E2=D3=EB=BB=B7=BE=B3=
+=B1=E4=C1=BF(=BF=C9=D1=A1)<br></div><div><br></div><div>=C8=E7=B9=
+=FB=C4=E3=D0=E8=D2=AA=CA=B9=D3=C3=C4=B3=D0=A9=CD=E2=B2=BF=BF=E2=BB=
+=F2=D5=DF=B6=A8=D6=C6=B2=E5=BC=FE=B5=C4=B9=A6=C4=DC, =C4=E3=BF=C9=
+=D2=D4=BD=AB=CF=E0=B9=D8 jar =B0=FC=B7=C5=C8=EB extlib =D3=EB ext=
+lib-daemon =C4=BF=C2=BC=CF=C2. =D7=A2=D2=E2, extlib-daemon =C4=BF=
+=C2=BC=BD=F6=D3=C3=D3=DA=B4=E6=B4=A2=BA=F3=CC=A8=BD=F8=B3=CC(Nimb=
+us, Supervisor, DRPC, UI, Logviewer)=CB=F9=D0=E8=B5=C4 jar =B0=FC=
+, =C0=FD=C8=E7 HDFS =D2=D4=BC=B0=B6=A8=D6=C6=B5=C4=B5=F7=B6=C8=BF=
+=E2.<br></div><div><br></div><div>=C1=ED=CD=E2=BF=C9=D2=D4=CA=B9=D3=
+=C3 STORM_EXT_CLASSPATH =BA=CD STORM_EXT_CLASSPATH_DAEMON =C1=BD=B8=
+=F6=BB=B7=BE=B3=B1=E4=C1=BF=C0=B4=C5=E4=D6=C3=C6=D5=CD=A8=CD=E2=B2=
+=BF=BF=E2=D3=EB"=BD=F6=D3=C3=D3=DA=BA=F3=CC=A8=BD=F8=B3=CC"=CD=E2=
+=B2=BF=BF=E2=B5=C4 classpath.<br></div><div><br></div><div>### 2.=
+3 =CF=F2 Storm =BC=AF=C8=BA=CC=E1=BD=BB=C8=CE=CE=F1<br></div><div=
+><br></div><div>* =C6=F4=B6=AF Storm Topology:<br></div><div><br>=
+</div><div>```bash<br></div><div>storm jar allmycode.jar org.me.M=
+yTopology arg1 arg2 arg3<br></div><div>```<br></div><div><br></di=
+v><div>=C6=E4=D6=D0, allmycode.jar =CA=C7=B0=FC=BA=AC Topology =CA=
+=B5=CF=D6=B4=FA=C2=EB=B5=C4 jar =B0=FC, org.me.MyTopology =B5=C4=20=
+main =B7=BD=B7=A8=CA=C7 Topology =B5=C4=C8=EB=BF=DA, arg1, arg2 =BA=
+=CD arg3 =CE=AA org.me.MyTopology =D6=B4=D0=D0=CA=B1=D0=E8=D2=AA=B4=
+=AB=C8=EB=B5=C4=B2=CE=CA=FD.<br></div><div><br></div><div>* =CD=A3=
+=D6=B9 Storm Topology:<br></div><div><br></div><div>```bash<br></=
+div><div>storm kill {toponame}<br></div><div>```<br></div><div><b=
+r></div><div>=C6=E4=D6=D0, {toponame} =CE=AA Topology =CC=E1=BD=BB=
+=B5=BD Storm =BC=AF=C8=BA=CA=B1=D6=B8=B6=A8=B5=C4 Topology =C8=CE=
+=CE=F1=C3=FB=B3=C6.<br></div><div><br></div><div>### 2.4 Storm =B3=
+=A3=BC=FB=C5=E4=D6=C3=CE=CA=CC=E2<br></div><div><br></div><div>*=20=
+=D4=CB=D0=D0 storm =C3=FC=C1=EE=B1=A8=B4=ED<br></div><div><br></d=
+iv><div>=B3=F6=CF=D6=D3=EF=B7=A8=B4=ED=CE=F3:<br></div><div><br><=
+/div><div>```<br></div><div>File "/home/storm/apache-storm-0.9.3/=
+bin/storm", line 61<br></div><div>&nbsp;  normclasspath =3D cygpa=
+th if sys.platform =3D=3D 'cygwin' else identity<br></div><div>&n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; ^<br></div><div>SyntaxError: inval=
+id syntax<br></div><div><br></div><div>```<br></div><div><br></di=
+v><div>=D5=E2=CA=C7=D3=C9=D3=DA=CF=B5=CD=B3=D6=D0=B0=B2=D7=B0=B5=C4=
+=B5=CD=B0=E6=B1=BE Python =B2=BF=B7=D6=D3=EF=B7=A8=B2=BB=D6=A7=B3=
+=D6, =D0=E8=D2=AA=D6=D8=D0=C2=B0=B2=D7=B0=B8=DF=B0=E6=B1=BE Pytho=
+n(=C8=E72.7.x).<br></div><div><br></div><div>**PS**: =B2=BF=B7=D6=
+=CF=B5=CD=B3Python=C4=AC=C8=CF=B0=B2=D7=B0=CE=BB=D6=C3=B2=BB=CA=C7=
+ `/usr/bin/python`, =B1=D8=D0=EB=D4=DA Python =B0=B2=D7=B0=CD=EA=B3=
+=C9=D6=AE=BA=F3=BD=AB=B0=B2=D7=B0=B0=E6=B1=BEPython=B9=D8=C1=AA=B5=
+=BD=B8=C3=CE=BB=D6=C3. =B2=CE=BF=BC=B2=D9=D7=F7=B7=BD=B7=A8: `cd=20=
+/usr/bin` `mv python python.bk``ln -s /usr/local/Python-2.7.8/pyt=
+hon python`<br></div><div><br></div><div>* Storm =D4=DA ssh =B6=CF=
+=BF=AA=BA=F3=D7=D4=B6=AF=B9=D8=B1=D5<br></div><div><br></div><div=
+>=D5=E2=CA=C7=D3=C9=D3=DA Storm =CA=C7=D3=C9=C4=AC=C8=CF=B5=C4 Sh=
+ell =BB=FA=D6=C6=B4=F2=BF=AA=D4=CB=D0=D0, =D4=DA ssh =BB=F2 telne=
+t =B6=CF=BF=AA=BA=F3=D6=D5=B6=CB=BB=E1=BD=AB=B9=D2=B6=CF=D0=C5=BA=
+=C5=B7=A2=CB=CD=B5=BD=BF=D8=D6=C6=BD=F8=B3=CC, =BD=F8=B6=F8=BB=E1=
+=B9=D8=B1=D5=B8=C3 Shell =BD=F8=B3=CC=D7=E9=D6=D0=B5=C4=CB=F9=D3=D0=
+=BD=F8=B3=CC. =D2=F2=B4=CB=D0=E8=D2=AA=D4=DA Storm =BA=F3=CC=A8=C6=
+=F4=B6=AF=CA=B1=CA=B9=D3=C3 `nohup` =C3=FC=C1=EE=BA=CD `&amp;` =B1=
+=EA=BC=C7=BF=C9=D2=D4=CA=B9=BD=F8=B3=CC=BA=F6=C2=D4=B9=D2=B6=CF=D0=
+=C5=BA=C5, =B1=DC=C3=E2=B3=CC=D0=F2=B5=C4=D2=EC=B3=A3=CD=CB=B3=F6=
+:<br></div><div><br></div><div>```bash<br></div><div>nohup bin/st=
+orm nimbus &gt; logs/nimbus-boot.log 2&gt;&amp;1 &amp;<br></div><=
+div>nohup bin/storm supervisor &gt; logs/supervisor-boot.log 2&gt=
+;&amp;1 &amp;<br></div><div>nohup bin/storm ui &gt; logs/ui-boot.=
+log 2&gt;&amp;1 &amp;<br></div><div>nohup bin/storm logviewer &gt=
+; logs/logviewer-boot.log 2&gt;&amp;1 &amp;<br></div><div>```<br>=
+</div><div><br></div><div>* Storm UI =CD=F8=D2=B3=CE=DE=B7=A8=B4=F2=
+=BF=AA<br></div><div><br></div><div>=BC=EC=B2=E9 Storm =D6=F7=BB=FA=
+(nimbus =D3=EB ui =CB=F9=D4=DA=D4=CB=D0=D0=B7=FE=CE=F1=C6=F7)=B5=C4=
+=B7=C0=BB=F0=C7=BD=C9=E8=D6=C3, =CA=C7=B7=F1=B4=E6=D4=DA=BC=E0=BF=
+=D8=B6=CB=BF=DA=C6=C1=B1=CE(ui =B5=C4=C4=AC=C8=CF=B6=CB=BF=DA=CA=C7=
+ 8080)<br></div><div><br></div><div>**PS**: =B2=E2=CA=D4=BB=B7=BE=
+=B3=CF=C2=BF=C9=D2=D4=B2=BB=BF=BC=C2=C7=B0=B2=C8=AB=CE=CA=CC=E2=D6=
+=B1=BD=D3=B9=D8=B1=D5=B7=C0=BB=F0=C7=BD<br></div><div><br></div><=
+div>* Strom UI =CD=F8=D2=B3=D6=D0=C3=BB=D3=D0 topology =D0=C5=CF=A2=
+<br></div><div><br></div><div>=D6=BB=D3=D0=BC=AF=C8=BA(Cluster)=C4=
+=A3=CA=BD=B5=C4 topology =B2=C5=BB=E1=D4=DA=BC=E0=BF=D8=D2=B3=C3=E6=
+=CF=D4=CA=BE, =D0=E8=D2=AA=BD=AB=CC=E1=BD=BB=B5=BD=BC=AF=C8=BA=B5=
+=C4 topology =B5=C4=D4=CB=D0=D0=C4=A3=CA=BD=D3=C9=B1=BE=B5=D8=C4=A3=
+=CA=BD(local mode)=B8=C4=CE=AA=BC=AF=C8=BA=C4=A3=CA=BD<br></div><=
+div><br></div><div>* Storm UI =CD=F8=D2=B3=D6=D0=CE=DE=B7=A8=B4=F2=
+=BF=AA=B8=F7=B8=F6=B6=CB=BF=DA=B5=C4 worker.log<br></div><div><br=
+></div><div>=D4=DA=D0=E8=D2=AA=B2=E9=BF=B4 log =B5=C4=BB=FA=C6=F7=
+=C9=CF=C6=F4=B6=AF logviewer =BD=F8=B3=CC:<br></div><div><br></di=
+v><div>```bash<br></div><div>nohup bin/storm logviewer &gt; logs/=
+logviewer-boot.log 2&gt;&amp;1 &amp;<br></div><div>```<br></div><=
+div><br></div><div>* expected '&lt;document start&gt;', but found=
+ BlockMappingStart =B4=ED=CE=F3<br></div><div><br></div><div>Stor=
+m =C6=F4=B6=AF=CA=A7=B0=DC, =D4=DA nohup.out =D6=D0=D3=D0=C8=E7=CF=
+=C2=B4=ED=CE=F3=D0=C5=CF=A2<br></div><div><br></div><div>```<br><=
+/div><div>Exception in thread "main" expected '&lt;document start=
+&gt;', but found BlockMappingStart<br></div><div>```<br></div><di=
+v><br></div><div>=D2=BB=B0=E3=D4=DA=D5=E2=C0=E0=D0=C5=CF=A2=BA=F3=
+=BB=E1=D3=D0=CF=E0=B9=D8=B4=ED=CE=F3=CE=BB=D6=C3=CB=B5=C3=F7=D0=C5=
+=CF=A2, =C8=E7<br></div><div><br></div><div>```<br></div><div>in=20=
+'reader', line 23, column 2:<br></div><div>&nbsp; &nbsp;  nimbus.=
+host: "hd124"<br></div><div>&nbsp; &nbsp;  ^<br></div><div>```<br=
+></div><div><br></div><div>=BB=F2=D5=DF<br></div><div><br></div><=
+div>```<br></div><div>in 'reader', line 7, column 1:<br></div><di=
+v>&nbsp; &nbsp;  storm.zookeeper.port: 2181<br></div><div>&nbsp;=20=
+&nbsp;  ^<br></div><div>```<br></div><div><br></div><div>=D5=E2=C0=
+=E0=B4=ED=CE=F3=D6=F7=D2=AA=CA=C7storm.yaml=CE=C4=BC=FE=B5=C4=C5=E4=
+=D6=C3=B8=F1=CA=BD=B4=ED=CE=F3=D4=EC=B3=C9=B5=C4, =D2=BB=B0=E3=CA=
+=C7=C5=E4=D6=C3=CF=EE=B5=C4=BF=D5=B8=F1=D2=C5=C2=A9=CE=CA=CC=E2.=20=
+=C8=E7=C9=CF=C3=E6=C1=BD=C0=FD=B7=D6=B1=F0=B1=ED=CA=BEnimbus.host=
+=D3=EBstorm.zookeeper.port=C1=BD=B8=F6=C5=E4=D6=C3=CF=EE=BF=AA=CD=
+=B7=C8=B1=C9=D9=BF=D5=B8=F1, =BB=F2=D5=DF":"=BA=F3=C8=B1=C9=D9=BF=
+=D5=B8=F1. =D5=FD=C8=B7=CC=ED=BC=D3=BF=D5=B8=F1=BA=F3=D6=D8=D0=C2=
+=C6=F4=B6=AFStorm=BC=B4=BF=C9.<br></div><div><br></div><div>* Sto=
+rm worker =CA=FD=C1=BF=D3=EB=C5=E4=D6=C3=CA=FD=C1=BF=B2=BB=D2=BB=D6=
+=C2<br></div><div><br></div><div>=D4=DA topology =D6=D0=C9=E8=D6=C3=
+ worker =CA=FD=C1=BF:<br></div><div><br></div><div>`conf.setNumWo=
+rkers(6);`<br></div><div><br></div><div>=B5=AB=CA=C7, =BC=AF=C8=BA=
+=D6=D0=CA=B5=BC=CA=B5=C4 worker =CA=FD=C1=BF=C8=B4=B2=BB=B5=BD6.<=
+br></div><div><br></div><div>=D5=E2=CA=C7=D3=C9=D3=DA=C3=BF=B8=F6=
+ supervisor =D6=D0=D3=D0 worker =CA=FD=C1=BF=B5=C4=C9=CF=CF=DE, =D5=
+=E2=B8=F6=C9=CF=CF=DE=D6=B5=B3=FD=C1=CB=D2=AA=C2=FA=D7=E3=CF=B5=CD=
+=B3=D4=CA=D0=ED=B5=C4=D7=EE=B4=F3 slot =C9=CF=CF=DE=D6=B5 `8` =D6=
+=AE=CD=E2, =BB=B9=D0=E8=D2=AA=D0=A1=D3=DA Storm =C5=E4=D6=C3=CE=C4=
+=BC=FE=D6=D0=B5=C4=B6=CB=BF=DA=CA=FD=C1=BF:<br></div><div><br></d=
+iv><div>```<br></div><div>supervisor.slots.ports:<br></div><div>&=
+nbsp; &nbsp; - 6700<br></div><div>&nbsp; &nbsp; - 6701<br></div><=
+div>&nbsp; &nbsp; - 6702<br></div><div>&nbsp; &nbsp; - 6703<br></=
+div><div>```<br></div><div><br></div><div>=C0=FD=C8=E7=D5=E2=C0=EF=
+ supervisor =D6=BB=C5=E4=D6=C3=C1=CB 4 =B8=F6=B6=CB=BF=DA, =C4=C7=
+=C3=B4=D4=DA=D5=E2=B8=F6 supervisor =C9=CF=D7=EE=B6=E0=D6=BB=C4=DC=
+=D4=CB=D0=D0 4 =B8=F6 worker =BD=F8=B3=CC. =D2=F2=B4=CB, =C8=E7=B9=
+=FB=D0=E8=D2=AA=B8=FC=B6=E0=B5=C4 worker =BE=CD=D0=E8=D2=AA=C5=E4=
+=D6=C3=B8=FC=B6=E0=B5=C4=B6=CB=BF=DA.<br></div><div><br></div><di=
+v>* =C8=D5=D6=BE=CE=DE=B7=A8=BC=C7=C2=BC=B5=BD=B3=CC=D0=F2=D6=D0=C5=
+=E4=D6=C3=B5=C4=C2=B7=BE=B6<br></div><div><br></div><div>Storm =C4=
+=AC=C8=CF=BD=AB=C8=D5=D6=BE=CD=B3=D2=BB=BC=C7=C2=BC=B5=BD `$STORM=
+_HOME/logs` =C4=BF=C2=BC=D6=D0, =B2=BB=D6=A7=B3=D6=D4=DA=B3=CC=D0=
+=F2=D6=D0=D7=D4=B6=A8=D2=E5=B5=C4=C2=B7=BE=B6. =B5=AB=CA=C7, =BC=AF=
+=C8=BA=B5=C4=C8=D5=D6=BE=BC=C7=C2=BC=C4=BF=C2=BC=CA=C7=BF=C9=D2=D4=
+=D0=DE=B8=C4=B5=C4, 0.9 =D2=D4=C9=CF=B0=E6=B1=BE=B5=C4 Storm =BF=C9=
+=D2=D4=D4=DA `$STORM_HOME/logback/cluster.xml` =C5=E4=D6=C3=CE=C4=
+=BC=FE=D6=D0=D0=DE=B8=C4, =C6=E4=CB=FB=D4=E7=C6=DA=B0=E6=B1=BE=BF=
+=C9=D2=D4=D4=DA`log4j/*.properties` =C5=E4=D6=C3=CE=C4=BC=FE=D6=D0=
+=D0=DE=B8=C4.<br></div><div><br></div><div>## 3 Kafka<br></div><d=
+iv><br></div><div>### 3.1 =BC=F2=BD=E9<br></div><div><br></div><d=
+iv>[Apache Kafka](http://kafka.apache.org/)=CA=C7=D2=BB=B8=F6=B7=D6=
+=B2=BC=CA=BD=CF=FB=CF=A2=B7=A2=B2=BC=B6=A9=D4=C4=CF=B5=CD=B3. Kaf=
+ka =CF=B5=CD=B3=BF=EC=CB=D9, =BF=C9=C0=A9=D5=B9=B2=A2=C7=D2=BF=C9=
+=B3=D6=BE=C3=BB=AF. =CB=FC=B5=C4=B7=D6=C7=F8=CC=D8=D0=D4, =BF=C9=B8=
+=B4=D6=C6=BA=CD=BF=C9=C8=DD=B4=ED=B6=BC=CA=C7=C6=E4=B2=BB=B4=ED=B5=
+=C4=CC=D8=D0=D4.<br></div><div><br></div><div>### 3.2 =B4=EE=BD=A8=
+<br></div><div><br></div><div>#### 3.2.1 hosts =D3=B3=C9=E4(=BF=C9=
+=D1=A1, =BD=A8=D2=E9)<br></div><div><br></div><div>```bash<br></d=
+iv><div>echo "192.168.1.10 kfk1" &gt;&gt; /etc/hosts<br></div><di=
+v>echo "192.168.1.11 kfk2" &gt;&gt; /etc/hosts<br></div><div>echo=
+ "192.168.1.12 kfk3" &gt;&gt; /etc/hosts<br></div><div>```<br></d=
+iv><div><br></div><div>#### 3.2.2 =B4=EE=BD=A8 Zookeeper (=B5=A5=BB=
+=FA or =BC=AF=C8=BA)<br></div><div><br></div><div>Broker, Produce=
+r, Consumer =B5=C4=D4=CB=D0=D0=B6=BC=D0=E8=D2=AA ZooKeeper<br></d=
+iv><div><br></div><div>=BC=FB [1.2.1 =B5=A5=BB=FA=C4=A3=CA=BD](#=20=
+1.2.1 =B5=A5=BB=FA=C4=A3=CA=BD) or =BC=FB [1.2.2 =BC=AF=C8=BA=C4=A3=
+=CA=BD](# 1.2.2 =BC=AF=C8=BA=C4=A3=CA=BD)<br></div><div><br></div=
+><div>#### 3.2.3 Broker =B5=C4=C5=E4=D6=C3<br></div><div><br></di=
+v><div>```bash<br></div><div>tar xzf kafka_2.11-0.9.0.1.tgz -C /u=
+sr/local/<br></div><div>cd /usr/local/kafka_2.11-0.9.0.1<br></div=
+><div>```<br></div><div><br></div><div>config =CE=C4=BC=FE=BC=D0=CF=
+=C2=CA=C7=B8=F7=B8=F6=D7=E9=BC=FE=B5=C4=C5=E4=D6=C3=CE=C4=BC=FE,=20=
+server.properties =CA=C7 Broker =B5=C4=C5=E4=D6=C3=CE=C4=BC=FE, =D0=
+=E8=D2=AA=D0=DE=B8=C4=B5=C4=D3=D0<br></div><div><br></div><div>``=
+`bash<br></div><div>######################### Server Basics #####=
+####################<br></div><div>broker.id=3D0&nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # =B1=BE Bro=
+ker =B5=C4 id, =D6=BB=D2=AA=B7=C7=B8=BA=CA=FD=C7=D2=B8=F7 Broker=20=
+=B5=C4 id =B2=BB=CD=AC=BC=B4=BF=C9, =D2=BB=B0=E3=D2=C0=B4=CE=BC=D3=
+ 1<br></div><div><br></div><div>##################### Socket Serv=
+er Settings #####################<br></div><div>listeners=3DPLAIN=
+TEXT://:9092&nbsp; &nbsp; # Broker =BC=E0=CC=FD=B5=C4=B6=CB=BF=DA=
+, Producer, Consumer =BB=E1=C1=AC=BD=D3=D5=E2=B8=F6=B6=CB=BF=DA<b=
+r></div><div>port=3D9092&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # =CD=AC=C9=CF<br></div><div>=
+host.name=3Dkfk1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp;  # =B1=BE Broker =B5=C4 hostname<br></div><div><br></div><=
+div>########################## Topic Basics #####################=
+#####<br></div><div>delete.topic.enable=3Dtrue&nbsp; &nbsp; &nbsp=
+;  # =C5=E4=D6=C3=CE=AA=BF=C9=D2=D4=CA=B9=D3=C3 delete topic =C3=FC=
+=C1=EE<br></div><div><br></div><div>########################### L=
+og Basics ###########################<br></div><div>log.dirs=3D/v=
+ar/lib/kafka-logs&nbsp;  # log =C4=BF=C2=BC, =B4=CB=C4=BF=C2=BC=D2=
+=AA=B4=E6=D4=DA=C7=D2=D3=D0=D7=E3=B9=BB=C8=A8=CF=DE<br></div><div=
+><br></div><div>###################### Log Retention Policy #####=
+#################<br></div><div>log.roll.hours=3D2&nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  # =BF=AA=CA=BC=D2=BB=B8=F6=D0=C2=
+=B5=C4 log =CE=C4=BC=FE=C6=AC=B6=CE=B5=C4=D7=EE=B4=F3=CA=B1=BC=E4=
+<br></div><div>log.retention.hours=3D24&nbsp; &nbsp; &nbsp; &nbsp=
+;  # =BF=D8=D6=C6=D2=BB=B8=F6 log =CE=C4=BC=FE=B1=A3=C1=F4=B6=E0=B3=
+=A4=B8=F6=D0=A1=CA=B1<br></div><div>log.retention.bytes=3D1073741=
+824 # =CB=F9=D3=D0 log =CE=C4=BC=FE=B5=C4=D7=EE=B4=F3=B4=F3=D0=A1=
+<br></div><div>log.segment.bytes=3D104857600&nbsp; &nbsp; # =B5=A5=
+=D2=BB=B5=C4 log =CE=C4=BC=FE=D7=EE=B4=F3=B4=F3=D0=A1<br></div><d=
+iv>log.cleanup.policy=3Ddelete&nbsp; &nbsp; &nbsp; # log =C7=E5=B3=
+=FD=B2=DF=C2=D4<br></div><div>log.retention.check.interval.ms=3D6=
+0000<br></div><div><br></div><div>############################ Zo=
+okeeper ############################<br></div><div>zookeeper.conn=
+ect=3Dzoo1:2181,zoo2:2181,zoo3:2181 # Zookeeper =B5=C4=C1=AC=BD=D3=
+=D0=C5=CF=A2<br></div><div>```<br></div><div><br></div><div>**=D7=
+=A2=D2=E2: broker.id =BA=CD host.name =D4=DA=C3=BF=CC=A8=BB=FA=C6=
+=F7=C9=CF=CA=C7=B2=BB=D2=BB=D1=F9=B5=C4, =D2=AA=B0=B4=CA=B5=BC=CA=
+=CC=EE=D0=B4**<br></div><div><br></div><div>=BC=B4=D4=DA kfk2, kf=
+k3 =C9=CF<br></div><div><br></div><div>```bash<br></div><div>brok=
+er.id=3D1<br></div><div>host.name=3Dkfk2<br></div><div>```<br></d=
+iv><div><br></div><div>```bash<br></div><div>broker.id=3D2<br></d=
+iv><div>host.name=3Dkfk3<br></div><div>```<br></div><div><br></di=
+v><div>**PS**: =D4=DA kafka =B0=B2=D7=B0=C4=BF=C2=BC=CF=C2=B5=C4=20=
+`./site-docs` =C4=BF=C2=BC=CF=C2=D3=D0 `kafka_config.html`, `prod=
+ucer_config.html`, `consumer_config.html` =C8=FD=B8=F6=CE=C4=BC=FE=
+, =B7=D6=B1=F0=BD=B2=BD=E2 broker, producer, consumer =C5=E4=D6=C3=
+=B2=CE=CA=FD=BA=AC=D2=E5. =B8=BD=C2=BC A =CA=C7=C6=E4=B7=AD=D2=EB=
+.<br></div><div><br></div><div>#### 3.2.4 =BF=AA=B7=C5=B6=CB=BF=DA=
+<br></div><div><br></div><div>=B0=D1 Kafka =D3=C3=B5=BD=B5=C4=B6=CB=
+=BF=DA=BF=AA=B7=C5=B3=F6=C0=B4<br></div><div><br></div><div>```ba=
+sh<br></div><div>firewall-cmd --zone=3Dpublic --add-port=3D9100/t=
+cp --permanent&nbsp; &nbsp;  # =D3=C0=BE=C3=BF=AA=C6=F4 9100 =B6=CB=
+=BF=DA(kafka manager)<br></div><div>firewall-cmd --zone=3Dpublic=20=
+--add-port=3D9092/tcp --permanent&nbsp; &nbsp;  # =D3=C0=BE=C3=BF=
+=AA=C6=F4 9092 =B6=CB=BF=DA(brokers)<br></div><div>firewall-cmd -=
+-zone=3Dpublic --add-port=3D9999/tcp --permanent&nbsp; &nbsp;  #=20=
+=D3=C0=BE=C3=BF=AA=C6=F4 9999 =B6=CB=BF=DA(JMX)<br></div><div>fir=
+ewall-cmd --reload&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; # =D6=D8=D0=C2=BC=D3=D4=D8=B7=C0=
+=BB=F0=C7=BD=B9=E6=D4=F2<br></div><div>```<br></div><div><br></di=
+v><div>#### 3.2.5 Broker =D4=CB=D0=D0=D3=EB=D6=D5=D6=B9<br></div>=
+<div><br></div><div>Broker =D4=CB=D0=D0=D3=EB=D6=D5=D6=B9=C3=FC=C1=
+=EE=C8=E7=CF=C2.<br></div><div><br></div><div>```bash<br></div><d=
+iv># =D4=CB=D0=D0: =C8=E7=CF=C2=D3=D0=C1=BD=D6=D6=B7=BD=CA=BD<br>=
+</div><div># =D2=D4=CA=D8=BB=A4=BD=F8=B3=CC=B5=C4=B7=BD=CA=BD=C6=F4=
+=B6=AF(=CD=C6=BC=F6)<br></div><div>bin/kafka-server-start.sh -dae=
+mon config/server.properties<br></div><div># =BD=AB Broker =B7=C5=
+=B5=BD=BA=F3=CC=A8=D6=B4=D0=D0, =C7=D2=B2=BB=CA=DC=D6=D5=B6=CB=B9=
+=D8=B1=D5=B5=C4=D3=B0=CF=EC, =B1=EA=D7=BC=CA=E4=B3=F6=BA=CD=B4=ED=
+=CE=F3=CA=E4=B3=F6=B6=A8=CF=F2=B5=BD `./logs/kafka-server-boot.lo=
+g`, =D3=D0=CE=CA=CC=E2=CA=B1=BF=C9=D2=D4=C8=A5=BF=B4=D5=E2=B8=F6=CE=
+=C4=BC=FE<br></div><div>nohup bin/kafka-server-start.sh config/se=
+rver.properties &gt; logs/kafka-server-boot.log 2&gt;&amp;1 &amp;=
+<br></div><div><br></div><div># =D6=D5=D6=B9<br></div><div>bin/ka=
+fka-server-stop.sh config/server.properties<br></div><div>```<br>=
+</div><div><br></div><div>#### 3.2.6 =B2=E2=CA=D4<br></div><div><=
+br></div><div>=CE=D2=C3=C7=CA=B9=D3=C3 Kafka =D7=D4=B4=F8=B5=C4=BB=
+=F9=D3=DA =D6=D5=B6=CB =B5=C4 Producer =BA=CD Consumer =BD=C5=B1=BE=
+=D7=F6=B2=E2=CA=D4.<br></div><div><br></div><div>=CF=C8=D6=BB=C6=F4=
+=B6=AF=D2=BB=CC=A8=BB=FA=C6=F7=C9=CF=B5=C4 Broker. =D4=DA kfk1 =C9=
+=CF=D4=CB=D0=D0<br></div><div><br></div><div>```bash<br></div><di=
+v>nohup bin/kafka-server-start.sh config/server.properties &gt; l=
+ogs/kafka-server-boot.log 2&gt;&amp;1 &amp;<br></div><div>```<br>=
+</div><div><br></div><div>##### 1. =B4=B4=BD=A8 Topic<br></div><d=
+iv><br></div><div>=B4=B4=BD=A8=D2=BB=B8=F6 =C3=FB=CE=AA"TestCase"=
+=B5=C4 =B5=A5=B7=D6=C7=F8 =B5=A5=B8=B1=B1=BE =B5=C4 Topic.<br></d=
+iv><div><br></div><div>```<br></div><div>bin/kafka-topics.sh --cr=
+eate --zookeeper localhost:2181 --topic TestCase --replication-fa=
+ctor 1 --partitions 1<br></div><div>```<br></div><div><br></div><=
+div>=B2=E9=BF=B4=D3=D0=C4=C4=D0=A9 Topic:<br></div><div><br></div=
+><div>```<br></div><div>$ bin/kafka-topics.sh --list --zookeeper=20=
+localhost:2181<br></div><div>TestCase<br></div><div>```<br></div>=
+<div><br></div><div>=D4=CB=D0=D0`describe topics`=C3=FC=C1=EE, =BF=
+=C9=D2=D4=D6=AA=B5=C0 Topic =B5=C4=BE=DF=CC=E5=B7=D6=C5=E4:<br></=
+div><div><br></div><div>```<br></div><div>$ bin/kafka-topics.sh -=
+-describe --zookeeper localhost:2181 --topic test<br></div><div>T=
+opic:test&nbsp; &nbsp; PartitionCount:1&nbsp; &nbsp; ReplicationF=
+actor:1&nbsp; &nbsp; Configs:<br></div><div>&nbsp; &nbsp; Topic:=20=
+test&nbsp; &nbsp; Partition: 0&nbsp; &nbsp; Leader: 0&nbsp; &nbsp=
+; Replicas: 0&nbsp; &nbsp; Isr: 0<br></div><div>```<br></div><div=
+><br></div><div>=BD=E2=CA=CD=D2=BB=CF=C2=CA=E4=B3=F6=B5=C4=C4=DA=C8=
+=DD. =B5=DA=D2=BB=D0=D0=B8=F8=B3=F6=C1=CB=CB=F9=D3=D0 partition =B5=
+=C4=D2=BB=B8=F6=D5=AA=D2=AA, =C3=BF=D0=D0=B8=F8=B3=F6=D2=BB=B8=F6=
+ partition =B5=C4=D0=C5=CF=A2. =D2=F2=CE=AA=CE=D2=C3=C7=D5=E2=B8=F6=
+ topic =D6=BB=D3=D0=D2=BB=B8=F6 partition =CB=F9=D2=D4=D6=BB=D3=D0=
+=D2=BB=D0=D0=D0=C5=CF=A2.<br></div><div><br></div><div>* "leader"=
+ =B8=BA=D4=F0=CB=F9=D3=D0 partition =B5=C4=B6=C1=BA=CD=D0=B4=C7=EB=
+=C7=F3=B5=C4=CF=EC=D3=A6. "leader" =CA=C7=CB=E6=BB=FA=D1=A1=B6=A8=
+=B5=C4.<br></div><div>* "replicas" =CA=C7=B1=B8=B7=DD=BD=DA=B5=E3=
+=C1=D0=B1=ED, =B0=FC=BA=AC=CB=F9=D3=D0=B8=B4=D6=C6=C1=CB=B4=CB pa=
+rtition log =B5=C4=BD=DA=B5=E3, =B2=BB=B9=DC=D5=E2=B8=F6=BD=DA=B5=
+=E3=CA=C7=B7=F1=CE=AA leader =D2=B2=B2=BB=B9=DC=D5=E2=B8=F6=BD=DA=
+=B5=E3=B5=B1=C7=B0=CA=C7=B7=F1=B4=E6=BB=EE, =D6=BB=CA=C7=CF=D4=CA=
+=BE.<br></div><div>* "isr" =CA=C7=B5=B1=C7=B0=B4=A6=D3=DA=CD=AC=B2=
+=BD=D7=B4=CC=AC=B5=C4=B1=B8=B7=DD=BD=DA=B5=E3=C1=D0=B1=ED. =BC=B4=
+ "replicas" =C1=D0=B1=ED=D6=D0=B4=A6=D3=DA=B4=E6=BB=EE=D7=B4=CC=AC=
+=B2=A2=C7=D2=D3=EB leader =D2=BB=D6=C2=B5=C4=BD=DA=B5=E3.<br></di=
+v><div><br></div><div>=BF=C9=D2=D4=B7=A2=CF=D6=D5=E2=B8=F6 Topic=20=
+=C3=BB=D3=D0=B8=B1=B1=BE=B6=F8=C7=D2=CB=FC=D4=DA [=CE=D2=C3=C7=B4=
+=B4=BD=A8=CB=FC=CA=B1=BC=AF=C8=BA=BD=F6=D3=D0=B5=C4=D2=BB=B8=F6=BD=
+=DA=B5=E3] Broker 0 =C9=CF.<br></div><div><br></div><div>=C1=ED=CD=
+=E2, =B3=FD=C8=A5=CA=D6=B9=A4=B4=B4=BD=A8 Topic =D2=D4=CD=E2, =C4=
+=E3=D2=B2=BF=C9=D2=D4=BD=AB=C4=E3=B5=C4 Brokers =C5=E4=D6=C3=B3=C9=
+=B5=B1=CF=FB=CF=A2=B7=A2=B2=BC=B5=BD=D2=BB=B8=F6=B2=BB=B4=E6=D4=DA=
+=B5=C4 Topic =CA=B1=D7=D4=B6=AF=B4=B4=BD=A8=B4=CB Topic.<br></div=
+><div><br></div><div>##### 2. =C6=F4=B6=AF =C9=FA=B2=FA=D5=DF<br>=
+</div><div><br></div><div>Kafka =B8=BD=B4=F8=D2=BB=B8=F6 **=D6=D5=
+=B6=CB=C9=FA=B2=FA=D5=DF** =BF=C9=D2=D4=B4=D3=CE=C4=BC=FE=BB=F2=D5=
+=DF=B1=EA=D7=BC=CA=E4=C8=EB=D6=D0=B6=C1=C8=A1=CA=E4=C8=EB=C8=BB=BA=
+=F3=B7=A2=CB=CD=D5=E2=B8=F6=CF=FB=CF=A2=B5=BD Kafka =BC=AF=C8=BA.=
+ =C4=AC=C8=CF=C7=E9=BF=F6=CF=C2=C3=BF=D0=D0=D0=C5=CF=A2=B1=BB=B5=B1=
+=D7=F6=D2=BB=B8=F6=CF=FB=CF=A2=B7=A2=CB=CD.<br></div><div><br></d=
+iv><div>=D4=CB=D0=D0=C9=FA=B2=FA=D5=DF=BD=C5=B1=BE=C8=BB=BA=F3=D4=
+=DA=D6=D5=B6=CB=D6=D0=CA=E4=C8=EB=D2=BB=D0=A9=CF=FB=CF=A2, =BC=B4=
+=BF=C9=B7=A2=CB=CD=B5=BD Broker.<br></div><div><br></div><div>```=
+<br></div><div>$ bin/kafka-console-producer.sh --broker-list loca=
+lhost:9092 --topic TestCase<br></div><div>This is a message<br></=
+div><div>This is another message<br></div><div>```<br></div><div>=
+<br></div><div>**PS**: =CD=A8=B9=FD=BC=FC=C8=EB **Ctrl-C** =C0=B4=
+=D6=D5=D6=B9=D6=D5=B6=CB=C9=FA=B2=FA=D5=DF.<br></div><div><br></d=
+iv><div>##### 3. =C6=F4=B6=AF =CF=FB=B7=D1=D5=DF<br></div><div><b=
+r></div><div>Kafka =D2=B2=B8=BD=B4=F8=C1=CB=D2=BB=B8=F6 **=D6=D5=B6=
+=CB=C9=FA=B2=FA=D5=DF** =BF=C9=D2=D4=B5=BC=B3=F6=D5=E2=D0=A9=CF=FB=
+=CF=A2=B5=BD=B1=EA=D7=BC=CA=E4=B3=F6.<br></div><div><br></div><di=
+v>```<br></div><div>$ bin/kafka-console-consumer.sh --zookeeper l=
+ocalhost:2181 --topic TestCase --from-beginning<br></div><div>Thi=
+s is a message<br></div><div>This is another message<br></div><di=
+v>```<br></div><div><br></div><div>`--from-beginning` =B2=CE=CA=FD=
+=CA=B9=B5=C3=BF=C9=D2=D4=BD=D3=CA=D5=B5=BD topic =B5=C4=CB=F9=D3=D0=
+=CF=FB=CF=A2, =B0=FC=C0=A8 consumer =C6=F4=B6=AF=C7=B0=B5=C4. =C8=
+=A5=B5=F4=BA=F3=D4=F2=CE=AA=BD=F6=BD=D3=CA=D5 consumer =C6=F4=B6=AF=
+=BA=F3 kafka =CA=D5=B5=BD=B5=C4=CF=FB=CF=A2.<br></div><div><br></=
+div><div>=C8=E7=B9=FB=C4=E3=D4=DA=B2=BB=CD=AC=B5=C4=D6=D5=B6=CB=D4=
+=CB=D0=D0=C9=FA=B2=FA=D5=DF=BA=CD=CF=FB=B7=D1=D5=DF=D5=E2=C1=BD=B8=
+=F6=C3=FC=C1=EE, =C4=C7=C3=B4=CF=D6=D4=DA=C4=E3=BE=CD=D3=A6=B8=C3=
+=C4=DC=D4=D9=C9=FA=B2=FA=D5=DF=B5=C4=D6=D5=B6=CB=D6=D0=BC=FC=C8=EB=
+=CF=FB=CF=A2=CD=AC=CA=B1=D4=DA=CF=FB=B7=D1=D5=DF=B5=C4=D6=D5=B6=CB=
+=D6=D0=BF=B4=B5=BD.<br></div><div><br></div><div>=CB=F9=D3=D0=B5=C4=
+=C3=FC=C1=EE=D0=D0=B9=A4=BE=DF=B6=BC=D3=D0=BA=DC=B6=E0=BF=C9=D1=A1=
+=B5=C4=B2=CE=CA=FD; =B2=BB=CC=ED=BC=D3=B2=CE=CA=FD=D6=B1=BD=D3=D6=
+=B4=D0=D0=D5=E2=D0=A9=C3=FC=C1=EE=BD=AB=BB=E1=CF=D4=CA=BE=CB=FC=C3=
+=C7=B5=C4=CA=B9=D3=C3=B7=BD=B7=A8, =B8=FC=B6=E0=C4=DA=C8=DD=BF=C9=
+=D2=D4=B2=CE=BF=BC=CB=FB=C3=C7=B5=C4=CA=D6=B2=E1.<br></div><div><=
+br></div><div>**PS**: =CD=A8=B9=FD=BC=FC=C8=EB **Ctrl-C** =C0=B4=D6=
+=D5=D6=B9=D6=D5=B6=CB=CF=FB=B7=D1=D5=DF.<br></div><div><br></div>=
+<div>##### 4. =C5=E4=D6=C3=D2=BB=B8=F6=B6=E0=BD=DA=B5=E3=BC=AF=C8=
+=BA<br></div><div><br></div><div>=CE=D2=C3=C7=D2=D1=BE=AD=B3=C9=B9=
+=A6=B5=C4=D2=D4=B5=A5 Broker =B5=C4=C4=A3=CA=BD=D4=CB=D0=D0=C6=F0=
+=C0=B4=C1=CB, =B5=AB=D5=E2=B2=A2=C3=BB=D3=D0=D2=E2=CB=BC. =B6=D4=D3=
+=DA Kafka =C0=B4=CB=B5, =D2=BB=B8=F6=B5=A5=B6=C0=B5=C4 Broker =BE=
+=CD=CA=C7=D2=BB=B8=F6=B4=F3=D0=A1=CE=AA 1 =B5=C4=BC=AF=C8=BA, =CB=
+=F9=D2=D4=BC=AF=C8=BA=C4=A3=CA=BD=BE=CD=CA=C7=B6=E0=C6=F4=B6=AF=BC=
+=B8=B8=F6 Broker =CA=B5=C0=FD.<br></div><div><br></div><div>=CE=D2=
+=C3=C7=BD=AB=CE=D2=C3=C7=B5=C4=BC=AF=C8=BA=C0=A9=D5=B9=B5=BD3=B8=F6=
+=BD=DA=B5=E3. =D4=DA=C1=ED=CD=E2=C1=BD=CC=A8=BB=FA=C6=F7 kfk2, kf=
+k3 =C9=CF=D4=CB=D0=D0<br></div><div><br></div><div>```bash<br></d=
+iv><div>nohup bin/kafka-server-start.sh config/server.properties=20=
+&gt; logs/kafka-server-boot.log 2&gt;&amp;1 &amp;<br></div><div>`=
+``<br></div><div><br></div><div>=CF=D6=D4=DA=CE=D2=C3=C7=BF=C9=D2=
+=D4=B4=B4=BD=A8=D2=BB=B8=F6=D0=C2=B5=C4 Topic =B2=A2=D6=C6=B6=A8=B8=
+=B1=B1=BE=CA=FD=C1=BF=CE=AA 3:<br></div><div><br></div><div>```<b=
+r></div><div>bin/kafka-topics.sh --create --zookeeper localhost:2=
+181 --topic my-replicated-topic --replication-factor 3 --partitio=
+ns 1<br></div><div>```<br></div><div><br></div><div>=D4=CB=D0=D0`=
+describe topics`=C3=FC=C1=EE, =BF=C9=D2=D4=D6=AA=B5=C0=C3=BF=B8=F6=
+ Broker =BE=DF=CC=E5=B5=C4=B9=A4=D7=F7:<br></div><div><br></div><=
+div>```<br></div><div>$ bin/kafka-topics.sh --describe --zookeepe=
+r localhost:2181 --topic my-replicated-topic<br></div><div>Topic:=
+my-replicated-topic&nbsp; &nbsp; PartitionCount:1&nbsp; &nbsp; Re=
+plicationFactor:3&nbsp; &nbsp; Configs:<br></div><div>&nbsp; &nbs=
+p; Topic: my-replicated-topic&nbsp; &nbsp; Partition: 0&nbsp; &nb=
+sp; Leader: 1&nbsp; &nbsp; Replicas: 1,2,0&nbsp; &nbsp; Isr: 1,2,=
+0<br></div><div>```<br></div><div><br></div><div>=D7=A2=D2=E2=B1=BE=
+=C0=FD=D6=D0 Broker 1 =CA=C7=D5=E2=B8=F6=D3=D0=D2=BB=B8=F6 partit=
+ion =B5=C4 topic =B5=C4 leader.<br></div><div><br></div><div>=CF=D6=
+=D4=DA=CE=D2=C3=C7=B7=A2=B2=BC=BC=B8=B8=F6=CF=FB=CF=A2=B5=BD=CE=D2=
+=C3=C7=B5=C4=D0=C2 topic =C9=CF:<br></div><div><br></div><div>```=
+<br></div><div>$ bin/kafka-console-producer.sh --broker-list loca=
+lhost:9092 --topic my-replicated-topic<br></div><div>my test mess=
+age 1<br></div><div>my test message 2<br></div><div>```<br></div>=
+<div><br></div><div>=CF=D6=D4=DA=C8=C3=CE=D2=C3=C7=CF=FB=B7=D1=D5=
+=E2=BC=B8=B8=F6=CF=FB=CF=A2:<br></div><div><br></div><div>```<br>=
+</div><div>$ bin/kafka-console-consumer.sh --zookeeper localhost:=
+2181 --topic my-replicated-topic --from-beginning<br></div><div>m=
+y test message 1<br></div><div>my test message 2<br></div><div>``=
+`<br></div><div><br></div><div>=CF=D6=D4=DA=C8=C3=CE=D2=C3=C7=B2=E2=
+=CA=D4=D2=BB=CF=C2=BC=AF=C8=BA=C8=DD=B4=ED. Broker 1 =D5=FD=D4=DA=
+=D7=F7=CE=AA leader, =CB=F9=D2=D4=CE=D2=C3=C7=C9=B1=B5=F4=CB=FC:<=
+br></div><div><br></div><div>```<br></div><div>$ ps | grep server=
+.properties<br></div><div>...<br></div><div>7564 ttys002&nbsp; &n=
+bsp; 0:15.91 /System/Library/Frameworks/JavaVM.framework/Versions=
+/1.8/Home/bin/java...<br></div><div>...<br></div><div><br></div><=
+div>$ kill -9 7564<br></div><div>```<br></div><div><br></div><div=
+>=BB=F2=D4=DA kfk1 =BB=FA=C6=F7=C9=CF=D4=CB=D0=D0<br></div><div><=
+br></div><div>```bash<br></div><div>bin/kafka-server-stop.sh conf=
+ig/server.properties<br></div><div>```<br></div><div><br></div><d=
+iv>=B4=CB=CA=B1, =BC=AF=C8=BA=C1=EC=B5=BC=D2=D1=BE=AD=C7=D0=BB=BB=
+=B5=BD=D2=BB=B8=F6=B4=D3=B7=FE=CE=F1=C6=F7=C9=CF, Broker 1 =BD=DA=
+=B5=E3=D2=B2=B2=BB=D4=DA=B3=F6=CF=D6=D4=DA=CD=AC=B2=BD=B8=B1=B1=BE=
+=C1=D0=B1=ED=D6=D0=C1=CB:<br></div><div><br></div><div>```<br></d=
+iv><div>$ bin/kafka-topics.sh --describe --zookeeper localhost:21=
+81 --topic my-replicated-topic<br></div><div>Topic:my-replicated-=
+topic&nbsp; &nbsp; PartitionCount:1&nbsp; &nbsp; ReplicationFacto=
+r:3&nbsp; &nbsp; Configs:<br></div><div>&nbsp; &nbsp; Topic: my-r=
+eplicated-topic&nbsp; &nbsp; Partition: 0&nbsp; &nbsp; Leader: 2&=
+nbsp; &nbsp; Replicas: 1,2,0&nbsp; &nbsp; Isr: 2,0<br></div><div>=
+```<br></div><div><br></div><div>=B6=F8=C7=D2=CF=D6=D4=DA=CF=FB=CF=
+=A2=B5=C4=CF=FB=B7=D1=C8=D4=C8=BB=C4=DC=D5=FD=B3=A3=BD=F8=D0=D0,=20=
+=BC=B4=CA=B9=D4=AD=C0=B4=B8=BA=D4=F0=D0=B4=B5=C4=BD=DA=B5=E3=D2=D1=
+=BE=AD=CA=A7=D0=A7=C1=CB.<br></div><div><br></div><div>```<br></d=
+iv><div>$ bin/kafka-console-consumer.sh --zookeeper localhost:218=
+1 --from-beginning --topic my-replicated-topic<br></div><div>...<=
+br></div><div>my test message 1<br></div><div>my test message 2<b=
+r></div><div>```<br></div><div><br></div><div>##### 5. =CA=B9=D3=C3=
+ Kafka Connect =BD=F8=D0=D0=CA=FD=BE=DD=B5=BC=C8=EB=B5=BC=B3=F6<b=
+r></div><div><br></div><div>=B4=D3=D6=D5=B6=CB=D0=B4=C8=EB=CA=FD=BE=
+=DD, =CA=FD=BE=DD=D2=B2=D0=B4=BB=D8=D6=D5=B6=CB=CA=C7=C4=AC=C8=CF=
+=B5=C4. =B5=AB=CA=C7=C4=E3=BF=C9=C4=DC=CF=A3=CD=FB=B4=D3=D2=BB=D0=
+=A9=C6=E4=CB=FC=B5=C4=CA=FD=BE=DD=D4=B4=BB=F2=D5=DF=B5=BC=B3=F6 K=
+afka =B5=C4=CA=FD=BE=DD=B5=BD=C6=E4=CB=FC=B5=C4=CF=B5=CD=B3. =CF=E0=
+=B1=C8=C6=E4=CB=FC=CF=B5=CD=B3=D0=E8=D2=AA=D7=D4=BC=BA=B1=E0=D0=B4=
+=BC=AF=B3=C9=B4=FA=C2=EB, =C4=E3=BF=C9=D2=D4=D6=B1=BD=D3=CA=B9=D3=
+=C3Kafka=B5=C4 Connect =D6=B1=BD=D3=B5=BC=C8=EB=BB=F2=D5=DF=B5=BC=
+=B3=F6=CA=FD=BE=DD. Kafka Connect =CA=C7 Kafka =D7=D4=B4=F8=B5=C4=
+=D3=C3=D3=DA=CA=FD=BE=DD=B5=BC=C8=EB=BA=CD=B5=BC=B3=F6=B5=C4=B9=A4=
+=BE=DF. =CB=FC=CA=C7=D2=BB=B8=F6=C0=A9=D5=B9=B5=C4=BF=C9=D4=CB=D0=
+=D0=C1=AC=BD=D3=C6=F7(runs*connectors*)=B9=A4=BE=DF, =BF=C9=CA=B5=
+=CF=D6=D7=D4=B6=A8=D2=E5=B5=C4=C2=DF=BC=AD=C0=B4=CA=B5=CF=D6=D3=EB=
+=CD=E2=B2=BF=CF=B5=CD=B3=B5=C4=BC=AF=B3=C9=BD=BB=BB=A5. =D4=DA=D5=
+=E2=B8=F6=BF=EC=CB=D9=C8=EB=C3=C5=D6=D0=CE=D2=C3=C7=BD=AB=BD=E9=C9=
+=DC=C8=E7=BA=CE=CD=A8=B9=FD=D2=BB=B8=F6=BC=F2=B5=A5=B5=C4=B4=D3=CE=
+=C4=B1=BE=B5=BC=C8=EB=CA=FD=BE=DD, =B5=BC=B3=F6=CA=FD=BE=DD=B5=BD=
+=CE=C4=B1=BE=B5=C4=C1=AC=BD=D3=C6=F7=C0=B4=B5=F7=D3=C3 Kafka Conn=
+ect. =CA=D7=CF=C8=CE=D2=C3=C7=B4=D3=B4=B4=BD=A8=D2=BB=D0=A9=B2=E2=
+=CA=D4=B5=C4=BB=F9=B4=A1=CA=FD=BE=DD=BF=AA=CA=BC:<br></div><div><=
+br></div><div>```<br></div><div>echo -e "foo\nbar" &gt; test.txt<=
+br></div><div>```<br></div><div><br></div><div>=BD=D3=CF=C2=C0=B4=
+=CE=D2=C3=C7=B2=C9=D3=C3*standalone*=C4=A3=CA=BD=C6=F4=B6=AF=C1=BD=
+=B8=F6 connectors, =D2=B2=BE=CD=CA=C7=C8=C3=CB=FC=C3=C7=B6=BC=D4=CB=
+=D0=D0=D4=DA=B6=C0=C1=A2=B5=C4, =B1=BE=B5=D8=B5=C4, =B2=BB=CD=AC=B5=
+=C4=BD=F8=B3=CC=D6=D0. =CE=D2=C3=C7=CC=E1=B9=A9=C8=FD=B8=F6=B2=CE=
+=CA=FD=BB=AF=B5=C4=C5=E4=D6=C3=CE=C4=BC=FE, =B5=DA=D2=BB=B8=F6=CC=
+=E1=B9=A9=B9=B2=D3=D0=B5=C4=C5=E4=D6=C3=D3=C3=D3=DA Kafka Connect=
+ =B4=A6=C0=ED, =B0=FC=BA=AC=B9=B2=D3=D0=B5=C4=C5=E4=D6=C3=B1=C8=C8=
+=E7=C1=AC=BD=D3=C4=C4=B8=F6 Kafka broker =BA=CD=CA=FD=BE=DD=B5=C4=
+=D0=F2=C1=D0=BB=AF=B8=F1=CA=BD. =CA=A3=CF=C2=B5=C4=C5=E4=D6=C3=CE=
+=C4=BC=FE=D6=C6=B6=A8=C3=BF=B8=F6 connector =B4=B4=BD=A8=B5=C4=CC=
+=D8=B6=A8=D0=C5=CF=A2. =D5=E2=D0=A9=CE=C4=BC=FE=B0=FC=C0=A8=CE=A8=
+=D2=BB=B5=C4 connector =B5=C4=C3=FB=D7=D6, connector =D2=AA=CA=B5=
+=C0=FD=BB=AF=B5=C4=C0=E0=BA=CD=C6=E4=CB=FC=B5=C4=D2=BB=D0=A9 conn=
+ector =B1=D8=B1=B8=B5=C4=C5=E4=D6=C3.<br></div><div><br></div><di=
+v>```<br></div><div>bin/connect-standalone.sh config/connect-stan=
+dalone.properties config/connect-file-source.properties config/co=
+nnect-file-sink.properties<br></div><div>```<br></div><div><br></=
+div><div>=C9=CF=CA=F6=BC=F2=B5=A5=B5=C4=C5=E4=D6=C3=CE=C4=BC=FE=D2=
+=D1=BE=AD=B1=BB=B0=FC=BA=AC=D4=DA Kafka =B5=C4=B7=A2=D0=D0=B0=FC=D6=
+=D0, =CB=FC=C3=C7=BD=AB=CA=B9=D3=C3=C4=AC=C8=CF=B5=C4=D6=AE=C7=B0=
+=CE=D2=C3=C7=C6=F4=B6=AF=B5=C4=B1=BE=B5=D8=BC=AF=C8=BA=C5=E4=D6=C3=
+=B4=B4=BD=A8=C1=BD=B8=F6 connector: =B5=DA=D2=BB=B8=F6=D7=F7=CE=AA=
+=D4=B4 connector =B4=D3=D2=BB=B8=F6=CE=C4=BC=FE=D6=D0=B6=C1=C8=A1=
+=C3=BF=D0=D0=CA=FD=BE=DD=C8=BB=BA=F3=BD=AB=CB=FB=C3=C7=B7=A2=CB=CD=
+ Kafka =B5=C4 topic, =B5=DA=B6=FE=B8=F6=CA=C7=D2=BB=B8=F6=CA=E4=B3=
+=F6(sink)connector =B4=D3 Kafka =B5=C4 topic =B6=C1=C8=A1=CF=FB=CF=
+=A2, =C8=BB=BA=F3=BD=AB=CB=FC=C3=C7=CA=E4=B3=F6=B3=C9=CA=E4=B3=F6=
+=CE=C4=BC=FE=B5=C4=D2=BB=D0=D0=D0=D0=B5=C4=CA=FD=BE=DD. =D4=DA=C6=
+=F4=B6=AF=B5=C4=B9=FD=B3=CC=C4=E3=BD=B2=BF=B4=B5=BD=D2=BB=D0=A9=C8=
+=D5=D6=BE=CF=FB=CF=A2, =B0=FC=C0=A8=D2=BB=D0=A9=CC=E1=CA=BE conne=
+ctor =D5=FD=D4=DA=B1=BB=CA=B5=C0=FD=BB=AF=B5=C4=D0=C5=CF=A2. =D2=BB=
+=B5=A9 Kafka Connect =BD=F8=B3=CC=C6=F4=B6=AF=D2=D4=BA=F3, =D4=B4=
+ connector =D3=A6=B8=C3=BF=AA=CA=BC=B4=D3 `test.txt` =D6=D0=B6=C1=
+=C8=A1=CA=FD=BE=DD=D0=D0, =B2=A2=BD=AB=CB=FB=C3=C7=B7=A2=CB=CD=B5=
+=BD topic `connect-test` =C9=CF, =C8=BB=BA=F3=CA=E4=B3=F6 connect=
+or =BD=AB=BB=E1=BF=AA=CA=BC=B4=D3 topic =B6=C1=C8=A1=CF=FB=CF=A2=C8=
+=BB=BA=F3=B0=D1=CB=FC=C3=C7=D0=B4=C8=EB=B5=BD `test.sink.txt` =D6=
+=D0.<br></div><div><br></div><div>=CE=D2=C3=C7=BF=C9=D2=D4=B2=E9=BF=
+=B4=CA=E4=B3=F6=CE=C4=BC=FE=C0=B4=D1=E9=D6=A4=CD=A8=B9=FD=D5=FB=B8=
+=F6=B9=DC=CF=DF=CD=B6=B5=DD=B5=C4=CA=FD=BE=DD:<br></div><div><br>=
+</div><div>```<br></div><div>$ cat test.sink.txt<br></div><div>fo=
+o<br></div><div>bar<br></div><div>```<br></div><div><br></div><di=
+v>=D7=A2=D2=E2=D5=E2=D0=A9=CA=FD=BE=DD=D2=D1=BE=AD=B1=BB=B1=A3=B4=
+=E6=B5=BD=C1=CB Kafka =B5=C4 `connect-test` topic =D6=D0, =CB=F9=D2=
+=D4=CE=D2=C3=C7=BB=B9=BF=C9=D2=D4=D4=CB=D0=D0=D2=BB=B8=F6=D6=D5=B6=
+=CB=CF=FB=B7=D1=D5=DF=C0=B4=BF=B4=B5=BD=D5=E2=D0=A9=CA=FD=BE=DD(=BB=
+=F2=D5=DF=CA=B9=D3=C3=D7=D4=B6=A8=D2=E5=B5=C4=CF=FB=B7=D1=D5=DF=B4=
+=FA=C2=EB=C0=B4=B4=A6=C0=ED=CA=FD=BE=DD):<br></div><div><br></div=
+><div>```<br></div><div>$ bin/kafka-console-consumer.sh --zookeep=
+er localhost:2181 --topic connect-test --from-beginning<br></div>=
+<div>{"schema":{"type":"string","optional":false},"payload":"foo"=
+}<br></div><div>{"schema":{"type":"string","optional":false},"pay=
+load":"bar"}<br></div><div>...<br></div><div>```<br></div><div><b=
+r></div><div>connector =D4=DA=B3=D6=D0=F8=B5=C4=B4=A6=C0=ED=D7=C5=
+=CA=FD=BE=DD, =CB=F9=D2=D4=CE=D2=C3=C7=BF=C9=D2=D4=CF=F2=CE=C4=BC=
+=FE=D6=D0=CC=ED=BC=D3=CA=FD=BE=DD=C8=BB=BA=F3=B9=DB=B2=EC=B5=BD=CB=
+=FC=D4=DA=D5=E2=B8=F6=B9=DC=CF=DF=D6=D0=B5=C4=B4=AB=B5=DD:<br></d=
+iv><div><br></div><div>```<br></div><div>echo "Another line" &gt;=
+&gt; test.txt<br></div><div>```<br></div><div><br></div><div>=C4=E3=
+=D3=A6=B8=C3=BF=C9=D2=D4=B9=DB=B2=EC=B5=BD=D0=C2=B5=C4=CA=FD=BE=DD=
+=D0=D0=B3=F6=CF=D6=D4=DA=D6=D5=B6=CB=CF=FB=B7=D1=D5=DF=D6=D0=BA=CD=
+=CA=E4=B3=F6=CE=C4=BC=FE=D6=D0.<br></div><div><br></div><div>####=
+# 6. =CA=B9=D3=C3 Kafka Streams =C0=B4=B4=A6=C0=ED=CA=FD=BE=DD<br=
+></div><div><br></div><div>Kafka Streams =CA=C7=D2=BB=B8=F6=D3=C3=
+=C0=B4=B6=D4 Kafka brokers =D6=D0=B1=A3=B4=E6=B5=C4=CA=FD=BE=DD=BD=
+=F8=D0=D0=CA=B5=CA=B1=B4=A6=C0=ED=BA=CD=B7=D6=CE=F6=B5=C4=BF=CD=BB=
+=A7=B6=CB=BF=E2. =D5=E2=B8=F6=C8=EB=C3=C5=CA=BE=C0=FD=BD=AB=D1=DD=
+=CA=BE=C8=E7=BA=CE=C6=F4=B6=AF=D2=BB=B8=F6=B2=C9=D3=C3=B4=CB=C0=E0=
+=BF=E2=CA=B5=CF=D6=B5=C4=C1=F7=B4=A6=C0=ED=B3=CC=D0=F2. =CF=C2=C3=
+=E6=CA=C7 `WordCountDemo` =CA=BE=C0=FD=B4=FA=C2=EB=B5=C4 GIST(=CE=
+=AA=C1=CB=B7=BD=B1=E3=D4=C4=B6=C1=D2=D1=BE=AD=D7=AA=BB=AF=B3=C9=C1=
+=CB Java 8 =B5=C4 lambda =B1=ED=B4=EF=CA=BD).<br></div><div><br><=
+/div><div>```<br></div><div>KTable wordCounts =3D textLines<br></=
+div><div>&nbsp; &nbsp; // =B0=B4=D5=D5=BF=D5=B8=F1=BD=AB=C3=BF=B8=
+=F6=CE=C4=B1=BE=D0=D0=B2=F0=B7=D6=B3=C9=B5=A5=B4=CA<br></div><div=
+>&nbsp; &nbsp; .flatMapValues(value -&gt; Arrays.asList(value.toL=
+owerCase().split("\\W+")))<br></div><div>&nbsp; &nbsp; // =C8=B7=B1=
+=A3=C3=BF=B8=F6=B5=A5=B4=CA=D7=F7=CE=AA=BC=C7=C2=BC=B5=C4 key =D6=
+=B5=D2=D4=B1=E3=D3=DA=CF=C2=D2=BB=B2=BD=B5=C4=BE=DB=BA=CF<br></di=
+v><div>&nbsp; &nbsp; .map((key, value) -&gt; new KeyValue&lt;&gt;=
+(value, value))<br></div><div>&nbsp; &nbsp; // =BC=C6=CB=E3=C3=BF=
+=B8=F6=B5=A5=B4=CA=B5=C4=B3=F6=CF=D6=C6=B5=C2=CA=B2=A2=BD=AB=CB=FB=
+=C3=C7=B1=A3=B4=E6=B5=BD "Counts" =B5=C4=B1=ED=D6=D0<br></div><di=
+v>&nbsp; &nbsp; .countByKey("Counts")<br></div><div>```<br></div>=
+<div><br></div><div>=C9=CF=CA=F6=B4=FA=C2=EB=CA=B5=CF=D6=C1=CB=BC=
+=C6=CB=E3=C3=BF=B8=F6=B5=A5=B4=CA=B3=F6=CF=D6=C6=B5=C2=CA=D6=B1=B7=
+=BD=CD=BC=B5=C4=B5=A5=B4=CA=BC=C6=CA=FD=CB=E3=B7=A8. =B5=AB=CA=C7=
+=CB=FC=D3=EB=D6=AE=C7=B0=B3=A3=BC=FB=B5=C4=B2=D9=D7=F7=D3=D0=CF=DE=
+=CA=FD=BE=DD=B5=C4=CA=BE=C0=FD=CF=E0=B1=C8=D3=D0=C3=F7=CF=D4=B5=C4=
+=B2=BB=CD=AC, =CB=FC=B1=BB=C9=E8=BC=C6=B3=C9=D2=BB=B8=F6=B2=D9=D7=
+=F7 **=CE=DE=B1=DF=BD=E7=CF=DE=D6=C6=B5=C4=C1=F7=CA=FD=BE=DD** =B5=
+=C4=B3=CC=D0=F2. =D3=EB=D3=D0=BD=E7=CB=E3=B7=A8=CF=E0=CB=C6=CB=FC=
+=CA=C7=D2=BB=B8=F6=D3=D0=D7=B4=CC=AC=CB=E3=B7=A8, =CB=FC=BF=C9=D2=
+=D4=B8=FA=D7=D9=B2=A2=B8=FC=D0=C2=B5=A5=B4=CA=B5=C4=BC=C6=CA=FD.=20=
+=B5=AB=CA=C7=CB=FC=B1=D8=D0=EB=D6=A7=B3=D6=B4=A6=C0=ED=CE=DE=B1=DF=
+=BD=E7=CF=DE=D6=C6=B5=C4=CA=FD=BE=DD=CA=E4=C8=EB=B5=C4=BC=D9=C9=E8=
+, =CB=FC=BD=AB=D4=DA=B4=A6=C0=ED=CA=FD=BE=DD=B5=C4=B9=FD=B3=CC=B3=
+=D6=D0=F8=B5=C4=CA=E4=B3=F6=D7=D4=C9=ED=B5=C4=D7=B4=CC=AC=BA=CD=BD=
+=E1=B9=FB, =D2=F2=CE=AA=CB=FC=B2=BB=C4=DC=C3=F7=C8=B7=B5=C4=D6=AA=
+=B5=C0=BA=CF=CA=CA=D2=D1=BE=AD=CD=EA=B3=C9=C1=CB=CB=F9=D3=D0=CA=E4=
+=C8=EB=CA=FD=BE=DD=B5=C4=B4=A6=C0=ED.<br></div><div><br></div><di=
+v>=BD=D3=CF=C2=C0=B4=CE=D2=C3=C7=D7=BC=B1=B8=D2=BB=D0=A9=B7=A2=CB=
+=CD=B5=BD Kafka topic =B5=C4=CA=E4=C8=EB=CA=FD=BE=DD, =CB=E6=BA=F3=
+=CB=FC=C3=C7=BD=AB=B1=BB Kafka Streams =B3=CC=D0=F2=B4=A6=C0=ED.<=
+br></div><div><br></div><div>```<br></div><div>echo -e "all strea=
+ms lead to kafka\nhello kafka streams\njoin kafka summit" &gt; fi=
+le-input.txt<br></div><div>```<br></div><div><br></div><div>=BD=D3=
+=CF=C2=C0=B4=CE=D2=C3=C7=CA=B9=D3=C3=D6=D5=B6=CB=C9=FA=B2=FA=D5=DF=
+=B7=A2=CB=CD=D5=E2=D0=A9=CA=E4=C8=EB=CA=FD=BE=DD=B5=BD=C3=FB=CE=AA=
+ **streams-file-input** =B5=C4=CA=E4=C8=EB topic (=D4=DA=CA=B5=BC=
+=CA=D3=A6=D3=C3=D6=D0, =C1=F7=CA=FD=BE=DD=BB=E1=CA=C7=B2=BB=B6=CF=
+=C1=F7=C8=EB=B4=A6=C0=ED=B3=CC=D0=F2=C6=F4=B6=AF=BA=CD=D4=CB=D0=D0=
+=D3=C3=B5=C4Kafka):<br></div><div><br></div><div>```<br></div><di=
+v>bin/kafka-topics.sh --create --zookeeper localhost:2181 --repli=
+cation-factor 1 --partitions 1 --topic streams-file-input<br></di=
+v><div>```<br></div><div><br></div><div>```<br></div><div>cat fil=
+e-input.txt | bin/kafka-console-producer.sh --broker-list localho=
+st:9092 --topic streams-file-input<br></div><div>```<br></div><di=
+v><br></div><div>=CF=D6=D4=DA=CE=D2=C3=C7=BF=C9=D2=D4=C6=F4=B6=AF=
+WordCount=CA=BE=C0=FD=B3=CC=D0=F2=C0=B4=B4=A6=C0=ED=D5=E2=D0=A9=CA=
+=FD=BE=DD=C1=CB:<br></div><div><br></div><div>```<br></div><div>b=
+in/kafka-run-class.sh org.apache.kafka.streams.examples.wordcount=
+.WordCountDemo<br></div><div>```<br></div><div><br></div><div>=D4=
+=DA STDOUT =D6=D5=B6=CB=B2=BB=BB=E1=D3=D0=C8=CE=BA=CE=C8=D5=D6=BE=
+=CA=E4=B3=F6, =D2=F2=CE=AA=CB=F9=D3=D0=B5=C4=BD=E1=B9=FB=B1=BB=B2=
+=BB=B6=CF=B5=C4=D0=B4=BB=D8=C1=CB=C1=ED=CD=E2=D2=BB=B8=F6=C3=FB=CE=
+=AA **streams-wordcount-output** =B5=C4 topic =C9=CF. =D5=E2=B8=F6=
+=CA=B5=C0=FD=BD=AB=BB=E1=D4=CB=D0=D0=D2=BB=BB=E1=B6=F9, =D6=AE=BA=
+=F3=D3=EB=B5=E4=D0=CD=B5=C4=C1=F7=B4=A6=C0=ED=B3=CC=D0=F2=B2=BB=CD=
+=AC=CB=FC=BD=AB=BB=E1=D7=D4=B6=AF=CD=CB=B3=F6.<br></div><div><br>=
+</div><div>=CF=D6=D4=DA=CE=D2=C3=C7=BF=C9=D2=D4=CD=A8=B9=FD=B6=C1=
+=C8=A1=D5=E2=B8=F6=B5=A5=B4=CA=BC=C6=CA=FD=CA=BE=C0=FD=B3=CC=D0=F2=
+=B5=C4=CA=E4=B3=F6 topic =C0=B4=D1=E9=D6=A4=BD=E1=B9=FB:<br></div=
+><div><br></div><div>```<br></div><div>bin/kafka-console-consumer=
+.sh --zookeeper localhost:2181 --topic streams-wordcount-output -=
+-from-beginning \<br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; --formatter kafka.tools.DefaultMessageFormatter \<br></d=
+iv><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --property prin=
+t.key=3Dtrue \<br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; --property print.value=3Dtrue \<br></div><div>&nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; --property key.deserializer=3Dorg.ap=
+ache.kafka.common.serialization.StringDeserializer \<br></div><di=
+v>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; --property value.dese=
+rializer=3Dorg.apache.kafka.common.serialization.LongDeserializer=
+<br></div><div>```<br></div><div><br></div><div>=D2=D4=CF=C2=CA=E4=
+=B3=F6=CA=FD=BE=DD=BD=AB=BB=E1=B1=BB=B4=F2=D3=A1=B5=BD=D6=D5=B6=CB=
+=C9=CF:<br></div><div><br></div><div>```<br></div><div>all&nbsp;=20=
+&nbsp;  1<br></div><div>streams 1<br></div><div>lead&nbsp; &nbsp;=
+ 1<br></div><div>to&nbsp; &nbsp; &nbsp; 1<br></div><div>kafka&nbs=
+p;  1<br></div><div>hello&nbsp;  1<br></div><div>kafka&nbsp;  2<b=
+r></div><div>streams 2<br></div><div>join&nbsp; &nbsp; 1<br></div=
+><div>kafka&nbsp;  3<br></div><div>summit&nbsp; 1<br></div><div>`=
+``<br></div><div><br></div><div>=BF=C9=D2=D4=BF=B4=B5=BD, =B5=DA=D2=
+=BB=C1=D0=CA=C7 Kafka =B5=C4=CF=FB=CF=A2=B5=C4=BD=A1, =B5=DA=B6=FE=
+=C1=D0=CA=C7=D5=E2=B8=F6=CF=FB=CF=A2=B5=C4=D6=B5, =CB=FB=C3=C7=B6=
+=BC=CA=C7 `java.lang.String` =B8=F1=CA=BD=B5=C4. =D7=A2=D2=E2=D5=E2=
+=B8=F6=CA=E4=B3=F6=BD=E1=B9=FB=CA=B5=BC=CA=C9=CF=CA=C7=D2=BB=B8=F6=
+=B3=D6=D0=F8=B8=FC=D0=C2=B5=C4=C1=F7, =C3=BF=D2=BB=D0=D0(=C0=FD=C8=
+=E7, =C9=CF=CA=F6=D4=AD=CA=BC=CA=E4=B3=F6=B5=C4=C3=BF=D2=BB=D0=D0=
+)=CA=C7=D2=BB=B8=F6=B5=A5=B4=CA=B8=FC=D0=C2=D6=AE=BA=F3=B5=C4=BC=C6=
+=CA=FD. =B6=D4=D3=DA key =CF=E0=CD=AC=B5=C4=B6=E0=D0=D0=BC=C7=C2=BC=
+, =C3=BF=D0=D0=B6=BC=CA=C7=C7=B0=C3=E6=D2=BB=D0=D0=B5=C4=B8=FC=D0=
+=C2.<br></div><div><br></div><div>=CF=D6=D4=DA=C4=E3=BF=C9=D2=D4=CF=
+=F2 **streams-file-input** topic=D0=B4=C8=EB=B8=FC=B6=E0=B5=C4=CF=
+=FB=CF=A2=B2=A2=B9=DB=B2=EC **streams-wordcount-output** topic=B1=
+=ED=CA=F6=B8=FC=D0=C2=B5=A5=B4=CA=BC=C6=CA=FD=B5=C4=D0=C2=B5=C4=CF=
+=FB=CF=A2.<br></div><div><br></div><div>## 4 Redis<br></div><div>=
+<br></div><div>Redis =CA=C7=D2=BB=B8=F6=BF=AA=D4=B4=B5=C4=BF=C9=BB=
+=F9=D3=DA=C4=DA=B4=E6=D2=E0=BF=C9=B3=D6=BE=C3=BB=AF=B5=C4=C8=D5=D6=
+=BE=D0=CD=A1=A2Key-Value =CA=FD=BE=DD=BF=E2, =CB=FC=CD=A8=B3=A3=B1=
+=BB=B3=C6=CE=AA=CA=FD=BE=DD=BD=E1=B9=B9=B7=FE=CE=F1=C6=F7, =D2=F2=
+=CE=AA=D6=B5(value)=BF=C9=D2=D4=CA=C7=D7=D6=B7=FB=B4=AE(String),=20=
+=B9=FE=CF=A3(Map), =C1=D0=B1=ED(list), =BC=AF=BA=CF(sets) =BA=CD=20=
+=D3=D0=D0=F2=BC=AF=BA=CF(sorted sets)=B5=C8=C0=E0=D0=CD, =B8=F7=CA=
+=BD=B8=F7=D1=F9=B5=C4=CE=CA=CC=E2=B6=BC=BF=C9=D2=D4=BA=DC=D7=D4=C8=
+=BB=B5=D8=D3=B3=C9=E4=B5=BD=D5=E2=D0=A9=CA=FD=BE=DD=BD=E1=B9=B9=C9=
+=CF. =D3=C3=BB=A7=BF=C9=D2=D4=BA=DC=B7=BD=B1=E3=B5=D8=BD=AB Redis=
+ =C0=A9=D5=B9=B3=C9=D2=BB=B8=F6=C4=DC=B9=BB=B0=FC=BA=AC=CA=FD=B0=D9=
+ GB =CA=FD=BE=DD=A1=A2=C3=BF=C3=EB=D6=D3=B4=A6=C0=ED=C9=CF=B0=D9=CD=
+=F2=B4=CE=C7=EB=C7=F3=B5=C4=CF=B5=CD=B3<br></div><div><br></div><=
+div>### 4.1 Redis =B0=B2=D7=B0<br></div><div><br></div><div>**=CF=
+=C2=D4=D8=B5=D8=D6=B7:** [http://redis.io/download](http://redis.=
+io/download)<br></div><div><br></div><div>=B1=BE=BD=CC=B3=CC=CA=B9=
+=D3=C3=B5=C4=D7=EE=D0=C2=CE=C4=B5=B5=B0=E6=B1=BE=CE=AA 3.2.5, =CF=
+=C2=D4=D8=B2=A2=B0=B2=D7=B0:<br></div><div><br></div><div>```bash=
+<br></div><div>wget http://download.redis.io/releases/redis-3.2.5=
+.tar.gz<br></div><div>tar xzf redis-3.2.5.tar.gz<br></div><div>cd=
+ redis-3.2.5<br></div><div>make<br></div><div>```<br></div><div><=
+br></div><div>make =CD=EA, redis-3.2.5/src =C4=BF=C2=BC=CF=C2=BB=E1=
+=B3=F6=CF=D6=B1=E0=D2=EB=BA=F3=B5=C4 redis =B7=FE=CE=F1=B3=CC=D0=F2=
+ redis-server, =BB=B9=D3=D0=BF=CD=BB=A7=B6=CB=B3=CC=D0=F2 redis-c=
+li<br></div><div><br></div><div>=CF=C2=C3=E6=C6=F4=B6=AF redis =B7=
+=FE=CE=F1.<br></div><div><br></div><div>```bash<br></div><div>./s=
+rc/redis-server<br></div><div>```<br></div><div><br></div><div>=D7=
+=A2=D2=E2=D5=E2=D6=D6=B7=BD=CA=BD=C6=F4=B6=AF redis =CA=B9=D3=C3=B5=
+=C4=CA=C7=C4=AC=C8=CF=C5=E4=D6=C3. =D2=B2=BF=C9=D2=D4=CD=A8=B9=FD=
+=C6=F4=B6=AF=B2=CE=CA=FD=B8=E6=CB=DF redis =CA=B9=D3=C3=D6=B8=B6=A8=
+=C5=E4=D6=C3=CE=C4=BC=FE=CA=B9=D3=C3=CF=C2=C3=E6=C3=FC=C1=EE=C6=F4=
+=B6=AF.<br></div><div><br></div><div>```bash<br></div><div>./src/=
+redis-server ./redis.conf<br></div><div>```<br></div><div><br></d=
+iv><div>redis.conf =CA=C7=D2=BB=B8=F6=C4=AC=C8=CF=B5=C4=C5=E4=D6=C3=
+=CE=C4=BC=FE. =CE=D2=C3=C7=BF=C9=D2=D4=B8=F9=BE=DD=D0=E8=D2=AA=CA=
+=B9=D3=C3=D7=D4=BC=BA=B5=C4=C5=E4=D6=C3=CE=C4=BC=FE.<br></div><di=
+v><br></div><div>=C6=F4=B6=AF redis =B7=FE=CE=F1=BD=F8=B3=CC=BA=F3=
+, =BE=CD=BF=C9=D2=D4=CA=B9=D3=C3=BF=CD=BB=A7=B6=CB=B3=CC=D0=F2 re=
+dis-cli =BA=CD redis server =BD=BB=BB=A5=C1=CB. =B1=C8=C8=E7:<br>=
+</div><div><br></div><div>```bash<br></div><div>$ ./src/redis-cli=
+&nbsp; &nbsp; # or ./src/redis-cli -h 127.0.0.1 -p 6379<br></div>=
+<div>redis 127.0.0.1:6379&gt; ping<br></div><div>PONG<br></div><d=
+iv>```<br></div><div><br></div><div>### 4.2 Redis =C5=E4=D6=C3<br=
+></div><div><br></div><div>Redis =B5=C4=C5=E4=D6=C3=CE=C4=BC=FE=CE=
+=BB=D3=DA Redis =B0=B2=D7=B0=C4=BF=C2=BC=CF=C2, =CE=C4=BC=FE=C3=FB=
+=CE=AA redis.conf.<br></div><div><br></div><div>=C4=E3=BF=C9=D2=D4=
+=CD=A8=B9=FD **CONFIG** =C3=FC=C1=EE=B2=E9=BF=B4=BB=F2=C9=E8=D6=C3=
+=C5=E4=D6=C3=CF=EE.<br></div><div><br></div><div>#### 4.2.1 =B2=E9=
+=BF=B4=B7=BD=B7=A8<br></div><div><br></div><div>**CONFIG GET** =C3=
+=FC=C1=EE=BB=F9=B1=BE=D3=EF=B7=A8:<br></div><div><br></div><div>`=
+``bash<br></div><div>redis 127.0.0.1:6379&gt; CONFIG GET CONFIG_S=
+ETTING_NAME<br></div><div>```<br></div><div><br></div><div>=C0=FD=
+=C8=E7<br></div><div><br></div><div>```bash<br></div><div>redis 1=
+27.0.0.1:6379&gt; CONFIG GET loglevel<br></div><div>1) "loglevel"=
+<br></div><div>2) "notice"<br></div><div>```<br></div><div><br></=
+div><div>=CA=B9=D3=C3 `*` =BA=C5=BB=F1=C8=A1=CB=F9=D3=D0=C5=E4=D6=
+=C3=CF=EE:<br></div><div><br></div><div>```bash<br></div><div>red=
+is 127.0.0.1:6379&gt; CONFIG GET *<br></div><div>1) "dbfilename"<=
+br></div><div>2) "dump.rdb"<br></div><div>3) "requirepass"<br></d=
+iv><div>4) ""<br></div><div>5) "masterauth"<br></div><div>6) ""<b=
+r></div><div>...<br></div><div>```<br></div><div><br></div><div>#=
+### 4.2.2 =D0=DE=B8=C4=B7=BD=B7=A8<br></div><div><br></div><div>=C4=
+=E3=BF=C9=D2=D4=CD=A8=B9=FD=D0=DE=B8=C4 redis.conf =CE=C4=BC=FE=BB=
+=F2=CA=B9=D3=C3 **CONFIG set** =C3=FC=C1=EE=C0=B4=D0=DE=B8=C4=C5=E4=
+=D6=C3.<br></div><div><br></div><div>**CONFIG SET** =C3=FC=C1=EE=BB=
+=F9=B1=BE=D3=EF=B7=A8:<br></div><div><br></div><div>```bash<br></=
+div><div>redis 127.0.0.1:6379&gt; CONFIG SET CONFIG_SETTING_NAME=20=
+NEW_CONFIG_VALUE<br></div><div>```<br></div><div><br></div><div>=C0=
+=FD=C8=E7<br></div><div><br></div><div>```bash<br></div><div>redi=
+s 127.0.0.1:6379&gt; CONFIG SET loglevel "notice"<br></div><div>O=
+K<br></div><div>redis 127.0.0.1:6379&gt; CONFIG GET loglevel<br><=
+/div><div>1) "loglevel"<br></div><div>2) "notice"<br></div><div>`=
+``<br></div><div><br></div><div>#### 4.2.3 =B3=A3=D3=C3=C5=E4=D6=C3=
+<br></div><div><br></div><div>```bash<br></div><div>daemonize yes=
+<br></div><div>bind 0.0.0.0<br></div><div>port 6379<br></div><div=
+>requirepass yourpassword<br></div><div>```<br></div><div><br></d=
+iv><div>#### 4.2.4 =B8=BD: =B2=CE=CA=FD=CB=B5=C3=F7<br></div><div=
+><br></div><div>redis.conf =C5=E4=D6=C3=CF=EE=CB=B5=C3=F7=C8=E7=CF=
+=C2:<br></div><div><br></div><div>1. Redis =C4=AC=C8=CF=B2=BB=CA=C7=
+=D2=D4=CA=D8=BB=A4=BD=F8=B3=CC=B5=C4=B7=BD=CA=BD=D4=CB=D0=D0, =BF=
+=C9=D2=D4=CD=A8=B9=FD=B8=C3=C5=E4=D6=C3=CF=EE=D0=DE=B8=C4, =CA=B9=
+=D3=C3 yes =C6=F4=D3=C3=CA=D8=BB=A4=BD=F8=B3=CC<br></div><div>&nb=
+sp; &nbsp; daemonize no<br></div><div>2. =B5=B1 Redis =D2=D4=CA=D8=
+=BB=A4=BD=F8=B3=CC=B7=BD=CA=BD=D4=CB=D0=D0=CA=B1, Redis =C4=AC=C8=
+=CF=BB=E1=B0=D1 pid =D0=B4=C8=EB /var/run/redis.pid =CE=C4=BC=FE,=
+ =BF=C9=D2=D4=CD=A8=B9=FD pidfile =D6=B8=B6=A8<br></div><div>&nbs=
+p; &nbsp; pidfile /var/run/redis.pid<br></div><div>3. =B0=F3=B6=A8=
+=D3=C3=D3=DA=BD=D3=CA=DC redis =B7=C3=CE=CA=C7=EB=C7=F3=B5=C4=B1=BE=
+=BB=FA IP =B5=D8=D6=B7, =BF=C9=B0=F3=B6=A8=B6=E0=B8=F6, =D3=C3=BF=
+=D5=B8=F1=B8=F4=BF=AA. =BC=B4=C8=E7=B9=FB=C4=E3=B5=C4 redis =B7=FE=
+=CE=F1=C6=F7=D3=D0=C1=BD=D5=C5=CD=F8=BF=A8, =D2=BB=D5=C5=CA=C7 ip=
+-1, =C1=ED=D2=BB=D5=C5=CA=C7 ip-2, =C8=E7=B9=FB=C4=E3 bind ip-1,=20=
+=C4=C7=C3=B4=D6=BB=D3=D0=B6=D4 ip-1 =B5=C4=C7=EB=C7=F3=BB=E1=B1=BB=
+=CA=DC=C0=ED.<br></div><div>&nbsp; &nbsp; bind 127.0.0.1 =D4=F2=D6=
+=BB=C4=DC=B1=BE=BB=FA=B7=C3=CE=CA<br></div><div>&nbsp; &nbsp; bin=
+d 0.0.0.0&nbsp; &nbsp; =D4=F2=D6=BB=D3=D0=B1=BE=D7=D3=CD=F8=C4=DA=
+=B5=C4=BB=FA=C6=F7=BF=C9=D2=D4=B7=C3=CE=CA<br></div><div>&nbsp; &=
+nbsp; =D7=A2=CA=CD=B5=F4 `# bind 127.0.0.1` =D4=F2=BD=D3=CA=DC=CB=
+=F9=D3=D0=B7=C3=CE=CA<br></div><div>4. =D6=B8=B6=A8 Redis =BC=E0=CC=
+=FD=B6=CB=BF=DA, =C4=AC=C8=CF=B6=CB=BF=DA=CE=AA 6379, =D7=F7=D5=DF=
+=D4=DA=D7=D4=BC=BA=B5=C4=D2=BB=C6=AA=B2=A9=CE=C4=D6=D0=BD=E2=CA=CD=
+=C1=CB=CE=AA=CA=B2=C3=B4=D1=A1=D3=C3 6379 =D7=F7=CE=AA=C4=AC=C8=CF=
+=B6=CB=BF=DA, =D2=F2=CE=AA 6379 =D4=DA=CA=D6=BB=FA=B0=B4=BC=FC=C9=
+=CF MERZ =B6=D4=D3=A6=B5=C4=BA=C5=C2=EB, =B6=F8 MERZ =C8=A1=D7=D4=
+=D2=E2=B4=F3=C0=FB=B8=E8=C5=AE Alessia Merz =B5=C4=C3=FB=D7=D6<br=
+></div><div>&nbsp; &nbsp; port 6379<br></div><div>5. =C9=E8=D6=C3=
+ Redis =C1=AC=BD=D3=C3=DC=C2=EB, =C8=E7=B9=FB=C5=E4=D6=C3=C1=CB=C1=
+=AC=BD=D3=C3=DC=C2=EB, =BF=CD=BB=A7=B6=CB=D4=DA=C1=AC=BD=D3Redis=CA=
+=B1=D0=E8=D2=AA=CD=A8=B9=FD `AUTH &lt;password&gt;` =C3=FC=C1=EE=CC=
+=E1=B9=A9=C3=DC=C2=EB, =C4=AC=C8=CF=B9=D8=B1=D5<br></div><div>&nb=
+sp; &nbsp; requirepass yourpassword<br></div><div>6. =B5=B1 =BF=CD=
+=BB=A7=B6=CB=CF=D0=D6=C3=B6=E0=B3=A4=CA=B1=BC=E4=BA=F3=B9=D8=B1=D5=
+=C1=AC=BD=D3, =C8=E7=B9=FB=D6=B8=B6=A8=CE=AA0, =B1=ED=CA=BE=B9=D8=
+=B1=D5=B8=C3=B9=A6=C4=DC<br></div><div>&nbsp; &nbsp; timeout 300<=
+br></div><div>7. =D6=B8=B6=A8=C8=D5=D6=BE=BC=C7=C2=BC=BC=B6=B1=F0=
+, Redis =D7=DC=B9=B2=D6=A7=B3=D6=CB=C4=B8=F6=BC=B6=B1=F0: debug,=20=
+verbose, notice, warning, =C4=AC=C8=CF=CE=AA verbose<br></div><di=
+v>&nbsp; &nbsp; loglevel verbose<br></div><div>8. =C8=D5=D6=BE=BC=
+=C7=C2=BC=B7=BD=CA=BD, =C4=AC=C8=CF=CE=AA=B1=EA=D7=BC=CA=E4=B3=F6=
+, =C8=E7=B9=FB=C5=E4=D6=C3 Redis =CE=AA=CA=D8=BB=A4=BD=F8=B3=CC=B7=
+=BD=CA=BD=D4=CB=D0=D0, =B6=F8=D5=E2=C0=EF=D3=D6=C5=E4=D6=C3=CE=AA=
+=C8=D5=D6=BE=BC=C7=C2=BC=B7=BD=CA=BD=CE=AA=B1=EA=D7=BC=CA=E4=B3=F6=
+, =D4=F2=C8=D5=D6=BE=BD=AB=BB=E1=B7=A2=CB=CD=B8=F8 /dev/null<br><=
+/div><div>&nbsp; &nbsp; logfile stdout<br></div><div>9. =C9=E8=D6=
+=C3=CA=FD=BE=DD=BF=E2=B5=C4=CA=FD=C1=BF, =C4=AC=C8=CF=CA=FD=BE=DD=
+=BF=E2=CE=AA 0, =BF=C9=D2=D4=CA=B9=D3=C3 SELECT &lt;dbid&gt; =C3=FC=
+=C1=EE=D4=DA=C1=AC=BD=D3=C9=CF=D6=B8=B6=A8=CA=FD=BE=DD=BF=E2 id<b=
+r></div><div>&nbsp; &nbsp; databases 16<br></div><div>10. =D6=B8=B6=
+=A8=D4=DA=B6=E0=B3=A4=CA=B1=BC=E4=C4=DA, =D3=D0=B6=E0=C9=D9=B4=CE=
+=B8=FC=D0=C2=B2=D9=D7=F7, =BE=CD=BD=AB=CA=FD=BE=DD=CD=AC=B2=BD=B5=
+=BD=CA=FD=BE=DD=CE=C4=BC=FE, =BF=C9=D2=D4=B6=E0=B8=F6=CC=F5=BC=FE=
+=C5=E4=BA=CF<br></div><div>&nbsp; &nbsp; save &lt;seconds&gt; &lt=
+;changes&gt;<br></div><div>&nbsp; &nbsp; Redis=C4=AC=C8=CF=C5=E4=D6=
+=C3=CE=C4=BC=FE=D6=D0=CC=E1=B9=A9=C1=CB=C8=FD=B8=F6=CC=F5=BC=FE:<=
+br></div><div>&nbsp; &nbsp; save 900 1<br></div><div>&nbsp; &nbsp=
+; save 300 10<br></div><div>&nbsp; &nbsp; save 60 10000<br></div>=
+<div>&nbsp; &nbsp; =B7=D6=B1=F0=B1=ED=CA=BE 900 =C3=EB(15 =B7=D6=D6=
+=D3)=C4=DA=D3=D0 1 =B8=F6=B8=FC=B8=C4, 300 =C3=EB(5 =B7=D6=D6=D3)=
+=C4=DA=D3=D0 10 =B8=F6=B8=FC=B8=C4=D2=D4=BC=B0 60 =C3=EB=C4=DA=D3=
+=D0 10000 =B8=F6=B8=FC=B8=C4.<br></div><div>11. =D6=B8=B6=A8=B4=E6=
+=B4=A2=D6=C1=B1=BE=B5=D8=CA=FD=BE=DD=BF=E2=CA=B1=CA=C7=B7=F1=D1=B9=
+=CB=F5=CA=FD=BE=DD, =C4=AC=C8=CF=CE=AA yes, Redis =B2=C9=D3=C3 LZ=
+F =D1=B9=CB=F5, =C8=E7=B9=FB=CE=AA=C1=CB=BD=DA=CA=A1 CPU =CA=B1=BC=
+=E4, =BF=C9=D2=D4=B9=D8=B1=D5=B8=C3=D1=A1=CF=EE, =B5=AB=BB=E1=B5=BC=
+=D6=C2=CA=FD=BE=DD=BF=E2=CE=C4=BC=FE=B1=E4=B5=C4=BE=DE=B4=F3<br><=
+/div><div>&nbsp; &nbsp; rdbcompression yes<br></div><div>12. =D6=B8=
+=B6=A8=B1=BE=B5=D8=CA=FD=BE=DD=BF=E2=CE=C4=BC=FE=C3=FB, =C4=AC=C8=
+=CF=D6=B5=CE=AA dump.rdb<br></div><div>&nbsp; &nbsp; dbfilename d=
+ump.rdb<br></div><div>13. =D6=B8=B6=A8=B1=BE=B5=D8=CA=FD=BE=DD=BF=
+=E2=B4=E6=B7=C5=C4=BF=C2=BC<br></div><div>&nbsp; &nbsp; dir ./<br=
+></div><div>14. =C9=E8=D6=C3=B5=B1=B1=BE=BB=FA=CE=AA slave =B7=FE=
+=CE=F1=CA=B1, =C9=E8=D6=C3 master =B7=FE=CE=F1=B5=C4 IP =B5=D8=D6=
+=B7=BC=B0=B6=CB=BF=DA, =D4=DA Redis =C6=F4=B6=AF=CA=B1, =CB=FC=BB=
+=E1=D7=D4=B6=AF=B4=D3 master =BD=F8=D0=D0=CA=FD=BE=DD=CD=AC=B2=BD=
+<br></div><div>&nbsp; &nbsp; slaveof &lt;masterip&gt; &lt;masterp=
+ort&gt;<br></div><div>15. =B5=B1 master =B7=FE=CE=F1=C9=E8=D6=C3=C1=
+=CB=C3=DC=C2=EB=B1=A3=BB=A4=CA=B1, slave =B7=FE=CE=F1=C1=AC=BD=D3=
+ master =B5=C4=C3=DC=C2=EB<br></div><div>&nbsp; &nbsp; masterauth=
+ &lt;master-password&gt;<br></div><div>16. =C9=E8=D6=C3=CD=AC=D2=BB=
+=CA=B1=BC=E4=D7=EE=B4=F3=BF=CD=BB=A7=B6=CB=C1=AC=BD=D3=CA=FD, =C4=
+=AC=C8=CF=CE=DE=CF=DE=D6=C6, Redis =BF=C9=D2=D4=CD=AC=CA=B1=B4=F2=
+=BF=AA=B5=C4=BF=CD=BB=A7=B6=CB=C1=AC=BD=D3=CA=FD=CE=AA Redis =BD=F8=
+=B3=CC=BF=C9=D2=D4=B4=F2=BF=AA=B5=C4=D7=EE=B4=F3=CE=C4=BC=FE=C3=E8=
+=CA=F6=B7=FB=CA=FD, =C8=E7=B9=FB=C9=E8=D6=C3 maxclients 0, =B1=ED=
+=CA=BE=B2=BB=D7=F7=CF=DE=D6=C6. =B5=B1=BF=CD=BB=A7=B6=CB=C1=AC=BD=
+=D3=CA=FD=B5=BD=B4=EF=CF=DE=D6=C6=CA=B1, Redis =BB=E1=B9=D8=B1=D5=
+=D0=C2=B5=C4=C1=AC=BD=D3=B2=A2=CF=F2=BF=CD=BB=A7=B6=CB=B7=B5=BB=D8=
+ "max number of clients reached" =B4=ED=CE=F3=D0=C5=CF=A2<br></di=
+v><div>&nbsp; &nbsp; maxclients 128<br></div><div>17. =D6=B8=B6=A8=
+ Redis =D7=EE=B4=F3=C4=DA=B4=E6=CF=DE=D6=C6, Redis =D4=DA=C6=F4=B6=
+=AF=CA=B1=BB=E1=B0=D1=CA=FD=BE=DD=BC=D3=D4=D8=B5=BD=C4=DA=B4=E6=D6=
+=D0, =B4=EF=B5=BD=D7=EE=B4=F3=C4=DA=B4=E6=BA=F3, Redis =BB=E1=CF=C8=
+=B3=A2=CA=D4=C7=E5=B3=FD=D2=D1=B5=BD=C6=DA=BB=F2=BC=B4=BD=AB=B5=BD=
+=C6=DA=B5=C4 Key, =B5=B1=B4=CB=B7=BD=B7=A8=B4=A6=C0=ED=BA=F3, =C8=
+=D4=C8=BB=B5=BD=B4=EF=D7=EE=B4=F3=C4=DA=B4=E6=C9=E8=D6=C3, =BD=AB=
+=CE=DE=B7=A8=D4=D9=BD=F8=D0=D0=D0=B4=C8=EB=B2=D9=D7=F7, =B5=AB=C8=
+=D4=C8=BB=BF=C9=D2=D4=BD=F8=D0=D0=B6=C1=C8=A1=B2=D9=D7=F7. Redis=20=
+=D0=C2=B5=C4 vm =BB=FA=D6=C6, =BB=E1=B0=D1 Key =B4=E6=B7=C5=C4=DA=
+=B4=E6, Value =BB=E1=B4=E6=B7=C5=D4=DA swap =C7=F8<br></div><div>=
+&nbsp; &nbsp; maxmemory &lt;bytes&gt;<br></div><div>18. =D6=B8=B6=
+=A8=CA=C7=B7=F1=D4=DA=C3=BF=B4=CE=B8=FC=D0=C2=B2=D9=D7=F7=BA=F3=BD=
+=F8=D0=D0=C8=D5=D6=BE=BC=C7=C2=BC, Redis =D4=DA=C4=AC=C8=CF=C7=E9=
+=BF=F6=CF=C2=CA=C7=D2=EC=B2=BD=B5=C4=B0=D1=CA=FD=BE=DD=D0=B4=C8=EB=
+=B4=C5=C5=CC, =C8=E7=B9=FB=B2=BB=BF=AA=C6=F4, =BF=C9=C4=DC=BB=E1=D4=
+=DA=B6=CF=B5=E7=CA=B1=B5=BC=D6=C2=D2=BB=B6=CE=CA=B1=BC=E4=C4=DA=B5=
+=C4=CA=FD=BE=DD=B6=AA=CA=A7. =D2=F2=CE=AA redis =B1=BE=C9=ED=CD=AC=
+=B2=BD=CA=FD=BE=DD=CE=C4=BC=FE=CA=C7=B0=B4=C9=CF=C3=E6 save =CC=F5=
+=BC=FE=C0=B4=CD=AC=B2=BD=B5=C4, =CB=F9=D2=D4=D3=D0=B5=C4=CA=FD=BE=
+=DD=BB=E1=D4=DA=D2=BB=B6=CE=CA=B1=BC=E4=C4=DA=D6=BB=B4=E6=D4=DA=D3=
+=DA=C4=DA=B4=E6=D6=D0. =C4=AC=C8=CF=CE=AA no<br></div><div>&nbsp;=
+ &nbsp; appendonly no<br></div><div>19. =D6=B8=B6=A8=B8=FC=D0=C2=C8=
+=D5=D6=BE=CE=C4=BC=FE=C3=FB, =C4=AC=C8=CF=CE=AA appendonly.aof<br=
+></div><div>&nbsp; &nbsp; appendfilename appendonly.aof<br></div>=
+<div>20. =D6=B8=B6=A8=B8=FC=D0=C2=C8=D5=D6=BE=CC=F5=BC=FE, =B9=B2=
+=D3=D0 3 =B8=F6=BF=C9=D1=A1=D6=B5:<br></div><div>&nbsp; &nbsp; no=
+: =B1=ED=CA=BE=B5=C8=B2=D9=D7=F7=CF=B5=CD=B3=BD=F8=D0=D0=CA=FD=BE=
+=DD=BB=BA=B4=E6=CD=AC=B2=BD=B5=BD=B4=C5=C5=CC(=BF=EC)<br></div><d=
+iv>&nbsp; &nbsp; always: =B1=ED=CA=BE=C3=BF=B4=CE=B8=FC=D0=C2=B2=D9=
+=D7=F7=BA=F3=CA=D6=B6=AF=B5=F7=D3=C3 fsync() =BD=AB=CA=FD=BE=DD=D0=
+=B4=B5=BD=B4=C5=C5=CC(=C2=FD, =B0=B2=C8=AB)<br></div><div>&nbsp;=20=
+&nbsp; everysec: =B1=ED=CA=BE=C3=BF=C3=EB=CD=AC=B2=BD=D2=BB=B4=CE=
+(=D5=DB=D6=D4, =C4=AC=C8=CF=D6=B5)<br></div><div>&nbsp; &nbsp; ap=
+pendfsync everysec<br></div><div>21. =D6=B8=B6=A8=CA=C7=B7=F1=C6=F4=
+=D3=C3=D0=E9=C4=E2=C4=DA=B4=E6=BB=FA=D6=C6, =C4=AC=C8=CF=D6=B5=CE=
+=AA no, =BC=F2=B5=A5=B5=C4=BD=E9=C9=DC=D2=BB=CF=C2, VM =BB=FA=D6=C6=
+=BD=AB=CA=FD=BE=DD=B7=D6=D2=B3=B4=E6=B7=C5, =D3=C9 Redis =BD=AB=B7=
+=C3=CE=CA=C1=BF=BD=CF=C9=D9=B5=C4=D2=B3=BC=B4=C0=E4=CA=FD=BE=DD s=
+wap =B5=BD=B4=C5=C5=CC=C9=CF, =B7=C3=CE=CA=B6=E0=B5=C4=D2=B3=C3=E6=
+=D3=C9=B4=C5=C5=CC=D7=D4=B6=AF=BB=BB=B3=F6=B5=BD=C4=DA=B4=E6=D6=D0=
+(=D4=DA=BA=F3=C3=E6=B5=C4=CE=C4=D5=C2=CE=D2=BB=E1=D7=D0=CF=B8=B7=D6=
+=CE=F6 Redis =B5=C4 VM =BB=FA=D6=C6)<br></div><div>&nbsp; &nbsp;=20=
+vm-enabled no<br></div><div>22. =D0=E9=C4=E2=C4=DA=B4=E6=CE=C4=BC=
+=FE=C2=B7=BE=B6, =C4=AC=C8=CF=D6=B5=CE=AA /tmp/redis.swap, =B2=BB=
+=BF=C9=B6=E0=B8=F6 Redis =CA=B5=C0=FD=B9=B2=CF=ED<br></div><div>&=
+nbsp; &nbsp; vm-swap-file /tmp/redis.swap<br></div><div>23. =BD=AB=
+=CB=F9=D3=D0=B4=F3=D3=DA vm-max-memory =B5=C4=CA=FD=BE=DD=B4=E6=C8=
+=EB=D0=E9=C4=E2=C4=DA=B4=E6, =CE=DE=C2=DB vm-max-memory =C9=E8=D6=
+=C3=B6=E0=D0=A1, =CB=F9=D3=D0=CB=F7=D2=FD=CA=FD=BE=DD=B6=BC=CA=C7=
+=C4=DA=B4=E6=B4=E6=B4=A2=B5=C4(Redis =B5=C4=CB=F7=D2=FD=CA=FD=BE=DD=
+=BE=CD=CA=C7 keys), =D2=B2=BE=CD=CA=C7=CB=B5, =B5=B1 vm-max-memor=
+y =C9=E8=D6=C3=CE=AA 0 =B5=C4=CA=B1=BA=F2, =C6=E4=CA=B5=CA=C7=CB=F9=
+=D3=D0 value =B6=BC=B4=E6=D4=DA=D3=DA=B4=C5=C5=CC. =C4=AC=C8=CF=D6=
+=B5=CE=AA 0<br></div><div>&nbsp; &nbsp; vm-max-memory 0<br></div>=
+<div>24. Redis swap =CE=C4=BC=FE=B7=D6=B3=C9=C1=CB=BA=DC=B6=E0=B5=
+=C4 page, =D2=BB=B8=F6=B6=D4=CF=F3=BF=C9=D2=D4=B1=A3=B4=E6=D4=DA=B6=
+=E0=B8=F6 page =C9=CF=C3=E6, =B5=AB=D2=BB=B8=F6 page =C9=CF=B2=BB=
+=C4=DC=B1=BB=B6=E0=B8=F6=B6=D4=CF=F3=B9=B2=CF=ED, vm-page-size =CA=
+=C7=D2=AA=B8=F9=BE=DD=B4=E6=B4=A2=B5=C4=CA=FD=BE=DD=B4=F3=D0=A1=C0=
+=B4=C9=E8=B6=A8=B5=C4, =D7=F7=D5=DF=BD=A8=D2=E9=C8=E7=B9=FB=B4=E6=
+=B4=A2=BA=DC=B6=E0=D0=A1=B6=D4=CF=F3, page =B4=F3=D0=A1=D7=EE=BA=C3=
+=C9=E8=D6=C3=CE=AA 32 =BB=F2=D5=DF 64 bytes; =C8=E7=B9=FB=B4=E6=B4=
+=A2=BA=DC=B4=F3=B4=F3=B6=D4=CF=F3, =D4=F2=BF=C9=D2=D4=CA=B9=D3=C3=
+=B8=FC=B4=F3=B5=C4 page, =C8=E7=B9=FB=B2=BB=C8=B7=B6=A8, =BE=CD=CA=
+=B9=D3=C3=C4=AC=C8=CF=D6=B5<br></div><div>&nbsp; &nbsp; vm-page-s=
+ize 32<br></div><div>25. =C9=E8=D6=C3 swap =CE=C4=BC=FE=D6=D0=B5=C4=
+ page =CA=FD=C1=BF, =D3=C9=D3=DA=D2=B3=B1=ED(=D2=BB=D6=D6=B1=ED=CA=
+=BE=D2=B3=C3=E6=BF=D5=CF=D0=BB=F2=CA=B9=D3=C3=B5=C4 bitmap)=CA=C7=
+=D4=DA=B7=C5=D4=DA=C4=DA=B4=E6=D6=D0=B5=C4, =D4=DA=B4=C5=C5=CC=C9=
+=CF=C3=BF 8 =B8=F6 pages =BD=AB=CF=FB=BA=C4 1 byte =B5=C4=C4=DA=B4=
+=E6.<br></div><div>&nbsp; &nbsp; vm-pages 134217728<br></div><div=
+>26. =C9=E8=D6=C3=B7=C3=CE=CA swap =CE=C4=BC=FE=B5=C4=CF=DF=B3=CC=
+=CA=FD,=D7=EE=BA=C3=B2=BB=D2=AA=B3=AC=B9=FD=BB=FA=C6=F7=B5=C4=BA=CB=
+=CA=FD,=C8=E7=B9=FB=C9=E8=D6=C3=CE=AA 0,=C4=C7=C3=B4=CB=F9=D3=D0=B6=
+=D4 swap =CE=C4=BC=FE=B5=C4=B2=D9=D7=F7=B6=BC=CA=C7=B4=AE=D0=D0=B5=
+=C4, =BF=C9=C4=DC=BB=E1=D4=EC=B3=C9=B1=C8=BD=CF=B3=A4=CA=B1=BC=E4=
+=B5=C4=D1=D3=B3=D9. =C4=AC=C8=CF=D6=B5=CE=AA 4<br></div><div>&nbs=
+p; &nbsp; vm-max-threads 4<br></div><div>27. =C9=E8=D6=C3=D4=DA=CF=
+=F2=BF=CD=BB=A7=B6=CB=D3=A6=B4=F0=CA=B1, =CA=C7=B7=F1=B0=D1=BD=CF=
+=D0=A1=B5=C4=B0=FC=BA=CF=B2=A2=CE=AA=D2=BB=B8=F6=B0=FC=B7=A2=CB=CD=
+, =C4=AC=C8=CF=CE=AA=BF=AA=C6=F4<br></div><div>&nbsp; &nbsp; glue=
+outputbuf yes<br></div><div>28. =D6=B8=B6=A8=D4=DA=B3=AC=B9=FD=D2=
+=BB=B6=A8=B5=C4=CA=FD=C1=BF=BB=F2=D5=DF=D7=EE=B4=F3=B5=C4=D4=AA=CB=
+=D8=B3=AC=B9=FD=C4=B3=D2=BB=C1=D9=BD=E7=D6=B5=CA=B1, =B2=C9=D3=C3=
+=D2=BB=D6=D6=CC=D8=CA=E2=B5=C4=B9=FE=CF=A3=CB=E3=B7=A8<br></div><=
+div>&nbsp; &nbsp; hash-max-zipmap-entries 64<br></div><div>&nbsp;=
+ &nbsp; hash-max-zipmap-value 512<br></div><div>29. =D6=B8=B6=A8=CA=
+=C7=B7=F1=BC=A4=BB=EE=D6=D8=D6=C3=B9=FE=CF=A3, =C4=AC=C8=CF=CE=AA=
+=BF=AA=C6=F4(=BA=F3=C3=E6=D4=DA=BD=E9=C9=DC Redis =B5=C4=B9=FE=CF=
+=A3=CB=E3=B7=A8=CA=B1=BE=DF=CC=E5=BD=E9=C9=DC)<br></div><div>&nbs=
+p; &nbsp; activerehashing yes<br></div><div>30. =D6=B8=B6=A8=B0=FC=
+=BA=AC=C6=E4=CB=FC=B5=C4=C5=E4=D6=C3=CE=C4=BC=FE, =BF=C9=D2=D4=D4=
+=DA=CD=AC=D2=BB=D6=F7=BB=FA=C9=CF=B6=E0=B8=F6 Redis =CA=B5=C0=FD=D6=
+=AE=BC=E4=CA=B9=D3=C3=CD=AC=D2=BB=B7=DD=C5=E4=D6=C3=CE=C4=BC=FE,=20=
+=B6=F8=CD=AC=CA=B1=B8=F7=B8=F6=CA=B5=C0=FD=D3=D6=D3=B5=D3=D0=D7=D4=
+=BC=BA=B5=C4=CC=D8=B6=A8=C5=E4=D6=C3=CE=C4=BC=FE<br></div><div>&n=
+bsp; &nbsp; include /path/to/local.conf<br></div><div><br></div><=
+div>### 4.3 =BC=AF=C8=BA(=BC=B4=B7=D6=B2=BC=CA=BD)<br></div><div>=
+<br></div><div>redis =B4=D3 3.0 =D2=D4=BA=F3=B5=C4=B0=E6=B1=BE=BF=
+=AA=CA=BC=D6=A7=B3=D6=BC=AF=C8=BA=B9=A6=C4=DC, =D2=B2=BE=CD=CA=C7=
+=D5=FD=D5=E6=D2=E2=D2=E5=C9=CF=CA=B5=CF=D6=C1=CB=B7=D6=B2=BC=CA=BD=
+. Redis =BC=AF=C8=BA=CA=C7=D2=BB=B8=F6=B7=D6=B2=BC=CA=BD(distribu=
+ted), =C8=DD=B4=ED(fault-tolerant)=B5=C4 Redis =CA=B5=CF=D6, =BC=AF=
+=C8=BA=B5=C4=C6=E4=D6=D0=D2=BB=B8=F6=D6=F7=D2=AA=C9=E8=BC=C6=C4=BF=
+=B1=EA=CA=C7=B4=EF=B5=BD=CF=DF=D0=D4=BF=C9=C0=A9=D5=B9=D0=D4(line=
+ar scalability). =C4=BF=C7=B0=D4=DA=CA=FD=BE=DD=B5=C4=D2=BB=D6=C2=
+=D0=D4=BA=CD=C8=DD=B4=ED=D0=D4=C9=CF=C9=D0=B2=BB=CE=C8=B6=A8, =CB=
+=F9=D2=D4=D4=DD=CA=B1=C3=BB=D3=D0=C5=E4=D6=C3=BC=AF=C8=BA.<br></d=
+iv><div><br></div><div>**PS:** =D4=DA=B5=A5=BB=FA=C9=CF=D4=CB=D0=D0=
+ Redis =D7=EE=B4=F3=B5=C4=D0=E8=C7=F3=CA=C7=C4=DA=B4=E6.<br></div=
+><div><br></div><div>## 5 Node<br></div><div><br></div><div>=BC=F2=
+=B5=A5=B5=C4=CB=B5: Node.js =BE=CD=CA=C7=D4=CB=D0=D0=D4=DA=B7=FE=CE=
+=F1=B6=CB=B5=C4 JavaScript, Node.js =CA=C7=D2=BB=B8=F6=BB=F9=D3=DA=
+ Chrome JavaScript V8=D2=FD=C7=E6=BD=A8=C1=A2=B5=C4=D2=BB=B8=F6=C6=
+=BD=CC=A8.<br></div><div><br></div><div>### 5.1 Node =B0=B2=D7=B0=
+<br></div><div><br></div><div>**=CF=C2=D4=D8=B5=D8=D6=B7:** [http=
+s://nodejs.org/en/download/](https://nodejs.org/en/download/)<br>=
+</div><div><br></div><div>* =CF=C2=D4=D8 Node LTS(=B3=A4=C6=DA=D6=
+=A7=B3=D6=B0=E6) linux =C6=BD=CC=A8=D4=A4=B1=E0=D2=EB=B0=E6=B1=BE=
+ node-v6.9.1-linux-x64.tar.xz<br></div><div>* =BD=E2=D1=B9: `tar=20=
+xJf node-v6.9.1-linux-x64.tar.xz`<br></div><div>* =C5=E4=D6=C3=BB=
+=B7=BE=B3=B1=E4=C1=BF: =D4=DA /etc/profile (or ~/.bashrc) =CC=ED=BC=
+=D3=C8=E7=CF=C2=C4=DA=C8=DD, =C8=BB=BA=F3 =D6=D8=D0=C2=B5=C7=C2=BD=
+ =BB=F2 source /etc/profile (or ~/.bashrc)<br></div><div><br></di=
+v><div>```bash<br></div><div>export NODE_HOME=3D/usr/local/node-v=
+6.9.1-linux-x64<br></div><div>export PATH=3D$NODE_HOME/bin:$PATH<=
+br></div><div>```<br></div><div><br></div><div>* =D1=E9=D6=A4:<br=
+></div><div><br></div><div>```bash<br></div><div>$ node -v<br></d=
+iv><div>v6.9.1<br></div><div>```<br></div><div><br></div><div>Nod=
+e =B2=BF=CA=F0=BE=CD=CD=EA=B3=C9=C1=CB.<br></div><div><br></div><=
+div>## 6 =D7=EE=BA=F3<br></div><div><br></div><div>* =D2=F2=CE=AA=
+ storm kafka zookeeper =B6=BC=CA=C7 Java =B5=C4, =CB=F9=D2=D4=BF=C9=
+=D2=D4=B5=F7=D5=FB Java =B6=D1=B4=F3=D0=A1=D2=D4=D3=C5=BB=AF=C9=CF=
+=C3=E6=D5=E2=D0=A9=B3=CC=D0=F2=B5=C4=D4=CB=D0=D0. Java =B6=D1=CC=AB=
+=D0=A1=BB=E1=B5=BC=D6=C2=B3=CC=D0=F2=C4=D1=D2=D4=D4=CB=D0=D0; Jav=
+a =B6=D1=CC=AB=B4=F3(=B3=AC=B3=F6=CE=EF=C0=ED=C4=DA=B4=E6)=BB=E1=B5=
+=BC=D6=C2=B3=CC=D0=F2=B1=BB=BD=BB=BB=BB=B5=BD=B4=C5=C5=CC, =D0=D4=
+=C4=DC=BC=B1=BE=E7=BD=B5=B5=CD. =C0=FD=C8=E7: 4 G =C4=DA=B4=E6=B5=
+=C4=D7=A8=D3=C3=B7=FE=CE=F1=C6=F7=BF=C9=D2=D4=B7=D6=C5=E4 3 G =B5=
+=C4 Java =B6=D1, =D7=EE=BA=C3=B5=C4=BD=A8=D2=E9=CA=C7=D4=CB=D0=D0=
+=B8=BA=D4=D8=B2=E2=CA=D4, =C8=BB=BA=F3=C8=B7=B1=A3=D4=B6=B5=CD=D3=
+=DA=BB=E1=B5=BC=D6=C2=CF=B5=CD=B3=BD=BB=BB=BB=B5=C4=B6=D1=B4=F3=D0=
+=A1.<br></div><div><br></div><div>## =B8=BD=C2=BC A kafka =B2=BF=B7=
+=D6=C5=E4=D6=C3=B2=CE=CA=FD=CB=B5=C3=F7<br></div><div><br></div><=
+div>**boker =B2=BF=B7=D6=B2=CE=CA=FD=CB=B5=C3=F7** (=C5=E4=D6=C3=CE=
+=C4=BC=FE=CE=BB=D3=DA config/server.properties)<br></div><div><br=
+></div><div>| =C3=FB=B3=C6&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp;  | =C3=E8=CA=F6&nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =C0=E0=D0=CD&nb=
+sp; &nbsp; &nbsp; | =C4=AC=C8=CF&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =D3=D0=D0=A7=D6=B5&nbsp;=20=
+&nbsp; &nbsp; | =D6=D8=D2=AA=B3=CC=B6=C8 |<br></div><div>| ------=
+---------------------------------- | ----------------------------=
+------------ | ------- | ---------------------- | -------- | ----=
+ |<br></div><div>| zookeeper.connect&nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | zookeepe=
+r host string&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; | string&nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| a=
+dvertised.host.name&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp;  | =B9=FD=CA=B1=B5=C4: =B5=B1advertised.l=
+isteners=BB=F2listeners=C3=BB=C9=E8=D6=C3=CA=B1=BA=F2=B2=C5=CA=B9=
+=D3=C3.=C7=EB=B8=C4=D3=C3advertised.listeners.Hostname=B7=A2=B2=BC=
+=B5=BDZookeeper=B9=A9=BF=CD=BB=A7=B6=CB=CA=B9=D3=C3.=D4=DAIaaS=BB=
+=B7=BE=B3=D6=D0, =D5=E2=BF=C9=C4=DC=D0=E8=D2=AA=B2=BB=CD=AC=D3=DA=
+broker=B0=F3=B6=A8=B5=C4=BD=D3=BF=DA.=C8=E7=B9=FB=C3=BB=D3=D0=C9=E8=
+=D6=C3, =BD=AB=BB=E1=CA=B9=D3=C3host.name(=C8=E7=B9=FB=C5=E4=D6=C3=
+=C1=CB).=B7=F1=D4=F2=BD=AB=B4=D3java.net.InetAddress.getCanonical=
+HostName()=BB=F1=C8=A1. | string&nbsp; | null&nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| advertised=
+.listeners&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp;  | =B7=A2=B2=BC=B5=BDZookeeper=B9=A9=BF=CD=BB=A7=B6=
+=CB=CA=B9=D3=C3=BC=E0=CC=FD.=C8=E7=B9=FB=B2=BB=CD=AC=D3=DA=C9=CF=C3=
+=E6=B5=C4=BC=E0=CC=FD.=D4=DAIaaS=BB=B7=BE=B3=D6=D0, =BF=C9=C4=DC=D0=
+=E8=D2=AA=B2=BB=CD=AC=D3=DAbroker=B0=F3=B6=A8=B5=C4=BD=D3=BF=DA.=C8=
+=E7=B9=FB=C3=BB=C9=E8=D6=C3, =D4=F2=CA=B9=D3=C3listeners. | strin=
+g&nbsp; | null&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &=
+nbsp; |<br></div><div>| advertised.port&nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+| =B9=FD=CA=B1=B5=C4: =B5=B1advertised.listeners=BB=F2listeners=C3=
+=BB=D3=D0=C9=E8=D6=C3=B2=C5=CA=B9=D3=C3.=C7=EB=B8=C4=D3=C3adverti=
+sed.listeners.=B6=CB=BF=DA=B7=A2=B2=BC=B5=BDZookeeper=B9=A9=BF=CD=
+=BB=A7=B6=CB=CA=B9=D3=C3, =D4=DAIaaS=BB=B7=BE=B3=D6=D0, =BF=C9=C4=
+=DC=D0=E8=D2=AA=B2=BB=CD=AC=D3=DAbroker=B0=F3=B6=A8=B5=C4=B6=CB=BF=
+=DA.=C8=E7=B9=FB=C3=BB=D3=D0=C9=E8=D6=C3, =BD=AB=B7=A2=B2=BCbroke=
+r=B0=F3=B6=A8=B5=C4=CD=AC=D2=BB=B8=F6=B6=CB=BF=DA. | int&nbsp; &n=
+bsp;  | null&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nb=
+sp; |<br></div><div>| auto.create.topics.enable&nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =C6=F4=D3=C3=D7=D4=B6=AF=B4=
+=B4=BD=A8topic&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | boolean |=
+ true&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<b=
+r></div><div>| auto.leader.rebalance.enable&nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp;  | =C6=F4=D3=C3=D7=D4=B6=AF=C6=BD=BA=E2leader=
+.=C8=E7=B9=FB=D0=E8=D2=AA, =BA=F3=CC=A8=CF=DF=B3=CC=BB=E1=B6=A8=C6=
+=DA=BC=EC=B2=E9=B2=A2=B4=A5=B7=A2leader=C6=BD=BA=E2. | boolean |=20=
+true&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br=
+></div><div>| background.threads&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =D3=C3=D3=DA=B8=F7=
+=D6=D6=BA=F3=CC=A8=B4=A6=C0=ED=C8=CE=CE=F1=B5=C4=CF=DF=B3=CC=CA=FD=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp;  | int&nbsp; &nbsp;  | 10&nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | [1,...=
+]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| broker.id&nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B7=FE=CE=F1=C6=F7=B5=C4=
+broker id.=C8=E7=B9=FB=CE=B4=C9=E8=D6=C3, =BD=AB=C9=FA=B3=C9=D2=BB=
+=B8=F6=B6=C0=D2=BB=CE=DE=B6=FE=B5=C4broker id.=D2=AA=B1=DC=C3=E2z=
+ookeeper=C9=FA=B3=C9=B5=C4broker id=BA=CD=D3=C3=BB=A7=C5=E4=D6=C3=
+=B5=C4broker id=B3=E5=CD=BB, =B4=D3reserved.broker.max.id + 1=BF=AA=
+=CA=BC=C9=FA=B3=C9. | int&nbsp; &nbsp;  | -1&nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| comp=
+ression.type&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp;  | =CE=AA=B8=F8=B6=A8topic=D6=B8=B6=
+=A8=D7=EE=D6=D5=B5=C4=D1=B9=CB=F5=C0=E0=D0=CD.=D6=A7=B3=D6=B1=EA=D7=
+=BC=B5=C4=D1=B9=CB=F5=B1=E0=C2=EB=C6=F7('gzip', 'snappy', 'lz4').=
+=D2=B2=BD=D3=CA=DC'=CE=B4=D1=B9=CB=F5', =BE=CD=CA=C7=C3=BB=D3=D0=D1=
+=B9=CB=F5.=B1=A3=C1=F4=D3=C9producer=C9=E8=D6=C3=B5=C4=D4=AD=CA=BC=
+=B5=C4=D1=B9=CB=F5=B1=E0=C2=EB. | string&nbsp; | producer&nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| delete.topic=
+.enable&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; | =C6=F4=D3=C3=C9=BE=B3=FDtopic.=C8=E7=B9=FB=B4=
+=CB=C5=E4=D6=C3=D2=D1=B9=D8=B1=D5, =CD=A8=B9=FD=B9=DC=C0=ED=B9=A4=
+=BE=DF=C9=BE=B3=FDtopic=BD=AB=C3=BB=D3=D0=C8=CE=BA=CE=D0=A7=B9=FB=
+ | boolean | false&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp=
+; &nbsp; |<br></div><div>| host.name&nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; | =B2=BB=D4=DE=B3=C9: =B5=B1listeners=C3=BB=D3=D0=
+=C9=E8=D6=C3=B2=C5=BB=E1=CA=B9=D3=C3.=C7=EB=B8=C4=D3=C3listeners.=
+broker=B5=C4hostname.=C8=E7=B9=FB=C9=E8=D6=C3, =CB=FC=BD=AB=D6=BB=
+=B0=F3=B6=A8=B5=BD=B4=CB=B5=D8=D6=B7.=C8=E7=B9=FB=C3=BB=D3=D0=C9=E8=
+=D6=C3, =CB=FC=BD=AB=B0=F3=B6=A8=B5=BD=CB=F9=D3=D0=BD=D3=BF=DA |=20=
+string&nbsp; | ""&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF=
+&nbsp; &nbsp; |<br></div><div>| leader.imbalance.check.interval.s=
+econds&nbsp; | =D3=C9=BF=D8=D6=C6=C6=F7=B4=A5=B7=A2=B7=D6=C7=F8=D4=
+=D9=C6=BD=BA=E2=BC=EC=B2=E9=B5=C4=C6=B5=C2=CA&nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; =20=
+| long&nbsp; &nbsp; | 300&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ | =B8=DF&nbsp; &nbsp; |<br></div><div>| leader.imbalance.per.bro=
+ker.percentage&nbsp;  | =D4=CA=D0=ED=C3=BF=B8=F6broker=B5=C4leade=
+r=B1=C8=C0=FD=B2=BB=C6=BD=BA=E2.=C8=E7=B9=FB=C3=BF=B8=F6broker=B5=
+=C4=D6=B5=B8=DF=D3=DA=B4=CB=D6=B5, =BF=D8=D6=C6=C6=F7=BD=AB=B4=A5=
+=B7=A2leader=C6=BD=BA=E2, =B8=C3=D6=B5=D2=D4=B0=D9=B7=D6=B1=C8=B5=
+=C4=D0=CE=CA=BD=D6=B8=B6=A8. | int&nbsp; &nbsp;  | 10&nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><d=
+iv>| listeners&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =BC=
+=E0=CC=FD=C1=D0=B1=ED - =BC=E0=CC=FD=B6=BA=BA=C5=B7=D6=B8=F4=B5=C4=
+URL=C1=D0=B1=ED=BA=CD=D0=AD=D2=E9.=D6=B8=B6=A8hostname=CE=AA0.0.0=
+.0=B0=F3=B6=A8=B5=BD=CB=F9=D3=D0=BD=D3=BF=DA, =BD=ABhostname=C1=F4=
+=BF=D5=D4=F2=B0=F3=B6=A8=B5=BD=C4=AC=C8=CF=BD=D3=BF=DA.=BA=CF=B7=A8=
+=B5=C4listener=C1=D0=B1=ED=CA=C7: PLAINTEXT://myhost:9092,TRACE:/=
+/:9091 PLAINTEXT://0.0.0.0:9092, TRACE://localhost:9093 | string&=
+nbsp; | null&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nb=
+sp; |<br></div><div>| log.dir&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; | =B1=A3=B4=E6=C8=D5=D6=BE=CA=FD=BE=DD=B5=C4=C4=
+=BF=C2=BC (=B2=B9=B3=E4log.dirs=CA=F4=D0=D4)&nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | string&nbsp; | /tmp/kafka-l=
+ogs&nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; | =B8=DF&nbsp; &nbsp; |<br></div><div>| log.dirs&nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp;  | =B1=A3=B4=E6=C8=D5=D6=BE=CA=FD=
+=BE=DD=B5=C4=C4=BF=C2=BC.=C8=E7=B9=FB=CE=B4=C9=E8=D6=C3, =D4=F2=CA=
+=B9=D3=C3log.dir=D6=D0=B5=C4=D6=B5&nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp;  | string&nbsp; | null&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=
+=DF&nbsp; &nbsp; |<br></div><div>| log.flush.interval.messages&nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =CF=FB=CF=A2=CB=A2=
+=D0=C2=B5=BD=B4=C5=C5=CC=D6=AE=C7=B0, =C0=DB=BC=C6=D4=DA=C8=D5=D6=
+=BE=B7=D6=C7=F8=B5=C4=CF=FB=CF=A2=CA=FD&nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | long&nbsp; &nbsp; | 92233=
+72036854775807&nbsp; &nbsp; | [1,...]&nbsp; | =B8=DF&nbsp; &nbsp;=
+ |<br></div><div>| log.flush.interval.ms&nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | topic=D6=D0=B5=C4=CF=
+=FB=CF=A2=D4=DA=CB=A2=D0=C2=B5=BD=B4=C5=C5=CC=D6=AE=C7=B0=B1=A3=B4=
+=E6=D4=DA=C4=DA=B4=E6=D6=D0=B5=C4=D7=EE=B4=F3=CA=B1=BC=E4(=D2=D4=BA=
+=C1=C3=EB=CE=AA=B5=A5=CE=BB), =C8=E7=B9=FB=CE=B4=C9=E8=D6=C3, =D4=
+=F2=CA=B9=D3=C3log.flush.scheduler.interval.ms=D6=D0=B5=C4=D6=B5=20=
+| null&nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| log.flush.offs=
+et.checkpoint.interval.ms&nbsp; | =CE=D2=C3=C7=B8=FC=D0=C2=B5=C4=B3=
+=D6=D0=F8=BC=C7=C2=BC=B5=C4=D7=EE=BA=F3=D2=BB=B4=CE=CB=A2=D0=C2=B5=
+=C4=C6=B5=C2=CA.=D7=F7=CE=AA=C8=D5=D6=BE=B5=C4=BB=D6=B8=B4=B5=E3.=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | int&nbsp; &nbsp;  | 6=
+0000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; | [0,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| log.flu=
+sh.scheduler.interval.ms&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =C8=D5=
+=D6=BE=CB=A2=D0=C2=B5=C4=C6=B5=C2=CA(=D2=D4=BA=C1=C3=EB=CE=AA=B5=A5=
+=CE=BB)=BC=EC=B2=E9=CA=C7=B7=F1=D3=D0=C8=CE=BA=CE=C8=D5=D6=BE=D0=E8=
+=D2=AA=CB=A2=D0=C2=B5=BD=B4=C5=C5=CC&nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; | long&nbsp; &nbsp; | 9223372036854775807&nbsp; &nbsp; |&nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div>=
+<div>| log.retention.bytes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =C9=BE=B3=FD=C8=D5=D6=BE=D6=
+=AE=C7=B0=B5=C4=D7=EE=B4=F3=B4=F3=D0=A1&nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; | long&nbsp; &nbsp; | -1&nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| log.retent=
+ion.hours&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; | =C9=BE=B3=FD=C8=D5=D6=BE=CE=C4=BC=FE=B1=A3=
+=C1=F4=B5=C4=D0=A1=CA=B1=CA=FD(=D2=D4=D0=A1=CA=B1=CE=AA=B5=A5=CE=BB=
+).=B5=DA=C8=FD=BC=B6=CA=C7log.retention.ms=CA=F4=D0=D4 | int&nbsp=
+; &nbsp;  | 168&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&=
+nbsp; &nbsp; |<br></div><div>| log.retention.minutes&nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =C9=BE=
+=B3=FD=C8=D5=D6=BE=CE=C4=BC=FE=D6=AE=C7=B0=B1=A3=C1=F4=B5=C4=B7=D6=
+=D6=D3=CA=FD(=D2=D4=B7=D6=D6=D3=CE=AA=B5=A5=CE=BB).=B4=CE=D3=DAlo=
+g.retention.ms=CA=F4=D0=D4.=C8=E7=B9=FB=C3=BB=C9=E8=D6=C3, =D4=F2=
+=CA=B9=D3=C3log.retention.hours=B5=C4=D6=B5. | int&nbsp; &nbsp; =20=
+| null&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<=
+br></div><div>| log.retention.ms&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =C9=BE=B3=FD=
+=C8=D5=D6=BE=CE=C4=BC=FE=D6=AE=C7=B0=B1=A3=C1=F4=B5=C4=BA=C1=C3=EB=
+=CA=FD(=D2=D4=BA=C1=C3=EB=CE=AA=B5=A5=CE=BB), =C8=E7=B9=FB=CE=B4=C9=
+=E8=D6=C3, =D4=F2=CA=B9=D3=C3log.retention.minutes=B5=C4=D6=B5. |=
+ long&nbsp; &nbsp; | null&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=
+=DF&nbsp; &nbsp; |<br></div><div>| log.roll.hours&nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp;  | =D0=C2=BD=A8=D2=BB=B8=F6=C8=D5=D6=BE=B6=CE=B5=C4=D7=EE=
+=B4=F3=CA=B1=BC=E4(=D2=D4=D0=A1=CA=B1=CE=AA=B5=A5=CE=BB), =B4=CE=D3=
+=DAlog.roll.ms=CA=F4=D0=D4.&nbsp;  | int&nbsp; &nbsp;  | 168&nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+| [1,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| log.roll.=
+jitter.hours&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; | =B4=D3logRollTimeMillis(=D2=D4=D0=A1=CA=B1=CE=AA=
+=B5=A5=CE=BB)=BC=F5=C8=A5=D7=EE=B4=F3=B6=B6=B6=AF, =B4=CE=D3=DAlo=
+g.roll.jitter.ms=CA=F4=D0=D4. | int&nbsp; &nbsp;  | 0&nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+| [0,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| log.roll.=
+ms&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D0=C2=BD=A8=D2=BB=B8=
+=F6=C8=D5=D6=BE=B6=CE=D6=AE=C7=B0=B5=C4=D7=EE=B4=F3=CA=C2=CA=B1=BC=
+=E4(=D2=D4=BA=C1=C3=EB=CE=AA=B5=A5=CE=BB).=C8=E7=B9=FB=CE=B4=C9=E8=
+=D6=C3, =D4=F2=CA=B9=D3=C3log.roll.hours=B5=C4=D6=B5. | long&nbsp=
+; &nbsp; | null&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp;=20=
+&nbsp; |<br></div><div>| og.segment.bytes&nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =B5=
+=A5=B8=F6=C8=D5=D6=BE=CE=C4=BC=FE=B5=C4=D7=EE=B4=F3=B4=F3=D0=A1&n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | int&nbsp; &nbsp;  | 10737=
+41824&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | [14,...] | =B8=DF=
+&nbsp; &nbsp; |<br></div><div>| og.segment.delete.delay.ms&nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =B4=D3=CE=C4=BC=FE=CF=
+=B5=CD=B3=D6=D0=C9=BE=B3=FD=CE=C4=BC=FE=D6=AE=C7=B0=B5=C4=B5=C8=B4=
+=FD=B5=C4=CA=B1=BC=E4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp;  | long&nbsp; &nbsp; | 60000&nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [0,.=
+..]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| message.max.byt=
+es&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; | =B7=FE=CE=F1=C6=F7=BF=C9=D2=D4=BD=D3=CA=D5=
+=B5=C4=CF=FB=CF=A2=B5=C4=D7=EE=B4=F3=B4=F3=D0=A1&nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; | int&nbsp; &nbsp;  | 1000012&nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; | [0,...]&nbsp; | =B8=DF&nbsp; &nbsp=
+; |<br></div><div>| min.insync.replicas&nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B5=B1produc=
+er=C9=E8=D6=C3acks=CE=AA"all"(=BB=F2"-1")=CA=B1.min.insync.replic=
+as=D6=B8=B6=A8=B1=D8=D0=EB=D3=A6=B4=F0=B3=C9=B9=A6=D0=B4=C8=EB=B5=
+=C4replicas=D7=EE=D0=A1=CA=FD.=C8=E7=B9=FB=B2=BB=C4=DC=C2=FA=D7=E3=
+=D7=EE=D0=A1=D6=B5, =C4=C7=C3=B4producer=C5=D7=B3=F6=D2=BB=B8=F6=D2=
+=EC=B3=A3(NotEnoughReplicas=BB=F2NotEnoughReplicasAfterAppend).=B5=
+=B1=D2=BB=C6=F0=CA=B9=D3=C3=CA=B1, min.insync.replicas=BA=CDacks=CC=
+=E1=B9=A9=D7=EE=B4=F3=B5=C4=C4=CD=D3=C3=D0=D4=B1=A3=D6=A4.=D2=BB=B8=
+=F6=B5=E4=D0=CD=B5=C4=B3=A1=BE=B0=CA=C7=B4=B4=BD=A8=D2=BB=B8=F6=B8=
+=B4=D6=C6=D2=F2=D7=D33=B5=C4topic, =C9=E8=D6=C3min.insync.replica=
+s=CE=AA2, =B2=A2=C7=D2ack=CA=C7=A1=B0all=A1=B1.=C8=E7=B9=FB=B6=E0=
+=CA=FD=B8=B1=B1=BE=C3=BB=D3=D0=BD=D3=B5=BD=D0=B4=C8=EB=CA=B1, =BD=
+=AB=BB=E1=C5=D7=B3=F6=D2=BB=B8=F6=D2=EC=B3=A3. | int&nbsp; &nbsp;=
+  | 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; | [1,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div=
+><div>| num.io.threads&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =B7=FE=CE=F1=C6=
+=F7=D3=C3=D3=DA=D6=B4=D0=D0=CD=F8=C2=E7=C7=EB=C7=F3=B5=C4io=CF=DF=
+=B3=CC=CA=FD&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; | int&nbsp; &nbsp;  | 8&nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ | [1,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| num.netw=
+ork.threads&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; | =B7=FE=CE=F1=C6=F7=D3=C3=D3=DA=B4=A6=C0=ED=
+=CD=F8=C2=E7=C7=EB=C7=F3=B5=C4=CF=DF=B3=CC=CA=FD.&nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p;  | int&nbsp; &nbsp;  | 3&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [1,...]&nbsp; | =B8=DF&n=
+bsp; &nbsp; |<br></div><div>| num.recovery.threads.per.data.dir&n=
+bsp; &nbsp; &nbsp; &nbsp; | =C3=BF=B8=F6=CA=FD=BE=DD=C4=BF=C2=BC=B5=
+=C4=CF=DF=B3=CC=CA=FD, =B5=B1=D6=D8=C6=F4=BA=CD=B3=E5=CF=B4=CD=A3=
+=BB=FA=CA=B1=D3=C3=D3=DA=C8=D5=D6=BE=BB=D6=B8=B4.&nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp;  | int&nbsp; &nbsp;  | 1&nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [=
+1,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| num.replica.=
+fetchers&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp;  | =B4=D3=D4=B4broker=B8=B4=D6=C6=CF=FB=CF=A2=B5=C4=CC=
+=E1=C8=A1=CF=DF=B3=CC=CA=FD.=B5=DD=D4=F6=B8=C3=D6=B5=BF=C9=CC=E1=B8=
+=DFfollower broker=B5=C4I/O=B5=C4=B2=A2=B7=A2. | int&nbsp; &nbsp;=
+  | 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbs=
+p; &nbsp; |<br></div><div>| offset.metadata.max.bytes&nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D3=EBoffset=CC=E1=BD=
+=BB=B9=D8=C1=AA=B5=C4=D4=AA=CA=FD=BE=DD=CC=F5=C4=BF=B5=C4=D7=EE=B4=
+=F3=B4=F3=D0=A1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp;  | int&nbsp; &nbsp;  | 4096&nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| offsets.commit.=
+required.acks&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =CC=E1=BD=
+=BB=BF=C9=C4=DC=D2=D1=BD=D3=CA=D5=D6=AE=C7=B0=D0=E8=D2=AAacks, =CD=
+=A8=B3=A3, =B2=BB=D3=A6=B8=B2=B8=C7=C4=AC=C8=CF=B5=C4(-1)&nbsp; &=
+nbsp; &nbsp; &nbsp;  | short&nbsp;  | -1&nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| offsets.=
+commit.timeout.ms&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; | Offset=CC=E1=BD=BB=D1=D3=B3=D9, =D6=B1=B5=BD=CB=F9=D3=D0=
+=B8=B1=B1=BE=B6=BC=CA=D5=B5=BD=CC=E1=BD=BB=BB=F2=B3=AC=CA=B1. =D5=
+=E2=C0=E0=CB=C6=D3=DA=C9=FA=B2=FA=D5=DF=C7=EB=C7=F3=B3=AC=CA=B1.=20=
+| int&nbsp; &nbsp;  | 5000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp;  | [1,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<=
+br></div><div>| offsets.load.buffer.size&nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp;  | =B5=B1=BC=D3=D4=D8offset=B5=BD=BB=
+=BA=B4=E6=CA=B1, =B4=D3offset=B6=CE=B6=C1=C8=A1=B5=C4=C5=FA=C1=BF=
+=B4=F3=D0=A1.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | int&nbsp; &nbsp=
+;  | 5242880&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; | [1,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| offset=
+s.retention.check.interval.ms&nbsp; &nbsp; &nbsp; | =BC=EC=B2=E9=BE=
+=C9offset=B5=C4=C6=B5=C2=CA.&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | lo=
+ng&nbsp; &nbsp; | 600000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp;  | [1,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div>=
+<div>| offsets.retention.minutes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; | offset topic=B5=C4=C8=D5=D6=BE=B1=A3=C1=F4=
+=CA=B1=BC=E4(=B7=D6=D6=D3)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; | int&nbsp; &nbsp;  | 1440&nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | [1,...]&nbsp;=20=
+| =B8=DF&nbsp; &nbsp; |<br></div><div>| offsets.topic.compression=
+.codec&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D1=B9=CB=F5=B1=E0=BD=E2=
+=C2=EB=C6=F7=B5=C4offset topic - =D1=B9=CB=F5=BF=C9=D2=D4=D3=C3=D3=
+=DA=CA=B5=CF=D6=A1=B0=D4=AD=D7=D3=A1=B1=CC=E1=BD=BB&nbsp; &nbsp;=20=
+ | int&nbsp; &nbsp;  | 0&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| offsets.topic.num.=
+partitions&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | offset com=
+mit topic=B5=C4=B7=D6=C7=F8=CA=FD(=B2=BF=CA=F0=D6=AE=BA=F3=B2=BB=D3=
+=A6=B8=FC=B8=C4)&nbsp; &nbsp; &nbsp; &nbsp; | int&nbsp; &nbsp;  |=
+ 50&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp;  | [1,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>|=20=
+offsets.topic.replication.factor&nbsp; &nbsp; &nbsp; &nbsp;  | of=
+fset topic=B8=B4=D6=C6(=C9=E8=D6=C3=D4=BD=B8=DF=D2=D4=C8=B7=B1=A3=
+=BF=C9=D3=C3=D0=D4).=CE=AA=C1=CB=C8=B7=B1=A3offset topic=D3=D0=D0=
+=A7=B5=C4=B8=B4=D6=C6=D2=F2=D7=D3, =B5=DA=D2=BB=B4=CE=C7=EB=C7=F3=
+offset topic=CA=B1, =BB=EE=B5=C4broker=B5=C4=CA=FD=C1=BF=B1=D8=D0=
+=EB=D7=EE=C9=D9=D7=EE=C9=D9=CA=C7=C5=E4=D6=C3=B5=C4=B8=B4=D6=C6=D2=
+=F2=D7=D3=CA=FD. =C8=E7=B9=FB=B2=BB=CA=C7, offset topic=BD=AB=B4=B4=
+=BD=A8=CA=A7=B0=DC=BB=F2=BB=F1=C8=A1=D7=EE=D0=A1=B5=C4=B8=B4=D6=C6=
+=D2=F2=D7=D3(=BB=EE=D7=C5=B5=C4broker, =B8=B4=D6=C6=D2=F2=D7=D3=B5=
+=C4=C5=E4=D6=C3) | short&nbsp;  | 3&nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [1,...]&nbsp; |=20=
+=B8=DF&nbsp; &nbsp; |<br></div><div>| offsets.topic.segment.bytes=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | offset topic=B6=
+=CE=D7=D6=BD=DA=D3=A6=B8=C3=CF=E0=B6=D4=BD=CF=D0=A1=D2=BB=B5=E3,=20=
+=D2=D4=B1=E3=D3=DA=BC=D3=BF=EC=C8=D5=D6=BE=D1=B9=CB=F5=BA=CD=BB=BA=
+=B4=E6=BC=D3=D4=D8&nbsp; | int&nbsp; &nbsp;  | 104857600&nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [1,...]&nbsp; | =B8=DF&=
+nbsp; &nbsp; |<br></div><div>| port&nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp;  | =B2=BB=D4=DE=B3=C9: =B5=B1liste=
+ner=C3=BB=D3=D0=C9=E8=D6=C3=B2=C5=CA=B9=D3=C3.=C7=EB=B8=C4=D3=C3l=
+isteners.=B8=C3port=BC=E0=CC=FD=BA=CD=BD=D3=CA=D5=C1=AC=BD=D3. |=20=
+int&nbsp; &nbsp;  | 9092&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF=
+&nbsp; &nbsp; |<br></div><div>| queued.max.requests&nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |=20=
+=D4=DA=D7=E8=C8=FB=CD=F8=C2=E7=CF=DF=B3=CC=D6=AE=C7=B0=D4=CA=D0=ED=
+=B5=C4=C5=C5=B6=D3=C7=EB=C7=F3=CA=FD&nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | int&nbsp=
+; &nbsp;  | 500&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; | [1,...]&nbsp; | =B8=DF&nbsp; &nbsp; |<br></=
+div><div>| quota.consumer.default&nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp;  | =B9=FD=CA=B1=B5=C4: =B5=B1=C4=AC=
+=C8=CF=B6=AF=CC=AC=B5=C4quotas=C3=BB=D3=D0=C5=E4=D6=C3=BB=F2=D4=DA=
+Zookeeper=CA=B1.=C8=E7=B9=FB=C3=BF=C3=EB=BB=F1=C8=A1=B5=C4=D7=D6=BD=
+=DA=B1=C8=B4=CB=D6=B5=B8=DF, =CB=F9=D3=D0=CF=FB=B7=D1=D5=DF=BD=AB=
+=CD=A8=B9=FDclientId/consumer=C7=F8=B7=D6=CF=DE=C1=F7. | long&nbs=
+p; &nbsp; | 9223372036854775807&nbsp; &nbsp; | [1,...]&nbsp; | =B8=
+=DF&nbsp; &nbsp; |<br></div><div>| quota.producer.default&nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =B9=FD=CA=
+=B1=B5=C4: =B5=B1=C4=AC=C8=CF=B6=AF=CC=AC=B5=C4quotas=C3=BB=D3=D0=
+=C5=E4=D6=C3, =BB=F2=D4=DAzookeeper=CA=B1.=C8=E7=B9=FB=C9=FA=B2=FA=
+=D5=DF=C3=BF=C3=EB=B1=C8=B4=CB=D6=B5=B8=DF, =CB=F9=D3=D0=C9=FA=B2=
+=FA=D5=DF=BD=AB=CD=A8=B9=FDclientId=C7=F8=B7=D6=CF=DE=C1=F7. | lo=
+ng&nbsp; &nbsp; | 9223372036854775807&nbsp; &nbsp; | [1,...]&nbsp=
+; | =B8=DF&nbsp; &nbsp; |<br></div><div>| replica.fetch.min.bytes=
+ Minimum&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =C3=BF=B8=F6=BB=F1=C8=
+=A1=CF=EC=D3=A6=B5=C4=D7=D6=BD=DA=CA=FD.=C8=E7=B9=FB=C3=BB=D3=D0=C2=
+=FA=D7=E3=D7=D6=BD=DA=CA=FD, =B5=C8=B4=FDreplicaMaxWaitTimeMs. |=20=
+int&nbsp; &nbsp;  | 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| replica.fetch.wait.ma=
+x.ms&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=
+=FA=CB=E6=D5=DF=B8=B1=B1=BE=B7=A2=B3=F6=C3=BF=B8=F6=BB=F1=C8=A1=C7=
+=EB=C7=F3=B5=C4=D7=EE=B4=F3=B5=C8=B4=FD=CA=B1=BC=E4, =B4=CB=D6=B5=
+=D3=A6=CA=BC=D6=D5=D0=A1=D3=DAreplica.lag.time.max.ms, =D2=D4=B7=C0=
+=D6=B9=B5=CD=CD=CC=CD=C2=B5=C4topic=B5=C4ISR=C6=B5=B7=B1=B5=C4=CA=
+=D5=CB=F5. | int&nbsp; &nbsp;  | 500&nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| replica.high.=
+watermark.checkpoint.interval.ms | =B4=EF=B5=BD=B8=DF=A1=B0=CB=AE=
+=CE=BB=A1=B1=B1=A3=B4=E6=B5=BD=B4=C5=C5=CC=B5=C4=C6=B5=C2=CA.&nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp;  | long&nbsp; &nbsp; | 5000&nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| replica.lag.t=
+ime.max.ms&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; | =C8=E7=B9=FB=D2=BB=B8=F6=D7=B7=CB=E6=D5=DF=C3=BB=D3=D0=B7=
+=A2=CB=CD=C8=CE=BA=CE=BB=F1=C8=A1=C7=EB=C7=F3=BB=F2=D6=C1=C9=D9=D4=
+=DA=D5=E2=B8=F6=CA=B1=BC=E4=B5=C4=D5=E2=B8=F6leader=B5=C4=C3=BB=D3=
+=D0=CF=FB=B7=D1=CD=EA.=B8=C3leader=BD=AB=B4=D3isr=D6=D0=D2=C6=B3=FD=
+=D5=E2=B8=F6=D7=B7=CB=E6=D5=DF. | long&nbsp; &nbsp; | 10000&nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div=
+>| replica.socket.receive.buffer.bytes&nbsp; &nbsp; &nbsp; | =D3=C3=
+=D3=DA=CD=F8=C2=E7=C7=EB=C7=F3=B5=C4socket=BD=D3=CA=D5=BB=BA=B4=E6=
+=C7=F8&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp;  | int&nbsp; &nbsp;  | 65536&nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>| replica.so=
+cket.timeout.ms&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; | =CD=F8=C2=E7=C7=EB=C7=F3=B5=C4socket=B3=AC=CA=B1, =B8=C3=D6=
+=B5=D7=EE=C9=D9=CA=C7replica.fetch.wait.max.ms | int&nbsp; &nbsp;=
+  | 30000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp;=20=
+|<br></div><div>| request.timeout.ms&nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =B8=C3=C5=E4=D6=
+=C3=BF=D8=D6=C6=BF=CD=BB=A7=B6=CB=B5=C8=B4=FD=C7=EB=C7=F3=B5=C4=CF=
+=EC=D3=A6=B5=C4=D7=EE=B4=F3=CA=B1=BC=E4, .=C8=E7=B9=FB=B3=AC=B9=FD=
+=CA=B1=BC=E4=BB=B9=C3=BB=CA=D5=B5=BD=CF=FB=B7=D1.=BF=CD=BB=A7=B6=CB=
+=BD=AB=D6=D8=D0=C2=B7=A2=CB=CD=C7=EB=C7=F3, =C8=E7=B9=FB=D6=D8=CA=
+=D4=B4=CE=CA=FD=BA=C4=BE=A1, =D4=F2=C7=EB=C7=F3=CA=A7=B0=DC. | in=
+t&nbsp; &nbsp;  | 30000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF=
+&nbsp; &nbsp; |<br></div><div>| socket.receive.buffer.bytes&nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | socket=B7=FE=CE=F1=B5=
+=C4SO_RCVBUF=BB=BA=B3=E5=C7=F8.=C8=E7=B9=FB=CA=C7-1, =D4=F2=C4=AC=
+=C8=CF=CA=B9=D3=C3OS=B5=C4.&nbsp;  | int&nbsp; &nbsp;  | 102400&n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><div>|=
+ socket.request.max.bytes&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp;  | socket=C7=EB=C7=F3=B5=C4=D7=EE=B4=F3=D7=D6=BD=DA=
+=CA=FD&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp;  | int&nbsp; &nbsp;  | 104857600&=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [1,...]&nbsp; |=
+ =B8=DF&nbsp; &nbsp; |<br></div><div>| socket.send.buffer.bytes&n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | socket=B7=
+=FE=CE=F1=B5=C4SO_SNDBUF=BB=BA=B3=E5=C7=F8.=C8=E7=B9=FB=CA=C7-1,=20=
+=D4=F2=C4=AC=C8=CF=CA=B9=D3=C3OS=B5=C4.&nbsp;  | int&nbsp; &nbsp;=
+  | 102400&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br>=
+</div><div>| unclean.leader.election.enable&nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp;  | =CA=C7=B7=F1=C6=F4=D3=C3=B2=BB=D4=DAISR=D6=D0=B5=C4=
+=B8=B1=B1=BE=B2=CE=D3=EB=D1=A1=BE=D9leader=B5=C4=D7=EE=BA=F3=B5=C4=
+=CA=D6=B6=CE.=D5=E2=D1=F9=D7=F6=D3=D0=BF=C9=C4=DC=B6=AA=CA=A7=CA=FD=
+=BE=DD. | boolean | true&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF=
+&nbsp; &nbsp; |<br></div><div>| zookeeper.connection.timeout.ms&n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; | =C1=AC=BD=D3zookeeper=B5=C4=D7=
+=EE=B4=F3=B5=C8=B4=FD=CA=B1=BC=E4, =C8=E7=B9=FB=CE=B4=C9=E8=D6=C3=
+, =D4=F2=CA=B9=D3=C3zookeeper.session.timeout.ms. | int&nbsp; &nb=
+sp;  | null&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbs=
+p; |<br></div><div>| zookeeper.session.timeout.ms&nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp;  | Zookeeper=BB=E1=BB=B0=B5=C4=B3=AC=CA=
+=B1=CA=B1=BC=E4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | int&nbsp; &nbsp;  | 6000&nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=DF&nbsp; &nbsp; |<br></div><=
+div>| zookeeper.set.acl&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =C9=E8=D6=C3=BF=CD=BB=
+=A7=B6=CB=CA=B9=D3=C3=B0=B2=C8=AB=B5=C4ACL&nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; | boolean | false&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =B8=
+=DF&nbsp; &nbsp; |<br></div><div>| broker.id.generation.enable&nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =C6=F4=D3=C3=D7=D4=
+=B6=AF=C9=FA=B3=C9broker id.=C6=F4=D3=C3=B8=C3=C5=E4=D6=C3=CA=B1=D3=
+=A6=BC=EC=B2=E9reserved.broker.max.id. | boolean | true&nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; | =D6=D0=B5=C8&nbsp;  |<br></div><div>|=20=
+broker.rack&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | broker=BB=FA=
+=BC=DC, =D3=C3=D3=DA=BB=FA=BC=DC=B8=D0=D6=AA=B8=B1=B1=BE=B7=D6=C5=
+=E4=B5=C4=CA=A7=B0=DC=C8=DD=B4=ED.=C0=FD=C8=E7: RACK1, us-east-1d=
+ | string&nbsp; | null&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=D0=
+=B5=C8&nbsp;  |<br></div><div>| connections.max.idle.ms Idle&nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =C1=AC=BD=D3=B3=AC=CA=B1:=
+ =CF=D0=D6=C3=CA=B1=BC=E4=B3=AC=B9=FD=B8=C3=C9=E8=D6=C3, =D4=F2=B7=
+=FE=CE=F1=C6=F7socket=B4=A6=C0=ED=CF=DF=B3=CC=B9=D8=B1=D5=D5=E2=B8=
+=F6=C1=AC=BD=D3.&nbsp;  | long&nbsp; &nbsp; | 600000&nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; | =D6=D0=B5=C8&nbsp;  |<br></div><div>| controlled=
+.shutdown.enable&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+ | =C6=F4=D3=C3=B7=FE=CE=F1=C6=F7=B5=C4=B9=D8=B1=D5=BF=D8=D6=C6.&=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | boolean | true&nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; | =D6=D0=B5=C8&nbsp;  |<br></div><div>|=20=
+controlled.shutdown.max.retries&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ | =BF=D8=D6=C6=D2=F2=B6=E0=D6=D6=D4=AD=D2=F2=B5=BC=D6=C2=B5=C4sh=
+utdown=CA=A7=B0=DC, =B5=B1=D5=E2=D1=F9=CA=A7=B0=DC=B7=A2=C9=FA, =B3=
+=A2=CA=D4=D6=D8=CA=D4=B5=C4=B4=CE=CA=FD&nbsp;  | int&nbsp; &nbsp;=
+  | 3&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=D0=B5=C8=
+&nbsp;  |<br></div><div>| controlled.shutdown.retry.backoff.ms&nb=
+sp; &nbsp;  | =D4=DA=C3=BF=B4=CE=D6=D8=CA=D4=D6=AE=C7=B0, =CF=B5=CD=
+=B3=D0=E8=D2=AA=CA=B1=BC=E4=B4=D3=B5=BC=D6=C2=CF=C8=C7=B0=B9=CA=D5=
+=CF=B5=C4=D7=B4=CC=AC(=BF=D8=D6=C6=C6=F7=B9=CA=D5=CF=D7=AA=D2=C6,=
+ =B8=B4=D6=C6=D1=D3=B3=D9=B5=C8)=BB=D6=B8=B4. =B4=CB=C5=E4=D6=C3=CA=
+=C7=D6=D8=CA=D4=D6=AE=C7=B0=B5=C8=B4=FD=B5=C4=CA=B1=BC=E4=CA=FD.=20=
+| long&nbsp; &nbsp; | 5000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=
+=D0=B5=C8&nbsp;  |<br></div><div>| controller.socket.timeout.ms&n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =BF=D8=D6=C6=C6=F7=B5=BD=
+broker=CD=A8=B5=C0=B5=C4sockt=B3=AC=CA=B1=CA=B1=BC=E4&nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | int&nbsp; &=
+nbsp;  | 30000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=D0&nbsp; &n=
+bsp; |<br></div><div>| default.replication.factor&nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =D7=D4=B6=AFtopic=B5=C4=C4=AC=
+=C8=CF=B5=C4=B8=B1=B1=BE=CA=FD&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | int&nb=
+sp; &nbsp;  | 1&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |=20=
+=D6=D0&nbsp; &nbsp; |<br></div><div>| fetch.purgatory.purge.inter=
+val.requests&nbsp; | =C0=AD=C8=A1=C7=EB=C7=F3=C7=E5=CF=B4=BC=E4=B8=
+=F4(=C7=EB=C7=F3=CA=FD)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | int&nbs=
+p; &nbsp;  | 1000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=D0&nbsp=
+; &nbsp; |<br></div><div>| group.max.session.timeout.ms&nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp;  | =D2=D1=D7=A2=B2=E1=B5=C4=CF=FB=
+=B7=D1=D5=DF=D4=CA=D0=ED=B5=C4=D7=EE=B4=F3=BB=E1=BB=B0=B3=AC=CA=B1=
+=CA=B1=BC=E4, =C9=E8=D6=C3=B5=C4=CA=B1=BA=F2=D4=BD=B3=A4=CA=B9=CF=
+=FB=B7=D1=D5=DF=D3=D0=B8=FC=B6=E0=CA=B1=BC=E4=C8=A5=B4=A6=C0=ED=D0=
+=C4=CC=F8=D6=AE=BC=E4=B5=C4=CF=FB=CF=A2.=B5=AB=B2=EC=BE=F5=B9=CA=D5=
+=CF=B5=C4=CA=B1=BC=E4=D2=B2=C0=AD=B3=A4=C1=CB. | int&nbsp; &nbsp;=
+  | 300000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=D0&nbsp; &nbsp; |<br>=
+</div><div>| group.min.session.timeout.ms&nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp;  | =D2=D1=BE=AD=D7=A2=B2=E1=B5=C4=CF=FB=B7=D1=D5=
+=DF=D4=CA=D0=ED=D7=EE=D0=A1=B5=C4=BB=E1=BB=B0=B3=AC=CA=B1=CA=B1=BC=
+=E4, =B8=FC=B6=CC=B5=C4=CA=B1=BC=E4=C8=A5=BF=EC=CB=D9=B5=C4=B2=EC=
+=BE=F5=B5=BD=B9=CA=D5=CF, =B4=FA=BC=DB=CA=C7=C6=B5=B7=B1=B5=C4=D0=
+=C4=CC=F8, =D5=E2=BF=C9=C4=DC=BB=E1=D5=BC=D3=C3=B4=F3=C1=BF=B5=C4=
+broker=D7=CA=D4=B4. | int&nbsp; &nbsp;  | 6000&nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; | =D6=D0&nbsp; &nbsp; |<br></div><div>| inter.bro=
+ker.protocol.version&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=
+=B8=B6=A8broker=C4=DA=B2=BF=CD=A8=D1=B6=CA=B9=D3=C3=B5=C4=B0=E6=B1=
+=BE.=CD=A8=B3=A3=CA=C7=CB=F9=D3=D0=B5=C4broker=B8=FC=D0=C2=B5=BD=D0=
+=C2=B5=C4=B0=E6=B1=BE=D6=AE=BA=F3=B3=F6=CF=D6.=D3=D0=D0=A7=B5=C4=D6=
+=B5=CE=AA: 0.8.0, 0.8.1, 0.8.1.1, 0.8.2, 0.8.2.0, 0.8.2.1, 0.9.0.=
+0, 0.9.0.1.=B2=E9=BF=B4ApiVersion=D5=D2=B5=BD=B5=C4=C8=AB=B2=BF=C1=
+=D0=B1=ED. | string&nbsp; | 0.10.1-IV2&nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=D0&nbsp=
+; &nbsp; |<br></div><div>| log.cleaner.backoff.ms&nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =B5=B1=C3=BB=D3=
+=D0=C8=D5=D6=BE=D2=AA=C7=E5=C0=ED=CA=B1, =D0=DD=C3=DF=B5=C4=CA=B1=
+=BC=E4&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp;  | long&nbsp; &nbsp; | 15000&nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | [0,...]&nbsp=
+; | =D6=D0&nbsp; &nbsp; |<br></div><div>| log.cleaner.dedupe.buff=
+er.size&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =CB=F9=D3=D0=CF=FB=B3=
+=FD=CF=DF=B3=CC=B5=C4=C9=BE=B3=FD=D6=D8=B8=B4=CA=FD=BE=DD=CA=B9=D3=
+=C3=B5=C4=C4=DA=B4=E6=D7=DC=C1=BF.&nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | long&nbsp; &nbsp; | 1342=
+17728&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |&nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; | =D6=D0&nbsp; &nbsp; |<br></div><div>|=20=
+log.cleaner.delete.retention.ms&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ | =C9=BE=B3=FD=B5=C4=CA=FD=BE=DD=B1=A3=C1=F4=B6=E0=B3=A4=CA=B1=BC=
+=E4=A3=BF&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | long&nbsp; &nbsp; |=20=
+86400000&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |&nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; | =D6=D0&nbsp; &nbsp; |<br></div><di=
+v>| log.cleaner.enable&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | =D4=DA=B7=FE=CE=F1=C6=F7=C9=CF=
+=C6=F4=D3=C3=C8=D5=D6=BE=C7=E5=CF=B4=B4=A6=C0=ED=A3=BF=C8=E7=B9=FB=
+=CA=B9=D3=C3=B5=C4=C8=CE=BA=CEtopic=B5=C4cleanup.policy=3Dcompact=
+=B0=FC=BA=AC=C4=DA=B2=BF=B5=C4offset topic, =D3=A6=C6=F4=B6=AF.=C8=
+=E7=B9=FB=BD=FB=D3=C3, =C4=C7=D0=A9topic=BD=AB=B2=BB=BB=E1=B1=BB=D1=
+=B9=CB=F5=B2=A2=C7=D2=BB=E1=B2=BB=B6=CF=B5=C4=D4=F6=B4=F3. | bool=
+ean | true&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp;  |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=D0&nbsp; &nbsp=
+; |<br></div><div>| log.cleaner.io.buffer.load.factor&nbsp; &nbsp=
+; &nbsp; &nbsp; | =C8=D5=D6=BE=C7=E5=B3=FD=D6=D8=B8=B4=CA=FD=BE=DD=
+=C9=BE=B3=FD=BB=BA=B3=E5=C8=A5=B5=C4=B8=BA=D4=D8=D2=F2=D7=D3.=D6=D8=
+=B8=B4=CA=FD=BE=DD=C9=BE=B3=FD=BB=BA=B3=E5=C7=F8=D2=D1=C2=FA=B5=C4=
+=B0=D9=B7=D6=B1=C8.=BD=CF=B8=DF=B5=C4=D6=B5=BD=AB=D4=CA=D0=ED=CD=AC=
+=CA=B1=C7=E5=B3=FD=B8=FC=B6=E0=B5=C4=C8=D5=D6=BE, =B5=AB=BD=AB=BB=
+=E1=B5=BC=D6=C2=B8=FC=B6=E0=B5=C4hash=B3=E5=CD=BB. | double&nbsp;=
+ | 0.9&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=D0&nbsp; &nb=
+sp; |<br></div><div>| log.cleaner.io.buffer.size&nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp;  | =CB=F9=D3=D0=C8=D5=D6=BE=C7=E5=
+=BD=E0=C6=F7=CF=DF=B3=CCI/O=BB=BA=B4=E6=B5=C4=D7=DC=C4=DA=B4=E6&n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp;  | int&nbsp; &nbsp;  | 524288&nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp;  | [0,...]&nbsp; | =D6=D0&nbsp; &nb=
+sp; |<br></div><div>| log.cleaner.io.max.bytes.per.second&nbsp; &=
+nbsp; &nbsp; | =C8=D5=D6=BE=C7=E5=C0=ED=C6=F7=CF=DE=D6=C6, =D2=D4=
+=B1=E3=C6=E4=B6=C1=D0=B4i/o=C6=BD=BE=F9=D0=A1=D3=EB=B4=CB=D6=B5.&=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | double&=
+nbsp; | 1.7976931348623157E308 |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; | =D6=D0&nbsp; &nbsp; |<br></div><div>| log.cleaner.min.cleanab=
+le.ratio&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D4=E0=C8=D5=D6=BE=D3=
+=EB=C8=D5=D6=BE=B5=C4=D7=DC=C1=BF=B5=C4=D7=EE=D0=A1=B1=C8=C2=CA,=20=
+=D2=D4=B7=FB=BA=CF=C7=E5=C0=ED=CC=F5=BC=FE&nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | double&nbsp; | 0.5&nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | =D6=D0&nbsp; &nbsp; |<br></=
+div><div><br></div><div>**producer=B2=CE=CA=FD=CB=B5=C3=F7(=C5=E4=
+=D6=C3=CE=C4=BC=FE=CE=BB=D3=DAconfig/producer.properties=BB=F2=D5=
+=DF=D4=DA=B3=CC=D0=F2=C4=DA=B6=A8=D2=E5)**<br></div><div><br></di=
+v><div>```<br></div><div>&nbsp; &nbsp; # =D6=B8=B6=A8kafka=BD=DA=B5=
+=E3=C1=D0=B1=ED, =D3=C3=D3=DA=BB=F1=C8=A1metadata, =B2=BB=B1=D8=C8=
+=AB=B2=BF=D6=B8=B6=A8<br></div><div>&nbsp; &nbsp; metadata.broker=
+.list=3D192.168.2.105:9092,192.168.2.106:9092<br></div><div><br><=
+/div><div>&nbsp; &nbsp; # =D6=B8=B6=A8=B7=D6=C7=F8=B4=A6=C0=ED=C0=
+=E0.=C4=AC=C8=CFkafka.producer.DefaultPartitioner, =B1=ED=CD=A8=B9=
+=FDkey=B9=FE=CF=A3=B5=BD=B6=D4=D3=A6=B7=D6=C7=F8<br></div><div>&n=
+bsp; &nbsp; #partitioner.class=3Dcom.meituan.mafka.client.produce=
+r.CustomizePartitioner<br></div><div><br></div><div>&nbsp; &nbsp;=
+ # =CA=C7=B7=F1=D1=B9=CB=F5, =C4=AC=C8=CF0=B1=ED=CA=BE=B2=BB=D1=B9=
+=CB=F5, 1=B1=ED=CA=BE=D3=C3gzip=D1=B9=CB=F5, 2=B1=ED=CA=BE=D3=C3s=
+nappy=D1=B9=CB=F5.=D1=B9=CB=F5=BA=F3=CF=FB=CF=A2=D6=D0=BB=E1=D3=D0=
+=CD=B7=C0=B4=D6=B8=C3=F7=CF=FB=CF=A2=D1=B9=CB=F5=C0=E0=D0=CD, =B9=
+=CA=D4=DA=CF=FB=B7=D1=D5=DF=B6=CB=CF=FB=CF=A2=BD=E2=D1=B9=CA=C7=CD=
+=B8=C3=F7=B5=C4=CE=DE=D0=E8=D6=B8=B6=A8.<br></div><div>&nbsp; &nb=
+sp; compression.codec=3Dnone<br></div><div><br></div><div>&nbsp;=20=
+&nbsp; # =D6=B8=B6=A8=D0=F2=C1=D0=BB=AF=B4=A6=C0=ED=C0=E0(mafka c=
+lient API=B5=F7=D3=C3=CB=B5=C3=F7--&gt;3.=D0=F2=C1=D0=BB=AF=D4=BC=
+=B6=A8wiki), =C4=AC=C8=CF=CE=AAkafka.serializer.DefaultEncoder,=BC=
+=B4byte[]<br></div><div>&nbsp; &nbsp; serializer.class=3Dcom.meit=
+uan.mafka.client.codec.MafkaMessageEncoder<br></div><div>&nbsp; &=
+nbsp; # serializer.class=3Dkafka.serializer.DefaultEncoder<br></d=
+iv><div>&nbsp; &nbsp; # serializer.class=3Dkafka.serializer.Strin=
+gEncoder<br></div><div><br></div><div>&nbsp; &nbsp; # =C8=E7=B9=FB=
+=D2=AA=D1=B9=CB=F5=CF=FB=CF=A2, =D5=E2=C0=EF=D6=B8=B6=A8=C4=C4=D0=
+=A9topic=D2=AA=D1=B9=CB=F5=CF=FB=CF=A2, =C4=AC=C8=CFempty, =B1=ED=
+=CA=BE=B2=BB=D1=B9=CB=F5.<br></div><div>&nbsp; &nbsp; #compressed=
+.topics=3D<br></div><div><br></div><div>&nbsp; &nbsp; ###########=
+ request ack ###############<br></div><div>&nbsp; &nbsp; # produc=
+er=BD=D3=CA=D5=CF=FB=CF=A2ack=B5=C4=CA=B1=BB=FA.=C4=AC=C8=CF=CE=AA=
+0.<br></div><div>&nbsp; &nbsp; # 0: producer=B2=BB=BB=E1=B5=C8=B4=
+=FDbroker=B7=A2=CB=CDack<br></div><div>&nbsp; &nbsp; # 1: =B5=B1l=
+eader=BD=D3=CA=D5=B5=BD=CF=FB=CF=A2=D6=AE=BA=F3=B7=A2=CB=CDack<br=
+></div><div>&nbsp; &nbsp; # 2: =B5=B1=CB=F9=D3=D0=B5=C4follower=B6=
+=BC=CD=AC=B2=BD=CF=FB=CF=A2=B3=C9=B9=A6=BA=F3=B7=A2=CB=CDack.<br>=
+</div><div>&nbsp; &nbsp; request.required.acks=3D0<br></div><div>=
+<br></div><div>&nbsp; &nbsp; # =D4=DA=CF=F2producer=B7=A2=CB=CDac=
+k=D6=AE=C7=B0,broker=D4=CA=D0=ED=B5=C8=B4=FD=B5=C4=D7=EE=B4=F3=CA=
+=B1=BC=E4<br></div><div>&nbsp; &nbsp; # =C8=E7=B9=FB=B3=AC=CA=B1,=
+broker=BD=AB=BB=E1=CF=F2producer=B7=A2=CB=CD=D2=BB=B8=F6error ACK=
+.=D2=E2=CE=B6=D7=C5=C9=CF=D2=BB=B4=CE=CF=FB=CF=A2=D2=F2=CE=AA=C4=B3=
+=D6=D6<br></div><div>&nbsp; &nbsp; # =D4=AD=D2=F2=CE=B4=C4=DC=B3=C9=
+=B9=A6(=B1=C8=C8=E7follower=CE=B4=C4=DC=CD=AC=B2=BD=B3=C9=B9=A6)<=
+br></div><div>&nbsp; &nbsp; request.timeout.ms=3D10000<br></div><=
+div>&nbsp; &nbsp; ########## end #####################<br></div><=
+div><br></div><div>&nbsp; &nbsp; # =CD=AC=B2=BD=BB=B9=CA=C7=D2=EC=
+=B2=BD=B7=A2=CB=CD=CF=FB=CF=A2, =C4=AC=C8=CF=A1=B0sync=A1=B1=B1=ED=
+=CD=AC=B2=BD, "async"=B1=ED=D2=EC=B2=BD.=D2=EC=B2=BD=BF=C9=D2=D4=CC=
+=E1=B8=DF=B7=A2=CB=CD=CD=CC=CD=C2=C1=BF,<br></div><div>&nbsp; &nb=
+sp; # =D2=B2=D2=E2=CE=B6=D7=C5=CF=FB=CF=A2=BD=AB=BB=E1=D4=DA=B1=BE=
+=B5=D8buffer=D6=D0,=B2=A2=CA=CA=CA=B1=C5=FA=C1=BF=B7=A2=CB=CD, =B5=
+=AB=CA=C7=D2=B2=BF=C9=C4=DC=B5=BC=D6=C2=B6=AA=CA=A7=CE=B4=B7=A2=CB=
+=CD=B9=FD=C8=A5=B5=C4=CF=FB=CF=A2<br></div><div>&nbsp; &nbsp; pro=
+ducer.type=3Dsync<br></div><div><br></div><div>&nbsp; &nbsp; ####=
+########## =D2=EC=B2=BD=B7=A2=CB=CD (=D2=D4=CF=C2=CB=C4=B8=F6=D2=EC=
+=B2=BD=B2=CE=CA=FD=BF=C9=D1=A1) ####################<br></div><di=
+v>&nbsp; &nbsp; # =D4=DAasync=C4=A3=CA=BD=CF=C2,=B5=B1message=B1=BB=
+=BB=BA=B4=E6=B5=C4=CA=B1=BC=E4=B3=AC=B9=FD=B4=CB=D6=B5=BA=F3,=BD=AB=
+=BB=E1=C5=FA=C1=BF=B7=A2=CB=CD=B8=F8broker,=C4=AC=C8=CF=CE=AA5000=
+ms<br></div><div>&nbsp; &nbsp; # =B4=CB=D6=B5=BA=CDbatch.num.mess=
+ages=D0=AD=CD=AC=B9=A4=D7=F7.<br></div><div>&nbsp; &nbsp; queue.b=
+uffering.max.ms =3D 5000<br></div><div><br></div><div>&nbsp; &nbs=
+p; # =D4=DAasync=C4=A3=CA=BD=CF=C2,producer=B6=CB=D4=CA=D0=EDbuff=
+er=B5=C4=D7=EE=B4=F3=CF=FB=CF=A2=C1=BF<br></div><div>&nbsp; &nbsp=
+; # =CE=DE=C2=DB=C8=E7=BA=CE,producer=B6=BC=CE=DE=B7=A8=BE=A1=BF=EC=
+=B5=C4=BD=AB=CF=FB=CF=A2=B7=A2=CB=CD=B8=F8broker,=B4=D3=B6=F8=B5=BC=
+=D6=C2=CF=FB=CF=A2=D4=DAproducer=B6=CB=B4=F3=C1=BF=B3=C1=BB=FD<br=
+></div><div>&nbsp; &nbsp; # =B4=CB=CA=B1,=C8=E7=B9=FB=CF=FB=CF=A2=
+=B5=C4=CC=F5=CA=FD=B4=EF=B5=BD=B7=A7=D6=B5,=BD=AB=BB=E1=B5=BC=D6=C2=
+producer=B6=CB=D7=E8=C8=FB=BB=F2=D5=DF=CF=FB=CF=A2=B1=BB=C5=D7=C6=
+=FA, =C4=AC=C8=CF=CE=AA10000<br></div><div>&nbsp; &nbsp; queue.bu=
+ffering.max.messages=3D20000<br></div><div><br></div><div>&nbsp;=20=
+&nbsp; # =C8=E7=B9=FB=CA=C7=D2=EC=B2=BD, =D6=B8=B6=A8=C3=BF=B4=CE=
+=C5=FA=C1=BF=B7=A2=CB=CD=CA=FD=BE=DD=C1=BF, =C4=AC=C8=CF=CE=AA200=
+<br></div><div>&nbsp; &nbsp; batch.num.messages=3D500<br></div><d=
+iv><br></div><div>&nbsp; &nbsp; # =B5=B1=CF=FB=CF=A2=D4=DAproduce=
+r=B6=CB=B3=C1=BB=FD=B5=C4=CC=F5=CA=FD=B4=EF=B5=BD"queue.buffering=
+.max.meesages"=BA=F3<br></div><div>&nbsp; &nbsp; # =D7=E8=C8=FB=D2=
+=BB=B6=A8=CA=B1=BC=E4=BA=F3,=B6=D3=C1=D0=C8=D4=C8=BB=C3=BB=D3=D0e=
+nqueue(producer=C8=D4=C8=BB=C3=BB=D3=D0=B7=A2=CB=CD=B3=F6=C8=CE=BA=
+=CE=CF=FB=CF=A2)<br></div><div>&nbsp; &nbsp; # =B4=CB=CA=B1produc=
+er=BF=C9=D2=D4=BC=CC=D0=F8=D7=E8=C8=FB=BB=F2=D5=DF=BD=AB=CF=FB=CF=
+=A2=C5=D7=C6=FA,=B4=CBtimeout=D6=B5=D3=C3=D3=DA=BF=D8=D6=C6"=D7=E8=
+=C8=FB"=B5=C4=CA=B1=BC=E4<br></div><div>&nbsp; &nbsp; # -1: =CE=DE=
+=D7=E8=C8=FB=B3=AC=CA=B1=CF=DE=D6=C6,=CF=FB=CF=A2=B2=BB=BB=E1=B1=BB=
+=C5=D7=C6=FA<br></div><div>&nbsp; &nbsp; # 0:=C1=A2=BC=B4=C7=E5=BF=
+=D5=B6=D3=C1=D0,=CF=FB=CF=A2=B1=BB=C5=D7=C6=FA<br></div><div>&nbs=
+p; &nbsp; queue.enqueue.timeout.ms=3D-1<br></div><div>&nbsp; &nbs=
+p; ################ end ###############<br></div><div><br></div><=
+div>&nbsp; &nbsp; # =B5=B1producer=BD=D3=CA=D5=B5=BDerror ACK,=BB=
+=F2=D5=DF=C3=BB=D3=D0=BD=D3=CA=D5=B5=BDACK=CA=B1,=D4=CA=D0=ED=CF=FB=
+=CF=A2=D6=D8=B7=A2=B5=C4=B4=CE=CA=FD<br></div><div>&nbsp; &nbsp;=20=
+# =D2=F2=CE=AAbroker=B2=A2=C3=BB=D3=D0=CD=EA=D5=FB=B5=C4=BB=FA=D6=
+=C6=C0=B4=B1=DC=C3=E2=CF=FB=CF=A2=D6=D8=B8=B4,=CB=F9=D2=D4=B5=B1=CD=
+=F8=C2=E7=D2=EC=B3=A3=CA=B1(=B1=C8=C8=E7ACK=B6=AA=CA=A7)<br></div=
+><div>&nbsp; &nbsp; # =D3=D0=BF=C9=C4=DC=B5=BC=D6=C2broker=BD=D3=CA=
+=D5=B5=BD=D6=D8=B8=B4=B5=C4=CF=FB=CF=A2,=C4=AC=C8=CF=D6=B5=CE=AA3=
+.<br></div><div>&nbsp; &nbsp; message.send.max.retries=3D3<br></d=
+iv><div><br></div><div>&nbsp; &nbsp; # producer=CB=A2=D0=C2topic=20=
+metada=B5=C4=CA=B1=BC=E4=BC=E4=B8=F4,producer=D0=E8=D2=AA=D6=AA=B5=
+=C0partition leader=B5=C4=CE=BB=D6=C3,=D2=D4=BC=B0=B5=B1=C7=B0top=
+ic=B5=C4=C7=E9=BF=F6<br></div><div>&nbsp; &nbsp; # =D2=F2=B4=CBpr=
+oducer=D0=E8=D2=AA=D2=BB=B8=F6=BB=FA=D6=C6=C0=B4=BB=F1=C8=A1=D7=EE=
+=D0=C2=B5=C4metadata,=B5=B1producer=D3=F6=B5=BD=CC=D8=B6=A8=B4=ED=
+=CE=F3=CA=B1,=BD=AB=BB=E1=C1=A2=BC=B4=CB=A2=D0=C2<br></div><div>&=
+nbsp; &nbsp; # (=B1=C8=C8=E7topic=CA=A7=D0=A7,partition=B6=AA=CA=A7=
+,leader=CA=A7=D0=A7=B5=C8),=B4=CB=CD=E2=D2=B2=BF=C9=D2=D4=CD=A8=B9=
+=FD=B4=CB=B2=CE=CA=FD=C0=B4=C5=E4=D6=C3=B6=EE=CD=E2=B5=C4=CB=A2=D0=
+=C2=BB=FA=D6=C6, =C4=AC=C8=CF=D6=B5600000<br></div><div>&nbsp; &n=
+bsp; topic.metadata.refresh.interval.ms=3D60000<br></div><div>```=
+<br></div><div><br></div><div>**consumer=B2=CE=CA=FD=CB=B5=C3=F7(=
+=C5=E4=D6=C3=CE=C4=BC=FE=CE=BB=D3=DAconfig/consumer.properties=BB=
+=F2=D5=DF=D4=DA=B3=CC=D0=F2=C4=DA=B6=A8=D2=E5)**<br></div><div><b=
+r></div><div>```<br></div><div>&nbsp; &nbsp; # zookeeper=C1=AC=BD=
+=D3=B7=FE=CE=F1=C6=F7=B5=D8=D6=B7, =B4=CB=B4=A6=CE=AA=CF=DF=CF=C2=
+=B2=E2=CA=D4=BB=B7=BE=B3=C5=E4=D6=C3(kafka=CF=FB=CF=A2=B7=FE=CE=F1=
+--&gt;kafka broker=BC=AF=C8=BA=CF=DF=C9=CF=B2=BF=CA=F0=BB=B7=BE=B3=
+wiki)<br></div><div>&nbsp; &nbsp; # =C5=E4=D6=C3=C0=FD=D7=D3: "12=
+7.0.0.1:3000,127.0.0.1:3001,127.0.0.1:3002"<br></div><div>&nbsp;=20=
+&nbsp; zookeeper.connect=3D192.168.2.225:2181,192.168.2.225:2182,=
+192.168.2.225:2183/config/mobile/mq/mafka<br></div><div><br></div=
+><div>&nbsp; &nbsp; # zookeeper=B5=C4session=B9=FD=C6=DA=CA=B1=BC=
+=E4, =C4=AC=C8=CF5000ms, =D3=C3=D3=DA=BC=EC=B2=E2=CF=FB=B7=D1=D5=DF=
+=CA=C7=B7=F1=B9=D2=B5=F4, =B5=B1=CF=FB=B7=D1=D5=DF=B9=D2=B5=F4, =C6=
+=E4=CB=FB=CF=FB=B7=D1=D5=DF=D2=AA=B5=C8=B8=C3=D6=B8=B6=A8=CA=B1=BC=
+=E4=B2=C5=C4=DC=BC=EC=B2=E9=B5=BD=B2=A2=C7=D2=B4=A5=B7=A2=D6=D8=D0=
+=C2=B8=BA=D4=D8=BE=F9=BA=E2<br></div><div>&nbsp; &nbsp; zookeeper=
+.session.timeout.ms=3D5000<br></div><div>&nbsp; &nbsp; zookeeper.=
+connection.timeout.ms=3D10000<br></div><div><br></div><div>&nbsp;=
+ &nbsp; # =D6=B8=B6=A8=B6=E0=BE=C3=CF=FB=B7=D1=D5=DF=B8=FC=D0=C2o=
+ffset=B5=BDzookeeper=D6=D0.=D7=A2=D2=E2offset=B8=FC=D0=C2=CA=B1=BB=
+=F9=D3=DAtime=B6=F8=B2=BB=CA=C7=C3=BF=B4=CE=BB=F1=B5=C3=B5=C4=CF=FB=
+=CF=A2.=D2=BB=B5=A9=D4=DA=B8=FC=D0=C2zookeeper=B7=A2=C9=FA=D2=EC=B3=
+=A3=B2=A2=D6=D8=C6=F4, =BD=AB=BF=C9=C4=DC=C4=C3=B5=BD=D2=D1=C4=C3=
+=B5=BD=B9=FD=B5=C4=CF=FB=CF=A2<br></div><div>&nbsp; &nbsp; zookee=
+per.sync.time.ms=3D2000<br></div><div><br></div><div>&nbsp; &nbsp=
+; #=D6=B8=B6=A8=CF=FB=B7=D1=D7=E9<br></div><div>&nbsp; &nbsp; gro=
+up.id=3Dxxx<br></div><div><br></div><div>&nbsp; &nbsp; # =B5=B1co=
+nsumer=CF=FB=B7=D1=D2=BB=B6=A8=C1=BF=B5=C4=CF=FB=CF=A2=D6=AE=BA=F3=
+,=BD=AB=BB=E1=D7=D4=B6=AF=CF=F2zookeeper=CC=E1=BD=BBoffset=D0=C5=CF=
+=A2<br></div><div>&nbsp; &nbsp; # =D7=A2=D2=E2offset=D0=C5=CF=A2=B2=
+=A2=B2=BB=CA=C7=C3=BF=CF=FB=B7=D1=D2=BB=B4=CE=CF=FB=CF=A2=BE=CD=CF=
+=F2zk=CC=E1=BD=BB=D2=BB=B4=CE,=B6=F8=CA=C7=CF=D6=D4=DA=B1=BE=B5=D8=
+=B1=A3=B4=E6(=C4=DA=B4=E6),=B2=A2=B6=A8=C6=DA=CC=E1=BD=BB,=C4=AC=C8=
+=CF=CE=AAtrue<br></div><div>&nbsp; &nbsp; auto.commit.enable=3Dtr=
+ue<br></div><div><br></div><div>&nbsp; &nbsp; # =D7=D4=B6=AF=B8=FC=
+=D0=C2=CA=B1=BC=E4.=C4=AC=C8=CF60 * 1000<br></div><div>&nbsp; &nb=
+sp; auto.commit.interval.ms=3D1000<br></div><div><br></div><div>&=
+nbsp; &nbsp; # =B5=B1=C7=B0consumer=B5=C4=B1=EA=CA=B6,=BF=C9=D2=D4=
+=C9=E8=B6=A8,=D2=B2=BF=C9=D2=D4=D3=D0=CF=B5=CD=B3=C9=FA=B3=C9,=D6=
+=F7=D2=AA=D3=C3=C0=B4=B8=FA=D7=D9=CF=FB=CF=A2=CF=FB=B7=D1=C7=E9=BF=
+=F6,=B1=E3=D3=DA=B9=DB=B2=EC<br></div><div>&nbsp; &nbsp; conusmer=
+.id=3Dxxx<br></div><div><br></div><div>&nbsp; &nbsp; # =CF=FB=B7=D1=
+=D5=DF=BF=CD=BB=A7=B6=CB=B1=E0=BA=C5, =D3=C3=D3=DA=C7=F8=B7=D6=B2=
+=BB=CD=AC=BF=CD=BB=A7=B6=CB, =C4=AC=C8=CF=BF=CD=BB=A7=B6=CB=B3=CC=
+=D0=F2=D7=D4=B6=AF=B2=FA=C9=FA<br></div><div>&nbsp; &nbsp; client=
+.id=3Dxxxx<br></div><div><br></div><div>&nbsp; &nbsp; # =D7=EE=B4=
+=F3=C8=A1=B6=E0=C9=D9=BF=E9=BB=BA=B4=E6=B5=BD=CF=FB=B7=D1=D5=DF(=C4=
+=AC=C8=CF10)<br></div><div>&nbsp; &nbsp; queued.max.message.chunk=
+s=3D50<br></div><div><br></div><div>&nbsp; &nbsp; # =B5=B1=D3=D0=D0=
+=C2=B5=C4consumer=BC=D3=C8=EB=B5=BDgroup=CA=B1,=BD=AB=BB=E1reblan=
+ce,=B4=CB=BA=F3=BD=AB=BB=E1=D3=D0partitions=B5=C4=CF=FB=B7=D1=B6=CB=
+=C7=A8=D2=C6=B5=BD=D0=C2<br></div><div>&nbsp; &nbsp; # =B5=C4cons=
+umer=C9=CF,=C8=E7=B9=FB=D2=BB=B8=F6consumer=BB=F1=B5=C3=C1=CB=C4=B3=
+=B8=F6partition=B5=C4=CF=FB=B7=D1=C8=A8=CF=DE,=C4=C7=C3=B4=CB=FC=BD=
+=AB=BB=E1=CF=F2zk=D7=A2=B2=E1<br></div><div>&nbsp; &nbsp; # "Part=
+ition Owner registry"=BD=DA=B5=E3=D0=C5=CF=A2,=B5=AB=CA=C7=D3=D0=BF=
+=C9=C4=DC=B4=CB=CA=B1=BE=C9=B5=C4consumer=C9=D0=C3=BB=D3=D0=CA=CD=
+=B7=C5=B4=CB=BD=DA=B5=E3,<br></div><div>&nbsp; &nbsp; # =B4=CB=D6=
+=B5=D3=C3=D3=DA=BF=D8=D6=C6,=D7=A2=B2=E1=BD=DA=B5=E3=B5=C4=D6=D8=CA=
+=D4=B4=CE=CA=FD.<br></div><div>&nbsp; &nbsp; rebalance.max.retrie=
+s=3D5<br></div><div><br></div><div>&nbsp; &nbsp; # =BB=F1=C8=A1=CF=
+=FB=CF=A2=B5=C4=D7=EE=B4=F3=B3=DF=B4=E7,broker=B2=BB=BB=E1=CF=F1c=
+onsumer=CA=E4=B3=F6=B4=F3=D3=DA=B4=CB=D6=B5=B5=C4=CF=FB=CF=A2chun=
+k<br></div><div>&nbsp; &nbsp; # =C3=BF=B4=CEfeth=BD=AB=B5=C3=B5=BD=
+=B6=E0=CC=F5=CF=FB=CF=A2,=B4=CB=D6=B5=CE=AA=D7=DC=B4=F3=D0=A1,=CC=
+=E1=C9=FD=B4=CB=D6=B5,=BD=AB=BB=E1=CF=FB=BA=C4=B8=FC=B6=E0=B5=C4c=
+onsumer=B6=CB=C4=DA=B4=E6<br></div><div>&nbsp; &nbsp; fetch.min.b=
+ytes=3D6553600<br></div><div><br></div><div>&nbsp; &nbsp; # =B5=B1=
+=CF=FB=CF=A2=B5=C4=B3=DF=B4=E7=B2=BB=D7=E3=CA=B1,server=D7=E8=C8=FB=
+=B5=C4=CA=B1=BC=E4,=C8=E7=B9=FB=B3=AC=CA=B1,=CF=FB=CF=A2=BD=AB=C1=
+=A2=BC=B4=B7=A2=CB=CD=B8=F8consumer<br></div><div>&nbsp; &nbsp; f=
+etch.wait.max.ms=3D5000<br></div><div>&nbsp; &nbsp; socket.receiv=
+e.buffer.bytes=3D655360<br></div><div><br></div><div>&nbsp; &nbsp=
+; # =C8=E7=B9=FBzookeeper=C3=BB=D3=D0offset=D6=B5=BB=F2offset=D6=B5=
+=B3=AC=B3=F6=B7=B6=CE=A7.=C4=C7=C3=B4=BE=CD=B8=F8=B8=F6=B3=F5=CA=BC=
+=B5=C4offset.=D3=D0smallest, largest,<br></div><div>&nbsp; &nbsp;=
+ # anything=BF=C9=D1=A1, =B7=D6=B1=F0=B1=ED=CA=BE=B8=F8=B5=B1=C7=B0=
+=D7=EE=D0=A1=B5=C4offset, =B5=B1=C7=B0=D7=EE=B4=F3=B5=C4offset, =C5=
+=D7=D2=EC=B3=A3.=C4=AC=C8=CFlargest<br></div><div>&nbsp; &nbsp; a=
+uto.offset.reset=3Dsmallest<br></div><div><br></div><div>&nbsp; &=
+nbsp; # =D6=B8=B6=A8=D0=F2=C1=D0=BB=AF=B4=A6=C0=ED=C0=E0(mafka cl=
+ient API=B5=F7=D3=C3=CB=B5=C3=F7--&gt;3.=D0=F2=C1=D0=BB=AF=D4=BC=B6=
+=A8wiki), =C4=AC=C8=CF=CE=AAkafka.serializer.DefaultDecoder,=BC=B4=
+byte[]<br></div><div>&nbsp; &nbsp; derializer.class=3Dcom.meituan=
+.mafka.client.codec.MafkaMessageDecoder<br></div><div>```<br></di=
+v><div><br></div><div>## =B8=BD=C2=BC B =B7=C7=B9=D9=B7=BD=D7=E9=BC=
+=FE Kafka Manager (=BD=A8=D2=E9=C5=E4=D6=C3)<br></div><div><br></=
+div><div>### 1 =B9=B9=BD=A8 Kafka Manager<br></div><div><br></div=
+><div>[Kafka Manager](https://github.com/yahoo/kafka-manager) =B9=
+=D9=B7=BD=B2=A2=C3=BB=D3=D0=CC=E1=B9=A9 Kafka Manager =B5=C4=B6=FE=
+=BD=F8=D6=C6=B7=A2=B2=BC=B0=FC, =B1=D8=D0=EB=D7=D4=BC=BA=B9=B9=BD=
+=A8. (=D4=DA=B1=BE=CE=C4=B5=C4=B8=BD=BC=FE=D6=D0=D3=D0=D2=D1=B9=B9=
+=BD=A8=BA=C3=B5=C4 1.3.1.8 =B0=E6 Kafka Manager, =BF=C9=CC=F8=B9=FD=
+=D5=E2=D2=BB=B2=BD)<br></div><div><br></div><div>1. [=CF=C2=D4=D8=
+=D4=B4=C2=EB](https://github.com/yahoo/kafka-manager/releases), =D5=
+=E2=C0=EF=D1=A1=D4=F1 1.3.1.8 =B0=E6, =BD=E2=D1=B9.<br></div><div=
+>2. =BD=F8=C8=EB=CF=C2=D4=D8=B5=C4 kafka-manager =D4=B4=C2=EB=C4=BF=
+=C2=BC, =D6=B4=D0=D0 `./sbt clean dist`. =D2=F2=CE=AA=D3=D0=D0=ED=
+=B6=E0scala =D2=C0=C0=B5=BA=CD maven =D2=C0=C0=B5=D0=E8=D2=AA=CF=C2=
+=D4=D8, =CB=F9=D2=D4=D5=E2=D2=BB=B2=BD=D0=E8=D2=AA=C1=AA=CD=F8, =C7=
+=D2=D2=AA=B5=C8=B4=FD=D2=BB=B6=CE=CA=B1=BC=E4(=B9=FA=C4=DA=D2=BB=B0=
+=E3=CD=F8=CB=D9=B2=EE=B2=BB=B6=E0=D2=AA=D2=BB=B8=F6=D0=A1=CA=B1).=
+<br></div><div>3. =B5=B1=C9=CF=D2=BB=B2=BD=B5=C4=C3=FC=C1=EE=D6=B4=
+=D0=D0=CD=EA=B1=CF, =C7=D2=D6=D5=B6=CB=CA=E4=B3=F6 `success`, =D4=
+=F2=B9=B9=BD=A8=CD=EA=B3=C9, =C4=BF=B1=EA=D4=DA kafka-manager =D4=
+=B4=C2=EB=C4=BF=C2=BC=CF=C2=B5=C4 `./target/universal/` =C4=BF=C2=
+=BC=CF=C2, =C3=FB=CE=AA kafka-manager-1.3.1.8.zip<br></div><div><=
+br></div><div>### 2 =C5=E4=D6=C3 Kafka Manager<br></div><div><br>=
+</div><div>=D6=BB=D0=E8=D4=DA=D2=BB=CC=A8=BB=FA=C6=F7=C9=CF=C5=E4=
+=D6=C3 Kafka Manager =BC=B4=BF=C9, =D6=BB=D2=AA=BF=C9=D2=D4=C1=AC=
+=BD=D3=C9=CF zookeeper =BC=AF=C8=BA=BA=CD kafka =BC=AF=C8=BA=BE=CD=
+=BF=C9=D2=D4=BC=E0=BF=D8=D5=FB=B8=F6 kafka =BC=AF=C8=BA.<br></div=
+><div><br></div><div>=BD=AB=D2=D1=B9=B9=BD=A8=BA=C3=B5=C4 kafka-m=
+anager-1.3.1.8.zip =BD=E2=D1=B9=B5=BD /usr/local/<br></div><div><=
+br></div><div>=D0=DE=B8=C4 /usr/local/kafka-manager-1.3.1.8/conf/=
+application.conf<br></div><div><br></div><div>```bash<br></div><d=
+iv>kafka-manager.zkhosts=3D"192.168.1.1:2181,192.168.1.2:2181,192=
+.168.1.3:2181"<br></div><div>kafka-manager.zkhosts=3D${?ZK_HOSTS}=
+<br></div><div>```<br></div><div><br></div><div>=D6=BB=D0=DE=B8=C4=
+=B5=DA=D2=BB=CC=F5=CE=AA Zookeeper =B5=C4=C1=AC=BD=D3=D7=D6=B7=FB=
+=B4=AE, =B5=DA=B6=FE=CC=F5=B2=BB=D2=AA=C9=BE<br></div><div><br></=
+div><div>=B5=DA=B6=FE=D6=D6=B7=BD=B0=B8: =C5=E4=D6=C3=BB=B7=BE=B3=
+=B1=E4=C1=BF export ZK_HOSTS=3D192.168.1.1:2181,192.168.1.2:2181,=
+192.168.1.3:2181, =D4=F2=B2=BB=D0=E8=D2=AA=D0=DE=B8=C4 applicatio=
+n.conf =CE=C4=BC=FE<br></div><div><br></div><div>### 3 =C6=F4=B6=AF=
+ Kafka Manager<br></div><div><br></div><div>```bash<br></div><div=
+>nohup bin/kafka-manager -Dconfig.file=3Dconf/application.conf &g=
+t; kafka-manager-boot.log 2&gt;&amp;1 &amp;<br></div><div>```<br>=
+</div><div><br></div><div>=C4=AC=C8=CF=BD=AB=CD=A8=B9=FD 9000 =B7=
+=C3=CE=CA, =BF=C9=D4=DA=C6=F4=B6=AF=CA=B1=D6=B8=B6=A8, =D5=E2=C0=EF=
+=B8=C4=B3=C9 9100(=D2=F2=CE=AA Hadoop HDFS =CA=B9=D3=C3 9000 =B6=CB=
+=BF=DA)<br></div><div><br></div><div>```bash<br></div><div>nohup=20=
+bin/kafka-manager -Dconfig.file=3Dconf/application.conf -Dhttp.po=
+rt=3D9100 &gt; kafka-manager-boot.log 2&gt;&amp;1 &amp;<br></div>=
+<div>```<br></div><div><br></div><div>=BB=F2=D4=DA=C5=E4=D6=C3=CE=
+=C4=BC=FE application.conf =D6=D0=D6=B8=B6=A8 http.port=3D9100<br=
+></div><div><br></div><div>### 4 =CA=B9=D3=C3 Kafka Manager<br></=
+div><div><br></div><div>=CA=B9=D3=C3=E4=AF=C0=C0=C6=F7=B7=C3=CE=CA=
+ http://{=C5=E4=D6=C3=C1=CB Kafka Manager =B5=C4=BB=FA=C6=F7=B5=C4=
+ ip}:9100<br></div><div><br></div><div>=CC=ED=BC=D3=BC=AF=C8=BA,=20=
+=CC=EE=D0=B4 ZK_HOSTS.<br></div><div><br></div><div>### 5 =D7=A2=D2=
+=E2<br></div><div><br></div><div>1. =B8=FC=B8=C4 kafka =B5=C4=C6=F4=
+=B6=AF=C3=FC=C1=EE<br></div><div><br></div><div>Kafka Manager =B5=
+=D7=B2=E3=CA=B9=D3=C3 JMX =C0=B4=D7=F6=D0=D4=C4=DC=B2=E2=C1=BF, =D2=
+=AA=D4=DA=C6=F4=B6=AF kafka =CA=B1=D6=B8=B6=A8 JMX =CA=B9=D3=C3=B5=
+=C4=B6=CB=BF=DA JMX_PORT =BA=CD hostname. =D0=C2=B5=C4=C6=F4=B6=AF=
+=C3=FC=C1=EE=C8=E7=CF=C2<br></div><div><br></div><div>```bash<br>=
+</div><div>JMX_PORT=3D9999 bin/kafka-server-start.sh -daemon conf=
+ig/server.properties --override -Djava.rmi.server.hostname=3D`hos=
+tname`<br></div><div>```<br></div><div><br></div><div>2. =D4=B6=B3=
+=CC=C1=AC=BD=D3 JMX =CE=CA=CC=E2<br></div><div><br></div><div>JMX=
+ =B3=FD=C1=CB=D2=AA=BC=E0=CC=FD=D3=C3=BB=A7=D6=B8=B6=A8=B5=C4=B6=CB=
+=BF=DA , =BB=B9=D0=E8=D2=AA=C1=BD=B8=F6=CB=E6=BB=FA=B6=CB=BF=DA=BA=
+=C5(=D5=E6=B5=C4=CA=C7=CB=E6=BB=FA=B5=C4, =CB=F9=D2=D4=CE=DE=B7=A8=
+=D6=B8=B6=A8=BF=AA=B7=C5). =C8=F4=BF=AA=C6=F4=C1=CB=B7=C0=BB=F0=C7=
+=BD, =D4=B6=B3=CC=C1=AC=BD=D3=CA=B1, =B7=C3=CE=CA JMX =CA=A7=B0=DC=
+.<br></div><div><br></div><div>=BD=E2=BE=F6:<br></div><div><br></=
+div><div>=C8=E7=B9=FB=BF=C9=D2=D4=B9=D8=B1=D5 firewall =BE=CD=D1=A1=
+=D4=F1=B9=D8=B1=D5, =BE=CD=BF=C9=D2=D4=D4=B6=B3=CC=C1=AC=BD=D3 JM=
+X.<br></div><div><br></div><div>=C8=E7=B9=FB=B2=BB=BF=C9=D2=D4=B9=
+=D8=B1=D5 firewall, =BE=CD=D4=DA firewall =D6=D0=C5=E4=D6=C3 rich=
+ rule: =B6=D4=D6=B8=B6=A8=B5=C4 IP =B2=BB=D7=F6=C0=B9=BD=D8. =C3=FC=
+=C1=EE=C8=E7=CF=C2, =C1=EE Kafka =BC=AF=C8=BA=CB=F9=D3=D0=BB=FA=C6=
+=F7=B6=D4 Kafka Manager =CB=F9=D4=DA=BB=FA=C6=F7 IP =B2=BB=D7=F6=C0=
+=B9=BD=D8.<br></div><div><br></div><div>```bash<br></div><div>sud=
+o firewall-cmd --permanent --add-rich-rule=3D"rule family=3D'ipv4=
+' source address=3D'192.168.1.1' accept"<br></div><div>```<br></d=
+iv><div><br></div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000225390.310--
+
+------=_Next_Part_0000676170.042--
+

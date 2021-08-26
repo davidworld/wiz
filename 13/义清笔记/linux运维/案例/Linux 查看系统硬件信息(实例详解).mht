@@ -1,0 +1,425 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?TGludXggsum/tM+1zbPTsrz+0MXPoijKtcD9z+q94ik=?=
+Date: Date: Fri, 23 Jul 2021 05:50:55 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000606375.548"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000606375.548
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000202125.881"
+
+
+------=_Next_Part_0000202125.881
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000202125.881
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>Linux =B2=E9=BF=B4=CF=B5=CD=B3=D3=B2=
+=BC=FE=D0=C5=CF=A2(=CA=B5=C0=FD=CF=EA=BD=E2)</title>=0A=0A=0A=0A=0A=
+<style type=3D"text/css" id=3D"wiz_todo_style_id" wiz_link_versio=
+n=3D"01.00.09">.wiz-todo, .wiz-todo-img {width: 16px; height: 16p=
+x; cursor: default; padding: 0 10px 0 2px; vertical-align: -10%;-=
+webkit-user-select: none;} .wiz-todo-label { display: inline-bloc=
+k; padding-top: 7px; padding-bottom: 6px; line-height: 1.5;} .wiz=
+-todo-label-checked {  color: #666;} .wiz-todo-label-unchecked {t=
+ext-decoration: initial;} .wiz-todo-completed-info {padding-left:=
+ 44px; display: inline-block; } .wiz-todo-avatar { width:20px; he=
+ight: 20px; vertical-align: -20%; margin-right:10px; border-radiu=
+s: 2px;} .wiz-todo-account, .wiz-todo-dt { color: #666; }</style>=
+=0A<style type=3D"text/css" id=3D"wiz_custom_css">=0Abody=0A{=0A=20=
+   font-family: Arial;=0A    font-size: 10.5pt;=0A    line-height=
+: 1.5;=0A}=0Ahtml, body=0A{=0A    color: ;=0A    background-color=
+: ;=0A}=0Ah1 {=0A    font-size:1.5em;=0A    font-weight:bold;=0A}=
+=0Ah2 {=0A    font-size:1.4em;=0A    font-weight:bold;=0A}=0Ah3 {=
+=0A    font-size:1.3em;=0A    font-weight:bold;=0A}=0Ah4 {=0A   =20=
+font-size:1.2em;=0A    font-weight:bold;=0A}=0Ah5 {=0A    font-si=
+ze:1.1em;=0A    font-weight:bold;=0A}=0Ah6 {=0A    font-size:1.0e=
+m;=0A    font-weight:bold;=0A}=0Aimg {=0A    border:0;=0A    max-=
+width: 100%;=0A    height: auto !important;=0A}=0Ablockquote {=0A=
+    margin-top:0px;=0A    margin-bottom:0px;=0A}=0Atable {=0A   =20=
+border-collapse:collapse;=0A    border:1px solid #bbbbbb;=0A}=0At=
+d {=0A    border-collapse:collapse;=0A    border:1px solid #bbbbb=
+b;=0A}=0A</style>=0A</head>=0A=0A<body style><div id=3D"cnblogs_p=
+ost_body"><p>linux=B2=E9=BF=B4=CF=B5=CD=B3=B5=C4=D3=B2=BC=FE=D0=C5=
+=CF=A2=A3=AC=B2=A2=B2=BB=CF=F1windows=C4=C7=C3=B4=D6=B1=B9=DB=A3=AC=
+=D5=E2=C0=EF=CE=D2=C2=DE=C1=D0=C1=CB=B2=E9=BF=B4=CF=B5=CD=B3=D0=C5=
+=CF=A2=B5=C4=CA=B5=D3=C3=C3=FC=C1=EE=A3=AC=B2=A2=D7=F6=C1=CB=B7=D6=
+=C0=E0=A3=AC=CA=B5=C0=FD=BD=E2=CB=B5=A1=A3</p>=0A<h2><strong><spa=
+n style=3D"font-size: 14pt;">cpu</span></strong></h2>=0A<p>lscpu=C3=
+=FC=C1=EE=A3=AC=B2=E9=BF=B4=B5=C4=CA=C7cpu=B5=C4=CD=B3=BC=C6=D0=C5=
+=CF=A2.</p>=0A<div class=3D"cnblogs_code"><div class=3D"cnblogs_c=
+ode_toolbar"><span class=3D"cnblogs_code_copy"><a href title=3D"=B8=
+=B4=D6=C6=B4=FA=C2=EB"><img src=3D"http://common.cnblogs.com/imag=
+es/copycode.gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span></di=
+v>=0A<pre>blue@blue-pc:~$ lscpu=0AArchitecture:          i686   =20=
+        #cpu=BC=DC=B9=B9=0ACPU op-mode(s):        <span style=3D"=
+color: #800080;">32</span>-bit, <span style=3D"color: #800080;">6=
+4</span>-bit=0AByte Order:            Little Endian   #=D0=A1=CE=B2=
+=D0=F2=0ACPU(s):                <span style=3D"color: #800080;">4=
+</span>               #=D7=DC=B9=B2=D3=D04=BA=CB=0AOn-line CPU(s)=
+ list:   <span style=3D"color: #800080;">0</span>-<span style=3D"=
+color: #800080;">3</span>=0AThread(s) per core:    <span style=3D=
+"color: #800080;">1               </span>#=C3=BF=B8=F6cpu=BA=CB=A3=
+=AC=D6=BB=C4=DC=D6=A7=B3=D6=D2=BB=B8=F6=CF=DF=B3=CC=A3=AC=BC=B4=B2=
+=BB=D6=A7=B3=D6=B3=AC=CF=DF=B3=CC=0ACore(s) per socket:    <span=20=
+style=3D"color: #800080;">4</span>               #=C3=BF=B8=F6cpu=
+=A3=AC=D3=D04=B8=F6=BA=CB=0ASocket(s):             <span style=3D=
+"color: #800080;">1</span>               #=D7=DC=B9=B2=D3=D01=D2=BB=
+=B8=F6cpu=0AVendor ID:             GenuineIntel    #cpu=B2=FA=C9=CC=
+ intel=0ACPU family:            <span style=3D"color: #800080;">6=
+</span>=0AModel:                 <span style=3D"color: #800080;">=
+42</span>=0AStepping:              <span style=3D"color: #800080;=
+">7</span>=0ACPU MHz:               <span style=3D"color: #800080=
+;">1600.000</span>=0ABogoMIPS:              <span style=3D"color:=
+ #800080;">5986.12</span>=0AVirtualization:        VT-x         =20=
+  #=D6=A7=B3=D6cpu=D0=E9=C4=E2=BB=AF=BC=BC=CA=F5=0AL1d cache:   =20=
+         32K=0AL1i cache:             32K=0AL2 cache:           =20=
+  256K=0AL3 cache:              6144K</pre>=0A<div class=3D"cnblo=
+gs_code_toolbar"><span class=3D"cnblogs_code_copy"><a href title=3D=
+"=B8=B4=D6=C6=B4=FA=C2=EB"><img src=3D"http://common.cnblogs.com/=
+images/copycode.gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span>=
+</div></div>=0A<p>&nbsp;</p>=0A<p>=B2=E9=BF=B4/proc/cpuinfo,=BF=C9=
+=D2=D4=D6=AA=B5=C0=C3=BF=B8=F6cpu=D0=C5=CF=A2=A3=AC=C8=E7=C3=BF=B8=
+=F6CPU=B5=C4=D0=CD=BA=C5=A3=AC=D6=F7=C6=B5=B5=C8=A1=A3</p>=0A<div=
+ class=3D"cnblogs_code"><div class=3D"cnblogs_code_toolbar"><span=
+ class=3D"cnblogs_code_copy"><a href title=3D"=B8=B4=D6=C6=B4=FA=C2=
+=EB"><img src=3D"http://common.cnblogs.com/images/copycode.gif" a=
+lt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span></div>=0A<pre>#cat /pr=
+oc/cpuinfo=0Aprocessor    : <span style=3D"color: #800080;">0</sp=
+an>=0Avendor_id    : GenuineIntel=0Acpu family    : <span style=3D=
+"color: #800080;">6</span>=0Amodel        : <span style=3D"color:=
+ #800080;">42</span>=0Amodel name    : Intel(R) Core(TM) i5-<span=
+ style=3D"color: #800080;">2320</span> CPU @ <span style=3D"color=
+: #800080;">3</span>.00GHz=0A.....</pre>=0A<div class=3D"cnblogs_=
+code_toolbar"><span class=3D"cnblogs_code_copy"><a href title=3D"=
+=B8=B4=D6=C6=B4=FA=C2=EB"><img src=3D"http://common.cnblogs.com/i=
+mages/copycode.gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span><=
+/div></div>=0A<p>=C9=CF=C3=E6=CA=E4=B3=F6=B5=C4=CA=C7=B5=DA=D2=BB=
+=B8=F6cpu=B2=BF=B7=D6=D0=C5=CF=A2=A3=AC=BB=B9=D3=D03=B8=F6cpu=D0=C5=
+=CF=A2=CA=A1=C2=D4=C1=CB=A1=A3</p>=0A<p>&nbsp;</p>=0A<h2><strong>=
+<span style=3D"font-size: 14pt;">=C4=DA=B4=E6</span></strong></h2=
+>=0A<p>=B8=C5=D2=AA=B2=E9=BF=B4=C4=DA=B4=E6=C7=E9=BF=F6</p>=0A<di=
+v class=3D"cnblogs_code">=0A<pre><span style=3D"color: #0000ff;">=
+free</span> -m=0A             total       used       <span style=3D=
+"color: #0000ff;">free</span>     shared    buffers     cached=0A=
+Mem:          <span style=3D"color: #800080;">3926</span>       <=
+span style=3D"color: #800080;">3651</span>        <span style=3D"=
+color: #800080;">274</span>          <span style=3D"color: #80008=
+0;">0</span>         <span style=3D"color: #800080;">12</span>  =20=
+     <span style=3D"color: #800080;">404</span>=0A-/+ buffers/cac=
+he:       <span style=3D"color: #800080;">3235</span>        <spa=
+n style=3D"color: #800080;">691</span>=0ASwap:         <span styl=
+e=3D"color: #800080;">9536</span>         <span style=3D"color: #=
+800080;">31</span>       <span style=3D"color: #800080;">9505</sp=
+an></pre>=0A</div>=0A<p>=D5=E2=C0=EF=B5=C4=B5=A5=CE=BB=CA=C7MB=A3=
+=AC=D7=DC=B9=B2=B5=C4=C4=DA=B4=E6=CA=C73926MB=A1=A3</p>=0A<p>&nbs=
+p;</p>=0A<p>=B2=E9=BF=B4=C4=DA=B4=E6=CF=EA=CF=B8=CA=B9=D3=C3</p>=0A=
+<div class=3D"cnblogs_code"><div class=3D"cnblogs_code_toolbar"><=
+span class=3D"cnblogs_code_copy"><a href title=3D"=B8=B4=D6=C6=B4=
+=FA=C2=EB"><img src=3D"http://common.cnblogs.com/images/copycode.=
+gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span></div>=0A<pre>#=20=
+<span style=3D"color: #0000ff;">cat</span> /proc/meminfo =0AMemTo=
+tal:        <span style=3D"color: #800080;">4020868</span> kB=0AM=
+emFree:          <span style=3D"color: #800080;">230884</span> kB=
+=0ABuffers:            <span style=3D"color: #800080;">7600</span=
+> kB=0ACached:           <span style=3D"color: #800080;">454772</=
+span> kB=0ASwapCached:          <span style=3D"color: #800080;">8=
+36</span> kB=0A.....</pre>=0A<div class=3D"cnblogs_code_toolbar">=
+<span class=3D"cnblogs_code_copy"><a href title=3D"=B8=B4=D6=C6=B4=
+=FA=C2=EB"><img src=3D"http://common.cnblogs.com/images/copycode.=
+gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span></div></div>=0A<=
+p>&nbsp;</p>=0A<p>=B2=E9=BF=B4=C4=DA=B4=E6=D3=B2=BC=FE=D0=C5=CF=A2=
+</p>=0A<div class=3D"cnblogs_code"><div class=3D"cnblogs_code_too=
+lbar"><span class=3D"cnblogs_code_copy"><a href title=3D"=B8=B4=D6=
+=C6=B4=FA=C2=EB"><img src=3D"http://common.cnblogs.com/images/cop=
+ycode.gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span></div>=0A<=
+pre>dmidecode -t memory=0A# dmidecode <span style=3D"color: #8000=
+80;">2.11</span>=0ASMBIOS <span style=3D"color: #800080;">2.7</sp=
+an> present.=0A=0AHandle <span style=3D"color: #800080;">0x0008</=
+span>, DMI type <span style=3D"color: #800080;">16</span>, <span=20=
+style=3D"color: #800080;">23</span> bytes=0APhysical Memory Array=
+=0A    Location: System Board Or Motherboard=0A....=0A    Maximum=
+ Capacity: <span style=3D"color: #800080;">32</span> GB=0A....=0A=
+=0AHandle <span style=3D"color: #800080;">0x000A</span>, DMI type=
+ <span style=3D"color: #800080;">17</span>, <span style=3D"color:=
+ #800080;">34</span> bytes=0A....=0AMemory Device=0A    Array Han=
+dle: <span style=3D"color: #800080;">0x0008</span>=0A    Error In=
+formation Handle: Not Provided=0A    Total Width: <span style=3D"=
+color: #800080;">64</span> bits=0A    Data Width: <span style=3D"=
+color: #800080;">64</span> bits=0A    Size: <span style=3D"color:=
+ #800080;">4096</span> MB=0A.....</pre>=0A<div class=3D"cnblogs_c=
+ode_toolbar"><span class=3D"cnblogs_code_copy"><a href title=3D"=B8=
+=B4=D6=C6=B4=FA=C2=EB"><img src=3D"http://common.cnblogs.com/imag=
+es/copycode.gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span></di=
+v></div>=0A<p>=CE=D2=B5=C4=D6=F7=B0=E5=D3=D04=B8=F6=B2=DB=CE=BB=A3=
+=AC=D6=BB=D3=C3=C1=CB=D2=BB=B8=F6=B2=DB=CE=BB=A3=AC=C9=CF=C3=E6=B2=
+=E5=C1=CB=D2=BB=CC=F54096MB=B5=C4=C4=DA=B4=E6=A1=A3</p>=0A<p>&nbs=
+p;</p>=0A<h2><strong><span style=3D"font-size: 14pt;">=B4=C5=C5=CC=
+</span></strong></h2>=0A<p>=B2=E9=BF=B4=D3=B2=C5=CC=BA=CD=B7=D6=C7=
+=F8=B7=D6=B2=BC</p>=0A<div class=3D"cnblogs_code"><div class=3D"c=
+nblogs_code_toolbar"><span class=3D"cnblogs_code_copy"><a href ti=
+tle=3D"=B8=B4=D6=C6=B4=FA=C2=EB"><img src=3D"http://common.cnblog=
+s.com/images/copycode.gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a><=
+/span></div>=0A<pre># lsblk=0ANAME   MAJ:MIN RM   SIZE RO TYPE MO=
+UNTPOINT=0Asda      <span style=3D"color: #800080;">8</span>:<spa=
+n style=3D"color: #800080;">0</span>    <span style=3D"color: #80=
+0080;">0</span> <span style=3D"color: #800080;">465</span>.8G  <s=
+pan style=3D"color: #800080;">0</span> disk =0A=A9=C0=A9=A4sda1 =20=
+ <span style=3D"color: #800080;">8</span>:<span style=3D"color: #=
+800080;">1</span>    <span style=3D"color: #800080;">0</span>   =20=
+ 1G  <span style=3D"color: #800080;">0</span> part /boot=0A=A9=C0=
+=A9=A4sda2   <span style=3D"color: #800080;">8</span>:<span style=
+=3D"color: #800080;">2</span>    <span style=3D"color: #800080;">=
+0</span>   <span style=3D"color: #800080;">9</span>.3G  <span sty=
+le=3D"color: #800080;">0</span> part [SWAP]=0A=A9=C0=A9=A4sda3  =20=
+<span style=3D"color: #800080;">8</span>:<span style=3D"color: #8=
+00080;">3</span>    <span style=3D"color: #800080;">0</span>  <sp=
+an style=3D"color: #800080;">74</span>.5G  <span style=3D"color:=20=
+#800080;">0</span> part /=0A=A9=C0=A9=A4sda4   <span style=3D"col=
+or: #800080;">8</span>:<span style=3D"color: #800080;">4</span> =20=
+  <span style=3D"color: #800080;">0</span>     1K  <span style=3D=
+"color: #800080;">0</span> part =0A=A9=C0=A9=A4sda5   <span style=
+=3D"color: #800080;">8</span>:<span style=3D"color: #800080;">5</=
+span>    <span style=3D"color: #800080;">0</span> <span style=3D"=
+color: #800080;">111</span>.8G  <span style=3D"color: #800080;">0=
+</span> part /home=0A=A9=B8=A9=A4sda6   <span style=3D"color: #80=
+0080;">8</span>:<span style=3D"color: #800080;">6</span>    <span=
+ style=3D"color: #800080;">0</span> <span style=3D"color: #800080=
+;">269</span>.2G  <span style=3D"color: #800080;">0</span> part <=
+/pre>=0A<div class=3D"cnblogs_code_toolbar"><span class=3D"cnblog=
+s_code_copy"><a href title=3D"=B8=B4=D6=C6=B4=FA=C2=EB"><img src=3D=
+"http://common.cnblogs.com/images/copycode.gif" alt=3D"=B8=B4=D6=C6=
+=B4=FA=C2=EB"></a></span></div></div>=0A<p>=CF=D4=CA=BE=BA=DC=D6=B1=
+=B9=DB</p>=0A<p>&nbsp;</p>=0A<p>=C8=E7=B9=FB=D2=AA=BF=B4=D3=B2=C5=
+=CC=BA=CD=B7=D6=C7=F8=B5=C4=CF=EA=CF=B8=D0=C5=CF=A2</p>=0A<div cl=
+ass=3D"cnblogs_code"><div class=3D"cnblogs_code_toolbar"><span cl=
+ass=3D"cnblogs_code_copy"><a href title=3D"=B8=B4=D6=C6=B4=FA=C2=EB=
+"><img src=3D"http://common.cnblogs.com/images/copycode.gif" alt=3D=
+"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span></div>=0A<pre># fdisk -l=0A=
+=0ADisk /dev/sda: <span style=3D"color: #800080;">500.1</span> GB=
+, <span style=3D"color: #800080;">500107862016</span> bytes=0A<sp=
+an style=3D"color: #800080;">255</span> heads, <span style=3D"col=
+or: #800080;">63</span> sectors/track, <span style=3D"color: #800=
+080;">60801</span> cylinders, total <span style=3D"color: #800080=
+;">976773168</span> sectors=0AUnits =3D sectors of <span style=3D=
+"color: #800080;">1</span> * <span style=3D"color: #800080;">512<=
+/span> =3D <span style=3D"color: #800080;">512</span> bytes=0ASec=
+tor size (logical/physical): <span style=3D"color: #800080;">512<=
+/span> bytes / <span style=3D"color: #800080;">4096</span> bytes=0A=
+I/O size (minimum/optimal): <span style=3D"color: #800080;">4096<=
+/span> bytes / <span style=3D"color: #800080;">4096</span> bytes=0A=
+Disk identifier: <span style=3D"color: #800080;">0x00023728</span=
+>=0A=0A   Device Boot      Start         End      Blocks   Id  Sy=
+stem=0A/dev/sda1   *        <span style=3D"color: #800080;">2048<=
+/span>     <span style=3D"color: #800080;">2148351</span>     <sp=
+an style=3D"color: #800080;">1073152</span>   <span style=3D"colo=
+r: #800080;">83</span>  Linux=0A/dev/sda2         <span style=3D"=
+color: #800080;">2148352</span>    <span style=3D"color: #800080;=
+">21680127</span>     <span style=3D"color: #800080;">9765888</sp=
+an>   <span style=3D"color: #800080;">82</span>  Linux swap / Sol=
+aris=0A/dev/sda3        <span style=3D"color: #800080;">21680128<=
+/span>   <span style=3D"color: #800080;">177930239</span>    <spa=
+n style=3D"color: #800080;">78125056</span>   <span style=3D"colo=
+r: #800080;">83</span>  Linux=0A/dev/sda4       <span style=3D"co=
+lor: #800080;">177932286</span>   <span style=3D"color: #800080;"=
+>976771071</span>   <span style=3D"color: #800080;">399419393</sp=
+an>    <span style=3D"color: #800080;">5</span>  Extended/dev/sda=
+5       <span style=3D"color: #800080;">177932288</span>   <span=20=
+style=3D"color: #800080;">412305407</span>   <span style=3D"color=
+: #800080;">117186560</span>   <span style=3D"color: #800080;">83=
+</span>  Linux=0A/dev/sda6       <span style=3D"color: #800080;">=
+412307456</span>   <span style=3D"color: #800080;">976771071</spa=
+n>   <span style=3D"color: #800080;">282231808</span>   <span sty=
+le=3D"color: #800080;">83</span>  Linux</pre>=0A<div class=3D"cnb=
+logs_code_toolbar"><span class=3D"cnblogs_code_copy"><a href titl=
+e=3D"=B8=B4=D6=C6=B4=FA=C2=EB"><img src=3D"http://common.cnblogs.=
+com/images/copycode.gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></s=
+pan></div></div>=0A<p>&nbsp;</p>=0A<h2><strong><span style=3D"fon=
+t-size: 14pt;">=CD=F8=BF=A8</span></strong></h2>=0A<p>=B2=E9=BF=B4=
+=CD=F8=BF=A8=D3=B2=BC=FE=D0=C5=CF=A2</p>=0A<div class=3D"cnblogs_=
+code">=0A<pre># lspci | <span style=3D"color: #0000ff;">grep</spa=
+n> -i <span style=3D"color: #800000;">'</span><span style=3D"colo=
+r: #800000;">eth</span><span style=3D"color: #800000;">'</span>=0A=
+<span style=3D"color: #800080;">02</span>:<span style=3D"color: #=
+800080;">00.0</span> Ethernet controller: Realtek Semiconductor C=
+o., Ltd. RTL8111/8168B PCI Express Gigabit Ethernet controller (r=
+ev <span style=3D"color: #800080;">06</span>)</pre>=0A</div>=0A<p=
+>&nbsp;</p>=0A<p>=B2=E9=BF=B4=CF=B5=CD=B3=B5=C4=CB=F9=D3=D0=CD=F8=
+=C2=E7=BD=D3=BF=DA</p>=0A<div class=3D"cnblogs_code">=0A<pre># <s=
+pan style=3D"color: #0000ff;">ifconfig</span> -a=0Aeth0      Link=
+ encap:=D2=D4=CC=AB=CD=F8  =D3=B2=BC=FE=B5=D8=D6=B7 b8:<span styl=
+e=3D"color: #800080;">97</span>:5a:<span style=3D"color: #800080;=
+">17</span>:b3:8f  =0A          .....=0A=0Alo        Link encap:=B1=
+=BE=B5=D8=BB=B7=BB=D8  =0A          .....</pre>=0A</div>=0A<p>=BB=
+=F2=D5=DF=CA=C7</p>=0A<div class=3D"cnblogs_code">=0A<pre>ip link=
+ show=0A<span style=3D"color: #800080;">1</span>: lo: &lt;LOOPBAC=
+K&gt; mtu <span style=3D"color: #800080;">16436</span> qdisc noqu=
+eue state DOWN =0Alink/loopback <span style=3D"color: #800080;">0=
+0</span>:<span style=3D"color: #800080;">00</span>:<span style=3D=
+"color: #800080;">00</span>:<span style=3D"color: #800080;">00</s=
+pan>:<span style=3D"color: #800080;">00</span>:<span style=3D"col=
+or: #800080;">00</span> brd <span style=3D"color: #800080;">00</s=
+pan>:<span style=3D"color: #800080;">00</span>:<span style=3D"col=
+or: #800080;">00</span>:<span style=3D"color: #800080;">00</span>=
+:<span style=3D"color: #800080;">00</span>:<span style=3D"color:=20=
+#800080;">00</span>=0A<span style=3D"color: #800080;">2</span>: e=
+th0: &lt;BROADCAST,MULTICAST,UP,LOWER_UP&gt; mtu <span style=3D"c=
+olor: #800080;">1500</span> qdisc pfifo_fast state UP qlen <span=20=
+style=3D"color: #800080;">1000</span>=0Alink/ether b8:<span style=
+=3D"color: #800080;">97</span>:5a:<span style=3D"color: #800080;"=
+>17</span>:b3:8f brd ff:ff:ff:ff:ff:ff</pre>=0A</div>=0A<p>&nbsp;=
+</p>=0A<p>=C8=E7=B9=FB=D2=AA=B2=E9=BF=B4=C4=B3=B8=F6=CD=F8=C2=E7=BD=
+=D3=BF=DA=B5=C4=CF=EA=CF=B8=D0=C5=CF=A2=A3=AC=C0=FD=C8=E7eth0=B5=C4=
+=CF=EA=CF=B8=B2=CE=CA=FD=BA=CD=D6=B8=B1=EA</p>=0A<div class=3D"cn=
+blogs_code"><div class=3D"cnblogs_code_toolbar"><span class=3D"cn=
+blogs_code_copy"><a href title=3D"=B8=B4=D6=C6=B4=FA=C2=EB"><img=20=
+src=3D"http://common.cnblogs.com/images/copycode.gif" alt=3D"=B8=B4=
+=D6=C6=B4=FA=C2=EB"></a></span></div>=0A<pre># ethtool eth0=0ASet=
+tings <span style=3D"color: #0000ff;">for</span> eth0:=0A    Supp=
+orted ports: [ TP MII ]=0A    Supported link modes:   10baseT/Hal=
+f 10baseT/Full =0A                            100baseT/Half 100ba=
+seT/Full =0A                            1000baseT/Half 1000baseT/=
+Full #=D6=A7=B3=D6=C7=A7=D5=D7=B0=EB=CB=AB=B9=A4=A3=AC=C8=AB=CB=AB=
+=B9=A4=C4=A3=CA=BD=0A    Supported pause frame use: No =0A    Sup=
+ports auto-negotiation: Yes #=D6=A7=B3=D6=D7=D4=CA=CA=D3=A6=C4=A3=
+=CA=BD=A3=AC=D2=BB=B0=E3=B6=BC=D6=A7=B3=D6=0A    Advertised link=20=
+modes:  10baseT/Half 10baseT/Full =0A                           =20=
+100baseT/Half 100baseT/Full =0A                            1000ba=
+seT/Half 1000baseT/Full=0A    Advertised pause frame use: Symmetr=
+ic Receive-only=0A    Advertised auto-negotiation: Yes #=C4=AC=C8=
+=CF=CA=B9=D3=C3=D7=D4=CA=CA=D3=A6=C4=A3=CA=BD=0A    Link partner=20=
+advertised link modes:  10baseT/Half 10baseT/Full =0A           =20=
+                             100baseT/Half 100baseT/Full =0A    .=
+....=0A    Speed: 100Mb/s #=CF=D6=D4=DA=CD=F8=BF=A8=B5=C4=CB=D9=B6=
+=C8=CA=C7100Mb,=CD=F8=BF=A8=CA=B9=D3=C3=D7=D4=CA=CA=D3=A6=C4=A3=CA=
+=BD=A3=AC=CB=F9=D2=D4=CD=C6=B2=E2=C2=B7=D3=C9=CA=C7100Mb=A3=AC=B5=
+=BC=D6=C2=CD=F8=BF=A8=B4=D3=D6=A7=B3=D6=C7=A7=D5=D7=A3=AC=B1=E4=B3=
+=C9=D2=AA=D6=A7=B3=D6=B0=D9=D5=D7=0A    Duplex: Full   #=C8=AB=CB=
+=AB=B9=A4=0A    .....=0A    Link detected: yes    #=B1=ED=CA=BE=D3=
+=D0=CD=F8=CF=DF=C1=AC=BD=D3=A3=AC=BA=CD=C2=B7=D3=C9=CA=C7=CD=A8=B5=
+=C4</pre>=0A<div class=3D"cnblogs_code_toolbar"><span class=3D"cn=
+blogs_code_copy"><a href title=3D"=B8=B4=D6=C6=B4=FA=C2=EB"><img=20=
+src=3D"http://common.cnblogs.com/images/copycode.gif" alt=3D"=B8=B4=
+=D6=C6=B4=FA=C2=EB"></a></span></div></div>=0A<p>&nbsp;</p>=0A<p>=
+&nbsp;</p>=0A<h2><strong><span style=3D"font-size: 14pt;">=C6=E4=CB=
+=FB</span></strong></h2>=0A<p>=B2=E9=BF=B4pci=D0=C5=CF=A2=A3=AC=BC=
+=B4=D6=F7=B0=E5=CB=F9=D3=D0=D3=B2=BC=FE=B2=DB=D0=C5=CF=A2=A1=A3</=
+p>=0A<div class=3D"cnblogs_code"><div class=3D"cnblogs_code_toolb=
+ar"><span class=3D"cnblogs_code_copy"><a href title=3D"=B8=B4=D6=C6=
+=B4=FA=C2=EB"><img src=3D"http://common.cnblogs.com/images/copyco=
+de.gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span></div>=0A<pre=
+>lspci=0A<span style=3D"color: #800080;">00</span>:<span style=3D=
+"color: #800080;">00.0</span> Host bridge: Intel Corporation 2nd=20=
+Generation Core Processor Family DRAM Controller (rev <span style=
+=3D"color: #800080;">09</span>) #=D6=F7=B0=E5=D0=BE=C6=AC=0A<span=
+ style=3D"color: #800080;">00</span>:<span style=3D"color: #80008=
+0;">02.0</span> VGA compatible controller: Intel Corporation 2nd=20=
+Generation Core Processor Family Integrated Graphics Controller (=
+rev <span style=3D"color: #800080;">09</span>) #=CF=D4=BF=A8=0A<s=
+pan style=3D"color: #800080;">00</span>:<span style=3D"color: #80=
+0080;">14.0</span> USB controller: Intel Corporation Panther Poin=
+t USB xHCI Host Controller (rev <span style=3D"color: #800080;">0=
+4</span>) #usb=BF=D8=D6=C6=C6=F7=0A<span style=3D"color: #800080;=
+">00</span>:<span style=3D"color: #800080;">16.0</span> Communica=
+tion controller: Intel Corporation Panther Point MEI Controller #=
+<span style=3D"color: #800080;">1</span> (rev <span style=3D"colo=
+r: #800080;">04</span>)=0A<span style=3D"color: #800080;">00</spa=
+n>:1a.<span style=3D"color: #800080;">0</span> USB controller: In=
+tel Corporation Panther Point USB Enhanced Host Controller #<span=
+ style=3D"color: #800080;">2</span> (rev <span style=3D"color: #8=
+00080;">04</span>)=0A<span style=3D"color: #800080;">00</span>:1b=
+.<span style=3D"color: #800080;">0</span> Audio device: Intel Cor=
+poration Panther Point High Definition Audio Controller (rev <spa=
+n style=3D"color: #800080;">04</span>) #=C9=F9=BF=A8=0A<span styl=
+e=3D"color: #800080;">00</span>:1c.<span style=3D"color: #800080;=
+">0</span> PCI bridge: Intel Corporation Panther Point PCI Expres=
+s Root Port <span style=3D"color: #800080;">1</span> (rev c4) #pc=
+i =B2=E5=B2=DB=0A<span style=3D"color: #800080;">00</span>:1c.<sp=
+an style=3D"color: #800080;">2</span> PCI bridge: Intel Corporati=
+on Panther Point PCI Express Root Port <span style=3D"color: #800=
+080;">3</span> (rev c4)=0A<span style=3D"color: #800080;">00</spa=
+n>:1c.<span style=3D"color: #800080;">3</span> PCI bridge: Intel=20=
+Corporation Panther Point PCI Express Root Port <span style=3D"co=
+lor: #800080;">4</span> (rev c4)=0A<span style=3D"color: #800080;=
+">00</span>:1d.<span style=3D"color: #800080;">0</span> USB contr=
+oller: Intel Corporation Panther Point USB Enhanced Host Controll=
+er #<span style=3D"color: #800080;">1</span> (rev <span style=3D"=
+color: #800080;">04</span>)=0A<span style=3D"color: #800080;">00<=
+/span>:1f.<span style=3D"color: #800080;">0</span> ISA bridge: In=
+tel Corporation Panther Point LPC Controller (rev <span style=3D"=
+color: #800080;">04</span>)=0A<span style=3D"color: #800080;">00<=
+/span>:1f.<span style=3D"color: #800080;">2</span> IDE interface:=
+ Intel Corporation Panther Point <span style=3D"color: #800080;">=
+4</span> port SATA Controller [IDE mode] (rev <span style=3D"colo=
+r: #800080;">04</span>) #=D3=B2=C5=CC=BD=D3=BF=DA=0A<span style=3D=
+"color: #800080;">00</span>:1f.<span style=3D"color: #800080;">3<=
+/span> SMBus: Intel Corporation Panther Point SMBus Controller (r=
+ev <span style=3D"color: #800080;">04</span>)=0A<span style=3D"co=
+lor: #800080;">00</span>:1f.<span style=3D"color: #800080;">5</sp=
+an> IDE interface: Intel Corporation Panther Point <span style=3D=
+"color: #800080;">2</span> port SATA Controller [IDE mode] (rev <=
+span style=3D"color: #800080;">04</span>) #=D3=B2=C5=CC=BD=D3=BF=DA=
+=0A<span style=3D"color: #800080;">02</span>:<span style=3D"color=
+: #800080;">00.0</span> Ethernet controller: Realtek Semiconducto=
+r Co., Ltd. RTL8111/8168B PCI Express Gigabit Ethernet controller=
+ (rev <span style=3D"color: #800080;">06</span>) #=CD=F8=BF=A8=0A=
+<span style=3D"color: #800080;">03</span>:<span style=3D"color: #=
+800080;">00.0</span> PCI bridge: Integrated Technology Express, I=
+nc. Device <span style=3D"color: #800080;">8893</span> (rev <span=
+ style=3D"color: #800080;">41</span>)</pre>=0A<div class=3D"cnblo=
+gs_code_toolbar"><span class=3D"cnblogs_code_copy"><a href title=3D=
+"=B8=B4=D6=C6=B4=FA=C2=EB"><img src=3D"http://common.cnblogs.com/=
+images/copycode.gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB"></a></span>=
+</div></div>=0A<p>=C8=E7=B9=FB=D2=AA=B8=FC=CF=EA=CF=B8=B5=C4=D0=C5=
+=CF=A2:lspci -v =BB=F2=D5=DF lspci -vv</p>=0A<p>=C8=E7=B9=FB=D2=AA=
+=BF=B4=C9=E8=B1=B8=CA=F7:lscpi -t</p>=0A<p>&nbsp;</p>=0A<p>=B2=E9=
+=BF=B4bios=D0=C5=CF=A2</p>=0A<div class=3D"cnblogs_code"><div cla=
+ss=3D"cnblogs_code_toolbar"><span class=3D"cnblogs_code_copy"><a=20=
+href title=3D"=B8=B4=D6=C6=B4=FA=C2=EB"><img src=3D"http://common=
+.cnblogs.com/images/copycode.gif" alt=3D"=B8=B4=D6=C6=B4=FA=C2=EB=
+"></a></span></div>=0A<pre># dmidecode -t bios=0A......=0ABIOS In=
+formation=0A    Vendor: American Megatrends Inc.=0A    Version: <=
+span style=3D"color: #800080;">4.6</span>.<span style=3D"color: #=
+800080;">5</span>=0A    Release Date: <span style=3D"color: #8000=
+80;">04</span>/<span style=3D"color: #800080;">25</span>/<span st=
+yle=3D"color: #800080;">2012</span>=0A    .......=0A    BIOS Revi=
+sion: <span style=3D"color: #800080;">4.6</span>=0A......</pre>=0A=
+<div class=3D"cnblogs_code_toolbar"><span class=3D"cnblogs_code_c=
+opy"><a href title=3D"=B8=B4=D6=C6=B4=FA=C2=EB"><img src=3D"http:=
+//common.cnblogs.com/images/copycode.gif" alt=3D"=B8=B4=D6=C6=B4=FA=
+=C2=EB"></a></span></div></div>=0A<p>dmidecode=D2=D4=D2=BB=D6=D6=BF=
+=C9=B6=C1=B5=C4=B7=BD=CA=BDdump=B3=F6=BB=FA=C6=F7=B5=C4DMI(Deskto=
+p Management Interface)=D0=C5=CF=A2=A1=A3=D5=E2=D0=A9=D0=C5=CF=A2=
+=B0=FC=C0=A8=C1=CB=D3=B2=BC=FE=D2=D4=BC=B0BIOS=A3=AC=BC=C8=BF=C9=D2=
+=D4=B5=C3=B5=BD=B5=B1=C7=B0=B5=C4=C5=E4=D6=C3=A3=AC=D2=B2=BF=C9=D2=
+=D4=B5=C3=B5=BD=CF=B5=CD=B3=D6=A7=B3=D6=B5=C4=D7=EE=B4=F3=C5=E4=D6=
+=C3=A3=AC=B1=C8=C8=E7=CB=B5=D6=A7=B3=D6=B5=C4=D7=EE=B4=F3=C4=DA=B4=
+=E6=CA=FD=B5=C8=A1=A3</p>=0A<p>=C8=E7=B9=FB=D2=AA=B2=E9=BF=B4=CB=F9=
+=D3=D0=D3=D0=D3=C3=D0=C5=CF=A2</p>=0A<div class=3D"cnblogs_code">=
+=0A<pre>dmidecode -q</pre>=0A</div>=0A<p>=C0=EF=C3=E6=B0=FC=BA=AC=
+=C1=CB=BA=DC=B6=E0=D3=B2=BC=FE=D0=C5=CF=A2=A1=A3</p><br><div styl=
+e=3D"color:gray"><small>=C0=B4=D4=B4=A3=BA&nbsp;&lt;<a href=3D"ht=
+tp://www.cnblogs.com/ggjucheng/archive/2013/01/14/2859613.html">h=
+ttp://www.cnblogs.com/ggjucheng/archive/2013/01/14/2859613.html</=
+a><small>&gt;</small></small></div><small><small>&nbsp;</small></=
+small></div>=0A=0A=0A=0A</body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000202125.881--
+
+------=_Next_Part_0000606375.548--
+

@@ -1,0 +1,176 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?ZWxhc3RpY3NlYXJjaCCy2df3?=
+Date: Date: Fri, 23 Jul 2021 05:52:53 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000959529.578"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000959529.578
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000319843.159"
+
+
+------=_Next_Part_0000319843.159
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000319843.159
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<title>elasticsearch =B2=D9=D7=F7</title>=0A=
+    =0A=0A=0A=0A=0A=0A=0A<style id=3D"wiz_custom_css">html, .wiz-=
+editor-body {font-size: 12pt;}.wiz-editor-body {font-family: Helv=
+etica, 'Hiragino Sans GB', '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91'=
+, 'Microsoft YaHei UI', SimSun, SimHei, arial, sans-serif;line-he=
+ight: 1.7;margin: 0 auto;padding: 20px 16px;padding: 1.25rem 1rem=
+;}.wiz-editor-body h1,.wiz-editor-body h2,.wiz-editor-body h3,.wi=
+z-editor-body h4,.wiz-editor-body h5,.wiz-editor-body h6 {margin:=
+20px 0 10px;margin:1.25rem 0 0.625rem;padding: 0;font-weight: bol=
+d;}.wiz-editor-body h1 {font-size:20pt;font-size:1.67rem;}.wiz-ed=
+itor-body h2 {font-size:18pt;font-size:1.5rem;}.wiz-editor-body h=
+3 {font-size:15pt;font-size:1.25rem;}.wiz-editor-body h4 {font-si=
+ze:14pt;font-size:1.17rem;}.wiz-editor-body h5 {font-size:12pt;fo=
+nt-size:1rem;}.wiz-editor-body h6 {font-size:12pt;font-size:1rem;=
+color: #777777;margin: 1rem 0;}.wiz-editor-body div,.wiz-editor-b=
+ody p,.wiz-editor-body ul,.wiz-editor-body ol,.wiz-editor-body dl=
+,.wiz-editor-body li {margin:8px 0;}.wiz-editor-body blockquote,.=
+wiz-editor-body table,.wiz-editor-body pre,.wiz-editor-body code=20=
+{margin:8px 0;}.wiz-editor-body .CodeMirror pre {margin:0;}.wiz-e=
+ditor-body ul,.wiz-editor-body ol {padding-left:32px;padding-left=
+:2rem;}.wiz-editor-body ol.wiz-list-level1 > li {list-style-type:=
+decimal;}.wiz-editor-body ol.wiz-list-level2 > li {list-style-typ=
+e:lower-latin;}.wiz-editor-body ol.wiz-list-level3 > li {list-sty=
+le-type:lower-roman;}.wiz-editor-body blockquote {padding: 0 12px=
+;}.wiz-editor-body blockquote > :first-child {margin-top:0;}.wiz-=
+editor-body blockquote > :last-child {margin-bottom:0;}.wiz-edito=
+r-body img {border:0;max-width:100%;height:auto !important;margin=
+:2px 0;}.wiz-editor-body table {border-collapse:collapse;border:1=
+px solid #bbbbbb;}.wiz-editor-body td,.wiz-editor-body th {paddin=
+g:4px 8px;border-collapse:collapse;border:1px solid #bbbbbb;min-h=
+eight:28px;word-break:break-word;box-sizing: border-box;}.wiz-hid=
+e {display:none !important;}</style></head>=0A=0A<body class=3D"w=
+iz-editor-body" spellcheck=3D"false" ><div>elasticsearch =B2=D9=D7=
+=F7</div><div>=B2=BF=CA=F0=B3=C9=B9=A6=B2=E2=CA=D4 &nbsp;curl htt=
+p://192.168.14.77:9200/?pretty&nbsp;</div><div>=BC=AF=C8=BA=BD=A1=
+=BF=B5 curl -XGET 'http://192.168.14.77:9200/_cluster/health?pret=
+ty'&nbsp;</div><div>curl -XGET 'http://192.168.14.77:9200/_cat/he=
+alth?v'&nbsp;</div><div>=B4=B4=BD=A8=B2=D6=BF=E2 curl -XPOST 'htt=
+p://172.16.81.137:9200/_snapshot/my_backup_1?pretty' -d '</div><d=
+iv>{</div><div>&nbsp; "type": "fs",</div><div>&nbsp; "settings":=20=
+{</div><div>&nbsp; &nbsp; "location": "/kylin/data/es/elasticsear=
+ch-5.4.2/data/back/my_backup_1",</div><div>&nbsp; &nbsp; "max_sna=
+pshot_bytes_per_sec": "20mb",</div><div>&nbsp; &nbsp; "max_restor=
+e_bytes_per_sec": "20mb",</div><div>&nbsp; &nbsp; "compress": tru=
+e</div><div>&nbsp; }</div><div>}'</div><div><br></div><div>=B4=B4=
+=BD=A8=D6=B8=B6=A8=CB=F7=D2=FD=BF=EC=D5=D5 curl -XPUT  'http://17=
+2.16.81.137:9200/_snapshot/my_backup_1/snapshot_1?pretty' -d '</d=
+iv><div>{</div><div>&nbsp; "indices": "java_demo_index,my_index_2=
+",</div><div>&nbsp; "ignore_unavailable": true,</div><div>&nbsp;"=
+include_global_state": true</div><div>}'</div><div>=BD=DA=B5=E3=C7=
+=E9=BF=F6 curl -XGET 'http://192.168.14.77:9200/_cat/nodes?v'</di=
+v><div>=C1=D0=B3=F6index &nbsp;curl -XGET '<a href=3D"http://192.=
+168.14.77:9200/_cat/indices?v'">http://192.168.14.77:9200/_cat/in=
+dices?v'</a> </div><div>=B2=E9=D1=AFindex=C9=E8=D6=C3=B0=FC=C0=A8=
+type=D0=C5=CF=A2 &nbsp;curl -XGET 'http://172.16.81.137:9200/sear=
+ch_index/_settings,_mappings?pretty'</div><div>=C1=D0=B3=F6type c=
+url -XGET 'http://<span>192.168.14.77</span>:9200/search_index?pr=
+etty'</div><div>=D4=F6=BC=D3index curl -XPUT &nbsp;'http://192.16=
+8.14.77:9200/java_demo_index?pretty'</div><div>=D4=F6=BC=D3type =B2=
+=A2=D4=F6=BC=D3doc curl -XPUT &nbsp;'http://192.168.14.77:9200/ja=
+va_demo_index/bulk_user/1?pretty' -d '</div><div>{</div><div>"nam=
+e": "John Doe"</div><div>}'</div><div>=B2=E9=D1=AFdoc &nbsp;curl=20=
+-XGET '<a href=3D"http://192.168.14.77:9200/java_demo_index/bulk_=
+user/1?pretty'">http://192.168.14.77:9200/java_demo_index/bulk_us=
+er/1?pretty'</a> </div><div>=B7=D6=B4=CA=B2=E9=BF=B4 curl -XPOST=20=
+'http://172.16.81.137:9200/_analyze/?pretty' -d '</div><div>{</di=
+v><div>&nbsp; "analyzer": "ik_smart",</div><div>&nbsp; "text": "=B9=
+=D8=D3=DA=BC=D3=BF=EC=BD=A8=C9=E8=BA=CF=B7=CA=B5=D8=CC=FA=C6=DF=BA=
+=C5=CF=DF=B5=C4=CD=A8=D6=AA=CB=B5=C3=F7"</div><div>}'</div><div>m=
+apping =C9=E8=D6=C3 &nbsp;curl -H 'Content-Type:application/json'=
+ http://172.16.81.137:9200/index/search_index/_mapping -d'</div><=
+div>{</div><div>&nbsp; &nbsp; &nbsp; &nbsp; "properties": {</div>=
+<div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "product_code": {<=
+/div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ "type": "text",</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; "analyzer": "ik_max_word",</div><div>&nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "search_analyzer":=20=
+"ik_smart"</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; },=
+</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "store_name"=
+: {</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; "type": "text",</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; "analyzer": "ik_max_word",</div><div>&nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "search_analyze=
+r": "ik_smart"</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; }</div><div>&nbsp; &nbsp; &nbsp; &nbsp; }</div><div>&nbsp; &nbs=
+p;&nbsp;</div><div>}'</div><div>=C9=BE=B3=FDindex &nbsp;curl -XDE=
+LETE &nbsp;'<a href=3D"http://192.168.14.77:9200/java_demo_index?=
+pretty'">http://192.168.14.77:9200/java_demo_index?pretty'</a> </=
+div><div>=C9=BE=B3=FDtype=CA=FD=BE=DD curl -XPOST 'http://172.16.=
+81.137:9200/index/test3/_delete_by_query?conflicts=3Dproceed' -d=20=
+'</div><div>{</div><div>&nbsp; "query": {</div><div>&nbsp; &nbsp;=
+ "match_all": {}</div><div>&nbsp; }</div><div>}'</div><div>=CC=ED=
+=BC=D3=CA=FD=BE=DD =A3=BA</div><div>curl -XPUT 'http://192.168.14=
+.77:9200/megacorp/employee/2' -d '</div><div>{</div><div>"first_n=
+ame" : "Jane",</div><div>"last_name" : "Smith",</div><div>"age" :=
+ 32,</div><div>"about" : "I like to collect rock albums",</div><d=
+iv>"interests": [ "music" ]</div><div>}'</div><div><br></div><div=
+>=D0=DE=B8=C4doc curl -XPOST 'http://192.168.14.77:9200/java_demo=
+_index/bulk_user/1/_update?pretty' -d '</div><div>{</div><div>&nb=
+sp; "doc": { "name": "Jane Doe" }</div><div>}'</div><div>=D0=C2=D4=
+=F6=D2=BB=B8=F6=D7=D6=B6=CE curl -XPOST 'http://192.168.14.77:920=
+0/java_demo_index/bulk_user/1/_update?pretty' -d '</div><div>{</d=
+iv><div>&nbsp; "doc": { "name": "Jane Doe", "age": 20 }</div><div=
+>}'</div><div>=D4=DA=D4=AD=D3=D0=D7=D6=B6=CE=C9=CF=BC=D3=D6=B5 &n=
+bsp;curl -XPOST 'http://192.168.14.77:9200/java_demo_index/bulk_u=
+ser/1/_update?pretty' -d '</div><div>{</div><div>&nbsp; "script"=20=
+: "ctx._source.age +=3D 5"</div><div>}'</div><div>=C9=BE=B3=FDdoc=
+ curl -XDELETE 'http://192.168.14.77:9200/java_demo_index/bulk_us=
+er/2?pretty'</div><div>=C5=FA=C1=BF=D4=F6=BC=D3doc curl -XPOST 'h=
+ttp://192.168.14.77:9200/java_demo_index/bulk_user/_bulk?pretty'=20=
+-d '</div><div>{"index":{"_id":"1"}</div><div>{"name": "John Doe"=
+ }}</div><div>{"index":{"_id":"2"}}</div><div>{"name": "Jane Doe"=
+ }'</div><div>=B2=E9=D1=AF GET /bank/_search?q=3D*&amp;sort=3Dacc=
+ount_number:asc&amp;pretty</div><div>=B2=E9=D1=AF=B7=B5=BB=D8=A3=BA=
+</div><div>took =A8C=B2=E9=D1=AF=D3=C3=CA=B1=BA=C1=C3=EB=CA=FD</d=
+iv><div>timed_out =A8C =CA=C7=B7=F1=B2=E9=D1=AF=B3=AC=CA=B1</div>=
+<div>_shards =A8C =B2=E9=D1=AF=B7=D6=C6=AC=CA=FD</div><div>hits =A8=
+C =B2=E9=D1=AF=BD=E1=B9=FB</div><div>hits.total =A8C =B2=E9=D1=AF=
+=D7=DCdoc=CA=FD=C1=BF</div><div>hits.hits =A8C =BC=C7=C2=BC=CA=FD=
+=D7=E9</div><div>hits.sort - =C5=C5=D0=F2=D7=D6=B6=CE</div><div>h=
+its._score and max_score - ignore these fields for now</div><div>=
+json=C7=EB=C7=F3=B8=F1=CA=BD=B5=C4=B2=E9=D1=AF GET /bank/_search<=
+/div><div>{</div><div>&nbsp; "query": { "match_all": {} },</div><=
+div>&nbsp; "sort": [</div><div>&nbsp; &nbsp; { "account_number":=20=
+"asc" }</div><div>&nbsp; ]</div><div>}</div><div>GET /bank/_searc=
+h</div><div>{</div><div>&nbsp; "query": { "match_all": {} },</div=
+><div>&nbsp; "from": 10,</div><div>&nbsp; "size": 10</div><div>}<=
+/div><div>=B2=E9=D1=AF=CA=FD=BE=DD=A3=BA</div><div>curl -XGET 'ht=
+tp://localhost:9200/megacorp/employee/_search?q=3Dlast_name:Fir'&=
+nbsp;</div><div>DSL=D3=EF=BE=E4=B2=E9=D1=AF&nbsp;</div><div>curl=20=
+-XGET 'http://localhost:9200/megacorp/employee/_search' -d '</div=
+><div>{</div><div>&nbsp; "query" : {</div><div>&nbsp; &nbsp; "fil=
+tered" : {</div><div>&nbsp; &nbsp; &nbsp; "filter" : {</div><div>=
+&nbsp; &nbsp; &nbsp; &nbsp; "range" : {</div><div>&nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; "age" : { "gt" : 30 }</div><div>&nbsp; &nbsp;=
+ &nbsp; &nbsp; }</div><div>&nbsp; &nbsp; &nbsp; },</div><div>&nbs=
+p; &nbsp; &nbsp; "query" : {</div><div>&nbsp; &nbsp; &nbsp; &nbsp=
+; "match" : {</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; "last_=
+name" : "smith"</div><div>&nbsp; &nbsp; &nbsp; &nbsp; }</div><div=
+>&nbsp; &nbsp; &nbsp; }</div><div>&nbsp; &nbsp; }</div><div>&nbsp=
+; }</div><div>}'</div><div></div><div></div><div></div></body></h=
+tml>=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000319843.159--
+
+------=_Next_Part_0000959529.578--
+

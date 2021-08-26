@@ -1,0 +1,678 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?SGFkb29wX7Oj08O05rSi0+vRucv1uPHKvQ==?=
+Date: Date: Fri, 23 Jul 2021 05:53:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000980484.896"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000980484.896
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000326828.367"
+
+
+------=_Next_Part_0000326828.367
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000326828.367
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+<title>Hadoop_=B3=A3=D3=C3=B4=E6=B4=A2=D3=EB=D1=B9=CB=F5=B8=F1=CA=
+=BD</title>=0A    =0A<style id=3D"wiz_custom_css">html, .wiz-edit=
+or-body {font-size: 12pt;}.wiz-editor-body {font-family: Helvetic=
+a, 'Hiragino Sans GB', '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91', 'M=
+icrosoft YaHei UI', SimSun, SimHei, arial, sans-serif;line-height=
+: 1.7;margin: 0 auto;padding: 20px 16px;padding: 1.25rem 1rem;}.w=
+iz-editor-body h1,.wiz-editor-body h2,.wiz-editor-body h3,.wiz-ed=
+itor-body h4,.wiz-editor-body h5,.wiz-editor-body h6 {margin:20px=
+ 0 10px;margin:1.25rem 0 0.625rem;padding: 0;font-weight: bold;}.=
+wiz-editor-body h1 {font-size:20pt;font-size:1.67rem;}.wiz-editor=
+-body h2 {font-size:18pt;font-size:1.5rem;}.wiz-editor-body h3 {f=
+ont-size:15pt;font-size:1.25rem;}.wiz-editor-body h4 {font-size:1=
+4pt;font-size:1.17rem;}.wiz-editor-body h5 {font-size:12pt;font-s=
+ize:1rem;}.wiz-editor-body h6 {font-size:12pt;font-size:1rem;colo=
+r: #777777;margin: 1rem 0;}.wiz-editor-body div,.wiz-editor-body=20=
+p,.wiz-editor-body ul,.wiz-editor-body ol,.wiz-editor-body dl,.wi=
+z-editor-body li {margin:8px 0;}.wiz-editor-body blockquote,.wiz-=
+editor-body table,.wiz-editor-body pre,.wiz-editor-body code {mar=
+gin:8px 0;}.wiz-editor-body .CodeMirror pre {margin:0;}.wiz-edito=
+r-body ul,.wiz-editor-body ol {padding-left:32px;padding-left:2re=
+m;}.wiz-editor-body ol.wiz-list-level1 > li {list-style-type:deci=
+mal;}.wiz-editor-body ol.wiz-list-level2 > li {list-style-type:lo=
+wer-latin;}.wiz-editor-body ol.wiz-list-level3 > li {list-style-t=
+ype:lower-roman;}.wiz-editor-body blockquote {padding: 0 12px;}.w=
+iz-editor-body blockquote > :first-child {margin-top:0;}.wiz-edit=
+or-body blockquote > :last-child {margin-bottom:0;}.wiz-editor-bo=
+dy img {border:0;max-width:100%;height:auto !important;margin:2px=
+ 0;}.wiz-editor-body table {border-collapse:collapse;border:1px s=
+olid #bbbbbb;}.wiz-editor-body td,.wiz-editor-body th {padding:4p=
+x 8px;border-collapse:collapse;border:1px solid #bbbbbb;min-heigh=
+t:28px;word-break:break-word;box-sizing: border-box;}.wiz-hide {d=
+isplay:none !important;}</style></head>=0A=0A<body class=3D"wiz-e=
+ditor-body"  spellcheck=3D"false"><div></div><h1 class=3D"postTit=
+le" style=3D"font-size: 0.975rem;"><a id=3D"cb_post_title_url" cl=
+ass=3D"postTitle2" href=3D"https://www.cnblogs.com/eRrsr/p/609845=
+4.html" style=3D"color:rgb(68, 68, 68);text-decoration:none;">Had=
+oop_=B3=A3=D3=C3=B4=E6=B4=A2=D3=EB=D1=B9=CB=F5=B8=F1=CA=BD</a></h=
+1><div class=3D"clear" style=3D"font-size: 0.833rem;"></div><p st=
+yle=3D"font-size:0.833rem">HDFS=CE=C4=BC=FE=B8=F1=CA=BD</p><div c=
+lass=3D"wiz-table-container" style=3D"font-size:0.833rem;position=
+:relative;padding:0px"><div id=3D"highlighter_506445" class=3D"sy=
+ntaxhighlighter  python wiz-table-body" style=3D"font-size: 1rem;=
+"><table border=3D"0" style=3D"width: 1703.33px; font-size: 0.75r=
+em; background: none !important;"><tbody style=3D"background: non=
+e !important;"><tr style=3D"background: none !important;"><td cla=
+ss=3D"gutter" style=3D"width: 35px !important; color: rgb(175, 17=
+5, 175) !important; background: none !important;"><div class=3D"l=
+ine number1 index0 alt2" style=3D"text-align: right !important; b=
+ackground: none rgb(244, 244, 244) !important;">1</div><div class=
+=3D"line number2 index1 alt1" style=3D"text-align: right !importa=
+nt; background: none rgb(255, 255, 255) !important;">2</div><div=20=
+class=3D"line number3 index2 alt2" style=3D"text-align: right !im=
+portant; background: none rgb(244, 244, 244) !important;">3</div>=
+<div class=3D"line number4 index3 alt1" style=3D"text-align: righ=
+t !important; background: none rgb(255, 255, 255) !important;">4<=
+/div><div class=3D"line number5 index4 alt2" style=3D"text-align:=
+ right !important; background: none rgb(244, 244, 244) !important=
+;">5</div><div class=3D"line number6 index5 alt1" style=3D"text-a=
+lign: right !important; background: none rgb(255, 255, 255) !impo=
+rtant;">6</div></td><td class=3D"code" style=3D"width: auto !impo=
+rtant; background: none !important;"><div class=3D"line number1 i=
+ndex0 alt2" style=3D"background:none rgb(244, 244, 244) !importan=
+t"><code class=3D"python plain" style=3D"background: none !import=
+ant;">file_format:</code></div><div class=3D"line number2 index1=20=
+alt1" style=3D"background:none rgb(255, 255, 255) !important"><co=
+de class=3D"python plain" style=3D"background: none !important;">=
+=A1=A1=A1=A1TEXTFILE=A1=A1=A1=A1=A1=A1 =C4=AC=C8=CF=B8=F1=CA=BD</=
+code></div><div class=3D"line number3 index2 alt2" style=3D"backg=
+round:none rgb(244, 244, 244) !important"><code class=3D"python p=
+lain" style=3D"background: none !important;">=A1=A1=A1=A1RCFILE=A1=
+=A1=A1=A1=A1=A1=A1=A1=A1=A1hive<span class=3D"Apple-converted-spa=
+ce">&nbsp;</span></code><code class=3D"python value" style=3D"col=
+or: rgb(0, 153, 0) !important; background: none !important;">0.6<=
+/code><code class=3D"python plain" style=3D"background: none !imp=
+ortant;">.</code><code class=3D"python value" style=3D"color: rgb=
+(0, 153, 0) !important; background: none !important;">0</code><sp=
+an class=3D"Apple-converted-space">&nbsp;</span><code class=3D"py=
+thon plain" style=3D"background: none !important;">=BA=CD=D2=D4=BA=
+=F3=B5=C4=B0=E6=B1=BE</code></div><div class=3D"line number4 inde=
+x3 alt1" style=3D"background:none rgb(255, 255, 255) !important">=
+<code class=3D"python plain" style=3D"background: none !important=
+;">=A1=A1=A1=A1ORC=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1 hive<span=20=
+class=3D"Apple-converted-space">&nbsp;</span></code><code class=3D=
+"python value" style=3D"color: rgb(0, 153, 0) !important; backgro=
+und: none !important;">0.11</code><code class=3D"python plain" st=
+yle=3D"background: none !important;">.</code><code class=3D"pytho=
+n value" style=3D"color: rgb(0, 153, 0) !important; background: n=
+one !important;">0</code><span class=3D"Apple-converted-space">&n=
+bsp;</span><code class=3D"python plain" style=3D"background: none=
+ !important;">=BA=CD=D2=D4=BA=F3=B5=C4=B0=E6=B1=BE</code></div><d=
+iv class=3D"line number5 index4 alt2" style=3D"background:none rg=
+b(244, 244, 244) !important"><code class=3D"python plain" style=3D=
+"background: none !important;">=A1=A1=A1=A1PARQUET=A1=A1=A1=A1=A1=
+=A1=A1=A1 hive<span class=3D"Apple-converted-space">&nbsp;</span>=
+</code><code class=3D"python value" style=3D"color: rgb(0, 153, 0=
+) !important; background: none !important;">0.13</code><code clas=
+s=3D"python plain" style=3D"background: none !important;">.</code=
+><code class=3D"python value" style=3D"color: rgb(0, 153, 0) !imp=
+ortant; background: none !important;">0</code><span class=3D"Appl=
+e-converted-space">&nbsp;</span><code class=3D"python plain" styl=
+e=3D"background: none !important;">=BA=CD=D2=D4=BA=F3=B5=C4=B0=E6=
+=B1=BE,=B8=C3=CA=FD=BE=DD=B8=F1=CA=BD=C6=F3=D2=B5=D6=D0=D7=EE=B3=A3=
+=D3=C3</code></div><div class=3D"line number6 index5 alt1" style=3D=
+"background:none rgb(255, 255, 255) !important"><code class=3D"py=
+thon plain" style=3D"background: none !important;">=A1=A1=A1=A1AV=
+RO=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1hive<span class=3D"Apple-co=
+nverted-space">&nbsp;</span></code><code class=3D"python value" s=
+tyle=3D"color: rgb(0, 153, 0) !important; background: none !impor=
+tant;">0.14</code><code class=3D"python plain" style=3D"backgroun=
+d: none !important;">.</code><code class=3D"python value" style=3D=
+"color: rgb(0, 153, 0) !important; background: none !important;">=
+0</code><span class=3D"Apple-converted-space">&nbsp;</span><code=20=
+class=3D"python plain" style=3D"background: none !important;">=BA=
+=CD=D2=D4=BA=F3=B5=C4=B0=E6=B1=BE&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;</code></div></td></tr></tbody></table></div></div><p s=
+tyle=3D"font-size:0.833rem">&nbsp;=CA=FD=BE=DD=B4=E6=B4=A2=B5=C4=B7=
+=BD=CA=BD</p><div class=3D"wiz-table-container" style=3D"font-siz=
+e:0.833rem;position:relative;padding:0px"><div id=3D"highlighter_=
+142774" class=3D"syntaxhighlighter  python wiz-table-body" style=3D=
+"font-size: 1rem;"><table border=3D"0" style=3D"width: 1703.33px;=
+ font-size: 0.75rem; background: none !important;"><tbody style=3D=
+"background: none !important;"><tr style=3D"background: none !imp=
+ortant;"><td class=3D"gutter" style=3D"width: 35px !important; co=
+lor: rgb(175, 175, 175) !important; background: none !important;"=
+><div class=3D"line number1 index0 alt2" style=3D"text-align: rig=
+ht !important; background: none rgb(244, 244, 244) !important;">1=
+</div><div class=3D"line number2 index1 alt1" style=3D"text-align=
+: right !important; background: none rgb(255, 255, 255) !importan=
+t;">2</div><div class=3D"line number3 index2 alt2" style=3D"text-=
+align: right !important; background: none rgb(244, 244, 244) !imp=
+ortant;">3</div><div class=3D"line number4 index3 alt1" style=3D"=
+text-align: right !important; background: none rgb(255, 255, 255)=
+ !important;">4</div><div class=3D"line number5 index4 alt2" styl=
+e=3D"text-align: right !important; background: none rgb(244, 244,=
+ 244) !important;">5</div><div class=3D"line number6 index5 alt1"=
+ style=3D"text-align: right !important; background: none rgb(255,=
+ 255, 255) !important;">6</div><div class=3D"line number7 index6=20=
+alt2" style=3D"text-align: right !important; background: none rgb=
+(244, 244, 244) !important;">7</div><div class=3D"line number8 in=
+dex7 alt1" style=3D"text-align: right !important; background: non=
+e rgb(255, 255, 255) !important;">8</div><div class=3D"line numbe=
+r9 index8 alt2" style=3D"text-align: right !important; background=
+: none rgb(244, 244, 244) !important;">9</div><div class=3D"line=20=
+number10 index9 alt1" style=3D"text-align: right !important; back=
+ground: none rgb(255, 255, 255) !important;">10</div></td><td cla=
+ss=3D"code" style=3D"width: auto !important; background: none !im=
+portant;"><div class=3D"line number1 index0 alt2" style=3D"backgr=
+ound:none rgb(244, 244, 244) !important"><code class=3D"python va=
+lue" style=3D"color: rgb(0, 153, 0) !important; background: none=20=
+!important;">1.</code><span class=3D"Apple-converted-space">&nbsp=
+;</span><code class=3D"python plain" style=3D"background: none !i=
+mportant;">=B0=B4=D0=D0=B4=E6=B4=A2 textfile</code></div><div cla=
+ss=3D"line number2 index1 alt1" style=3D"background:none rgb(255,=
+ 255, 255) !important"><code class=3D"python value" style=3D"colo=
+r: rgb(0, 153, 0) !important; background: none !important;">2.</c=
+ode><span class=3D"Apple-converted-space">&nbsp;</span><code clas=
+s=3D"python plain" style=3D"background: none !important;">=B0=B4=C1=
+=D0=B4=E6=B4=A2 orc</code><code class=3D"python keyword" style=3D=
+"color: rgb(0, 0, 255) !important; background: none !important;">=
+/</code><code class=3D"python plain" style=3D"background: none !i=
+mportant;">parqurt</code></div><div class=3D"line number3 index2=20=
+alt2" style=3D"background:none rgb(244, 244, 244) !important"><co=
+de class=3D"python plain" style=3D"background: none !important;">=
+=A1=A1=A1=A1</code><code class=3D"python keyword" style=3D"color:=
+ rgb(0, 0, 255) !important; background: none !important;">-</code=
+><code class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !i=
+mportant; background: none !important;">-</code><code class=3D"py=
+thon plain" style=3D"background: none !important;">orcfile</code>=
+</div><div class=3D"line number4 index3 alt1" style=3D"background=
+:none rgb(255, 255, 255) !important"><code class=3D"python plain"=
+ style=3D"background: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=C3=
+=BF=C1=D0=CA=FD=BE=DD=D3=D0=C0=E0=CB=C6=D3=DA=D4=AA=CA=FD=BE=DD=B5=
+=C4=CB=F7=D2=FD=D0=C5=CF=A2,=BF=C9=D2=D4=C8=B7=B6=A8=C1=D0=C4=DA=C8=
+=DD,=D0=E8=D2=AA=C4=B3=C1=D0=D0=C5=CF=A2=CA=B1=BF=C9=D2=D4=D6=B1=BD=
+=D3=CB=F8=B6=A8=C1=D0=C4=DA=C8=DD,=D0=A7=C2=CA=D3=C5=D3=DA=B0=B4=D0=
+=D0=B4=E6=B4=A2</code></div><div class=3D"line number5 index4 alt=
+2" style=3D"background:none rgb(244, 244, 244) !important"><code=20=
+class=3D"python plain" style=3D"background: none !important;">=A1=
+=A1=A1=A1=A1=A1=A1=A1=D1=B9=CB=F5=B3=F6=C0=B4=B5=C4=CE=C4=BC=FE=B1=
+=C8=C0=FD=D7=EE=D0=A1,=D2=D4=CA=B1=BC=E4=BB=BB=B4=E6=B4=A2</code>=
+</div><div class=3D"line number6 index5 alt1" style=3D"background=
+:none rgb(255, 255, 255) !important"><code class=3D"python plain"=
+ style=3D"background: none !important;">=A1=A1=A1=A1</code><code=20=
+class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !importan=
+t; background: none !important;">-</code><code class=3D"python ke=
+yword" style=3D"color: rgb(0, 0, 255) !important; background: non=
+e !important;">-</code><code class=3D"python plain" style=3D"back=
+ground: none !important;">parquet</code></div><div class=3D"line=20=
+number7 index6 alt2" style=3D"background:none rgb(244, 244, 244)=20=
+!important"><code class=3D"python plain" style=3D"background: non=
+e !important;">=A1=A1=A1=A1=A1=A1=A1=A1=B1=C8=BD=CF=B8=B4=D4=D3,=D6=
+=A7=B3=D6=C7=B6=CC=D7=CA=FD=BE=DD=BD=E1=B9=B9=BA=CD=B8=DF=D0=A7=C6=
+=E4=D6=D6=C0=E0=B7=E1=B8=BB=B5=C4=CB=E3=B7=A8(=D2=D4=D3=A6=B6=D4=B2=
+=BB=CD=AC=D6=B5=B7=D6=B2=BC=CC=D8=D5=F7=B5=C4=D1=B9=CB=F5)</code>=
+</div><div class=3D"line number8 index7 alt1" style=3D"background=
+:none rgb(255, 255, 255) !important"><code class=3D"python plain"=
+ style=3D"background: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=D1=
+=B9=CB=F5=C2=CA=B2=BB=C8=E7orcfile,=CA=B1=BC=E4=D3=EB=D1=B9=CB=F5=
+=B1=C8=CA=CA=D6=D0</code></div><div class=3D"line number9 index8=20=
+alt2" style=3D"background:none rgb(244, 244, 244) !important"><co=
+de class=3D"python plain" style=3D"background: none !important;">=
+=A1=A1=A1=A1=D1=B9=CB=F5=C2=CA</code></div><div class=3D"line num=
+ber10 index9 alt1" style=3D"background:none rgb(255, 255, 255) !i=
+mportant"><code class=3D"python plain" style=3D"background: none=20=
+!important;">=A1=A1=A1=A1TEXTFILE(=B2=BB=D1=B9=CB=F5) RCFILE(</co=
+de><code class=3D"python value" style=3D"color: rgb(0, 153, 0) !i=
+mportant; background: none !important;">14</code><code class=3D"p=
+ython keyword" style=3D"color: rgb(0, 0, 255) !important; backgro=
+und: none !important;">%</code><code class=3D"python plain" style=
+=3D"background: none !important;">) parquet(</code><code class=3D=
+"python value" style=3D"color: rgb(0, 153, 0) !important; backgro=
+und: none !important;">62</code><code class=3D"python keyword" st=
+yle=3D"color: rgb(0, 0, 255) !important; background: none !import=
+ant;">%</code><code class=3D"python plain" style=3D"background: n=
+one !important;">) orcfile(</code><code class=3D"python value" st=
+yle=3D"color: rgb(0, 153, 0) !important; background: none !import=
+ant;">78</code><code class=3D"python keyword" style=3D"color: rgb=
+(0, 0, 255) !important; background: none !important;">%</code><co=
+de class=3D"python plain" style=3D"background: none !important;">=
+) =C6=E4=D6=D0ORCFILE=CA=C7RCFILE=D2=BB=B8=F6=C9=FD=BC=B6</code><=
+/div></td></tr></tbody></table></div></div><p style=3D"font-size:=
+0.833rem">&nbsp;=B3=A3=BC=FB=B5=C4=D1=B9=CB=F5=BC=BC=CA=F5</p><di=
+v class=3D"wiz-table-container" style=3D"font-size:0.833rem;posit=
+ion:relative;padding:0px"><div id=3D"highlighter_124316" class=3D=
+"syntaxhighlighter  python wiz-table-body" style=3D"font-size: 1r=
+em;"><table border=3D"0" style=3D"width: 1703.33px; font-size: 0.=
+75rem; background: none !important;"><tbody style=3D"background:=20=
+none !important;"><tr style=3D"background: none !important;"><td=20=
+class=3D"gutter" style=3D"width: 35px !important; color: rgb(175,=
+ 175, 175) !important; background: none !important;"><div class=3D=
+"line number1 index0 alt2" style=3D"text-align: right !important;=
+ background: none rgb(244, 244, 244) !important;">1</div><div cla=
+ss=3D"line number2 index1 alt1" style=3D"text-align: right !impor=
+tant; background: none rgb(255, 255, 255) !important;">2</div><di=
+v class=3D"line number3 index2 alt2" style=3D"text-align: right !=
+important; background: none rgb(244, 244, 244) !important;">3</di=
+v><div class=3D"line number4 index3 alt1" style=3D"text-align: ri=
+ght !important; background: none rgb(255, 255, 255) !important;">=
+4</div><div class=3D"line number5 index4 alt2" style=3D"text-alig=
+n: right !important; background: none rgb(244, 244, 244) !importa=
+nt;">5</div><div class=3D"line number6 index5 alt1" style=3D"text=
+-align: right !important; background: none rgb(255, 255, 255) !im=
+portant;">6</div><div class=3D"line number7 index6 alt2" style=3D=
+"text-align: right !important; background: none rgb(244, 244, 244=
+) !important;">7</div><div class=3D"line number8 index7 alt1" sty=
+le=3D"text-align: right !important; background: none rgb(255, 255=
+, 255) !important;">8</div><div class=3D"line number9 index8 alt2=
+" style=3D"text-align: right !important; background: none rgb(244=
+, 244, 244) !important;">9</div><div class=3D"line number10 index=
+9 alt1" style=3D"text-align: right !important; background: none r=
+gb(255, 255, 255) !important;">10</div><div class=3D"line number1=
+1 index10 alt2" style=3D"text-align: right !important; background=
+: none rgb(244, 244, 244) !important;">11</div><div class=3D"line=
+ number12 index11 alt1" style=3D"text-align: right !important; ba=
+ckground: none rgb(255, 255, 255) !important;">12</div><div class=
+=3D"line number13 index12 alt2" style=3D"text-align: right !impor=
+tant; background: none rgb(244, 244, 244) !important;">13</div><d=
+iv class=3D"line number14 index13 alt1" style=3D"text-align: righ=
+t !important; background: none rgb(255, 255, 255) !important;">14=
+</div><div class=3D"line number15 index14 alt2" style=3D"text-ali=
+gn: right !important; background: none rgb(244, 244, 244) !import=
+ant;">15</div><div class=3D"line number16 index15 alt1" style=3D"=
+text-align: right !important; background: none rgb(255, 255, 255)=
+ !important;">16</div><div class=3D"line number17 index16 alt2" s=
+tyle=3D"text-align: right !important; background: none rgb(244, 2=
+44, 244) !important;">17</div><div class=3D"line number18 index17=
+ alt1" style=3D"text-align: right !important; background: none rg=
+b(255, 255, 255) !important;">18</div><div class=3D"line number19=
+ index18 alt2" style=3D"text-align: right !important; background:=
+ none rgb(244, 244, 244) !important;">19</div><div class=3D"line=20=
+number20 index19 alt1" style=3D"text-align: right !important; bac=
+kground: none rgb(255, 255, 255) !important;">20</div><div class=3D=
+"line number21 index20 alt2" style=3D"text-align: right !importan=
+t; background: none rgb(244, 244, 244) !important;">21</div><div=20=
+class=3D"line number22 index21 alt1" style=3D"text-align: right !=
+important; background: none rgb(255, 255, 255) !important;">22</d=
+iv><div class=3D"line number23 index22 alt2" style=3D"text-align:=
+ right !important; background: none rgb(244, 244, 244) !important=
+;">23</div><div class=3D"line number24 index23 alt1" style=3D"tex=
+t-align: right !important; background: none rgb(255, 255, 255) !i=
+mportant;">24</div><div class=3D"line number25 index24 alt2" styl=
+e=3D"text-align: right !important; background: none rgb(244, 244,=
+ 244) !important;">25</div><div class=3D"line number26 index25 al=
+t1" style=3D"text-align: right !important; background: none rgb(2=
+55, 255, 255) !important;">26</div><div class=3D"line number27 in=
+dex26 alt2" style=3D"text-align: right !important; background: no=
+ne rgb(244, 244, 244) !important;">27</div><div class=3D"line num=
+ber28 index27 alt1" style=3D"text-align: right !important; backgr=
+ound: none rgb(255, 255, 255) !important;">28</div><div class=3D"=
+line number29 index28 alt2" style=3D"text-align: right !important=
+; background: none rgb(244, 244, 244) !important;">29</div><div c=
+lass=3D"line number30 index29 alt1" style=3D"text-align: right !i=
+mportant; background: none rgb(255, 255, 255) !important;">30</di=
+v><div class=3D"line number31 index30 alt2" style=3D"text-align:=20=
+right !important; background: none rgb(244, 244, 244) !important;=
+">31</div><div class=3D"line number32 index31 alt1" style=3D"text=
+-align: right !important; background: none rgb(255, 255, 255) !im=
+portant;">32</div><div class=3D"line number33 index32 alt2" style=
+=3D"text-align: right !important; background: none rgb(244, 244,=20=
+244) !important;">33</div><div class=3D"line number34 index33 alt=
+1" style=3D"text-align: right !important; background: none rgb(25=
+5, 255, 255) !important;">34</div><div class=3D"line number35 ind=
+ex34 alt2" style=3D"text-align: right !important; background: non=
+e rgb(244, 244, 244) !important;">35</div></td><td class=3D"code"=
+ style=3D"width: auto !important; background: none !important;"><=
+div class=3D"line number1 index0 alt2" style=3D"background:none r=
+gb(244, 244, 244) !important"><code class=3D"python value" style=3D=
+"color: rgb(0, 153, 0) !important; background: none !important;">=
+1.</code><span class=3D"Apple-converted-space">&nbsp;</span><code=
+ class=3D"python plain" style=3D"background: none !important;">=D1=
+=B9=CB=F5=B8=F1=CA=BD: bzip2,gzip,lzo,lz4,snappy=B5=C8</code></di=
+v><div class=3D"line number2 index1 alt1" style=3D"background:non=
+e rgb(255, 255, 255) !important"><code class=3D"python value" sty=
+le=3D"color: rgb(0, 153, 0) !important; background: none !importa=
+nt;">2.</code><span class=3D"Apple-converted-space">&nbsp;</span>=
+<code class=3D"python plain" style=3D"background: none !important=
+;">=D1=B9=CB=F5=B1=C8: bzip2&gt;gzip&gt;lzo bzip2=D7=EE=BD=DA=CA=A1=
+=B4=E6=B4=A2=BF=D5=BC=E4</code></div><div class=3D"line number3 i=
+ndex2 alt2" style=3D"background:none rgb(244, 244, 244) !importan=
+t"><code class=3D"python value" style=3D"color: rgb(0, 153, 0) !i=
+mportant; background: none !important;">3.</code><span class=3D"A=
+pple-converted-space">&nbsp;</span><code class=3D"python plain" s=
+tyle=3D"background: none !important;">=BD=E2=D1=B9=CB=D9=B6=C8: l=
+zo&gt;gzip&gt;bzip2 lzo=BD=E2=D1=B9=CB=D9=B6=C8=D7=EE=BF=EC</code=
+></div><div class=3D"line number4 index3 alt1" style=3D"backgroun=
+d:none rgb(255, 255, 255) !important"><code class=3D"python value=
+" style=3D"color: rgb(0, 153, 0) !important; background: none !im=
+portant;">4.</code><span class=3D"Apple-converted-space">&nbsp;</=
+span><code class=3D"python plain" style=3D"background: none !impo=
+rtant;">mapreduce</code></div><div class=3D"line number5 index4 a=
+lt2" style=3D"background:none rgb(244, 244, 244) !important"><cod=
+e class=3D"python plain" style=3D"background: none !important;">=A1=
+=A1=A1=A1=A1=A1=A1=A1</code><code class=3D"python keyword" style=3D=
+"color: rgb(0, 0, 255) !important; background: none !important;">=
+-</code><code class=3D"python keyword" style=3D"color: rgb(0, 0,=20=
+255) !important; background: none !important;">-</code><code clas=
+s=3D"python plain" style=3D"background: none !important;">&gt;<sp=
+an class=3D"Apple-converted-space">&nbsp;</span></code><code clas=
+s=3D"python functions" style=3D"color: rgb(255, 20, 147) !importa=
+nt; background: none !important;">input</code><span class=3D"Appl=
+e-converted-space">&nbsp;</span><code class=3D"python keyword" st=
+yle=3D"color: rgb(0, 0, 255) !important; background: none !import=
+ant;">-</code><code class=3D"python keyword" style=3D"color: rgb(=
+0, 0, 255) !important; background: none !important;">-</code><cod=
+e class=3D"python plain" style=3D"background: none !important;">&=
+gt;<span class=3D"Apple-converted-space">&nbsp;</span></code><cod=
+e class=3D"python functions" style=3D"color: rgb(255, 20, 147) !i=
+mportant; background: none !important;">map</code><span class=3D"=
+Apple-converted-space">&nbsp;</span><code class=3D"python keyword=
+" style=3D"color: rgb(0, 0, 255) !important; background: none !im=
+portant;">-</code><code class=3D"python keyword" style=3D"color:=20=
+rgb(0, 0, 255) !important; background: none !important;">-</code>=
+<code class=3D"python plain" style=3D"background: none !important=
+;">&gt; shuffle<span class=3D"Apple-converted-space">&nbsp;</span=
+></code><code class=3D"python keyword" style=3D"color: rgb(0, 0,=20=
+255) !important; background: none !important;">-</code><code clas=
+s=3D"python keyword" style=3D"color: rgb(0, 0, 255) !important; b=
+ackground: none !important;">-</code><code class=3D"python plain"=
+ style=3D"background: none !important;">&gt;<span class=3D"Apple-=
+converted-space">&nbsp;</span></code><code class=3D"python functi=
+ons" style=3D"color: rgb(255, 20, 147) !important; background: no=
+ne !important;">reduce</code><span class=3D"Apple-converted-space=
+">&nbsp;</span><code class=3D"python keyword" style=3D"color: rgb=
+(0, 0, 255) !important; background: none !important;">-</code><co=
+de class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !impor=
+tant; background: none !important;">-</code><code class=3D"python=
+ plain" style=3D"background: none !important;">&gt; output</code>=
+</div><div class=3D"line number6 index5 alt1" style=3D"background=
+:none rgb(255, 255, 255) !important"><code class=3D"python plain"=
+ style=3D"background: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1</code><code class=3D"python keyword" style=3D"color: rg=
+b(0, 0, 255) !important; background: none !important;">-</code><c=
+ode class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !impo=
+rtant; background: none !important;">-</code><code class=3D"pytho=
+n plain" style=3D"background: none !important;">&gt; shuffle</cod=
+e></div><div class=3D"line number7 index6 alt2" style=3D"backgrou=
+nd:none rgb(244, 244, 244) !important"><code class=3D"python plai=
+n" style=3D"background: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1=A1=A1=A1=A1=A1</code><code class=3D"python keyword" sty=
+le=3D"color: rgb(0, 0, 255) !important; background: none !importa=
+nt;">-</code><code class=3D"python keyword" style=3D"color: rgb(0=
+, 0, 255) !important; background: none !important;">-</code><code=
+ class=3D"python plain" style=3D"background: none !important;">&g=
+t;<span class=3D"Apple-converted-space">&nbsp;</span></code><code=
+ class=3D"python functions" style=3D"color: rgb(255, 20, 147) !im=
+portant; background: none !important;">map</code><span class=3D"A=
+pple-converted-space">&nbsp;</span><code class=3D"python plain" s=
+tyle=3D"background: none !important;">shuffle</code></div><div cl=
+ass=3D"line number8 index7 alt1" style=3D"background:none rgb(255=
+, 255, 255) !important"><code class=3D"python plain" style=3D"bac=
+kground: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1=A1=A1=A1=A1</code><code class=3D"python keyword" style=3D=
+"color: rgb(0, 0, 255) !important; background: none !important;">=
+-</code><code class=3D"python keyword" style=3D"color: rgb(0, 0,=20=
+255) !important; background: none !important;">-</code><code clas=
+s=3D"python plain" style=3D"background: none !important;">&gt; sp=
+ill</code></div><div class=3D"line number9 index8 alt2" style=3D"=
+background:none rgb(244, 244, 244) !important"><code class=3D"pyt=
+hon plain" style=3D"background: none !important;">=A1=A1=A1=A1=A1=
+=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1</code><code class=3D=
+"python keyword" style=3D"color: rgb(0, 0, 255) !important; backg=
+round: none !important;">-</code><code class=3D"python keyword" s=
+tyle=3D"color: rgb(0, 0, 255) !important; background: none !impor=
+tant;">-</code><code class=3D"python plain" style=3D"background:=20=
+none !important;">&gt; partition: =BE=F6=B6=A8</code><code class=3D=
+"python functions" style=3D"color: rgb(255, 20, 147) !important;=20=
+background: none !important;">map</code><code class=3D"python pla=
+in" style=3D"background: none !important;">=B5=C4=CA=E4=B3=F6=BD=BB=
+=B8=F8=C4=C7=B8=F6</code><code class=3D"python functions" style=3D=
+"color: rgb(255, 20, 147) !important; background: none !important=
+;">reduce</code><code class=3D"python plain" style=3D"background:=
+ none !important;">=B4=A6=C0=ED</code></div><div class=3D"line nu=
+mber10 index9 alt1" style=3D"background:none rgb(255, 255, 255) !=
+important"><code class=3D"python plain" style=3D"background: none=
+ !important;">=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1</code><code class=3D"python keyword" style=3D"color: rg=
+b(0, 0, 255) !important; background: none !important;">-</code><c=
+ode class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !impo=
+rtant; background: none !important;">-</code><code class=3D"pytho=
+n plain" style=3D"background: none !important;">&gt; sort: =C1=BD=
+=D6=D6=B7=BD=CA=BD,WritableComparable</code><code class=3D"python=
+ keyword" style=3D"color: rgb(0, 0, 255) !important; background:=20=
+none !important;">/</code><code class=3D"python plain" style=3D"b=
+ackground: none !important;">Comparable</code></div><div class=3D=
+"line number11 index10 alt2" style=3D"background:none rgb(244, 24=
+4, 244) !important"><code class=3D"python plain" style=3D"backgro=
+und: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1=A1=A1=A1</code><code class=3D"python keyword" style=3D"=
+color: rgb(0, 0, 255) !important; background: none !important;">-=
+</code><code class=3D"python keyword" style=3D"color: rgb(0, 0, 2=
+55) !important; background: none !important;">-</code><code class=
+=3D"python plain" style=3D"background: none !important;">&gt; com=
+biner:<span class=3D"Apple-converted-space">&nbsp;</span></code><=
+code class=3D"python functions" style=3D"color: rgb(255, 20, 147)=
+ !important; background: none !important;">map</code><code class=3D=
+"python plain" style=3D"background: none !important;">=B6=CB=B5=C4=
+</code><code class=3D"python functions" style=3D"color: rgb(255,=20=
+20, 147) !important; background: none !important;">reduce</code><=
+/div><div class=3D"line number12 index11 alt1" style=3D"backgroun=
+d:none rgb(255, 255, 255) !important"><code class=3D"python plain=
+" style=3D"background: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1</code><code class=3D"python=20=
+keyword" style=3D"color: rgb(0, 0, 255) !important; background: n=
+one !important;">-</code><code class=3D"python keyword" style=3D"=
+color: rgb(0, 0, 255) !important; background: none !important;">-=
+</code><code class=3D"python plain" style=3D"background: none !im=
+portant;">&gt; =D1=B9=CB=F5</code></div><div class=3D"line number=
+13 index12 alt2" style=3D"background:none rgb(244, 244, 244) !imp=
+ortant"><code class=3D"python plain" style=3D"background: none !i=
+mportant;">=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1</code=
+><code class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !i=
+mportant; background: none !important;">-</code><code class=3D"py=
+thon keyword" style=3D"color: rgb(0, 0, 255) !important; backgrou=
+nd: none !important;">-</code><code class=3D"python plain" style=3D=
+"background: none !important;">&gt; reduece shuffle</code></div><=
+div class=3D"line number14 index13 alt1" style=3D"background:none=
+ rgb(255, 255, 255) !important"><code class=3D"python plain" styl=
+e=3D"background: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1</code><code class=3D"python keywor=
+d" style=3D"color: rgb(0, 0, 255) !important; background: none !i=
+mportant;">-</code><code class=3D"python keyword" style=3D"color:=
+ rgb(0, 0, 255) !important; background: none !important;">-</code=
+><code class=3D"python plain" style=3D"background: none !importan=
+t;">&gt;merger</code></div><div class=3D"line number15 index14 al=
+t2" style=3D"background:none rgb(244, 244, 244) !important"><code=
+ class=3D"python plain" style=3D"background: none !important;">=A1=
+=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1</code><=
+code class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !imp=
+ortant; background: none !important;">-</code><code class=3D"pyth=
+on keyword" style=3D"color: rgb(0, 0, 255) !important; background=
+: none !important;">-</code><code class=3D"python plain" style=3D=
+"background: none !important;">&gt; =B7=D6=D7=E9: =BD=AB=CF=E0=CD=
+=ACkey=B5=C4value=BD=F8=D0=D0=BA=CF=B2=A2&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code></div><div class=3D"li=
+ne number16 index15 alt1" style=3D"background:none rgb(255, 255,=20=
+255) !important"><code class=3D"python value" style=3D"color: rgb=
+(0, 153, 0) !important; background: none !important;">5.</code><s=
+pan class=3D"Apple-converted-space">&nbsp;</span><code class=3D"p=
+ython plain" style=3D"background: none !important;">hadoop=D6=D0=B5=
+=C4=D1=B9=CB=F5</code></div><div class=3D"line number17 index16 a=
+lt2" style=3D"background:none rgb(244, 244, 244) !important"><cod=
+e class=3D"python plain" style=3D"background: none !important;">=A1=
+=A1=A1=A1</code><code class=3D"python keyword" style=3D"color: rg=
+b(0, 0, 255) !important; background: none !important;">-</code><c=
+ode class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !impo=
+rtant; background: none !important;">-</code><code class=3D"pytho=
+n plain" style=3D"background: none !important;">&gt; =BC=F5=C9=D9=
+=CD=F8=C2=E7IO</code></div><div class=3D"line number18 index17 al=
+t1" style=3D"background:none rgb(255, 255, 255) !important"><code=
+ class=3D"python plain" style=3D"background: none !important;">=A1=
+=A1=A1=A1</code><code class=3D"python keyword" style=3D"color: rg=
+b(0, 0, 255) !important; background: none !important;">-</code><c=
+ode class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !impo=
+rtant; background: none !important;">-</code><code class=3D"pytho=
+n plain" style=3D"background: none !important;">&gt; =BC=F5=C9=D9=
+=C1=CB=B4=C5=C5=CCIO=B4=E6=B4=A2</code></div><div class=3D"line n=
+umber19 index18 alt2" style=3D"background:none rgb(244, 244, 244)=
+ !important"><code class=3D"python plain" style=3D"background: no=
+ne !important;">=A1=A1=A1=A1</code><code class=3D"python keyword"=
+ style=3D"color: rgb(0, 0, 255) !important; background: none !imp=
+ortant;">-</code><code class=3D"python keyword" style=3D"color: r=
+gb(0, 0, 255) !important; background: none !important;">-</code><=
+code class=3D"python plain" style=3D"background: none !important;=
+">&gt; =D7=A2=D2=E2=D1=B9=CB=F5=B1=D8=D0=EB=D3=D0=BF=C9=B7=D6=B8=EE=
+=D0=D4(=D4=DA</code><code class=3D"python functions" style=3D"col=
+or: rgb(255, 20, 147) !important; background: none !important;">m=
+ap</code><code class=3D"python plain" style=3D"background: none !=
+important;">=CA=E4=B3=F6=BE=AD=B9=FDshuffle=B5=BD</code><code cla=
+ss=3D"python functions" style=3D"color: rgb(255, 20, 147) !import=
+ant; background: none !important;">reduce</code><code class=3D"py=
+thon plain" style=3D"background: none !important;">=CA=B1=D0=E8=D2=
+=AA=BD=E2=D1=B9=CB=F5,=B1=A3=D6=A4=B5=A5=B8=F6=CA=FD=BE=DD=BB=B9=BF=
+=C9=D2=D4=B1=BB=BD=E2=D1=B9)</code></div><div class=3D"line numbe=
+r20 index19 alt1" style=3D"background:none rgb(255, 255, 255) !im=
+portant"><code class=3D"python plain" style=3D"background: none !=
+important;">=A1=A1=A1=A1</code><code class=3D"python keyword" sty=
+le=3D"color: rgb(0, 0, 255) !important; background: none !importa=
+nt;">-</code><code class=3D"python keyword" style=3D"color: rgb(0=
+, 0, 255) !important; background: none !important;">-</code><code=
+ class=3D"python plain" style=3D"background: none !important;">&g=
+t; hadoop=D6=A7=B3=D6=B5=C4=D1=B9=CB=F5=B8=F1=CA=BD:zlib</code><c=
+ode class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !impo=
+rtant; background: none !important;">/</code><code class=3D"pytho=
+n plain" style=3D"background: none !important;">gzip</code><code=20=
+class=3D"python keyword" style=3D"color: rgb(0, 0, 255) !importan=
+t; background: none !important;">/</code><code class=3D"python pl=
+ain" style=3D"background: none !important;">bzip2</code><code cla=
+ss=3D"python keyword" style=3D"color: rgb(0, 0, 255) !important;=20=
+background: none !important;">/</code><code class=3D"python plain=
+" style=3D"background: none !important;">lzo</code><code class=3D=
+"python keyword" style=3D"color: rgb(0, 0, 255) !important; backg=
+round: none !important;">/</code><code class=3D"python plain" sty=
+le=3D"background: none !important;">lz4</code><code class=3D"pyth=
+on keyword" style=3D"color: rgb(0, 0, 255) !important; background=
+: none !important;">/</code><code class=3D"python plain" style=3D=
+"background: none !important;">snappy</code></div><div class=3D"l=
+ine number21 index20 alt2" style=3D"background:none rgb(244, 244,=
+ 244) !important"><code class=3D"python value" style=3D"color: rg=
+b(0, 153, 0) !important; background: none !important;">6.</code><=
+span class=3D"Apple-converted-space">&nbsp;</span><code class=3D"=
+python plain" style=3D"background: none !important;">hadoop=D6=D0=
+=B1=E0=D2=EBsnappy=D1=B9=CB=F5</code></div><div class=3D"line num=
+ber22 index21 alt1" style=3D"background:none rgb(255, 255, 255) !=
+important"><code class=3D"python plain" style=3D"background: none=
+ !important;">=A1=A1=A1=A1</code><code class=3D"python keyword" s=
+tyle=3D"color: rgb(0, 0, 255) !important; background: none !impor=
+tant;">-</code><code class=3D"python keyword" style=3D"color: rgb=
+(0, 0, 255) !important; background: none !important;">-</code><co=
+de class=3D"python plain" style=3D"background: none !important;">=
+&gt; Linux=B0=B2=D7=B0snappy=BF=E2</code></div><div class=3D"line=
+ number23 index22 alt2" style=3D"background:none rgb(244, 244, 24=
+4) !important"><code class=3D"python plain" style=3D"background:=20=
+none !important;">=A1=A1=A1=A1</code><code class=3D"python keywor=
+d" style=3D"color: rgb(0, 0, 255) !important; background: none !i=
+mportant;">-</code><code class=3D"python keyword" style=3D"color:=
+ rgb(0, 0, 255) !important; background: none !important;">-</code=
+><code class=3D"python plain" style=3D"background: none !importan=
+t;">&gt; =CF=C2=D4=D8hadoop</code><code class=3D"python keyword"=20=
+style=3D"color: rgb(0, 0, 255) !important; background: none !impo=
+rtant;">-</code><code class=3D"python plain" style=3D"background:=
+ none !important;">snappy</code><code class=3D"python keyword" st=
+yle=3D"color: rgb(0, 0, 255) !important; background: none !import=
+ant;">-</code><code class=3D"python plain" style=3D"background: n=
+one !important;">master.</code><code class=3D"python functions" s=
+tyle=3D"color: rgb(255, 20, 147) !important; background: none !im=
+portant;">zip</code><span class=3D"Apple-converted-space">&nbsp;<=
+/span><code class=3D"python plain" style=3D"background: none !imp=
+ortant;">=B1=E0=D2=EB=C9=FA=B3=C9=D6=A7=B3=D6hadoop=B5=C4snappy.s=
+o</code></div><div class=3D"line number24 index23 alt1" style=3D"=
+background:none rgb(255, 255, 255) !important"><code class=3D"pyt=
+hon plain" style=3D"background: none !important;">=A1=A1=A1=A1</c=
+ode><code class=3D"python keyword" style=3D"color: rgb(0, 0, 255)=
+ !important; background: none !important;">-</code><code class=3D=
+"python keyword" style=3D"color: rgb(0, 0, 255) !important; backg=
+round: none !important;">-</code><code class=3D"python plain" sty=
+le=3D"background: none !important;">&gt; =BD=AB=C9=FA=B3=C9=B5=C4=
+jar=B0=FC=B7=C5=B5=BDhadoop=C4=BF=C2=BC=CF=C2=B5=C4lib</code></di=
+v><div class=3D"line number25 index24 alt2" style=3D"background:n=
+one rgb(244, 244, 244) !important"><code class=3D"python plain" s=
+tyle=3D"background: none !important;">=A1=A1=A1=A1</code><code cl=
+ass=3D"python keyword" style=3D"color: rgb(0, 0, 255) !important;=
+ background: none !important;">-</code><code class=3D"python keyw=
+ord" style=3D"color: rgb(0, 0, 255) !important; background: none=20=
+!important;">-</code><code class=3D"python plain" style=3D"backgr=
+ound: none !important;">&gt; =CC=ED=BC=D3=C5=E4=D6=C3=CE=C4=BC=FE=
+</code></div><div class=3D"line number26 index25 alt1" style=3D"b=
+ackground:none rgb(255, 255, 255) !important"><code class=3D"pyth=
+on plain" style=3D"background: none !important;">=A1=A1=A1=A1core=
+</code><code class=3D"python keyword" style=3D"color: rgb(0, 0, 2=
+55) !important; background: none !important;">-</code><code class=
+=3D"python plain" style=3D"background: none !important;">site.xml=
+</code></div><div class=3D"line number27 index26 alt2" style=3D"b=
+ackground:none rgb(244, 244, 244) !important"><code class=3D"pyth=
+on plain" style=3D"background: none !important;">=A1=A1=A1=A1=A1=A1=
+=A1=A1&lt;</code><code class=3D"python functions" style=3D"color:=
+ rgb(255, 20, 147) !important; background: none !important;">prop=
+erty</code><code class=3D"python plain" style=3D"background: none=
+ !important;">&gt;</code></div><div class=3D"line number28 index2=
+7 alt1" style=3D"background:none rgb(255, 255, 255) !important"><=
+code class=3D"python plain" style=3D"background: none !important;=
+">=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1&lt;name&gt;io.compression.=
+codecs&lt;</code><code class=3D"python keyword" style=3D"color: r=
+gb(0, 0, 255) !important; background: none !important;">/</code><=
+code class=3D"python plain" style=3D"background: none !important;=
+">name&gt;</code></div><div class=3D"line number29 index28 alt2"=20=
+style=3D"background:none rgb(244, 244, 244) !important"><code cla=
+ss=3D"python plain" style=3D"background: none !important;">=A1=A1=
+=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1&lt;value&gt;</code></div><div clas=
+s=3D"line number30 index29 alt1" style=3D"background:none rgb(255=
+, 255, 255) !important"><code class=3D"python plain" style=3D"bac=
+kground: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1org.apache.hadoop.io.compress.GzipCodec,</code></div><di=
+v class=3D"line number31 index30 alt2" style=3D"background:none r=
+gb(244, 244, 244) !important"><code class=3D"python plain" style=3D=
+"background: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1=A1org.apache.hadoop.io.compress.DefaultCodec,</code></d=
+iv><div class=3D"line number32 index31 alt1" style=3D"background:=
+none rgb(255, 255, 255) !important"><code class=3D"python plain"=20=
+style=3D"background: none !important;">=A1=A1=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1=A1=A1=A1=A1org.apache.hadoop.io.compress.BZip2Codec,</c=
+ode></div><div class=3D"line number33 index32 alt2" style=3D"back=
+ground:none rgb(244, 244, 244) !important"><code class=3D"python=20=
+plain" style=3D"background: none !important;">=A1=A1=A1=A1=A1=A1=A1=
+=A1=A1=A1=A1=A1=A1=A1=A1=A1org.apache.hadoop.io.compress.SnappyCo=
+dec</code></div><div class=3D"line number34 index33 alt1" style=3D=
+"background:none rgb(255, 255, 255) !important"><code class=3D"py=
+thon plain" style=3D"background: none !important;">=A1=A1=A1=A1=A1=
+=A1=A1=A1=A1=A1=A1=A1&lt;</code><code class=3D"python keyword" st=
+yle=3D"color: rgb(0, 0, 255) !important; background: none !import=
+ant;">/</code><code class=3D"python plain" style=3D"background: n=
+one !important;">value&gt;</code></div><div class=3D"line number3=
+5 index34 alt2" style=3D"background:none rgb(244, 244, 244) !impo=
+rtant"><code class=3D"python plain" style=3D"background: none !im=
+portant;">=A1=A1=A1=A1=A1=A1=A1=A1&lt;</code><code class=3D"pytho=
+n keyword" style=3D"color: rgb(0, 0, 255) !important; background:=
+ none !important;">/</code><code class=3D"python functions" style=
+=3D"color: rgb(255, 20, 147) !important; background: none !import=
+ant;">property</code><code class=3D"python plain" style=3D"backgr=
+ound: none !important;">&gt;</code></div></td></tr></tbody></tabl=
+e></div></div><div class=3D"postBody" style=3D"font-size: 0.833re=
+m;"><br></div><div style=3D"font-size:0.833rem;color:gray"><small=
+>=C0=B4=D4=B4=A3=BA&nbsp;<a href=3D"https://www.cnblogs.com/eRrsr=
+/p/6098454.html">https://www.cnblogs.com/eRrsr/p/6098454.html</a>=
+</small></div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000326828.367--
+
+------=_Next_Part_0000980484.896--
+

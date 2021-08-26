@@ -1,0 +1,1391 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?cmVkaXMtY2x1c3RlcryvyLrAqcjd0tS8sMCpyN1jbGllbnS2wdC0yv2+3dOwz+y1xMy9vr8=?=
+Date: Date: Fri, 23 Jul 2021 05:50:23 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000512061.861"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000512061.861
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000170687.688"
+
+
+------=_Next_Part_0000170687.688
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000170687.688
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A<title>redis-cluster=BC=AF=C8=BA=C0=A9=C8=DD=D2=D4=BC=B0=C0=
+=A9=C8=DDclient=B6=C1=D0=B4=CA=FD=BE=DD=D3=B0=CF=EC=B5=C4=CC=BD=BE=
+=BF</title>=0A    =0A<style id=3D"wiz_custom_css">html, .wiz-edit=
+or-body {font-size: 12pt;}.wiz-editor-body {font-family: Helvetic=
+a, 'Hiragino Sans GB', '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91', 'M=
+icrosoft YaHei UI', SimSun, SimHei, arial, sans-serif;line-height=
+: 1.7;margin: 0 auto;padding: 20px 16px;padding: 1.25rem 1rem;}.w=
+iz-editor-body h1,.wiz-editor-body h2,.wiz-editor-body h3,.wiz-ed=
+itor-body h4,.wiz-editor-body h5,.wiz-editor-body h6 {margin:20px=
+ 0 10px;margin:1.25rem 0 0.625rem;padding: 0;font-weight: bold;}.=
+wiz-editor-body h1 {font-size:20pt;font-size:1.67rem;}.wiz-editor=
+-body h2 {font-size:18pt;font-size:1.5rem;}.wiz-editor-body h3 {f=
+ont-size:15pt;font-size:1.25rem;}.wiz-editor-body h4 {font-size:1=
+4pt;font-size:1.17rem;}.wiz-editor-body h5 {font-size:12pt;font-s=
+ize:1rem;}.wiz-editor-body h6 {font-size:12pt;font-size:1rem;colo=
+r: #777777;margin: 1rem 0;}.wiz-editor-body div,.wiz-editor-body=20=
+p,.wiz-editor-body ul,.wiz-editor-body ol,.wiz-editor-body dl,.wi=
+z-editor-body li {margin:8px 0;}.wiz-editor-body blockquote,.wiz-=
+editor-body table,.wiz-editor-body pre,.wiz-editor-body code {mar=
+gin:8px 0;}.wiz-editor-body .CodeMirror pre {margin:0;}.wiz-edito=
+r-body ul,.wiz-editor-body ol {padding-left:32px;padding-left:2re=
+m;}.wiz-editor-body ol.wiz-list-level1 > li {list-style-type:deci=
+mal;}.wiz-editor-body ol.wiz-list-level2 > li {list-style-type:lo=
+wer-latin;}.wiz-editor-body ol.wiz-list-level3 > li {list-style-t=
+ype:lower-roman;}.wiz-editor-body blockquote {padding: 0 12px;}.w=
+iz-editor-body blockquote > :first-child {margin-top:0;}.wiz-edit=
+or-body blockquote > :last-child {margin-bottom:0;}.wiz-editor-bo=
+dy img {border:0;max-width:100%;height:auto !important;margin:2px=
+ 0;}.wiz-editor-body table {border-collapse:collapse;border:1px s=
+olid #bbbbbb;}.wiz-editor-body td,.wiz-editor-body th {padding:4p=
+x 8px;border-collapse:collapse;border:1px solid #bbbbbb;min-heigh=
+t:28px;word-break:break-word;box-sizing: border-box;}.wiz-hide {d=
+isplay:none !important;}</style></head>=0A=0A<body class=3D"wiz-e=
+ditor-body"  spellcheck=3D"false"><div></div><h1 class=3D"artical=
+-title" style=3D"font-size: 2.25rem; color: rgb(51, 51, 51);">red=
+is-cluster=BC=AF=C8=BA=C0=A9=C8=DD=D2=D4=BC=B0=C0=A9=C8=DDclient=B6=
+=C1=D0=B4=CA=FD=BE=DD=D3=B0=CF=EC=B5=C4=CC=BD=BE=BF</h1><div clas=
+s=3D"is-vip-bg-6 fl" style=3D"color:rgb(51, 51, 51);font-size:0.8=
+75rem"><a href=3D"http://blog.51cto.com/xiaotaoge" class=3D"a-img=
+" target=3D"_blank" style=3D"text-decoration: none;"><img class=3D=
+"is-vip-img is-vip-img-4" data-uid=3D"1462401" src=3D"0.853227864=
+9491902.png"></a></div><div class=3D"artical-title-list" style=3D=
+"color: rgb(51, 51, 51); font-size: 0.875rem;"><a href=3D"http://=
+blog.51cto.com/xiaotaoge" class=3D"name fl" target=3D"_blank" sty=
+le=3D"text-decoration: none;">xiao_tao123</a><a class=3D"comment=20=
+comment-num fr" style=3D"text-decoration: none; color: rgb(186, 1=
+86, 186); font-size: 0.75rem;"><font class=3D"comment_number">0</=
+font>=C8=CB=C6=C0=C2=DB</a><a href=3D"" class=3D"read fr" style=3D=
+"text-decoration: none; color: rgb(186, 186, 186); font-size: 0.7=
+5rem;">10123=C8=CB=D4=C4=B6=C1</a><a href=3D"" class=3D"time fr"=20=
+style=3D"text-decoration: none; color: rgb(186, 186, 186); font-s=
+ize: 0.75rem;">2017-02-21 13:49:27</a><br></div><div class=3D"cod=
+e-toolbar" style=3D"color: rgb(51, 51, 51);"><pre class=3D"brush:=
+python;toolbar:false  language-python" style=3D"font-size: 0.8rem=
+; color: black; background: rgb(245, 242, 240);"><code class=3D"l=
+anguage-python" style=3D"font-size: 0.9rem; color: rgb(51, 51, 51=
+);"><br style=3D"font-size: 1rem;"></code></pre></div><div class=3D=
+"toolbar" style=3D"color: rgb(51, 51, 51);"></div><p style=3D"col=
+or: rgb(61, 70, 77);">redis-cluster=BC=AF=C8=BA=C0=A9=C8=DD=D2=D4=
+=BC=B0=C0=A9=C8=DDclient=B6=C1=D0=B4=CA=FD=BE=DD=D3=B0=CF=EC=B5=C4=
+=CC=BD=BE=BF</p><p style=3D"color: rgb(61, 70, 77);"><br></p><p s=
+tyle=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp; =D2=BB=D6=B1=D2=D4=
+=C0=B4=A3=AC=B4=D3=C0=B4=D6=BB=CA=C7=B6=D4codis=D7=F6=B9=FDslot=B5=
+=C4=B6=AF=CC=AC=C7=A8=D2=C6=A3=A8=CD=AC=C0=A9=C8=DD=A3=A9=B6=F8=C7=
+=D2=D2=B2=D6=BB=CA=C7=CF=DF=CF=C2=BB=B7=BE=B3=A3=AC=B6=F8=C3=BB=D3=
+=D0=B6=D4=CF=DF=C9=CF=B5=C4redis-cluster=D7=F6=B9=FD=C0=A9=C8=DD=BA=
+=CD=C7=A8=D2=C6=A1=A3=D4=E7=BE=CD=CF=EB=D3=D0=BF=D5=B2=E2=CA=D4=D2=
+=BB=CF=C2=C8=B4=D2=BB=D6=B1=C3=BB=D3=D0=CA=B5=BC=CA=C8=A5=D7=F6=A3=
+=AC=C8=BB=B6=F8=BE=CD=D4=DA=BD=F1=CC=EC=CA=D5=B5=BD=C1=CB=B2=FA=C6=
+=B7=B2=BF=B5=C4=D0=E8=C7=F3=A3=AC=D2=AA=B6=D4=CF=DF=C9=CF=C4=B3=B8=
+=F6=D2=B5=CE=F1=CF=DF=B5=C4redis-cluster=D7=F6=C0=A9=C8=DD=A1=A3=A1=
+=A3=A1=A3 =D5=E2=D2=B2=D5=FD=D3=A1=D6=A4=B7=F0=BC=D2=C4=C7=BE=CD=BB=
+=B0=A3=AC=C4=E3=BD=E1=CF=C2=B5=C4=D2=F2=A3=AC=D4=E7=CD=ED=B3=C9=C4=
+=E3=B5=C4=B9=FB=A1=A3=A3=A8=B2=BB=B6=AE=A3=AC=CF=B9=CB=B5=B5=C4=A3=
+=A9</p><p style=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp; =BD=E8=B4=
+=CB=C6=F5=BB=FA=A3=AC=D2=BB=CC=BD=BE=BF=BE=B9=A1=A3</p><p style=3D=
+"color: rgb(61, 70, 77);"><br></p><p style=3D"color: rgb(61, 70,=20=
+77);">=B2=E2=CA=D4=BB=B7=BE=B3=A3=BA</p><p style=3D"color: rgb(61=
+, 70, 77);">&nbsp; &nbsp; =D6=F7=BB=FA=C0=E0=D0=CD=A3=BA=D0=E9=C4=
+=E2=BB=FA &nbsp;=B2=D9=D7=F7=CF=B5=CD=B3=A3=BAcentos6.5_x86_64</p=
+><p style=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp; =C5=E4=D6=C3=A3=
+=BA1=A1=C11 4G =C4=DA=B4=E6</p><p style=3D"color: rgb(61, 70, 77)=
+;"><br></p><p style=3D"color: rgb(61, 70, 77);">1 =B9=B9=BD=A8=BC=
+=AF=C8=BA</p><p style=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp; =A3=
+=A8=BE=DF=CC=E5=B9=FD=B3=CC=C2=D4=A3=A9</p><p style=3D"color: rgb=
+(61, 70, 77);">&nbsp; &nbsp; =D4=DA=B5=A5=CC=A8=D6=F7=BB=FA=C9=CF=
+=D4=CB=D0=D06=B8=F6redis=CA=B5=C0=FD=A3=A8=B6=CB=BF=DA=A3=BA6380-=
+6385=A3=A9=B9=B9=D4=EC=D2=BB=B8=F6=D0=A1=BC=AF=C8=BA=A3=AC=C8=E7=CF=
+=C2=A3=BA</p><div class=3D"code-toolbar" style=3D"color: rgb(51,=20=
+51, 51);"><pre class=3D"brush:python;toolbar:false  language-pyth=
+on" style=3D"font-size: 0.8rem; color: black; background: rgb(245=
+, 242, 240);"><code class=3D"language-python" style=3D"font-size:=
+ 0.9rem; color: rgb(51, 51, 51);"><span class=3D"token punctuatio=
+n" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">[</span>=
+root@salt<span class=3D"token operator" style=3D"font-size: 1rem;=
+ color: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.4980=
+39);">-</span>master <span class=3D"token operator" style=3D"font=
+-size: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255,=
+ 255, 0.498039);">~</span><span class=3D"token punctuation" style=
+=3D"font-size: 1rem; color: rgb(153, 153, 153);">]</span><span cl=
+ass=3D"token comment" style=3D"font-size: 1rem; color: rgb(112, 1=
+28, 144);"># redis-cli -c -p 6380 cluster nodes</span>=0Affb86e11=
+68215b138c5b7a81ad92e44ca7095b54 <span class=3D"token number" sty=
+le=3D"font-size: 1rem; color: rgb(153, 0, 85);">192.168</span><sp=
+an class=3D"token number" style=3D"font-size: 1rem; color: rgb(15=
+3, 0, 85);">.11</span><span class=3D"token number" style=3D"font-=
+size: 1rem; color: rgb(153, 0, 85);">.3</span><span class=3D"toke=
+n punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153=
+);">:</span><span class=3D"token number" style=3D"font-size: 1rem=
+; color: rgb(153, 0, 85);">6380</span> myself<span class=3D"token=
+ punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153)=
+;">,</span>master <span class=3D"token operator" style=3D"font-si=
+ze: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255, 25=
+5, 0.498039);">-</span> <span class=3D"token number" style=3D"fon=
+t-size: 1rem; color: rgb(153, 0, 85);">0</span> <span class=3D"to=
+ken number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">0<=
+/span> <span class=3D"token number" style=3D"font-size: 1rem; col=
+or: rgb(153, 0, 85);">1</span> connected <span class=3D"token num=
+ber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">0</span><=
+span class=3D"token operator" style=3D"font-size: 1rem; color: rg=
+b(154, 110, 58); background: rgba(255, 255, 255, 0.498039);">-</s=
+pan><span class=3D"token number" style=3D"font-size: 1rem; color:=
+ rgb(153, 0, 85);">5460</span>=0A<span class=3D"token number" sty=
+le=3D"font-size: 1rem; color: rgb(153, 0, 85);">88e0cdfb2794816cb=
+9a1ca39b7ad640656d5ef85</span> <span class=3D"token number" style=
+=3D"font-size: 1rem; color: rgb(153, 0, 85);">192.168</span><span=
+ class=3D"token number" style=3D"font-size: 1rem; color: rgb(153,=
+ 0, 85);">.11</span><span class=3D"token number" style=3D"font-si=
+ze: 1rem; color: rgb(153, 0, 85);">.3</span><span class=3D"token=20=
+punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);=
+">:</span><span class=3D"token number" style=3D"font-size: 1rem;=20=
+color: rgb(153, 0, 85);">6382</span> master <span class=3D"token=20=
+operator" style=3D"font-size: 1rem; color: rgb(154, 110, 58); bac=
+kground: rgba(255, 255, 255, 0.498039);">-</span> <span class=3D"=
+token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">=
+0</span> <span class=3D"token number" style=3D"font-size: 1rem; c=
+olor: rgb(153, 0, 85);">1487335437581</span> <span class=3D"token=
+ number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">3</sp=
+an> connected <span class=3D"token number" style=3D"font-size: 1r=
+em; color: rgb(153, 0, 85);">10923</span><span class=3D"token ope=
+rator" style=3D"font-size: 1rem; color: rgb(154, 110, 58); backgr=
+ound: rgba(255, 255, 255, 0.498039);">-</span><span class=3D"toke=
+n number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">1638=
+3</span>=0Aa7a1020c36b8b0277c41ac7fc649ed9e81fa1448 <span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>192.168</span><span class=3D"token number" style=3D"font-size: 1=
+rem; color: rgb(153, 0, 85);">.11</span><span class=3D"token numb=
+er" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3</span><=
+span class=3D"token punctuation" style=3D"font-size: 1rem; color:=
+ rgb(153, 153, 153);">:</span><span class=3D"token number" style=3D=
+"font-size: 1rem; color: rgb(153, 0, 85);">6384</span> slave <spa=
+n class=3D"token number" style=3D"font-size: 1rem; color: rgb(153=
+, 0, 85);">8b20dd24f0aa2ba05754c4db016e0a29299df24e</span> <span=20=
+class=3D"token number" style=3D"font-size: 1rem; color: rgb(153,=20=
+0, 85);">0</span> <span class=3D"token number" style=3D"font-size=
+: 1rem; color: rgb(153, 0, 85);">1487335430478</span> <span class=
+=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85=
+);">5</span> connected=0A<span class=3D"token number" style=3D"fo=
+nt-size: 1rem; color: rgb(153, 0, 85);">8de9d0da9dfd0db0553c68386=
+cbccdcb58365123</span> <span class=3D"token number" style=3D"font=
+-size: 1rem; color: rgb(153, 0, 85);">192.168</span><span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>.11</span><span class=3D"token number" style=3D"font-size: 1rem;=
+ color: rgb(153, 0, 85);">.3</span><span class=3D"token punctuati=
+on" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span=
+><span class=3D"token number" style=3D"font-size: 1rem; color: rg=
+b(153, 0, 85);">6383</span> slave ffb86e1168215b138c5b7a81ad92e44=
+ca7095b54 <span class=3D"token number" style=3D"font-size: 1rem;=20=
+color: rgb(153, 0, 85);">0</span> <span class=3D"token number" st=
+yle=3D"font-size: 1rem; color: rgb(153, 0, 85);">1487335436632</s=
+pan> <span class=3D"token number" style=3D"font-size: 1rem; color=
+: rgb(153, 0, 85);">4</span> connected=0Ae8e6d0e32e0f2ee918795e3a=
+232b9c768b671f39 <span class=3D"token number" style=3D"font-size:=
+ 1rem; color: rgb(153, 0, 85);">192.168</span><span class=3D"toke=
+n number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.11<=
+/span><span class=3D"token number" style=3D"font-size: 1rem; colo=
+r: rgb(153, 0, 85);">.3</span><span class=3D"token punctuation" s=
+tyle=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span><spa=
+n class=3D"token number" style=3D"font-size: 1rem; color: rgb(153=
+, 0, 85);">6385</span> slave <span class=3D"token number" style=3D=
+"font-size: 1rem; color: rgb(153, 0, 85);">88e0cdfb2794816cb9a1ca=
+39b7ad640656d5ef85</span> <span class=3D"token number" style=3D"f=
+ont-size: 1rem; color: rgb(153, 0, 85);">0</span> <span class=3D"=
+token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">=
+1487335435563</span> <span class=3D"token number" style=3D"font-s=
+ize: 1rem; color: rgb(153, 0, 85);">6</span> connected=0A<span cl=
+ass=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0,=
+ 85);">8b20dd24f0aa2ba05754c4db016e0a29299df24e</span> <span clas=
+s=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 8=
+5);">192.168</span><span class=3D"token number" style=3D"font-siz=
+e: 1rem; color: rgb(153, 0, 85);">.11</span><span class=3D"token=20=
+number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3</sp=
+an><span class=3D"token punctuation" style=3D"font-size: 1rem; co=
+lor: rgb(153, 153, 153);">:</span><span class=3D"token number" st=
+yle=3D"font-size: 1rem; color: rgb(153, 0, 85);">6381</span> mast=
+er <span class=3D"token operator" style=3D"font-size: 1rem; color=
+: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.498039);">=
+-</span> <span class=3D"token number" style=3D"font-size: 1rem; c=
+olor: rgb(153, 0, 85);">0</span> <span class=3D"token number" sty=
+le=3D"font-size: 1rem; color: rgb(153, 0, 85);">1487335433541</sp=
+an> <span class=3D"token number" style=3D"font-size: 1rem; color:=
+ rgb(153, 0, 85);">2</span> connected <span class=3D"token number=
+" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">5461</span><=
+span class=3D"token operator" style=3D"font-size: 1rem; color: rg=
+b(154, 110, 58); background: rgba(255, 255, 255, 0.498039);">-</s=
+pan><span class=3D"token number" style=3D"font-size: 1rem; color:=
+ rgb(153, 0, 85);">1092</span></code></pre></div><div class=3D"to=
+olbar" style=3D"color: rgb(51, 51, 51);"></div><p style=3D"color:=
+ rgb(61, 70, 77);"><br></p><p style=3D"color: rgb(61, 70, 77);">&=
+nbsp; &nbsp; =B4=D3=C9=CF=C3=E6=B5=C4=CA=E4=B3=F6=BF=C9=D2=D4=BF=B4=
+=B3=F6=A3=AC=B4=CB=BC=AF=C8=BA=D3=D03=B8=F6=D6=F7=BD=DA=B5=E3(mas=
+ter)=A3=AC=C3=BF=B8=F6=BD=DA=B5=E31=B8=F6=B8=B1=B1=BE(slave),=D2=D4=
+=BC=B0=B8=F7=B8=F6=BD=DA=B5=E3=B5=C4IP=A1=A2=B6=CB=BF=DA=A1=A2ID=A1=
+=A216384=B8=F6slot=B2=DB=CE=BB=B5=C4=B7=D6=C5=E4=A1=A3</p><p styl=
+e=3D"color: rgb(61, 70, 77);"><br></p><p style=3D"color: rgb(61,=20=
+70, 77);">2 =C4=A3=C4=E2=CA=FD=BE=DD</p><p style=3D"color: rgb(61=
+, 70, 77);">&nbsp; &nbsp; =CE=AA=C1=CB=C9=D4=BA=F3=B2=E2=CA=D4=C0=
+=A9=C8=DD=CA=B1=CA=C7=B7=F1=D3=B0=CF=EC=B6=C1=D0=B4=A3=AC=CE=D2=C3=
+=C7=CF=C8=D4=DA=BC=AF=C8=BA=C0=EF=D0=B4=B5=E3=CA=FD=BE=DD=A3=BA</=
+p><div class=3D"code-toolbar" style=3D"color: rgb(51, 51, 51);"><=
+pre class=3D"brush:python;toolbar:false  language-python" style=3D=
+"font-size: 0.8rem; color: black; background: rgb(245, 242, 240);=
+"><code class=3D"language-python" style=3D"font-size: 0.9rem; col=
+or: rgb(51, 51, 51);"><span class=3D"token comment" style=3D"font=
+-size: 1rem; color: rgb(112, 128, 144);">#!/usr/bin/env python</s=
+pan>=0A<span class=3D"token comment" style=3D"font-size: 1rem; co=
+lor: rgb(112, 128, 144);"># -*- coding: utf-8 -*-</span>=0A<span=20=
+class=3D"token keyword" style=3D"font-size: 1rem; color: rgb(0, 1=
+19, 170);">from</span> rediscluster <span class=3D"token keyword"=
+ style=3D"font-size: 1rem; color: rgb(0, 119, 170);">import</span=
+> StrictRedisCluster=0A<span class=3D"token comment" style=3D"fon=
+t-size: 1rem; color: rgb(112, 128, 144);"># Requires at least one=
+ node for cluster discovery. Multiple nodes is recommended.</span=
+>=0Astartup_nodes <span class=3D"token operator" style=3D"font-si=
+ze: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255, 25=
+5, 0.498039);">=3D</span> <span class=3D"token punctuation" style=
+=3D"font-size: 1rem; color: rgb(153, 153, 153);">[</span><span cl=
+ass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(15=
+3, 153, 153);">{</span><span class=3D"token string" style=3D"font=
+-size: 1rem; color: rgb(102, 153, 0);">"host"</span><span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">:</span> <span class=3D"token string" style=3D"font-size=
+: 1rem; color: rgb(102, 153, 0);">"192.168.11.3"</span><span clas=
+s=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(153,=
+ 153, 153);">,</span> <span class=3D"token string" style=3D"font-=
+size: 1rem; color: rgb(102, 153, 0);">"port"</span><span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">:</span> <span class=3D"token string" style=3D"font-size=
+: 1rem; color: rgb(102, 153, 0);">"6380"</span><span class=3D"tok=
+en punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 15=
+3);">}</span><span class=3D"token punctuation" style=3D"font-size=
+: 1rem; color: rgb(153, 153, 153);">,</span>=0A                <s=
+pan class=3D"token punctuation" style=3D"font-size: 1rem; color:=20=
+rgb(153, 153, 153);">{</span><span class=3D"token string" style=3D=
+"font-size: 1rem; color: rgb(102, 153, 0);">"host"</span><span cl=
+ass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(15=
+3, 153, 153);">:</span> <span class=3D"token string" style=3D"fon=
+t-size: 1rem; color: rgb(102, 153, 0);">"192.168.11.3"</span><spa=
+n class=3D"token punctuation" style=3D"font-size: 1rem; color: rg=
+b(153, 153, 153);">,</span> <span class=3D"token string" style=3D=
+"font-size: 1rem; color: rgb(102, 153, 0);">"port"</span><span cl=
+ass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(15=
+3, 153, 153);">:</span> <span class=3D"token string" style=3D"fon=
+t-size: 1rem; color: rgb(102, 153, 0);">"6381"</span><span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">}</span><span class=3D"token punctuation" style=3D"font-=
+size: 1rem; color: rgb(153, 153, 153);">,</span>=0A             =20=
+  <span class=3D"token punctuation" style=3D"font-size: 1rem; col=
+or: rgb(153, 153, 153);">{</span><span class=3D"token string" sty=
+le=3D"font-size: 1rem; color: rgb(102, 153, 0);">"host"</span><sp=
+an class=3D"token punctuation" style=3D"font-size: 1rem; color: r=
+gb(153, 153, 153);">:</span> <span class=3D"token string" style=3D=
+"font-size: 1rem; color: rgb(102, 153, 0);">"192.168.11.3"</span>=
+<span class=3D"token punctuation" style=3D"font-size: 1rem; color=
+: rgb(153, 153, 153);">,</span> <span class=3D"token string" styl=
+e=3D"font-size: 1rem; color: rgb(102, 153, 0);">"port"</span><spa=
+n class=3D"token punctuation" style=3D"font-size: 1rem; color: rg=
+b(153, 153, 153);">:</span> <span class=3D"token string" style=3D=
+"font-size: 1rem; color: rgb(102, 153, 0);">"6382"</span><span cl=
+ass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(15=
+3, 153, 153);">}</span><span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">,</span>=0A       =20=
+        <span class=3D"token punctuation" style=3D"font-size: 1re=
+m; color: rgb(153, 153, 153);">{</span><span class=3D"token strin=
+g" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"host"</sp=
+an><span class=3D"token punctuation" style=3D"font-size: 1rem; co=
+lor: rgb(153, 153, 153);">:</span> <span class=3D"token string" s=
+tyle=3D"font-size: 1rem; color: rgb(102, 153, 0);">"192.168.11.3"=
+</span><span class=3D"token punctuation" style=3D"font-size: 1rem=
+; color: rgb(153, 153, 153);">,</span> <span class=3D"token strin=
+g" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"port"</sp=
+an><span class=3D"token punctuation" style=3D"font-size: 1rem; co=
+lor: rgb(153, 153, 153);">:</span> <span class=3D"token string" s=
+tyle=3D"font-size: 1rem; color: rgb(102, 153, 0);">"6383"</span><=
+span class=3D"token punctuation" style=3D"font-size: 1rem; color:=
+ rgb(153, 153, 153);">}</span><span class=3D"token punctuation" s=
+tyle=3D"font-size: 1rem; color: rgb(153, 153, 153);">,</span>=0A=20=
+               <span class=3D"token punctuation" style=3D"font-si=
+ze: 1rem; color: rgb(153, 153, 153);">{</span><span class=3D"toke=
+n string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"ho=
+st"</span><span class=3D"token punctuation" style=3D"font-size: 1=
+rem; color: rgb(153, 153, 153);">:</span> <span class=3D"token st=
+ring" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"192.16=
+8.11.3"</span><span class=3D"token punctuation" style=3D"font-siz=
+e: 1rem; color: rgb(153, 153, 153);">,</span> <span class=3D"toke=
+n string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"po=
+rt"</span><span class=3D"token punctuation" style=3D"font-size: 1=
+rem; color: rgb(153, 153, 153);">:</span> <span class=3D"token st=
+ring" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"6384"<=
+/span><span class=3D"token punctuation" style=3D"font-size: 1rem;=
+ color: rgb(153, 153, 153);">}</span><span class=3D"token punctua=
+tion" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">,</sp=
+an>=0A                <span class=3D"token punctuation" style=3D"=
+font-size: 1rem; color: rgb(153, 153, 153);">{</span><span class=3D=
+"token string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);=
+">"host"</span><span class=3D"token punctuation" style=3D"font-si=
+ze: 1rem; color: rgb(153, 153, 153);">:</span> <span class=3D"tok=
+en string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"1=
+92.168.11.3"</span><span class=3D"token punctuation" style=3D"fon=
+t-size: 1rem; color: rgb(153, 153, 153);">,</span> <span class=3D=
+"token string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);=
+">"port"</span><span class=3D"token punctuation" style=3D"font-si=
+ze: 1rem; color: rgb(153, 153, 153);">:</span> <span class=3D"tok=
+en string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"6=
+385"</span><span class=3D"token punctuation" style=3D"font-size:=20=
+1rem; color: rgb(153, 153, 153);">}</span><span class=3D"token pu=
+nctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">=
+]</span>=0Arc <span class=3D"token operator" style=3D"font-size:=20=
+1rem; color: rgb(154, 110, 58); background: rgba(255, 255, 255, 0=
+.498039);">=3D</span> StrictRedisCluster<span class=3D"token punc=
+tuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">(<=
+/span>startup_nodes<span class=3D"token operator" style=3D"font-s=
+ize: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255, 2=
+55, 0.498039);">=3D</span>startup_nodes<span class=3D"token punct=
+uation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">,</=
+span> decode_responses<span class=3D"token operator" style=3D"fon=
+t-size: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255=
+, 255, 0.498039);">=3D</span><span class=3D"token boolean" style=3D=
+"font-size: 1rem; color: rgb(153, 0, 85);">True</span><span class=
+=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(153,=20=
+153, 153);">)</span>=0A<span class=3D"token comment" style=3D"fon=
+t-size: 1rem; color: rgb(112, 128, 144);"># pre_time =3D time.tim=
+e()</span>=0A<span class=3D"token keyword" style=3D"font-size: 1r=
+em; color: rgb(0, 119, 170);">for</span> i <span class=3D"token k=
+eyword" style=3D"font-size: 1rem; color: rgb(0, 119, 170);">in</s=
+pan> <span class=3D"token builtin" style=3D"font-size: 1rem; colo=
+r: rgb(102, 153, 0);">xrange</span><span class=3D"token punctuati=
+on" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">(</span=
+><span class=3D"token number" style=3D"font-size: 1rem; color: rg=
+b(153, 0, 85);">100000</span><span class=3D"token punctuation" st=
+yle=3D"font-size: 1rem; color: rgb(153, 153, 153);">)</span><span=
+ class=3D"token punctuation" style=3D"font-size: 1rem; color: rgb=
+(153, 153, 153);">:</span>=0A    key <span class=3D"token operato=
+r" style=3D"font-size: 1rem; color: rgb(154, 110, 58); background=
+: rgba(255, 255, 255, 0.498039);">=3D</span> <span class=3D"token=
+ string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"key=
+_%s"</span> <span class=3D"token operator" style=3D"font-size: 1r=
+em; color: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.4=
+98039);">%</span> i=0A    value <span class=3D"token operator" st=
+yle=3D"font-size: 1rem; color: rgb(154, 110, 58); background: rgb=
+a(255, 255, 255, 0.498039);">=3D</span> <span class=3D"token stri=
+ng" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"value_%s=
+"</span> <span class=3D"token operator" style=3D"font-size: 1rem;=
+ color: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.4980=
+39);">%</span> i=0A    rc<span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">.</span><span class=
+=3D"token builtin" style=3D"font-size: 1rem; color: rgb(102, 153,=
+ 0);">set</span><span class=3D"token punctuation" style=3D"font-s=
+ize: 1rem; color: rgb(153, 153, 153);">(</span>key<span class=3D"=
+token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153,=
+ 153);">,</span> value<span class=3D"token punctuation" style=3D"=
+font-size: 1rem; color: rgb(153, 153, 153);">)</span>=0A<span cla=
+ss=3D"token comment" style=3D"font-size: 1rem; color: rgb(112, 12=
+8, 144);"># aft_time =3D time.time()</span>=0A<span class=3D"toke=
+n comment" style=3D"font-size: 1rem; color: rgb(112, 128, 144);">=
+# print aft_time - pre_time</span></code></pre></div><div class=3D=
+"toolbar" style=3D"color: rgb(51, 51, 51);"></div><p style=3D"col=
+or: rgb(61, 70, 77);"><br></p><p style=3D"color: rgb(61, 70, 77);=
+">(PS:=CE=D2=B5=C4=D5=E2=B8=F6=D0=A1=BC=AF=C8=BAset 10=CD=F2=B8=F6=
+key=BA=C4=CA=B121=C3=EB=A3=AC=D3=D0=D0=CB=C8=A4=B5=C4=BF=C9=D2=D4=
+=BA=CD=C4=E3=D7=D4=BC=BA=B5=C4=B6=D4=B1=C8=D2=BB=CF=C2=A3=A9</p><=
+p style=3D"color: rgb(61, 70, 77);">=B2=B9=B3=E4=A3=BA</p><p styl=
+e=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp; redis-cluster=BB=E1=B6=
+=EE=CD=E2=C6=F4=D3=C3=D2=BB=B8=F6=B6=CB=BF=DA=A3=A8=C4=AC=C8=CF=CA=
+=C7=CB=F9=BC=E0=CC=FD=B5=C4port+10000=A3=A9=C6=E4=CB=FB=D3=EB=C6=E4=
+=CB=FC=BD=DA=B5=E3=CD=A8=D0=C5=B5=C4=D7=DC=CF=DF=B6=CB=BF=DA=A3=A8=
+=D2=BB=B8=F6=D3=D0N=B8=F6=BD=DA=B5=E3=B5=C4=BC=AF=C8=BA=A3=AC=D4=F2=
+=D4=DA=C3=BF=B8=F6=BD=DA=B5=E3=C9=CF=A3=AC=B6=BC=D3=D0N-1=B8=F6=BD=
+=F8=C0=B4=B5=C4=C1=AC=BD=D3=BA=CDN-1=B8=F6=B3=F6=C8=A5=B5=C4=C1=AC=
+=BD=D3=D3=EB=C6=E4=CB=FB=BD=DA=B5=E3=BD=F8=D0=D0=CD=A8=D0=C5=A3=A9=
+=A1=A3=CB=F9=D2=D4=C1=AC=BD=D3=C9=CF=BC=AF=C8=BA=B5=C4=C8=CE=D2=BB=
+=BD=DA=B5=E3=A3=AC=BC=B4=BF=C9=D6=AA=CF=FE=CB=F9=D3=D0=BD=DA=B5=E3=
+=A1=A3</p><p style=3D"color: rgb(61, 70, 77);"><br></p><p style=3D=
+"color: rgb(61, 70, 77);">3 =D0=C2=D4=F6=D7=CA=D4=B4</p><p style=3D=
+"color: rgb(61, 70, 77);">&nbsp; &nbsp; &nbsp;=BB=B9=CA=C7=D4=DA=D5=
+=E2=CC=A8=D0=E9=C4=E2=BB=FA=C9=CF=A3=AC=CE=D2=C3=C7=D4=DA=C6=F4=B6=
+=AF2=B8=F6redis=CA=B5=C0=FD=A3=AC=D7=F7=CE=AA=D0=C2=D4=F6=B5=C4=D7=
+=CA=D4=B4=A1=A3</p><p style=3D"color: rgb(61, 70, 77);">&nbsp; &n=
+bsp; &nbsp;=D0=C2=D4=F6=C1=BD=B8=F6=CA=B5=C0=FD=B6=CB=BF=DA=B7=D6=
+=B1=F0=CE=AA6386 6387</p><div class=3D"code-toolbar" style=3D"col=
+or: rgb(51, 51, 51);"><pre class=3D"brush:python;toolbar:false  l=
+anguage-python" style=3D"font-size: 0.8rem; color: black; backgro=
+und: rgb(245, 242, 240);"><code class=3D"language-python" style=3D=
+"font-size: 0.9rem; color: rgb(51, 51, 51);"><span class=3D"token=
+ punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153)=
+;">[</span>root@salt<span class=3D"token operator" style=3D"font-=
+size: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255,=20=
+255, 0.498039);">-</span>master conf<span class=3D"token punctuat=
+ion" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">]</spa=
+n><span class=3D"token comment" style=3D"font-size: 1rem; color:=20=
+rgb(112, 128, 144);"># /usr/local/redis-server/bin/redis-server /=
+usr/local/redis-server/conf/redis6386.conf</span>=0A<span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">[</span>root@salt<span class=3D"token operator" style=3D=
+"font-size: 1rem; color: rgb(154, 110, 58); background: rgba(255,=
+ 255, 255, 0.498039);">-</span>master conf<span class=3D"token pu=
+nctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">=
+]</span><span class=3D"token comment" style=3D"font-size: 1rem; c=
+olor: rgb(112, 128, 144);"># /usr/local/redis-server/bin/redis-se=
+rver /usr/local/redis-server/conf/redis6387.conf</span></code></p=
+re></div><div class=3D"toolbar" style=3D"color: rgb(51, 51, 51);"=
+></div><p style=3D"color: rgb(61, 70, 77);"><br></p><p style=3D"c=
+olor: rgb(61, 70, 77);">4 =C0=A9=C8=DD=BC=AF=C8=BA</p><p style=3D=
+"color: rgb(61, 70, 77);">&nbsp; &nbsp; =BD=AB=C9=CF=C3=E6=D0=C2=D4=
+=F6=B5=C42=B8=F6=CA=B5=C0=FD=C0=A9=C8=DD=B5=BD=BC=AF=C8=BA=A3=AC=B4=
+=CB=CA=B1=D6=BB=CA=C7=BC=AF=C8=BA=BC=E4=CF=E0=BB=A5=D6=AA=B5=C0=D3=
+=D0=D0=C2=B5=C4=B3=C9=D4=B1=C1=CB=A3=AC=B5=AB=D0=C2=B3=C9=D4=B1=C9=
+=CF=CE=B4=B7=D6=C5=E4slot(slot=BC=AF=C8=BA=B7=D6=C5=E4=CA=FD=BE=DD=
+=B5=C4=D7=EE=D0=A1=B5=A5=D4=AA)=A3=AC=CB=F9=D2=D4=B4=CB=CA=B1=D0=C2=
+=D4=F6=BD=DA=B5=E3=C9=CF=B2=BB=BB=E1=D3=D0=C8=CE=BA=CE=CA=FD=BE=DD=
+=A1=A3</p><p style=3D"color: rgb(61, 70, 77);"><br></p><p style=3D=
+"color: rgb(61, 70, 77);">4.1 =CC=ED=BC=D3=D6=F7=BD=DA=B5=E3</p><=
+div class=3D"code-toolbar" style=3D"color: rgb(51, 51, 51);"><pre=
+ class=3D"brush:python;toolbar:false  language-python" style=3D"f=
+ont-size: 0.8rem; color: black; background: rgb(245, 242, 240);">=
+<code class=3D"language-python" style=3D"font-size: 0.9rem; color=
+: rgb(51, 51, 51);"><span class=3D"token punctuation" style=3D"fo=
+nt-size: 1rem; color: rgb(153, 153, 153);">[</span>root@salt<span=
+ class=3D"token operator" style=3D"font-size: 1rem; color: rgb(15=
+4, 110, 58); background: rgba(255, 255, 255, 0.498039);">-</span>=
+master conf<span class=3D"token punctuation" style=3D"font-size:=20=
+1rem; color: rgb(153, 153, 153);">]</span><span class=3D"token co=
+mment" style=3D"font-size: 1rem; color: rgb(112, 128, 144);"># /u=
+sr/local/redis-server/bin/redis-trib.rb add-node 192.168.11.3:638=
+6 192.168.11.3:6380</span>=0A<span class=3D"token operator" style=
+=3D"font-size: 1rem; color: rgb(154, 110, 58); background: rgba(2=
+55, 255, 255, 0.498039);">&gt;&gt;</span><span class=3D"token ope=
+rator" style=3D"font-size: 1rem; color: rgb(154, 110, 58); backgr=
+ound: rgba(255, 255, 255, 0.498039);">&gt;</span> Adding node <sp=
+an class=3D"token number" style=3D"font-size: 1rem; color: rgb(15=
+3, 0, 85);">192.168</span><span class=3D"token number" style=3D"f=
+ont-size: 1rem; color: rgb(153, 0, 85);">.11</span><span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>.3</span><span class=3D"token punctuation" style=3D"font-size: 1=
+rem; color: rgb(153, 153, 153);">:</span><span class=3D"token num=
+ber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">6386</spa=
+n> to cluster <span class=3D"token number" style=3D"font-size: 1r=
+em; color: rgb(153, 0, 85);">192.168</span><span class=3D"token n=
+umber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.11</sp=
+an><span class=3D"token number" style=3D"font-size: 1rem; color:=20=
+rgb(153, 0, 85);">.3</span><span class=3D"token punctuation" styl=
+e=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span><span c=
+lass=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0=
+, 85);">6380</span>=0A<span class=3D"token operator" style=3D"fon=
+t-size: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255=
+, 255, 0.498039);">&gt;&gt;</span><span class=3D"token operator"=20=
+style=3D"font-size: 1rem; color: rgb(154, 110, 58); background: r=
+gba(255, 255, 255, 0.498039);">&gt;</span> Performing Cluster Che=
+ck <span class=3D"token punctuation" style=3D"font-size: 1rem; co=
+lor: rgb(153, 153, 153);">(</span>using node <span class=3D"token=
+ number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">192.1=
+68</span><span class=3D"token number" style=3D"font-size: 1rem; c=
+olor: rgb(153, 0, 85);">.11</span><span class=3D"token number" st=
+yle=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3</span><span c=
+lass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(1=
+53, 153, 153);">:</span><span class=3D"token number" style=3D"fon=
+t-size: 1rem; color: rgb(153, 0, 85);">6380</span><span class=3D"=
+token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153,=
+ 153);">)</span>=0AM<span class=3D"token punctuation" style=3D"fo=
+nt-size: 1rem; color: rgb(153, 153, 153);">:</span> ffb86e1168215=
+b138c5b7a81ad92e44ca7095b54 <span class=3D"token number" style=3D=
+"font-size: 1rem; color: rgb(153, 0, 85);">192.168</span><span cl=
+ass=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0,=
+ 85);">.11</span><span class=3D"token number" style=3D"font-size:=
+ 1rem; color: rgb(153, 0, 85);">.3</span><span class=3D"token pun=
+ctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">:=
+</span><span class=3D"token number" style=3D"font-size: 1rem; col=
+or: rgb(153, 0, 85);">6380</span>=0A   slots<span class=3D"token=20=
+punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);=
+">:</span><span class=3D"token number" style=3D"font-size: 1rem;=20=
+color: rgb(153, 0, 85);">0</span><span class=3D"token operator" s=
+tyle=3D"font-size: 1rem; color: rgb(154, 110, 58); background: rg=
+ba(255, 255, 255, 0.498039);">-</span><span class=3D"token number=
+" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">5460</span>=20=
+<span class=3D"token punctuation" style=3D"font-size: 1rem; color=
+: rgb(153, 153, 153);">(</span><span class=3D"token number" style=
+=3D"font-size: 1rem; color: rgb(153, 0, 85);">5461</span> slots<s=
+pan class=3D"token punctuation" style=3D"font-size: 1rem; color:=20=
+rgb(153, 153, 153);">)</span> master=0A   <span class=3D"token nu=
+mber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">1</span>=
+ additional replica<span class=3D"token punctuation" style=3D"fon=
+t-size: 1rem; color: rgb(153, 153, 153);">(</span>s<span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">)</span>=0AM<span class=3D"token punctuation" style=3D"f=
+ont-size: 1rem; color: rgb(153, 153, 153);">:</span> <span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>88e0cdfb2794816cb9a1ca39b7ad640656d5ef85</span> <span class=3D"t=
+oken number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">1=
+92.168</span><span class=3D"token number" style=3D"font-size: 1re=
+m; color: rgb(153, 0, 85);">.11</span><span class=3D"token number=
+" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3</span><sp=
+an class=3D"token punctuation" style=3D"font-size: 1rem; color: r=
+gb(153, 153, 153);">:</span><span class=3D"token number" style=3D=
+"font-size: 1rem; color: rgb(153, 0, 85);">6382</span>=0A   slots=
+<span class=3D"token punctuation" style=3D"font-size: 1rem; color=
+: rgb(153, 153, 153);">:</span><span class=3D"token number" style=
+=3D"font-size: 1rem; color: rgb(153, 0, 85);">10923</span><span c=
+lass=3D"token operator" style=3D"font-size: 1rem; color: rgb(154,=
+ 110, 58); background: rgba(255, 255, 255, 0.498039);">-</span><s=
+pan class=3D"token number" style=3D"font-size: 1rem; color: rgb(1=
+53, 0, 85);">16383</span> <span class=3D"token punctuation" style=
+=3D"font-size: 1rem; color: rgb(153, 153, 153);">(</span><span cl=
+ass=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0,=
+ 85);">5461</span> slots<span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">)</span> master=0A=20=
+  <span class=3D"token number" style=3D"font-size: 1rem; color: r=
+gb(153, 0, 85);">1</span> additional replica<span class=3D"token=20=
+punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);=
+">(</span>s<span class=3D"token punctuation" style=3D"font-size:=20=
+1rem; color: rgb(153, 153, 153);">)</span>=0AS<span class=3D"toke=
+n punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153=
+);">:</span> a7a1020c36b8b0277c41ac7fc649ed9e81fa1448 <span class=
+=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85=
+);">192.168</span><span class=3D"token number" style=3D"font-size=
+: 1rem; color: rgb(153, 0, 85);">.11</span><span class=3D"token n=
+umber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3</spa=
+n><span class=3D"token punctuation" style=3D"font-size: 1rem; col=
+or: rgb(153, 153, 153);">:</span><span class=3D"token number" sty=
+le=3D"font-size: 1rem; color: rgb(153, 0, 85);">6384</span>=0A  =20=
+slots<span class=3D"token punctuation" style=3D"font-size: 1rem;=20=
+color: rgb(153, 153, 153);">:</span> <span class=3D"token punctua=
+tion" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">(</sp=
+an><span class=3D"token number" style=3D"font-size: 1rem; color:=20=
+rgb(153, 0, 85);">0</span> slots<span class=3D"token punctuation"=
+ style=3D"font-size: 1rem; color: rgb(153, 153, 153);">)</span> s=
+lave=0A   replicates <span class=3D"token number" style=3D"font-s=
+ize: 1rem; color: rgb(153, 0, 85);">8b20dd24f0aa2ba05754c4db016e0=
+a29299df24e</span>=0AS<span class=3D"token punctuation" style=3D"=
+font-size: 1rem; color: rgb(153, 153, 153);">:</span> <span class=
+=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85=
+);">8de9d0da9dfd0db0553c68386cbccdcb58365123</span> <span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>192.168</span><span class=3D"token number" style=3D"font-size: 1=
+rem; color: rgb(153, 0, 85);">.11</span><span class=3D"token numb=
+er" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3</span><=
+span class=3D"token punctuation" style=3D"font-size: 1rem; color:=
+ rgb(153, 153, 153);">:</span><span class=3D"token number" style=3D=
+"font-size: 1rem; color: rgb(153, 0, 85);">6383</span>=0A   slots=
+<span class=3D"token punctuation" style=3D"font-size: 1rem; color=
+: rgb(153, 153, 153);">:</span> <span class=3D"token punctuation"=
+ style=3D"font-size: 1rem; color: rgb(153, 153, 153);">(</span><s=
+pan class=3D"token number" style=3D"font-size: 1rem; color: rgb(1=
+53, 0, 85);">0</span> slots<span class=3D"token punctuation" styl=
+e=3D"font-size: 1rem; color: rgb(153, 153, 153);">)</span> slave=0A=
+   replicates ffb86e1168215b138c5b7a81ad92e44ca7095b54=0AS<span c=
+lass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(1=
+53, 153, 153);">:</span> e8e6d0e32e0f2ee918795e3a232b9c768b671f39=
+ <span class=3D"token number" style=3D"font-size: 1rem; color: rg=
+b(153, 0, 85);">192.168</span><span class=3D"token number" style=3D=
+"font-size: 1rem; color: rgb(153, 0, 85);">.11</span><span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>.3</span><span class=3D"token punctuation" style=3D"font-size: 1=
+rem; color: rgb(153, 153, 153);">:</span><span class=3D"token num=
+ber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">6385</spa=
+n>=0A   slots<span class=3D"token punctuation" style=3D"font-size=
+: 1rem; color: rgb(153, 153, 153);">:</span> <span class=3D"token=
+ punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153)=
+;">(</span><span class=3D"token number" style=3D"font-size: 1rem;=
+ color: rgb(153, 0, 85);">0</span> slots<span class=3D"token punc=
+tuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">)<=
+/span> slave=0A   replicates <span class=3D"token number" style=3D=
+"font-size: 1rem; color: rgb(153, 0, 85);">88e0cdfb2794816cb9a1ca=
+39b7ad640656d5ef85</span>=0AM<span class=3D"token punctuation" st=
+yle=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span> <spa=
+n class=3D"token number" style=3D"font-size: 1rem; color: rgb(153=
+, 0, 85);">8b20dd24f0aa2ba05754c4db016e0a29299df24e</span> <span=20=
+class=3D"token number" style=3D"font-size: 1rem; color: rgb(153,=20=
+0, 85);">192.168</span><span class=3D"token number" style=3D"font=
+-size: 1rem; color: rgb(153, 0, 85);">.11</span><span class=3D"to=
+ken number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3=
+</span><span class=3D"token punctuation" style=3D"font-size: 1rem=
+; color: rgb(153, 153, 153);">:</span><span class=3D"token number=
+" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">6381</span>=0A=
+   slots<span class=3D"token punctuation" style=3D"font-size: 1re=
+m; color: rgb(153, 153, 153);">:</span><span class=3D"token numbe=
+r" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">5461</span>=
+<span class=3D"token operator" style=3D"font-size: 1rem; color: r=
+gb(154, 110, 58); background: rgba(255, 255, 255, 0.498039);">-</=
+span><span class=3D"token number" style=3D"font-size: 1rem; color=
+: rgb(153, 0, 85);">10922</span> <span class=3D"token punctuation=
+" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">(</span><=
+span class=3D"token number" style=3D"font-size: 1rem; color: rgb(=
+153, 0, 85);">5462</span> slots<span class=3D"token punctuation"=20=
+style=3D"font-size: 1rem; color: rgb(153, 153, 153);">)</span> ma=
+ster=0A   <span class=3D"token number" style=3D"font-size: 1rem;=20=
+color: rgb(153, 0, 85);">1</span> additional replica<span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">(</span>s<span class=3D"token punctuation" style=3D"font=
+-size: 1rem; color: rgb(153, 153, 153);">)</span>=0A<span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">[</span>OK<span class=3D"token punctuation" style=3D"fon=
+t-size: 1rem; color: rgb(153, 153, 153);">]</span> All nodes agre=
+e about slots configuration<span class=3D"token punctuation" styl=
+e=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</span>=0A<spa=
+n class=3D"token operator" style=3D"font-size: 1rem; color: rgb(1=
+54, 110, 58); background: rgba(255, 255, 255, 0.498039);">&gt;&gt=
+;</span><span class=3D"token operator" style=3D"font-size: 1rem;=20=
+color: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.49803=
+9);">&gt;</span> Check <span class=3D"token keyword" style=3D"fon=
+t-size: 1rem; color: rgb(0, 119, 170);">for</span> <span class=3D=
+"token builtin" style=3D"font-size: 1rem; color: rgb(102, 153, 0)=
+;">open</span> slots<span class=3D"token punctuation" style=3D"fo=
+nt-size: 1rem; color: rgb(153, 153, 153);">.</span><span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">.</span><span class=3D"token punctuation" style=3D"font-=
+size: 1rem; color: rgb(153, 153, 153);">.</span>=0A<span class=3D=
+"token operator" style=3D"font-size: 1rem; color: rgb(154, 110, 5=
+8); background: rgba(255, 255, 255, 0.498039);">&gt;&gt;</span><s=
+pan class=3D"token operator" style=3D"font-size: 1rem; color: rgb=
+(154, 110, 58); background: rgba(255, 255, 255, 0.498039);">&gt;<=
+/span> Check slots coverage<span class=3D"token punctuation" styl=
+e=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</span><span c=
+lass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(1=
+53, 153, 153);">.</span><span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">.</span>=0A<span cl=
+ass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(15=
+3, 153, 153);">[</span>OK<span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">]</span> All <span=20=
+class=3D"token number" style=3D"font-size: 1rem; color: rgb(153,=20=
+0, 85);">16384</span> slots covered<span class=3D"token punctuati=
+on" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</span=
+>=0A<span class=3D"token operator" style=3D"font-size: 1rem; colo=
+r: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.498039);"=
+>&gt;&gt;</span><span class=3D"token operator" style=3D"font-size=
+: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255, 255,=
+ 0.498039);">&gt;</span> Send CLUSTER MEET to node <span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>192.168</span><span class=3D"token number" style=3D"font-size: 1=
+rem; color: rgb(153, 0, 85);">.11</span><span class=3D"token numb=
+er" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3</span><=
+span class=3D"token punctuation" style=3D"font-size: 1rem; color:=
+ rgb(153, 153, 153);">:</span><span class=3D"token number" style=3D=
+"font-size: 1rem; color: rgb(153, 0, 85);">6386</span> to make it=
+ join the cluster<span class=3D"token punctuation" style=3D"font-=
+size: 1rem; color: rgb(153, 153, 153);">.</span>=0A<span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">[</span>OK<span class=3D"token punctuation" style=3D"fon=
+t-size: 1rem; color: rgb(153, 153, 153);">]</span> New node added=
+ correctly<span class=3D"token punctuation" style=3D"font-size: 1=
+rem; color: rgb(153, 153, 153);">.</span></code></pre></div><div=20=
+class=3D"toolbar" style=3D"color: rgb(51, 51, 51);"></div><p styl=
+e=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp; =BD=E2=CA=CD=A3=BA</p=
+><p style=3D"color: rgb(61, 70, 77);">redis-trib.rb add-node 192.=
+168.11.3:6386 192.168.11.3:6380</p><p style=3D"color: rgb(61, 70,=
+ 77);">=C3=FC=C1=EE &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=CC=ED=BC=D3=
+=BD=DA=B5=E3 &nbsp; =D0=C2=BD=DA=B5=E3=B5=C4IP:port &nbsp; &nbsp;=
+=BC=AF=C8=BA=C8=CE=D2=E2=BD=DA=B5=E3=B5=C4IP:port(=D3=C3=D3=DA=BC=
+=AF=C8=BA=B7=A2=CF=D6)</p><p style=3D"color: rgb(61, 70, 77);"><b=
+r></p><p style=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp; =CD=AC=C0=
+=ED=A3=AC=CE=AA=B8=D5=CC=ED=BC=D3=B5=C4=D6=F7=BD=DA=B5=E3=D4=F6=BC=
+=D3=B8=B1=B1=BE=A3=A8=BC=B4=CC=ED=BC=D3=B4=D3=BD=DA=B5=E3=A3=A9</=
+p><p style=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp; =CA=D7=CF=C8=
+=B2=E9=BF=B4=D0=C2=D4=F6=BD=DA=B5=E3=B5=C4ID=A3=BA</p><div class=3D=
+"code-toolbar" style=3D"color: rgb(51, 51, 51);"><pre class=3D"br=
+ush:python;toolbar:false  language-python" style=3D"font-size: 0.=
+8rem; color: black; background: rgb(245, 242, 240);"><code class=3D=
+"language-python" style=3D"font-size: 0.9rem; color: rgb(51, 51,=20=
+51);"><span class=3D"token punctuation" style=3D"font-size: 1rem;=
+ color: rgb(153, 153, 153);">[</span>root@salt<span class=3D"toke=
+n operator" style=3D"font-size: 1rem; color: rgb(154, 110, 58); b=
+ackground: rgba(255, 255, 255, 0.498039);">-</span>master conf<sp=
+an class=3D"token punctuation" style=3D"font-size: 1rem; color: r=
+gb(153, 153, 153);">]</span><span class=3D"token comment" style=3D=
+"font-size: 1rem; color: rgb(112, 128, 144);"># redis-cli -c -p 6=
+380 CLUSTER nodes | grep 6386</span>=0A<span class=3D"token numbe=
+r" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">301b60cdb45=
+5b9ae27b7b562524c0d039e640815</span> <span class=3D"token number"=
+ style=3D"font-size: 1rem; color: rgb(153, 0, 85);">192.168</span=
+><span class=3D"token number" style=3D"font-size: 1rem; color: rg=
+b(153, 0, 85);">.11</span><span class=3D"token number" style=3D"f=
+ont-size: 1rem; color: rgb(153, 0, 85);">.3</span><span class=3D"=
+token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153,=
+ 153);">:</span><span class=3D"token number" style=3D"font-size:=20=
+1rem; color: rgb(153, 0, 85);">6386</span> master <span class=3D"=
+token operator" style=3D"font-size: 1rem; color: rgb(154, 110, 58=
+); background: rgba(255, 255, 255, 0.498039);">-</span> <span cla=
+ss=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0,=20=
+85);">0</span> <span class=3D"token number" style=3D"font-size: 1=
+rem; color: rgb(153, 0, 85);">1487342302506</span> <span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>0</span> connected</code></pre></div><div class=3D"toolbar" styl=
+e=3D"color: rgb(51, 51, 51);"></div><p style=3D"color: rgb(61, 70=
+, 77);"><br></p><p style=3D"color: rgb(61, 70, 77);">&nbsp;&nbsp;=
+ 4.2 =CC=ED=BC=D3=B4=D3=BD=DA=B5=E3=A3=BA</p><div class=3D"code-t=
+oolbar" style=3D"color: rgb(51, 51, 51);"><pre class=3D"brush:pyt=
+hon;toolbar:false  language-python" style=3D"font-size: 0.8rem; c=
+olor: black; background: rgb(245, 242, 240);"><code class=3D"lang=
+uage-python" style=3D"font-size: 0.9rem; color: rgb(51, 51, 51);"=
+>redis<span class=3D"token operator" style=3D"font-size: 1rem; co=
+lor: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.498039)=
+;">-</span>trib<span class=3D"token punctuation" style=3D"font-si=
+ze: 1rem; color: rgb(153, 153, 153);">.</span>rb add<span class=3D=
+"token operator" style=3D"font-size: 1rem; color: rgb(154, 110, 5=
+8); background: rgba(255, 255, 255, 0.498039);">-</span>node  =0A=
+<span class=3D"token operator" style=3D"font-size: 1rem; color: r=
+gb(154, 110, 58); background: rgba(255, 255, 255, 0.498039);">-</=
+span><span class=3D"token operator" style=3D"font-size: 1rem; col=
+or: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.498039);=
+">-</span>slave <span class=3D"token operator" style=3D"font-size=
+: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255, 255,=
+ 0.498039);">-</span><span class=3D"token operator" style=3D"font=
+-size: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255,=
+ 255, 0.498039);">-</span>master<span class=3D"token operator" st=
+yle=3D"font-size: 1rem; color: rgb(154, 110, 58); background: rgb=
+a(255, 255, 255, 0.498039);">-</span><span class=3D"token builtin=
+" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">id</span> <=
+span class=3D"token number" style=3D"font-size: 1rem; color: rgb(=
+153, 0, 85);">301b60cdb455b9ae27b7b562524c0d039e640815</span> <sp=
+an class=3D"token number" style=3D"font-size: 1rem; color: rgb(15=
+3, 0, 85);">192.168</span><span class=3D"token number" style=3D"f=
+ont-size: 1rem; color: rgb(153, 0, 85);">.11</span><span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>.3</span><span class=3D"token punctuation" style=3D"font-size: 1=
+rem; color: rgb(153, 153, 153);">:</span><span class=3D"token num=
+ber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">6387</spa=
+n>=0A <span class=3D"token number" style=3D"font-size: 1rem; colo=
+r: rgb(153, 0, 85);">192.168</span><span class=3D"token number" s=
+tyle=3D"font-size: 1rem; color: rgb(153, 0, 85);">.11</span><span=
+ class=3D"token number" style=3D"font-size: 1rem; color: rgb(153,=
+ 0, 85);">.3</span><span class=3D"token punctuation" style=3D"fon=
+t-size: 1rem; color: rgb(153, 153, 153);">:</span><span class=3D"=
+token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">=
+6380</span></code></pre></div><div class=3D"toolbar" style=3D"col=
+or: rgb(51, 51, 51);"></div><p style=3D"color: rgb(61, 70, 77);">=
+&nbsp; &nbsp; =B2=E9=BF=B4=D5=FB=B8=F6=BC=AF=C8=BA=D7=B4=BF=F6=A3=
+=BA</p><div class=3D"code-toolbar" style=3D"color: rgb(51, 51, 51=
+);"><pre class=3D"brush:python;toolbar:false  language-python" st=
+yle=3D"font-size: 0.8rem; color: black; background: rgb(245, 242,=
+ 240);"><code class=3D"language-python" style=3D"font-size: 0.9re=
+m; color: rgb(51, 51, 51);"><span class=3D"token punctuation" sty=
+le=3D"font-size: 1rem; color: rgb(153, 153, 153);">[</span>root@s=
+alt<span class=3D"token operator" style=3D"font-size: 1rem; color=
+: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.498039);">=
+-</span>master conf<span class=3D"token punctuation" style=3D"fon=
+t-size: 1rem; color: rgb(153, 153, 153);">]</span><span class=3D"=
+token comment" style=3D"font-size: 1rem; color: rgb(112, 128, 144=
+);"># redis-cli -c -p 6380 CLUSTER nodes</span>=0A<span class=3D"=
+token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">=
+301b60cdb455b9ae27b7b562524c0d039e640815</span> <span class=3D"to=
+ken number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">19=
+2.168</span><span class=3D"token number" style=3D"font-size: 1rem=
+; color: rgb(153, 0, 85);">.11</span><span class=3D"token number"=
+ style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3</span><spa=
+n class=3D"token punctuation" style=3D"font-size: 1rem; color: rg=
+b(153, 153, 153);">:</span><span class=3D"token number" style=3D"=
+font-size: 1rem; color: rgb(153, 0, 85);">6386</span> master <spa=
+n class=3D"token operator" style=3D"font-size: 1rem; color: rgb(1=
+54, 110, 58); background: rgba(255, 255, 255, 0.498039);">-</span=
+> <span class=3D"token number" style=3D"font-size: 1rem; color: r=
+gb(153, 0, 85);">0</span> <span class=3D"token number" style=3D"f=
+ont-size: 1rem; color: rgb(153, 0, 85);">1487342439807</span> <sp=
+an class=3D"token number" style=3D"font-size: 1rem; color: rgb(15=
+3, 0, 85);">0</span> connected=0Affb86e1168215b138c5b7a81ad92e44c=
+a7095b54 <span class=3D"token number" style=3D"font-size: 1rem; c=
+olor: rgb(153, 0, 85);">192.168</span><span class=3D"token number=
+" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.11</span><s=
+pan class=3D"token number" style=3D"font-size: 1rem; color: rgb(1=
+53, 0, 85);">.3</span><span class=3D"token punctuation" style=3D"=
+font-size: 1rem; color: rgb(153, 153, 153);">:</span><span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>6380</span> myself<span class=3D"token punctuation" style=3D"fon=
+t-size: 1rem; color: rgb(153, 153, 153);">,</span>master <span cl=
+ass=3D"token operator" style=3D"font-size: 1rem; color: rgb(154,=20=
+110, 58); background: rgba(255, 255, 255, 0.498039);">-</span> <s=
+pan class=3D"token number" style=3D"font-size: 1rem; color: rgb(1=
+53, 0, 85);">0</span> <span class=3D"token number" style=3D"font-=
+size: 1rem; color: rgb(153, 0, 85);">0</span> <span class=3D"toke=
+n number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">1</s=
+pan> connected <span class=3D"token number" style=3D"font-size: 1=
+rem; color: rgb(153, 0, 85);">0</span><span class=3D"token operat=
+or" style=3D"font-size: 1rem; color: rgb(154, 110, 58); backgroun=
+d: rgba(255, 255, 255, 0.498039);">-</span><span class=3D"token n=
+umber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">5460</s=
+pan>=0Ab34e53b4b82fb11043f73819179524d49ce75ead <span class=3D"to=
+ken number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">19=
+2.168</span><span class=3D"token number" style=3D"font-size: 1rem=
+; color: rgb(153, 0, 85);">.11</span><span class=3D"token number"=
+ style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3</span><spa=
+n class=3D"token punctuation" style=3D"font-size: 1rem; color: rg=
+b(153, 153, 153);">:</span><span class=3D"token number" style=3D"=
+font-size: 1rem; color: rgb(153, 0, 85);">6387</span> slave <span=
+ class=3D"token number" style=3D"font-size: 1rem; color: rgb(153,=
+ 0, 85);">301b60cdb455b9ae27b7b562524c0d039e640815</span> <span c=
+lass=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0=
+, 85);">0</span> <span class=3D"token number" style=3D"font-size:=
+ 1rem; color: rgb(153, 0, 85);">1487342438797</span> <span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>0</span> connected=0A<span class=3D"token number" style=3D"font-=
+size: 1rem; color: rgb(153, 0, 85);">88e0cdfb2794816cb9a1ca39b7ad=
+640656d5ef85</span> <span class=3D"token number" style=3D"font-si=
+ze: 1rem; color: rgb(153, 0, 85);">192.168</span><span class=3D"t=
+oken number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.=
+11</span><span class=3D"token number" style=3D"font-size: 1rem; c=
+olor: rgb(153, 0, 85);">.3</span><span class=3D"token punctuation=
+" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span><=
+span class=3D"token number" style=3D"font-size: 1rem; color: rgb(=
+153, 0, 85);">6382</span> master <span class=3D"token operator" s=
+tyle=3D"font-size: 1rem; color: rgb(154, 110, 58); background: rg=
+ba(255, 255, 255, 0.498039);">-</span> <span class=3D"token numbe=
+r" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">0</span> <s=
+pan class=3D"token number" style=3D"font-size: 1rem; color: rgb(1=
+53, 0, 85);">1487342441826</span> <span class=3D"token number" st=
+yle=3D"font-size: 1rem; color: rgb(153, 0, 85);">3</span> connect=
+ed <span class=3D"token number" style=3D"font-size: 1rem; color:=20=
+rgb(153, 0, 85);">10923</span><span class=3D"token operator" styl=
+e=3D"font-size: 1rem; color: rgb(154, 110, 58); background: rgba(=
+255, 255, 255, 0.498039);">-</span><span class=3D"token number" s=
+tyle=3D"font-size: 1rem; color: rgb(153, 0, 85);">16383</span>=0A=
+a7a1020c36b8b0277c41ac7fc649ed9e81fa1448 <span class=3D"token num=
+ber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">192.168</=
+span><span class=3D"token number" style=3D"font-size: 1rem; color=
+: rgb(153, 0, 85);">.11</span><span class=3D"token number" style=3D=
+"font-size: 1rem; color: rgb(153, 0, 85);">.3</span><span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">:</span><span class=3D"token number" style=3D"font-size:=
+ 1rem; color: rgb(153, 0, 85);">6384</span> slave <span class=3D"=
+token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">=
+8b20dd24f0aa2ba05754c4db016e0a29299df24e</span> <span class=3D"to=
+ken number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">0<=
+/span> <span class=3D"token number" style=3D"font-size: 1rem; col=
+or: rgb(153, 0, 85);">1487342434759</span> <span class=3D"token n=
+umber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">5</span=
+> connected=0A<span class=3D"token number" style=3D"font-size: 1r=
+em; color: rgb(153, 0, 85);">8de9d0da9dfd0db0553c68386cbccdcb5836=
+5123</span> <span class=3D"token number" style=3D"font-size: 1rem=
+; color: rgb(153, 0, 85);">192.168</span><span class=3D"token num=
+ber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.11</span=
+><span class=3D"token number" style=3D"font-size: 1rem; color: rg=
+b(153, 0, 85);">.3</span><span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">:</span><span class=
+=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85=
+);">6383</span> slave ffb86e1168215b138c5b7a81ad92e44ca7095b54 <s=
+pan class=3D"token number" style=3D"font-size: 1rem; color: rgb(1=
+53, 0, 85);">0</span> <span class=3D"token number" style=3D"font-=
+size: 1rem; color: rgb(153, 0, 85);">1487342440816</span> <span c=
+lass=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0=
+, 85);">4</span> connected=0Ae8e6d0e32e0f2ee918795e3a232b9c768b67=
+1f39 <span class=3D"token number" style=3D"font-size: 1rem; color=
+: rgb(153, 0, 85);">192.168</span><span class=3D"token number" st=
+yle=3D"font-size: 1rem; color: rgb(153, 0, 85);">.11</span><span=20=
+class=3D"token number" style=3D"font-size: 1rem; color: rgb(153,=20=
+0, 85);">.3</span><span class=3D"token punctuation" style=3D"font=
+-size: 1rem; color: rgb(153, 153, 153);">:</span><span class=3D"t=
+oken number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">6=
+385</span> slave <span class=3D"token number" style=3D"font-size:=
+ 1rem; color: rgb(153, 0, 85);">88e0cdfb2794816cb9a1ca39b7ad64065=
+6d5ef85</span> <span class=3D"token number" style=3D"font-size: 1=
+rem; color: rgb(153, 0, 85);">0</span> <span class=3D"token numbe=
+r" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">14873424438=
+43</span> <span class=3D"token number" style=3D"font-size: 1rem;=20=
+color: rgb(153, 0, 85);">6</span> connected=0A<span class=3D"toke=
+n number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">8b20=
+dd24f0aa2ba05754c4db016e0a29299df24e</span> <span class=3D"token=20=
+number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">192.16=
+8</span><span class=3D"token number" style=3D"font-size: 1rem; co=
+lor: rgb(153, 0, 85);">.11</span><span class=3D"token number" sty=
+le=3D"font-size: 1rem; color: rgb(153, 0, 85);">.3</span><span cl=
+ass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(15=
+3, 153, 153);">:</span><span class=3D"token number" style=3D"font=
+-size: 1rem; color: rgb(153, 0, 85);">6381</span> master <span cl=
+ass=3D"token operator" style=3D"font-size: 1rem; color: rgb(154,=20=
+110, 58); background: rgba(255, 255, 255, 0.498039);">-</span> <s=
+pan class=3D"token number" style=3D"font-size: 1rem; color: rgb(1=
+53, 0, 85);">0</span> <span class=3D"token number" style=3D"font-=
+size: 1rem; color: rgb(153, 0, 85);">1487342444851</span> <span c=
+lass=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0=
+, 85);">2</span> connected <span class=3D"token number" style=3D"=
+font-size: 1rem; color: rgb(153, 0, 85);">5461</span><span class=3D=
+"token operator" style=3D"font-size: 1rem; color: rgb(154, 110, 5=
+8); background: rgba(255, 255, 255, 0.498039);">-</span><span cla=
+ss=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0,=20=
+85);">10922</span></code></pre></div><div class=3D"toolbar" style=
+=3D"color: rgb(51, 51, 51);"></div><p style=3D"color: rgb(61, 70,=
+ 77);"><br></p><p style=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp;=
+ =BF=C9=D2=D4=BF=B4=B5=BD=D0=C2=D4=F6=B5=C42=B8=F6=BD=DA=B5=E3=D2=
+=D1=BE=AD=BC=D3=C8=EB=BC=AF=C8=BA=A3=AC=B5=AB=CA=C7=C3=BB=D3=D0=B7=
+=D6=C5=E4slot=A3=AC=CB=F9=D3=D0=C4=BF=C7=B0=B2=BB=BB=E1=BD=D3=CA=DC=
+=C8=CE=BA=CEredis client=C1=AC=BD=D3=C7=EB=C7=F3</p><p style=3D"c=
+olor: rgb(61, 70, 77);">5 =C7=A8=D2=C6slot=A3=AC=B2=E2=CA=D4=B6=C1=
+=D0=B4<br></p><p style=3D"color: rgb(61, 70, 77);">&nbsp;&nbsp;&n=
+bsp; =BD=D3=CF=C2=C0=B4=CE=D2=C3=C7=D6=D8=D0=C2=B7=D6=C5=E4=BC=AF=
+=C8=BA=B5=C4slot=A3=AC=CA=B9=CB=F9=D3=D0=B5=C4=BD=DA=B5=E3=CA=FD=C1=
+=BF=BE=F9=BA=E2=A3=AC=D3=DA=B4=CB=CD=AC=CA=B1=C4=A3=C4=E2=D2=B5=CE=
+=F1=B3=CC=D0=F2=B6=D4=BC=AF=C8=BA=B6=C1=D0=B4=B2=D9=D7=F7=A3=AC=B9=
+=DB=B2=EC=C0=A9=C8=DD=C7=A8=D2=C6=B9=FD=B3=CC=D6=D0=B6=C1=D0=B4=CA=
+=C7=B7=F1=B3=F6=B4=ED=B2=A2=CD=B3=BC=C6=B3=F6=B4=ED=B5=C4key=CA=FD=
+=C1=BF=A1=A3</p><p style=3D"color: rgb(61, 70, 77);"><br></p><p s=
+tyle=3D"color: rgb(61, 70, 77);">5.1 =C4=A3=C4=E2=D2=B5=CE=F1=B3=CC=
+=D0=F2&nbsp;</p><p style=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp=
+; =C2=DF=BC=AD=A3=BA=D4=DA=C7=A8=D2=C6slot=B9=FD=B3=CC=D6=D0=A3=AC=
+=B6=D4=BC=AF=C8=BA=B2=D9=D7=F7=A3=AC=B1=E4=B8=FCkey=B6=D4=D3=A6=B5=
+=C4=D6=B5=A3=AC=C8=BB=BA=F3=C1=A2=BF=CC=BB=F1=C8=A1key=B5=C4=D6=B5=
+=A3=AC=C8=F4=B5=C3=B5=BD=B5=C4=D6=B5=D3=EB=CE=D2=C3=C7=C9=E8=D6=C3=
+=B5=C4=D6=B5=CF=E0=CD=AC=A3=AC=D4=F2=CA=FD=BE=DD=D2=BB=D6=C2=A3=AC=
+=CE=B4=B3=F6=B4=ED=A3=BB=C8=F4=B2=BB=CD=AC=A3=A8=BC=B4set=C3=BB=D3=
+=D0=D0=B4=C8=EB=BB=F2get=B4=ED=CE=F3=BD=E1=B9=FB=A3=A9=D4=F2=CD=B3=
+=BC=C6=CE=AA=B4=ED=CE=F3=A1=A3</p><p style=3D"color: rgb(61, 70,=20=
+77);">&nbsp; &nbsp; =B8=C3=B3=CC=D0=F2=D4=DD=B2=BB=D4=CB=D0=D0=A3=
+=AC=B4=FD=B5=BD=BF=AA=CA=BC=C7=A8=D2=C6slot=BA=F3=A3=AC=D4=CB=D0=D0=
+=B8=C3=B3=CC=D0=F2=A1=A3</p><div class=3D"code-toolbar" style=3D"=
+color: rgb(51, 51, 51);"><pre class=3D"brush:python;toolbar:false=
+  language-python" style=3D"font-size: 0.8rem; color: black; back=
+ground: rgb(245, 242, 240);"><code class=3D"language-python" styl=
+e=3D"font-size: 0.9rem; color: rgb(51, 51, 51);"><span class=3D"t=
+oken comment" style=3D"font-size: 1rem; color: rgb(112, 128, 144)=
+;">#!/usr/bin/env python</span>=0A<span class=3D"token comment" s=
+tyle=3D"font-size: 1rem; color: rgb(112, 128, 144);"># -*- coding=
+: utf-8 -*-</span>=0A<span class=3D"token keyword" style=3D"font-=
+size: 1rem; color: rgb(0, 119, 170);">from</span> rediscluster <s=
+pan class=3D"token keyword" style=3D"font-size: 1rem; color: rgb(=
+0, 119, 170);">import</span> StrictRedisCluster=0A<span class=3D"=
+token comment" style=3D"font-size: 1rem; color: rgb(112, 128, 144=
+);"># Requires at least one node for cluster discovery. Multiple=20=
+nodes is recommended.</span>=0Astartup_nodes <span class=3D"token=
+ operator" style=3D"font-size: 1rem; color: rgb(154, 110, 58); ba=
+ckground: rgba(255, 255, 255, 0.498039);">=3D</span> <span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">[</span><span class=3D"token punctuation" style=3D"font-=
+size: 1rem; color: rgb(153, 153, 153);">{</span><span class=3D"to=
+ken string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"=
+host"</span><span class=3D"token punctuation" style=3D"font-size:=
+ 1rem; color: rgb(153, 153, 153);">:</span> <span class=3D"token=20=
+string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"192.=
+168.11.3"</span><span class=3D"token punctuation" style=3D"font-s=
+ize: 1rem; color: rgb(153, 153, 153);">,</span> <span class=3D"to=
+ken string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"=
+port"</span><span class=3D"token punctuation" style=3D"font-size:=
+ 1rem; color: rgb(153, 153, 153);">:</span> <span class=3D"token=20=
+string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">"6380=
+"</span><span class=3D"token punctuation" style=3D"font-size: 1re=
+m; color: rgb(153, 153, 153);">}</span><span class=3D"token punct=
+uation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">,</=
+span>=0A                <span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">{</span><span class=
+=3D"token string" style=3D"font-size: 1rem; color: rgb(102, 153,=20=
+0);">"host"</span><span class=3D"token punctuation" style=3D"font=
+-size: 1rem; color: rgb(153, 153, 153);">:</span> <span class=3D"=
+token string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);"=
+>"192.168.11.3"</span><span class=3D"token punctuation" style=3D"=
+font-size: 1rem; color: rgb(153, 153, 153);">,</span> <span class=
+=3D"token string" style=3D"font-size: 1rem; color: rgb(102, 153,=20=
+0);">"port"</span><span class=3D"token punctuation" style=3D"font=
+-size: 1rem; color: rgb(153, 153, 153);">:</span> <span class=3D"=
+token string" style=3D"font-size: 1rem; color: rgb(102, 153, 0);"=
+>"6381"</span><span class=3D"token punctuation" style=3D"font-siz=
+e: 1rem; color: rgb(153, 153, 153);">}</span><span class=3D"token=
+ punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153)=
+;">,</span>=0A                <span class=3D"token punctuation" s=
+tyle=3D"font-size: 1rem; color: rgb(153, 153, 153);">{</span><spa=
+n class=3D"token string" style=3D"font-size: 1rem; color: rgb(102=
+, 153, 0);">"host"</span><span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">:</span> <span clas=
+s=3D"token string" style=3D"font-size: 1rem; color: rgb(102, 153,=
+ 0);">"192.168.11.3"</span><span class=3D"token punctuation" styl=
+e=3D"font-size: 1rem; color: rgb(153, 153, 153);">,</span> <span=20=
+class=3D"token string" style=3D"font-size: 1rem; color: rgb(102,=20=
+153, 0);">"port"</span><span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">:</span> <span clas=
+s=3D"token string" style=3D"font-size: 1rem; color: rgb(102, 153,=
+ 0);">"6382"</span><span class=3D"token punctuation" style=3D"fon=
+t-size: 1rem; color: rgb(153, 153, 153);">}</span><span class=3D"=
+token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153,=
+ 153);">,</span>=0A                <span class=3D"token punctuati=
+on" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">{</span=
+><span class=3D"token string" style=3D"font-size: 1rem; color: rg=
+b(102, 153, 0);">"host"</span><span class=3D"token punctuation" s=
+tyle=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span> <sp=
+an class=3D"token string" style=3D"font-size: 1rem; color: rgb(10=
+2, 153, 0);">"192.168.11.3"</span><span class=3D"token punctuatio=
+n" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">,</span>=
+ <span class=3D"token string" style=3D"font-size: 1rem; color: rg=
+b(102, 153, 0);">"port"</span><span class=3D"token punctuation" s=
+tyle=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span> <sp=
+an class=3D"token string" style=3D"font-size: 1rem; color: rgb(10=
+2, 153, 0);">"6383"</span><span class=3D"token punctuation" style=
+=3D"font-size: 1rem; color: rgb(153, 153, 153);">}</span><span cl=
+ass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(15=
+3, 153, 153);">,</span>=0A                <span class=3D"token pu=
+nctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">=
+{</span><span class=3D"token string" style=3D"font-size: 1rem; co=
+lor: rgb(102, 153, 0);">"host"</span><span class=3D"token punctua=
+tion" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</sp=
+an> <span class=3D"token string" style=3D"font-size: 1rem; color:=
+ rgb(102, 153, 0);">"192.168.11.3"</span><span class=3D"token pun=
+ctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">,=
+</span> <span class=3D"token string" style=3D"font-size: 1rem; co=
+lor: rgb(102, 153, 0);">"port"</span><span class=3D"token punctua=
+tion" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</sp=
+an> <span class=3D"token string" style=3D"font-size: 1rem; color:=
+ rgb(102, 153, 0);">"6384"</span><span class=3D"token punctuation=
+" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">}</span><=
+span class=3D"token punctuation" style=3D"font-size: 1rem; color:=
+ rgb(153, 153, 153);">,</span>=0A                <span class=3D"t=
+oken punctuation" style=3D"font-size: 1rem; color: rgb(153, 153,=20=
+153);">{</span><span class=3D"token string" style=3D"font-size: 1=
+rem; color: rgb(102, 153, 0);">"host"</span><span class=3D"token=20=
+punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);=
+">:</span> <span class=3D"token string" style=3D"font-size: 1rem;=
+ color: rgb(102, 153, 0);">"192.168.11.3"</span><span class=3D"to=
+ken punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 1=
+53);">,</span> <span class=3D"token string" style=3D"font-size: 1=
+rem; color: rgb(102, 153, 0);">"port"</span><span class=3D"token=20=
+punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);=
+">:</span> <span class=3D"token string" style=3D"font-size: 1rem;=
+ color: rgb(102, 153, 0);">"6385"</span><span class=3D"token punc=
+tuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">}<=
+/span><span class=3D"token punctuation" style=3D"font-size: 1rem;=
+ color: rgb(153, 153, 153);">]</span>=0Arc <span class=3D"token o=
+perator" style=3D"font-size: 1rem; color: rgb(154, 110, 58); back=
+ground: rgba(255, 255, 255, 0.498039);">=3D</span> StrictRedisClu=
+ster<span class=3D"token punctuation" style=3D"font-size: 1rem; c=
+olor: rgb(153, 153, 153);">(</span>startup_nodes<span class=3D"to=
+ken operator" style=3D"font-size: 1rem; color: rgb(154, 110, 58);=
+ background: rgba(255, 255, 255, 0.498039);">=3D</span>startup_no=
+des<span class=3D"token punctuation" style=3D"font-size: 1rem; co=
+lor: rgb(153, 153, 153);">,</span> decode_responses<span class=3D=
+"token operator" style=3D"font-size: 1rem; color: rgb(154, 110, 5=
+8); background: rgba(255, 255, 255, 0.498039);">=3D</span><span c=
+lass=3D"token boolean" style=3D"font-size: 1rem; color: rgb(153,=20=
+0, 85);">True</span><span class=3D"token punctuation" style=3D"fo=
+nt-size: 1rem; color: rgb(153, 153, 153);">)</span>=0Acount <span=
+ class=3D"token operator" style=3D"font-size: 1rem; color: rgb(15=
+4, 110, 58); background: rgba(255, 255, 255, 0.498039);">=3D</spa=
+n> <span class=3D"token number" style=3D"font-size: 1rem; color:=20=
+rgb(153, 0, 85);">0</span>=0A<span class=3D"token keyword" style=3D=
+"font-size: 1rem; color: rgb(0, 119, 170);">for</span> i <span cl=
+ass=3D"token keyword" style=3D"font-size: 1rem; color: rgb(0, 119=
+, 170);">in</span> <span class=3D"token builtin" style=3D"font-si=
+ze: 1rem; color: rgb(102, 153, 0);">xrange</span><span class=3D"t=
+oken punctuation" style=3D"font-size: 1rem; color: rgb(153, 153,=20=
+153);">(</span><span class=3D"token number" style=3D"font-size: 1=
+rem; color: rgb(153, 0, 85);">100000</span><span class=3D"token p=
+unctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);"=
+>)</span><span class=3D"token punctuation" style=3D"font-size: 1r=
+em; color: rgb(153, 153, 153);">:</span>=0A    key <span class=3D=
+"token operator" style=3D"font-size: 1rem; color: rgb(154, 110, 5=
+8); background: rgba(255, 255, 255, 0.498039);">=3D</span> <span=20=
+class=3D"token string" style=3D"font-size: 1rem; color: rgb(102,=20=
+153, 0);">"key_%s"</span> <span class=3D"token operator" style=3D=
+"font-size: 1rem; color: rgb(154, 110, 58); background: rgba(255,=
+ 255, 255, 0.498039);">%</span> i=0A    value <span class=3D"toke=
+n operator" style=3D"font-size: 1rem; color: rgb(154, 110, 58); b=
+ackground: rgba(255, 255, 255, 0.498039);">=3D</span> <span class=
+=3D"token string" style=3D"font-size: 1rem; color: rgb(102, 153,=20=
+0);">"_value_%s"</span> <span class=3D"token operator" style=3D"f=
+ont-size: 1rem; color: rgb(154, 110, 58); background: rgba(255, 2=
+55, 255, 0.498039);">%</span> i=0A    rc<span class=3D"token punc=
+tuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">.<=
+/span><span class=3D"token builtin" style=3D"font-size: 1rem; col=
+or: rgb(102, 153, 0);">set</span><span class=3D"token punctuation=
+" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">(</span>k=
+ey<span class=3D"token punctuation" style=3D"font-size: 1rem; col=
+or: rgb(153, 153, 153);">,</span> value<span class=3D"token punct=
+uation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">)</=
+span>=0A    result <span class=3D"token operator" style=3D"font-s=
+ize: 1rem; color: rgb(154, 110, 58); background: rgba(255, 255, 2=
+55, 0.498039);">=3D</span> rc<span class=3D"token punctuation" st=
+yle=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</span>get<s=
+pan class=3D"token punctuation" style=3D"font-size: 1rem; color:=20=
+rgb(153, 153, 153);">(</span>key<span class=3D"token punctuation"=
+ style=3D"font-size: 1rem; color: rgb(153, 153, 153);">)</span>=0A=
+    <span class=3D"token keyword" style=3D"font-size: 1rem; color=
+: rgb(0, 119, 170);">if</span> result <span class=3D"token operat=
+or" style=3D"font-size: 1rem; color: rgb(154, 110, 58); backgroun=
+d: rgba(255, 255, 255, 0.498039);">=3D=3D</span> value<span class=
+=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(153,=20=
+153, 153);">:</span>=0A        <span class=3D"token keyword" styl=
+e=3D"font-size: 1rem; color: rgb(0, 119, 170);">pass</span>=0A  =20=
+ <span class=3D"token keyword" style=3D"font-size: 1rem; color: r=
+gb(0, 119, 170);">else</span><span class=3D"token punctuation" st=
+yle=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span>=0A =20=
+      count <span class=3D"token operator" style=3D"font-size: 1r=
+em; color: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.4=
+98039);">+=3D</span><span class=3D"token number" style=3D"font-si=
+ze: 1rem; color: rgb(153, 0, 85);">1</span>=0A<span class=3D"toke=
+n keyword" style=3D"font-size: 1rem; color: rgb(0, 119, 170);">pr=
+int</span> count</code></pre></div><div class=3D"toolbar" style=3D=
+"color: rgb(51, 51, 51);"></div><p style=3D"color: rgb(61, 70, 77=
+);"><br></p><p style=3D"color: rgb(61, 70, 77);">5.2 =C7=A8=D2=C6=
+slot</p><p style=3D"color: rgb(61, 70, 77);">&nbsp; &nbsp; =CE=AA=
+=D0=C2=D4=F6=B5=C4=BD=DA=B5=E3=B7=D6=C5=E4slot=A3=AC=D2=B2=BE=CD=CA=
+=C7=B0=D1=B7=C0=D6=B9=D4=DA=C6=E4=CB=FB=BD=DA=B5=E3=C9=CF=B5=C4sl=
+ot=C7=A8=D2=C6=B5=BD=D5=E2=B8=F6=BD=DA=B5=E3=C9=CF=A3=AC=CD=F8=D3=
+=D1=B5=C4=D2=BB=BE=E4=BB=B0=D0=CE=C8=DD=B5=C4=BA=DC=D0=CE=CF=F3=A3=
+=BA=BE=CD=CF=F1=CD=E6=C6=CB=BF=CB=B3=E9=C5=C6=D2=BB=D1=F9=A3=BAsl=
+ot=B4=D3A=C7=A8=D2=C6=B5=BDB=A3=AC=BE=CD=BA=C3=CF=F1=B4=D3A=B3=E9=
+=D2=BB=D5=C5=C5=C6=A3=AC=B4=D3=C6=E4=CB=FB=CB=F9=D3=D0=BD=DA=B5=E3=
+=C7=A8=D2=C6N=B8=F6slot=A3=AC=C0=E0=CB=C6=D6=D8=D0=C2=CF=B4=C5=C6=
+=B7=A2=C5=C6=D2=BB=D1=F9=A1=A3</p><p style=3D"color: rgb(61, 70,=20=
+77);">&nbsp; &nbsp;&nbsp;</p><div class=3D"code-toolbar" style=3D=
+"color: rgb(51, 51, 51);"><pre class=3D"brush:python;toolbar:fals=
+e  language-python" style=3D"font-size: 0.8rem; color: black; bac=
+kground: rgb(245, 242, 240);"><code class=3D"language-python" sty=
+le=3D"font-size: 0.9rem; color: rgb(51, 51, 51);"><span class=3D"=
+token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153,=
+ 153);">[</span>root@salt<span class=3D"token operator" style=3D"=
+font-size: 1rem; color: rgb(154, 110, 58); background: rgba(255,=20=
+255, 255, 0.498039);">-</span>master <span class=3D"token builtin=
+" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">bin</span><=
+span class=3D"token punctuation" style=3D"font-size: 1rem; color:=
+ rgb(153, 153, 153);">]</span><span class=3D"token comment" style=
+=3D"font-size: 1rem; color: rgb(112, 128, 144);"># redis-trib.rb=20=
+reshard 192.168.11.3:6380    # =B7=D6=C5=E4slot</span>=0A<span cl=
+ass=3D"token operator" style=3D"font-size: 1rem; color: rgb(154,=20=
+110, 58); background: rgba(255, 255, 255, 0.498039);">&gt;&gt;</s=
+pan><span class=3D"token operator" style=3D"font-size: 1rem; colo=
+r: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.498039);"=
+>&gt;</span> Performing Cluster Check <span class=3D"token punctu=
+ation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">(</s=
+pan>using node <span class=3D"token number" style=3D"font-size: 1=
+rem; color: rgb(153, 0, 85);">192.168</span><span class=3D"token=20=
+number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.11</s=
+pan><span class=3D"token number" style=3D"font-size: 1rem; color:=
+ rgb(153, 0, 85);">.3</span><span class=3D"token punctuation" sty=
+le=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span><span=20=
+class=3D"token number" style=3D"font-size: 1rem; color: rgb(153,=20=
+0, 85);">6380</span><span class=3D"token punctuation" style=3D"fo=
+nt-size: 1rem; color: rgb(153, 153, 153);">)</span>=0AM<span clas=
+s=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(153,=
+ 153, 153);">:</span> ffb86e1168215b138c5b7a81ad92e44ca7095b54 <s=
+pan class=3D"token number" style=3D"font-size: 1rem; color: rgb(1=
+53, 0, 85);">192.168</span><span class=3D"token number" style=3D"=
+font-size: 1rem; color: rgb(153, 0, 85);">.11</span><span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>.3</span><span class=3D"token punctuation" style=3D"font-size: 1=
+rem; color: rgb(153, 153, 153);">:</span><span class=3D"token num=
+ber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">6380</spa=
+n>=0A   slots<span class=3D"token punctuation" style=3D"font-size=
+: 1rem; color: rgb(153, 153, 153);">:</span><span class=3D"token=20=
+number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">2683</=
+span><span class=3D"token operator" style=3D"font-size: 1rem; col=
+or: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.498039);=
+">-</span><span class=3D"token number" style=3D"font-size: 1rem;=20=
+color: rgb(153, 0, 85);">5460</span> <span class=3D"token punctua=
+tion" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">(</sp=
+an><span class=3D"token number" style=3D"font-size: 1rem; color:=20=
+rgb(153, 0, 85);">2778</span> slots<span class=3D"token punctuati=
+on" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">)</span=
+> master=0A   <span class=3D"token number" style=3D"font-size: 1r=
+em; color: rgb(153, 0, 85);">1</span> additional replica<span cla=
+ss=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(153=
+, 153, 153);">(</span>s<span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">)</span>=0AS<span c=
+lass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(1=
+53, 153, 153);">:</span> <span class=3D"token number" style=3D"fo=
+nt-size: 1rem; color: rgb(153, 0, 85);">8617133eb1d2ef07f87dd6b10=
+8a4a0ec53ccdf99</span> <span class=3D"token number" style=3D"font=
+-size: 1rem; color: rgb(153, 0, 85);">192.168</span><span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>.11</span><span class=3D"token number" style=3D"font-size: 1rem;=
+ color: rgb(153, 0, 85);">.3</span><span class=3D"token punctuati=
+on" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span=
+><span class=3D"token number" style=3D"font-size: 1rem; color: rg=
+b(153, 0, 85);">6391</span>=0A   slots<span class=3D"token punctu=
+ation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</s=
+pan> <span class=3D"token punctuation" style=3D"font-size: 1rem;=20=
+color: rgb(153, 153, 153);">(</span><span class=3D"token number"=20=
+style=3D"font-size: 1rem; color: rgb(153, 0, 85);">0</span> slots=
+<span class=3D"token punctuation" style=3D"font-size: 1rem; color=
+: rgb(153, 153, 153);">)</span> slave=0A   replicates cdbcbd49b78=
+684188fe321eec90e625ed394e0b7=0A<span class=3D"token punctuation"=
+ style=3D"font-size: 1rem; color: rgb(153, 153, 153);">(</span>=CA=
+=A1=C2=D4=B2=BF=B7=D6=CA=E4=B3=F6<span class=3D"token punctuation=
+" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</span><=
+span class=3D"token punctuation" style=3D"font-size: 1rem; color:=
+ rgb(153, 153, 153);">.</span><span class=3D"token punctuation" s=
+tyle=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</span><spa=
+n class=3D"token punctuation" style=3D"font-size: 1rem; color: rg=
+b(153, 153, 153);">.</span><span class=3D"token punctuation" styl=
+e=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</span><span c=
+lass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(1=
+53, 153, 153);">.</span><span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">)</span>=0A<span cl=
+ass=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(15=
+3, 153, 153);">[</span>OK<span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">]</span> All nodes=20=
+agree about slots configuration<span class=3D"token punctuation"=20=
+style=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</span>=0A=
+<span class=3D"token operator" style=3D"font-size: 1rem; color: r=
+gb(154, 110, 58); background: rgba(255, 255, 255, 0.498039);">&gt=
+;&gt;</span><span class=3D"token operator" style=3D"font-size: 1r=
+em; color: rgb(154, 110, 58); background: rgba(255, 255, 255, 0.4=
+98039);">&gt;</span> Check <span class=3D"token keyword" style=3D=
+"font-size: 1rem; color: rgb(0, 119, 170);">for</span> <span clas=
+s=3D"token builtin" style=3D"font-size: 1rem; color: rgb(102, 153=
+, 0);">open</span> slots<span class=3D"token punctuation" style=3D=
+"font-size: 1rem; color: rgb(153, 153, 153);">.</span><span class=
+=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(153,=20=
+153, 153);">.</span><span class=3D"token punctuation" style=3D"fo=
+nt-size: 1rem; color: rgb(153, 153, 153);">.</span>=0A<span class=
+=3D"token operator" style=3D"font-size: 1rem; color: rgb(154, 110=
+, 58); background: rgba(255, 255, 255, 0.498039);">&gt;&gt;</span=
+><span class=3D"token operator" style=3D"font-size: 1rem; color:=20=
+rgb(154, 110, 58); background: rgba(255, 255, 255, 0.498039);">&g=
+t;</span> Check slots coverage<span class=3D"token punctuation" s=
+tyle=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</span><spa=
+n class=3D"token punctuation" style=3D"font-size: 1rem; color: rg=
+b(153, 153, 153);">.</span><span class=3D"token punctuation" styl=
+e=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</span>=0A<spa=
+n class=3D"token punctuation" style=3D"font-size: 1rem; color: rg=
+b(153, 153, 153);">[</span>OK<span class=3D"token punctuation" st=
+yle=3D"font-size: 1rem; color: rgb(153, 153, 153);">]</span> All=20=
+<span class=3D"token number" style=3D"font-size: 1rem; color: rgb=
+(153, 0, 85);">16384</span> slots covered<span class=3D"token pun=
+ctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">.=
+</span>=0AHow many slots do you want to move <span class=3D"token=
+ punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153)=
+;">(</span><span class=3D"token keyword" style=3D"font-size: 1rem=
+; color: rgb(0, 119, 170);">from</span> <span class=3D"token numb=
+er" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">1</span> t=
+o <span class=3D"token number" style=3D"font-size: 1rem; color: r=
+gb(153, 0, 85);">16384</span><span class=3D"token punctuation" st=
+yle=3D"font-size: 1rem; color: rgb(153, 153, 153);">)</span>? <sp=
+an class=3D"token number" style=3D"font-size: 1rem; color: rgb(15=
+3, 0, 85);">6384</span>            <span class=3D"token comment"=20=
+style=3D"font-size: 1rem; color: rgb(112, 128, 144);"># =CA=E4=C8=
+=EB=D2=AA=C7=A8=D2=C6=B5=C4slot=B5=C4=CA=FD=C1=BF</span>=0AWhat <=
+span class=3D"token keyword" style=3D"font-size: 1rem; color: rgb=
+(0, 119, 170);">is</span> the receiving node ID? cdbcbd49b7868418=
+8fe321eec90e625ed394e0b7=0APlease enter <span class=3D"token buil=
+tin" style=3D"font-size: 1rem; color: rgb(102, 153, 0);">all</spa=
+n> the source node IDs<span class=3D"token punctuation" style=3D"=
+font-size: 1rem; color: rgb(153, 153, 153);">.</span>=0A  Type <s=
+pan class=3D"token string" style=3D"font-size: 1rem; color: rgb(1=
+02, 153, 0);">'all'</span> to use <span class=3D"token builtin" s=
+tyle=3D"font-size: 1rem; color: rgb(102, 153, 0);">all</span> the=
+ nodes <span class=3D"token keyword" style=3D"font-size: 1rem; co=
+lor: rgb(0, 119, 170);">as</span> source nodes <span class=3D"tok=
+en keyword" style=3D"font-size: 1rem; color: rgb(0, 119, 170);">f=
+or</span> the <span class=3D"token builtin" style=3D"font-size: 1=
+rem; color: rgb(102, 153, 0);">hash</span> slots<span class=3D"to=
+ken punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 1=
+53);">.</span>=0A  Type <span class=3D"token string" style=3D"fon=
+t-size: 1rem; color: rgb(102, 153, 0);">'done'</span> once you en=
+tered <span class=3D"token builtin" style=3D"font-size: 1rem; col=
+or: rgb(102, 153, 0);">all</span> the source nodes IDs<span class=
+=3D"token punctuation" style=3D"font-size: 1rem; color: rgb(153,=20=
+153, 153);">.</span>=0ASource node <span class=3D"token comment"=20=
+style=3D"font-size: 1rem; color: rgb(112, 128, 144);">#1:all    =20=
+                                               # =CA=E4=C8=EBslot=
+=C0=B4=D4=B4=BD=DA=B5=E3=A3=ACall=B1=ED=CA=BE=CB=F9=D3=D0=C6=E4=CB=
+=FC=BD=DA=B5=E3</span>=0A    Moving slot <span class=3D"token num=
+ber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">6260</spa=
+n> <span class=3D"token keyword" style=3D"font-size: 1rem; color:=
+ rgb(0, 119, 170);">from</span> <span class=3D"token number" styl=
+e=3D"font-size: 1rem; color: rgb(153, 0, 85);">301b60cdb455b9ae27=
+b7b562524c0d039e640815</span>=0A    Moving slot <span class=3D"to=
+ken number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">62=
+61</span> <span class=3D"token keyword" style=3D"font-size: 1rem;=
+ color: rgb(0, 119, 170);">from</span> <span class=3D"token numbe=
+r" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">301b60cdb45=
+5b9ae27b7b562524c0d039e640815</span>=0A    Moving slot <span clas=
+s=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 8=
+5);">6262</span> <span class=3D"token keyword" style=3D"font-size=
+: 1rem; color: rgb(0, 119, 170);">from</span> <span class=3D"toke=
+n number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">301b=
+60cdb455b9ae27b7b562524c0d039e640815</span>=0A    Moving slot <sp=
+an class=3D"token number" style=3D"font-size: 1rem; color: rgb(15=
+3, 0, 85);">6263</span> <span class=3D"token keyword" style=3D"fo=
+nt-size: 1rem; color: rgb(0, 119, 170);">from</span> <span class=3D=
+"token number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);"=
+>301b60cdb455b9ae27b7b562524c0d039e640815</span>=0ADo you want to=
+ proceed <span class=3D"token keyword" style=3D"font-size: 1rem;=20=
+color: rgb(0, 119, 170);">with</span> the proposed reshard plan <=
+span class=3D"token punctuation" style=3D"font-size: 1rem; color:=
+ rgb(153, 153, 153);">(</span>yes<span class=3D"token operator" s=
+tyle=3D"font-size: 1rem; color: rgb(154, 110, 58); background: rg=
+ba(255, 255, 255, 0.498039);">/</span>no<span class=3D"token punc=
+tuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">)<=
+/span>? yes    <span class=3D"token comment" style=3D"font-size:=20=
+1rem; color: rgb(112, 128, 144);"># =D7=EE=D6=D5=C8=B7=C8=CF</spa=
+n>=0AMoving slot <span class=3D"token number" style=3D"font-size:=
+ 1rem; color: rgb(153, 0, 85);">0</span> <span class=3D"token key=
+word" style=3D"font-size: 1rem; color: rgb(0, 119, 170);">from</s=
+pan> <span class=3D"token number" style=3D"font-size: 1rem; color=
+: rgb(153, 0, 85);">192.168</span><span class=3D"token number" st=
+yle=3D"font-size: 1rem; color: rgb(153, 0, 85);">.11</span><span=20=
+class=3D"token number" style=3D"font-size: 1rem; color: rgb(153,=20=
+0, 85);">.3</span><span class=3D"token punctuation" style=3D"font=
+-size: 1rem; color: rgb(153, 153, 153);">:</span><span class=3D"t=
+oken number" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">6=
+388</span> to <span class=3D"token number" style=3D"font-size: 1r=
+em; color: rgb(153, 0, 85);">192.168</span><span class=3D"token n=
+umber" style=3D"font-size: 1rem; color: rgb(153, 0, 85);">.11</sp=
+an><span class=3D"token number" style=3D"font-size: 1rem; color:=20=
+rgb(153, 0, 85);">.3</span><span class=3D"token punctuation" styl=
+e=3D"font-size: 1rem; color: rgb(153, 153, 153);">:</span><span c=
+lass=3D"token number" style=3D"font-size: 1rem; color: rgb(153, 0=
+, 85);">6390</span><span class=3D"token punctuation" style=3D"fon=
+t-size: 1rem; color: rgb(153, 153, 153);">:</span> <span class=3D=
+"token punctuation" style=3D"font-size: 1rem; color: rgb(153, 153=
+, 153);">.</span><span class=3D"token punctuation" style=3D"font-=
+size: 1rem; color: rgb(153, 153, 153);">.</span><span class=3D"to=
+ken punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 1=
+53);">.</span><span class=3D"token punctuation" style=3D"font-siz=
+e: 1rem; color: rgb(153, 153, 153);">.</span><span class=3D"token=
+ punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153)=
+;">.</span>=0A<span class=3D"token punctuation" style=3D"font-siz=
+e: 1rem; color: rgb(153, 153, 153);">.</span><span class=3D"token=
+ punctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153)=
+;">.</span><span class=3D"token punctuation" style=3D"font-size:=20=
+1rem; color: rgb(153, 153, 153);">.</span><span class=3D"token pu=
+nctuation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">=
+.</span><span class=3D"token punctuation" style=3D"font-size: 1re=
+m; color: rgb(153, 153, 153);">.</span><span class=3D"token punct=
+uation" style=3D"font-size: 1rem; color: rgb(153, 153, 153);">.</=
+span><span class=3D"token punctuation" style=3D"font-size: 1rem;=20=
+color: rgb(153, 153, 153);">.</span></code></pre></div><div class=
+=3D"toolbar" style=3D"color: rgb(51, 51, 51);"></div><p style=3D"=
+color: rgb(61, 70, 77);"><br></p><p style=3D"color: rgb(61, 70, 7=
+7);">&nbsp; &nbsp; =C7=A8=D2=C6=B5=C4slot=B5=C4=CA=FD=C1=BF=BF=C9=
+=D2=D4=B8=F9=BE=DD=BD=DA=B5=E3=C5=E4=D6=C3=B2=BB=CD=AC=B6=F8=B2=BB=
+=CD=AC=A3=AC=C8=F4=B8=F7=BD=DA=B5=E3=C5=E4=D6=C3=CF=E0=CD=AC=A3=AC=
+=D4=F2=BF=C9=D2=D4=C6=BD=BE=F9=B7=D6=C5=E4slot=A3=A8n=3D16384/=D6=
+=F7=BD=DA=B5=E3=CA=FD=C1=BF=A3=A9</p><p style=3D"color: rgb(61, 7=
+0, 77);">&nbsp;&nbsp;&nbsp; =C1=ED=CD=E2=A3=AC=D4=DA=B3=D0=D4=D8=D2=
+=B5=CE=F1=B5=C4=BC=AF=C8=BA=C9=CF=C3=E6=BD=F8=D0=D0=C7=A8=D2=C6=CA=
+=B1=A3=AC=CA=FD=BE=DD=C1=BF=D4=BD=B4=F3=A3=AC=C7=A8=D2=C6=CA=B1=BC=
+=E4=D4=BD=B3=A4=A1=A3<br></p><p style=3D"color: rgb(61, 70, 77);"=
+>6 =B1=BE=B4=CE=CC=BD=BE=BF=BD=E1=C2=DB</p><p style=3D"color: rgb=
+(61, 70, 77);">&nbsp;&nbsp;&nbsp; redis-cluster=C0=A9=C8=DD(slot=C7=
+=A8=D2=C6)=B2=BB=D3=B0=CF=EC=CA=FD=BE=DD=B5=C4=B6=C1=D0=B4=A1=A3<=
+/p><div class=3D"artical-content-bak main-content editor-side-new=
+" style=3D"color: rgb(51, 51, 51);"><br></div><div style=3D"color=
+: gray;"><small>=C0=B4=D4=B4=A3=BA&nbsp;<a href=3D"http://blog.51=
+cto.com/xiaotaoge/1899800">http://blog.51cto.com/xiaotaoge/189980=
+0</a></small></div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000170687.688--
+
+------=_Next_Part_0000512061.861
+Content-Type: image/png;
+	name="0.8532278649491902.png"
+Content-Transfer-Encoding: base64
+Content-ID: <0.8532278649491902.png>
+Content-Location: 0.8532278649491902.png
+
+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
+
+------=_Next_Part_0000512061.861--
+

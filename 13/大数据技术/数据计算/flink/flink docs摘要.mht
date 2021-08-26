@@ -1,0 +1,890 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?ZmxpbmsgZG9jc9Wq0qo=?=
+Date: Date: Fri, 23 Jul 2021 05:53:35 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0001087029.671"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0001087029.671
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000362343.457"
+
+
+------=_Next_Part_0000362343.457
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000362343.457
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+<title>flink docs=D5=AA=D2=AA</title>=0A    =0A<style id=3D"wiz_c=
+ustom_css">html, .wiz-editor-body {font-size: 12pt;}.wiz-editor-b=
+ody {font-family: Helvetica, 'Hiragino Sans GB', '=E5=BE=AE=E8=BD=
+=AF=E9=9B=85=E9=BB=91', 'Microsoft YaHei UI', SimSun, SimHei, ari=
+al, sans-serif;line-height: 1.7;margin: 0 auto;padding: 20px 16px=
+;padding: 1.25rem 1rem;}.wiz-editor-body h1,.wiz-editor-body h2,.=
+wiz-editor-body h3,.wiz-editor-body h4,.wiz-editor-body h5,.wiz-e=
+ditor-body h6 {margin:20px 0 10px;margin:1.25rem 0 0.625rem;paddi=
+ng: 0;font-weight: bold;}.wiz-editor-body h1 {font-size:20pt;font=
+-size:1.67rem;}.wiz-editor-body h2 {font-size:18pt;font-size:1.5r=
+em;}.wiz-editor-body h3 {font-size:15pt;font-size:1.25rem;}.wiz-e=
+ditor-body h4 {font-size:14pt;font-size:1.17rem;}.wiz-editor-body=
+ h5 {font-size:12pt;font-size:1rem;}.wiz-editor-body h6 {font-siz=
+e:12pt;font-size:1rem;color: #777777;margin: 1rem 0;}.wiz-editor-=
+body div,.wiz-editor-body p,.wiz-editor-body ul,.wiz-editor-body=20=
+ol,.wiz-editor-body dl,.wiz-editor-body li {margin:8px 0;}.wiz-ed=
+itor-body blockquote,.wiz-editor-body table,.wiz-editor-body pre,=
+.wiz-editor-body code {margin:8px 0;}.wiz-editor-body .CodeMirror=
+ pre {margin:0;}.wiz-editor-body ul,.wiz-editor-body ol {padding-=
+left:32px;padding-left:2rem;}.wiz-editor-body ol.wiz-list-level1=20=
+> li {list-style-type:decimal;}.wiz-editor-body ol.wiz-list-level=
+2 > li {list-style-type:lower-latin;}.wiz-editor-body ol.wiz-list=
+-level3 > li {list-style-type:lower-roman;}.wiz-editor-body block=
+quote {padding: 0 12px;}.wiz-editor-body blockquote > :first-chil=
+d {margin-top:0;}.wiz-editor-body blockquote > :last-child {margi=
+n-bottom:0;}.wiz-editor-body img {border:0;max-width:100%;height:=
+auto !important;margin:2px 0;}.wiz-editor-body table {border-coll=
+apse:collapse;border:1px solid #bbbbbb;}.wiz-editor-body td,.wiz-=
+editor-body th {padding:4px 8px;border-collapse:collapse;border:1=
+px solid #bbbbbb;min-height:28px;word-break:break-word;box-sizing=
+: border-box;}.wiz-hide {display:none !important;}</style></head>=
+=0A=0A<body class=3D"wiz-editor-body" spellcheck=3D"false" style=3D=
+"opacity: 1;" ><div>=D5=AA=D2=AA</div><div>flink =CC=ED=BC=D3=CA=FD=
+=BE=DD=D4=B4 =A3=BAStreamExecutionEnvironment.addSource=A3=BB	=CA=
+=B5=CF=D6SourceFunction =A1=A2ParallelSourceFunction=BD=D3=BF=DA=09=
+=A3=BB=C0=A9=D5=B9 RichParallelSourceFunctionfor =A3=BB=B1=E0=D0=B4=
+=D7=D4=BC=BA=B5=C4=D7=D4=B6=A8=D2=E5=D4=B4 &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</div><di=
+v>=D4=A4=B6=A8=D2=E5=B5=C4=C1=F7=D4=B4 =A3=BA=BB=F9=D3=DA=A3=BA=CE=
+=C4=BC=FE	=A1=A2socket=A1=A2	=BC=AF=BA=CF &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp;&nbsp;</div><div>=BF=D8=D6=C6=D1=D3=B3=D9=A3=BAenv.=
+setBufferTimeout=A3=BB=B5=B1=B4=AB=C8=EB=C1=F7=CB=D9=B6=C8=B2=BB=B9=
+=BB=BF=EC=CA=B1=A3=AC=BC=B4=CA=B9=BB=BA=B3=E5=C7=F8=CE=B4=C2=FA=A3=
+=AC=D2=B2=BB=E1=D7=D4=B6=AF=B7=A2=CB=CD=BB=BA=B3=E5=C7=F8;=C4=AC=C8=
+=CF=D6=B5=CE=AA100=BA=C1=C3=EB &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nb=
+sp;</div><div>kafka=CA=FD=BE=DD=D4=B4=A3=BAsetStartFromXX=B4=D3=C4=
+=C4=B8=F6=BC=C7=C2=BC=BB=F2=CA=B1=BC=E4=BF=AA=CA=BC	;env.enableCh=
+eckpointing =C9=E8=D6=C3=BC=EC=B2=E9=B5=E3=BC=E4=B8=F4	;flink.par=
+tition-discovery.interval-millis =B7=D6=C7=F8=B7=A2=CF=D6	;=BB=F9=
+=D3=DA=D6=F7=CC=E2=C3=FB=B3=C6=B5=C4=C4=A3=CA=BD=C6=A5=C5=E4=C0=B4=
+=B7=A2=CF=D6=D6=F7=CC=E2Pattern.compile=A3=A8=A1=B0test-topic- [0=
+-9]=A1=B1=A3=A9 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp;</div><div>kafka=C6=AB=D2=C6=C1=BF=CC=E1=BD=BB=A3=BA=BD=FB=
+=D3=C3=BC=EC=B2=E9=B5=E3=A3=AC=B6=A8=C6=DA=C6=AB=D2=C6=CC=E1=BD=BB=
+ ;enable.auto.commit=A3=ACauto.commit.interval.ms	;=C6=F4=D3=C3=BC=
+=EC=B2=E9=B5=E3=A3=AC=BC=EC=B2=E9=B5=E3=CD=EA=B3=C9=CA=B1=CC=E1=BD=
+=BB ; setCommitOffsetsOnCheckpoints(boolean) &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div>fl=
+ink=C1=F7=D7=AA=BB=BB=A3=BADataStream--=A3=A8keyby=A3=A9=A1=FAKey=
+edStream--=A3=A8apply=A1=A2reduce=A1=A2fold=A1=A2=BE=DB=BA=CF =A3=
+=A9=A1=FADataStream	;</div><div>KeyedStream--=A3=A8window=A3=A9=A1=
+=FAWindowedStream --=A3=A8apply=A1=A2reduce=A1=A2fold=A1=A2=BE=DB=
+=BA=CF =A3=A9=A1=FADataStream	;</div><div>=C1=F7=BA=CF=B2=A2union=
+ =A1=A2join =A1=A2intervalJoin=A1=A2coGroup=A1=A2connect	;</div><=
+div>DataStream--=A3=A8split=A3=A9=A1=FASplitStream --=A3=A8select=
+=A3=A9=A1=FADataStream &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p;&nbsp;</div><div>flink=B7=D6=C7=F8=A3=BA=D7=D4=B6=A8=D2=E5=B7=D6=
+=C7=F8partitionCustom	;=CB=E6=BB=FA=B7=D6=C7=F8shuffle;=D6=D8=D0=C2=
+=C6=BD=BA=E2=A3=A8=C2=D6=D1=AF=B7=D6=C7=F8=A3=A9rebalance	;=D6=D8=
+=D0=C2=CB=F5=B7=C5rescale &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><div>flink=CA=B1=BC=E4=CB=AE=
+=D3=A1=B2=A2=D0=D0=B6=C8=A3=BA setStreamTimeCharacteristic=C9=E8=B6=
+=A8=CA=B1=BC=E4=CC=D8=D5=F7ProcessingTime=A1=A2EventTime=A1=A2Ing=
+estionTime=A3=A8=B4=A6=C0=ED=CA=B1=BC=E4=A1=A2=CA=C2=BC=FE=CA=B1=BC=
+=E4=A1=A2=C9=E3=C8=A1=CA=B1=BC=E4=A3=A9;</div><div>assignTimestam=
+psAndWatermarks=C9=FA=B3=C9=CA=B1=BC=E4=B4=C1/=CB=AE=D3=A1=A3=BA=B6=
+=A8=CA=B1=CC=E1=C8=A1=A1=A2=C3=BF=D2=BB=B8=F6event=B5=BD=C0=B4=B5=
+=C4=CA=B1=BA=F2&nbsp;</div><div>=B2=A2=D0=D0=B6=C8=A3=BA=CB=E3=D7=
+=D3=B2=E3=B4=CEsetParallelism(5)=A1=A2=D6=B4=D0=D0=BB=B7=BE=B3=B2=
+=E3=B4=CEenv.setParallelism(3)=A1=A2=BF=CD=BB=A7=B6=CB=B2=E3=B4=CE=
+ flink run -p 10 =A1=A2=C5=E4=D6=C3=CE=C4=BC=FE=D6=D0=B5=C4 paral=
+lelism.default =B2=CE=CA=FD&nbsp;</div><div><br></div><div><span>=
+<br></span></div><div><span>&nbsp;</span><a href=3D"https://githu=
+b.com/apache/flink/tree/master/docs/dev">https://github.com/apach=
+e/flink/tree/master/docs/dev</a><br></div><h3>=C8=EB=C3=C5</h3><d=
+iv>dev/datastream_api.zh.md</div><div>=CA=B5<span data-wiz-span=3D=
+"data-wiz-span">=C0=FD=B3=CC=D0=F2&nbsp;</span><span style=3D""><=
+span data-wiz-span=3D"data-wiz-span">WindowWordCount</span></span=
+><span style=3D""><span><span data-wiz-span=3D"data-wiz-span">&nb=
+sp;</span></span></span></div><div><span style=3D""><span><span d=
+ata-wiz-span=3D"data-wiz-span">=CA=FD=BE=DD=D4=B4&nbsp;</span></s=
+pan></span><span style=3D""><span><span style=3D""><span data-wiz=
+-span=3D"data-wiz-span">StreamExecutionEnvironment.addSource(sour=
+ceFunction)</span></span></span></span></div><div><span style=3D"=
+"><span><font><font><span data-wiz-span=3D"data-wiz-span">=CD=A8=B9=
+=FD</span></font></font></span></span><span style=3D"line-height:=
+ 27.2px;"><span data-wiz-span=3D"data-wiz-span">=CA=B5=CF=D6</spa=
+n></span><span style=3D"line-height: 27.2px; color: rgb(36, 41, 4=
+6);"><code style=3D"font-size: 0.85rem; background-color: rgba(27=
+, 31, 35, 0.0470588);"></code></span><span style=3D"line-height:=20=
+27.2px;"><code><span data-wiz-span=3D"data-wiz-span">SourceFuncti=
+on</span></code></span><span style=3D"line-height: 1.7;"><span da=
+ta-wiz-span=3D"data-wiz-span">&nbsp;</span></span><span style=3D"=
+line-height: 1.7;"><span data-wiz-span=3D"data-wiz-span">=B7=C7=B2=
+=A2=D0=D0=D4=B4=A3=AC=BB=F2=CD=A8=B9=FD=CA=B5=CF=D6</span></span>=
+<span style=3D"line-height: 1.7; color: rgb(36, 41, 46);"><code s=
+tyle=3D"font-size: 0.85rem; background-color: rgba(27, 31, 35, 0.=
+0470588);"></code></span><span style=3D"line-height: 1.7;"><code>=
+<span data-wiz-span=3D"data-wiz-span">ParallelSourceFunction</spa=
+n></code></span><span style=3D"line-height: 1.7;"><span data-wiz-=
+span=3D"data-wiz-span">=BD=D3=BF=DA=BB=F2=C0=A9=D5=B9</span></spa=
+n><span style=3D"line-height: 1.7;"><span data-wiz-span=3D"data-w=
+iz-span">&nbsp;</span></span><span style=3D"line-height: 1.7; col=
+or: rgb(36, 41, 46);"><code style=3D"font-size: 0.85rem; backgrou=
+nd-color: rgba(27, 31, 35, 0.0470588);"></code></span><span style=
+=3D"line-height: 1.7;"><code><span data-wiz-span=3D"data-wiz-span=
+">RichParallelSourceFunction</span></code></span><span style=3D"l=
+ine-height: 1.7;"><span data-wiz-span=3D"data-wiz-span">for paral=
+lel=D4=B4</span></span><span style=3D"line-height: 1.7;"><span da=
+ta-wiz-span=3D"data-wiz-span">=C0=B4=B1=E0=D0=B4=D7=D4=BC=BA=B5=C4=
+=D7=D4=B6=A8=D2=E5</span></span><span style=3D"line-height: 1.7;"=
+><span data-wiz-span=3D"data-wiz-span">=D4=B4</span></span></div>=
+<div><span style=3D""><span><font><font><span><span data-wiz-span=
+=3D"data-wiz-span">=D4=A4=B6=A8=D2=E5=B5=C4=C1=F7=D4=B4 =A3=BA</s=
+pan></span></font></font></span></span><span style=3D"color: rgb(=
+36, 41, 46); line-height: 1.7;">=BB=F9=D3=DA=CE=C4=BC=FE=A3=ACsoc=
+ket=A3=AC=BC=AF=BA=CF=A3=AC=D7=D4=B6=A8=D2=E5&nbsp;</span><span s=
+tyle=3D"color: rgb(36, 41, 46); font-size: 0.85rem; background-co=
+lor: rgba(27, 31, 35, 0.0470588);">addSource(new FlinkKafkaConsum=
+er08&lt;&gt;(...))</span></div><div><span style=3D"color: rgb(36,=
+ 41, 46); font-size: 0.85rem; background-color: rgba(27, 31, 35,=20=
+0.0470588);"><span style=3D"font-size: 1rem; background-color: rg=
+b(255, 255, 255);">dev</span></span>/<span style=3D"color: rgb(36=
+, 41, 46); font-size: 0.85rem; background-color: rgba(27, 31, 35,=
+ 0.0470588);"><span style=3D"font-size: 1rem; background-color: r=
+gb(255, 255, 255);">connectors</span></span><span style=3D"color:=
+ rgb(36, 41, 46); font-size: 0.85rem; background-color: rgba(27,=20=
+31, 35, 0.0470588);"><span style=3D"font-size: 1rem; background-c=
+olor: rgb(255, 255, 255);"><span style=3D"color: rgb(0, 0, 0);">/=
+</span></span></span><span style=3D"color: rgb(36, 41, 46); font-=
+size: 0.85rem; background-color: rgba(27, 31, 35, 0.0470588);"><s=
+pan style=3D"font-size: 1rem; background-color: rgb(255, 255, 255=
+);"><span style=3D"font-size: 0.85rem; background-color: rgba(27,=
+ 31, 35, 0.0470588);"><span style=3D"font-size:1rem;background-co=
+lor:rgb(255, 255, 255);">index</span></span></span></span><span s=
+tyle=3D"color: rgb(36, 41, 46); font-size: 0.85rem; background-co=
+lor: rgba(27, 31, 35, 0.0470588);"><span style=3D"font-size: 1rem=
+; background-color: rgb(255, 255, 255);">.md =CA=FD=BE=DD=D4=B4</=
+span></span><span style=3D"color: rgb(36, 41, 46); font-size: 0.8=
+5rem; background-color: rgba(27, 31, 35, 0.0470588);"><br></span>=
+</div><div><span style=3D"color: rgb(36, 41, 46); font-size: 0.85=
+rem; background-color: rgba(27, 31, 35, 0.0470588);"><span style=3D=
+"font-size: 1rem; background-color: rgb(255, 255, 255);">dev</spa=
+n></span>/<span style=3D"color: rgb(36, 41, 46); font-size: 0.85r=
+em; background-color: rgba(27, 31, 35, 0.0470588);"><span style=3D=
+"font-size: 1rem; background-color: rgb(255, 255, 255);">stream</=
+span></span>/<span style=3D"color: rgb(36, 41, 46); font-size: 0.=
+85rem; background-color: rgba(27, 31, 35, 0.0470588);"><span styl=
+e=3D"font-size: 1rem; background-color: rgb(255, 255, 255);">oper=
+ators</span></span>/<span style=3D"color: rgb(36, 41, 46); font-s=
+ize: 0.85rem; background-color: rgba(27, 31, 35, 0.0470588);"><sp=
+an style=3D"font-size: 1rem; background-color: rgb(255, 255, 255)=
+;">index</span></span>.md<span style=3D"color: rgb(36, 41, 46); f=
+ont-size: 0.85rem; background-color: rgba(27, 31, 35, 0.0470588);=
+"><span style=3D"font-size: 1rem; background-color: rgb(255, 255,=
+ 255);">&nbsp;DataStream=D7=AA=BB=BB</span></span><span style=3D"=
+color: rgb(36, 41, 46); font-size: 0.85rem; background-color: rgb=
+a(27, 31, 35, 0.0470588);"><br></span></div><div><span style=3D"c=
+olor: rgb(36, 41, 46);"><code><span data-wiz-span=3D"data-wiz-spa=
+n">=CA=FD=BE=DD</span></code></span><span style=3D"color: rgb(36,=
+ 41, 46);"><code></code></span><span style=3D"color: rgb(36, 41,=20=
+46);"><code><span><span data-wiz-span=3D"data-wiz-span">=BD=D3=CA=
+=D5=C6=F7</span></span></code></span><span style=3D"color: rgb(36=
+, 41, 46);"><code></code></span><span style=3D"color: rgb(36, 41,=
+ 46);"><code></code></span><span style=3D"color: rgb(36, 41, 46);=
+"><code></code></span><span style=3D"color: rgb(36, 41, 46);"><co=
+de><span><span data-wiz-span=3D"data-wiz-span"> =C0=E0=CB=C6=D4=B4=
+ &nbsp;</span></span></code></span><span style=3D"color: rgb(36,=20=
+41, 46); background-color: rgba(27, 31, 35, 0.0470588);"><code></=
+code></span><span style=3D"color: rgb(36, 41, 46);"><code></code>=
+</span><span style=3D"color: rgb(36, 41, 46);"><code></code></spa=
+n><span style=3D"color: rgb(36, 41, 46);"><code></code></span><sp=
+an style=3D"color: rgb(36, 41, 46);"><code><span data-wiz-span=3D=
+"data-wiz-span">addSink</span></code></span><span style=3D"color:=
+ rgb(36, 41, 46);"><font><font><span><span data-wiz-span=3D"data-=
+wiz-span">&nbsp;</span></span></font></font></span><span style=3D=
+"color: rgb(36, 41, 46); background-color: rgba(27, 31, 35, 0.047=
+0588);"><br></span></div><div><span style=3D"color: rgb(36, 41, 4=
+6);"><span><font><font><span data-wiz-span=3D"data-wiz-span">=B5=FC=
+=B4=FA =B2=CE=BF=BC</span></font></font></span></span><span style=
+=3D"color: rgb(36, 41, 46); line-height: 1.7;"><span data-wiz-spa=
+n=3D"data-wiz-span">IterateITCase.java</span></span></div><div><s=
+pan style=3D"color: rgb(36, 41, 46); line-height: 1.7;"><span dat=
+a-wiz-span=3D"data-wiz-span">=D6=B4=D0=D0=B2=CE=CA=FD</span></spa=
+n><span style=3D"color: rgb(36, 41, 46); line-height: 1.7;"><font=
+ face=3D"-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica,=20=
+Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Sy=
+mbol"><span data-wiz-span=3D"data-wiz-span">:</span></font></span=
+><span style=3D"color: rgb(36, 41, 46); line-height: 1.7;"><code=20=
+style=3D"background-color: rgba(27, 31, 35, 0.0470588);"></code><=
+/span><span style=3D"color: rgb(36, 41, 46); line-height: 1.7;"><=
+code></code></span><span style=3D"color: rgb(36, 41, 46); line-he=
+ight: 1.7;"><code></code></span><span style=3D"color: rgb(36, 41,=
+ 46); line-height: 1.7;"><code><span data-wiz-span=3D"data-wiz-sp=
+an">StreamExecutionEnvironment</span></code></span><span style=3D=
+"color: rgb(36, 41, 46); line-height: 1.7;"><font><font><span dat=
+a-wiz-span=3D"data-wiz-span">=B0=FC=BA=AC</span></font></font></s=
+pan><span style=3D"color: rgb(36, 41, 46); line-height: 1.7;"><co=
+de style=3D"background-color: rgba(27, 31, 35, 0.0470588);"></cod=
+e></span><span style=3D"color: rgb(36, 41, 46); line-height: 1.7;=
+"><code></code></span><span style=3D"color: rgb(36, 41, 46); line=
+-height: 1.7;"><code></code></span><span style=3D"color: rgb(36,=20=
+41, 46); line-height: 1.7;"><code><span data-wiz-span=3D"data-wiz=
+-span">ExecutionConfig</span></code></span><span style=3D"color:=20=
+rgb(36, 41, 46); line-height: 1.7;"><font><font><span data-wiz-sp=
+an=3D"data-wiz-span">=D4=CA=D0=ED=CE=AA=D4=CB=D0=D0=CA=B1=C9=E8=D6=
+=C3=B9=A4=D7=F7=B5=C4=BE=DF=CC=E5=C5=E4=D6=C3=D6=B5</span></font>=
+</font></span></div><div><font><font color=3D"#24292e"><pre style=
+=3D"font-family: =CB=CE=CC=E5;"><span data-wiz-span=3D"data-wiz-s=
+pan">=BF=D8=D6=C6=D1=D3=B3=D9 env.setBufferTimeout(timeoutMillis)=
+ =B5=B1=B4=AB=C8=EB=C1=F7=CB=D9=B6=C8=B2=BB=B9=BB=BF=EC=CA=B1=A3=AC=
+</span><font><span data-wiz-span=3D"data-wiz-span">=BC=B4=CA=B9=BB=
+=BA=B3=E5=C7=F8=CE=B4=C2=FA=A3=AC=D2=B2=BB=E1=D7=D4=B6=AF=B7=A2=CB=
+=CD=BB=BA=B3=E5=C7=F8=A1=A3</span></font><font><span data-wiz-spa=
+n=3D"data-wiz-span">=B4=CB=B3=AC=CA=B1=B5=C4=C4=AC=C8=CF=D6=B5=CE=
+=AA100=BA=C1=C3=EB</span></font></pre></font></font></div><div><f=
+ont><font><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(36, 41, 46);">=B1=BE=B5=D8=D6=B4=D0=D0=BB=B7=BE=B3&nbsp;</span=
+></font></font><font><font><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"color: rgb(36, 41, 46);">StreamExecutionEnvironment.crea=
+teLocalEnvironment</span></font></font></div><div><font><font col=
+or=3D"#24292e"><span><span data-wiz-span=3D"data-wiz-span">=BC=AF=
+=BA=CF=CA=FD=BE=DD=D4=B4=A3=BA</span></span></font></font><font><=
+font color=3D"#24292e"><span><span><span data-wiz-span=3D"data-wi=
+z-span">=D4=AA=CB=D8=C1=D0=B1=ED&nbsp;</span></span></span></font=
+></font><font><font color=3D"#24292e"><span><span><span data-wiz-=
+span=3D"data-wiz-span">env.fromElements(1,2,3,4,5) &nbsp;=BC=AF=BA=
+=CF&nbsp;</span></span></span></font></font><font><span data-wiz-=
+span=3D"data-wiz-span" style=3D"">&nbsp;</span></font><font><font=
+ color=3D"#24292e"><span><span><span><span data-wiz-span=3D"data-=
+wiz-span">env.fromCollection=A3=A8data=A3=A9;</span></span></span=
+></span></font></font><font><span data-wiz-span=3D"data-wiz-span"=
+ style=3D"">Iterator=B5=FC=B4=FA=C6=F7</span></font><font><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"">&nbsp;</span></font><fo=
+nt><span data-wiz-span=3D"data-wiz-span" style=3D"">env.fromColle=
+ction=A3=A8longIt=A3=ACLong.class=A3=A9;</span></font><font><font=
+ color=3D"#24292e"><br class=3D"Apple-interchange-newline"></font=
+></font></div><div><font><font><span data-wiz-span=3D"data-wiz-sp=
+an" style=3D"color: rgb(36, 41, 46);">=CA=FD=BE=DD=BD=D3=CA=D5=C6=
+=F7&nbsp;</span></font></font><font><font><span data-wiz-span=3D"=
+data-wiz-span" style=3D"color: rgb(36, 41, 46);">DataStreamUtils.=
+collect=A3=A8myResult=A3=A9</span></font></font></div><div><br></=
+div><h3><span>=CA=FD=BE=DD=D4=B4</span></h3><div><font><font colo=
+r=3D"#24292e"><span><span style=3D"font-size: 0.85rem; background=
+-color: rgba(27, 31, 35, 0.0470588);"><span style=3D"font-size:1r=
+em;background-color:rgb(255, 255, 255);">dev</span></span></span>=
+<span><span style=3D"color: rgb(0, 0, 0);">/</span></span><span><=
+span style=3D"font-size: 0.85rem; background-color: rgba(27, 31,=20=
+35, 0.0470588);"><span style=3D"font-size:1rem;background-color:r=
+gb(255, 255, 255);">connectors</span></span></span><span><span st=
+yle=3D"font-size: 0.85rem; background-color: rgba(27, 31, 35, 0.0=
+470588);"><span style=3D"font-size:1rem;background-color:rgb(255,=
+ 255, 255);"><span style=3D"color:rgb(0, 0, 0);">/</span></span><=
+/span></span><span><span style=3D"font-size: 0.85rem; background-=
+color: rgba(27, 31, 35, 0.0470588);"><span style=3D"font-size:1re=
+m;background-color:rgb(255, 255, 255);"><span style=3D"font-size:=
+0.85rem;background-color:rgba(27, 31, 35, 0.0470588);"><span styl=
+e=3D"font-size:1rem;background-color:rgb(255, 255, 255);">index</=
+span></span></span></span></span><span><span style=3D"font-size:=20=
+0.85rem; background-color: rgba(27, 31, 35, 0.0470588);"><span st=
+yle=3D"font-size:1rem;background-color:rgb(255, 255, 255);">.md&n=
+bsp;</span></span></span><span><br></span></font></font></div><di=
+v><font color=3D"#24292e">=D6=A7=B3=D6=D2=D4=CF=C2=CA=FD=BE=DD=D4=
+=B4=A3=BA</font></div><div>Kafka dev/connectors/kafka.html</div><=
+div>Cassandra dev/connectors/cassandra.html</div><div>Elasticsear=
+ch dev/connectors/elasticsearch.html</div><div>Hadoop=CE=C4=BC=FE=
+=CF=B5=CD=B3 dev/connectors/filesystem_sink.html</div><div>Rabbit=
+MQ dev/connectors/rabbitmq.html</div><div>Amazon Kinesis Streams=A1=
+=A2<span style=3D"line-height: 1.7;">Apache NiFi=A1=A2</span><spa=
+n style=3D"line-height: 1.7;">Twitter Streaming API=A1=A2</span><=
+span style=3D"line-height: 1.7;">Google PubSub</span></div><div><=
+span style=3D"line-height: 1.7;">Apache Bahir=D6=D0=B5=C4=C1=AC=BD=
+=D3=C6=F7</span></div><div><span style=3D"line-height: 1.7;">Flum=
+e	https://bahir.apache.org/docs/flink/current/flink-streaming-flu=
+me/</span></div><div><span style=3D"line-height: 1.7;">Redis	http=
+s://bahir.apache.org/docs/flink/current/flink-streaming-redis/</s=
+pan></div><div><span style=3D"line-height: 1.7;">Netty	</span><a=20=
+href=3D"https://bahir.apache.org/docs/flink/current/flink-streami=
+ng-netty/" style=3D"line-height: 1.7;">https://bahir.apache.org/d=
+ocs/flink/current/flink-streaming-netty/</a><br></div><div><span>=
+ActiveMQ=A1=A2</span><span><span>Akka</span></span><br></div><div=
+>=C6=E4=CB=FB=CA=FD=BE=DD=D4=B4 &nbsp;<span style=3D"color: rgb(3=
+6, 41, 46);"><span>&nbsp;</span>/ dev / stream / operators / asyn=
+cio.html&nbsp;</span></div><div>=B2=E9=D1=AFflink=CA=FD=BE=DD=D7=B4=
+=CC=AC&nbsp;<span style=3D"color: rgb(36, 41, 46);"><span>&nbsp;<=
+/span>/ dev / stream / state / queryable_state.html</span></div><=
+div><span style=3D"color: rgb(36, 41, 46);"><br></span></div><div=
+><h3>Kafka =CA=FD=BE=DD=D4=B4</h3></div><div></div><div><span dat=
+a-wiz-span=3D"data-wiz-span">dev/connectors/kafka.md</span></div>=
+<div><span style=3D""><span data-wiz-span=3D"data-wiz-span">prope=
+rties.setProperty=A3=A8=A1=B0bootstrap.servers=A1=B1=A3=AC=A1=B0l=
+ocalhost=A3=BA9092=A1=B1=A3=A9</span></span></div><div><span styl=
+e=3D""><span data-wiz-span=3D"data-wiz-span">//=BD=F6Kafka 0.8=CA=
+=F4=D0=D4=CB=F9=D0=E8.setProperty=A3=A8=A1=B0zookeeper.connect=A1=
+=B1=A3=AC=A1=B0localhost=A3=BA2181 =A1=B0=A3=A9</span></span></di=
+v><div><span style=3D""><span data-wiz-span=3D"data-wiz-span">pro=
+perties.setProperty=A3=A8=A1=B1group.id=A1=B0=A3=AC=A1=B1test=A1=B0=
+=A3=A9</span></span><br></div><div><span style=3D""><span data-wi=
+z-span=3D"data-wiz-span">stream =3D env .addSource=A3=A8new Flink=
+KafkaConsumer08 [String]=A3=A8=A1=B1topic=A1=B0=A3=ACnew SimpleSt=
+ringSchema=A3=A8=A3=A9=A3=ACproperties=A3=A9=A3=A9</span></span><=
+br class=3D"Apple-interchange-newline"><span style=3D""><span dat=
+a-wiz-span=3D"data-wiz-span">myConsumer.setStartFromEarliest=A3=A8=
+=A3=A9//=B4=D3=D7=EE=D4=E7=B5=C4=BC=C7=C2=BC=BF=AA=CA=BC</span></=
+span></div><div><span style=3D""><span data-wiz-span=3D"data-wiz-=
+span">myConsumer.setStartFromLatest=A3=A8=A3=A9//=B4=D3=D7=EE=D0=C2=
+=BC=C7=C2=BC=BF=AA=CA=BC</span></span></div><div><span style=3D""=
+><span data-wiz-span=3D"data-wiz-span">myConsumer.setStartFromTim=
+estamp=A3=A8...=A3=A9//=B4=D3=D6=B8=B6=A8=B5=C4=BC=CD=D4=AA=CA=B1=
+=BC=E4=B4=C1=A3=A8=BA=C1=C3=EB=A3=A9=BF=AA=CA=BC</span></span></d=
+iv><div><span style=3D""><span data-wiz-span=3D"data-wiz-span">my=
+Consumer .setStartFromGroupOffsets=A3=A8=A3=A9//=C4=AC=C8=CF=D0=D0=
+=CE=AA</span></span><br></div><div><span style=3D""><span data-wi=
+z-span=3D"data-wiz-span">myConsumer.setStartFromSpecificOffsets=A3=
+=A8specificStartOffsets=A3=A9//</span></span><span style=3D""><fo=
+nt><font><span data-wiz-span=3D"data-wiz-span">=D6=B8=B6=A8=C6=AB=
+=D2=C6=C1=BF=BF=AA=CA=BC</span></font></font></span><span style=3D=
+"color: rgb(36, 41, 46);"><code style=3D"font-size: 0.85rem; back=
+ground-color: rgba(27, 31, 35, 0.0470588);"></code></span><span s=
+tyle=3D""><code style=3D""></code></span><span style=3D""><code s=
+tyle=3D""><span data-wiz-span=3D"data-wiz-span">myTopic</span></c=
+ode></span><br></div><div><font><span data-wiz-span=3D"data-wiz-s=
+pan">env.enableCheckpointing=A3=A85000=A3=A9;</span></font><font>=
+<span><span data-wiz-span=3D"data-wiz-span">&nbsp;</span></span><=
+/font><font><span data-wiz-span=3D"data-wiz-span">//=BC=EC=B2=E9=B5=
+=E3=C3=BF5000=BA=C1=C3=EB</span></font></div><div><font><font><sp=
+an data-wiz-span=3D"data-wiz-span">=B7=D6=C7=F8=B7=A2=CF=D6=A3=BA=
+</span></font></font><font><font><span><span data-wiz-span=3D"dat=
+a-wiz-span">=D6=A7=B3=D6=B7=A2=CF=D6=B6=AF=CC=AC=B4=B4=BD=A8=B5=C4=
+Kafka=B7=D6=C7=F8=A3=AC</span></span></font></font><span><span da=
+ta-wiz-span=3D"data-wiz-span">flink.partition-discovery.interval-=
+millis</span></span></div><div><span><span data-wiz-span=3D"data-=
+wiz-span">=CA=B9=D3=C3=D5=FD=D4=F2=B1=ED=B4=EF=CA=BD=BB=F9=D3=DA=D6=
+=F7=CC=E2=C3=FB=B3=C6=B5=C4=C4=A3=CA=BD=C6=A5=C5=E4=C0=B4=B7=A2=CF=
+=D6=D6=F7=CC=E2</span></span><br></div><div><span><span><span dat=
+a-wiz-span=3D"data-wiz-span">myConsumer =3D new FlinkKafkaConsume=
+r08 [String]=A3=A8java.util.regex.Pattern.compile=A3=A8=A1=B0test=
+-topic- [0-9]=A1=B1=A3=A9=A3=ACnew SimpleStringSchema=A3=ACproper=
+ties=A3=A9</span></span></span><span style=3D"color:rgb(36, 41, 4=
+6);"><br></span></div><div><span><span><font><font><span data-wiz=
+-span=3D"data-wiz-span">=BD=FB=D3=C3</span></font></font></span><=
+/span><span><span><font><font><span data-wiz-span=3D"data-wiz-spa=
+n">=BC=EC=B2=E9</span></font></font></span></span><span><span><fo=
+nt><font><span data-wiz-span=3D"data-wiz-span">=B5=E3=A3=AC</span=
+></font></font></span></span><span><span><font><font><span><span=20=
+data-wiz-span=3D"data-wiz-span">=B6=A8=C6=DA=C6=AB=D2=C6=CC=E1=BD=
+=BB&nbsp;</span></span></font></font></span></span><span><span da=
+ta-wiz-span=3D"data-wiz-span">enable.auto.commit=A3=AC</span></sp=
+an><span><span data-wiz-span=3D"data-wiz-span">auto.commit.interv=
+al.ms</span></span><span style=3D"color:rgb(36, 41, 46);"><span><=
+br></span></span></div><div><span><font><font><span data-wiz-span=
+=3D"data-wiz-span">=C6=F4=D3=C3</span></font></font></span><span>=
+<font><font><span data-wiz-span=3D"data-wiz-span">=BC=EC=B2=E9</s=
+pan></font></font></span><span><font><font><span data-wiz-span=3D=
+"data-wiz-span">=B5=E3=A3=AC</span></font></font></span><span><fo=
+nt><font><span><span data-wiz-span=3D"data-wiz-span">=BC=EC=B2=E9=
+=B5=E3=CD=EA=B3=C9=CA=B1=CC=E1=BD=BB &nbsp;</span></span></font><=
+/font></span><span style=3D"color:rgb(36, 41, 46);"><font><font><=
+span><code style=3D"background-color:rgba(27, 31, 35, 0.0470588);=
+"></code></span></font></font></span><span><font><font><span><cod=
+e></code></span></font></font></span><span><font><font><span><cod=
+e></code></span></font></font></span><span><font><font><span><cod=
+e><span data-wiz-span=3D"data-wiz-span">setCommitOffsetsOnCheckpo=
+ints(boolean)</span></code></span></font></font></span><span styl=
+e=3D"color:rgb(36, 41, 46);"><br></span></div><div><span><span><s=
+pan data-wiz-span=3D"data-wiz-span">dev / event_timestamps_waterm=
+arks.html&nbsp;</span></span></span><span><span><span><span data-=
+wiz-span=3D"data-wiz-span">=D7=D4=B6=A8=D2=E5=CA=B1=BC=E4=B4=C1=CC=
+=E1=C8=A1=C6=F7/=CB=AE=D3=A1=B7=A2=C9=E4=C6=F7</span></span></spa=
+n></span><span style=3D"color:rgb(36, 41, 46);"><br></span></div>=
+<div><span><span><span><span data-wiz-span=3D"data-wiz-span">dev/=
+event_timestamp_extractors.html&nbsp;</span></span></span></span>=
+<span><span data-wiz-span=3D"data-wiz-span">=CA=B9=D3=C3[=D4=A4=B6=
+=A8=D2=E5=B5=C4</span></span><span style=3D"color:rgb(36, 41, 46)=
+;"><span><br></span></span></div><div><span><span data-wiz-span=3D=
+"data-wiz-span"><span style=3D"color:rgb(36, 41, 46);"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"color:rgb(0, 0, 0);">Kafka P=
+roducer</span></span></span></span></div><div><span><span data-wi=
+z-span=3D"data-wiz-span"><font style=3D"color:rgb(36, 41, 46);"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"color:rgb(0, 0, 0);=
+">FlinkKafkaProducer011 myProducer =3D new FlinkKafkaProducer011=A3=
+=A8=A1=B0localhost=A3=BA9092=A1=B1=A3=AC//=B4=FA=C0=ED=C1=D0=B1=ED=
+</span></font></span></span></div><div><span><span data-wiz-span=3D=
+"data-wiz-span"><font style=3D"color:rgb(36, 41, 46);"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"color:rgb(0, 0, 0);">=A1=B0m=
+y-topic=A1=B1=A3=AC//=C4=BF=B1=EA=D6=F7=CC=E2</span></font></span=
+></span></div><div><span><span data-wiz-span=3D"data-wiz-span"><f=
+ont style=3D"color:rgb(36, 41, 46);"><span data-wiz-span=3D"data-=
+wiz-span" style=3D"color:rgb(0, 0, 0);">new SimpleStringSchema=A3=
+=A8=A3=A9=A3=A9;</span></font></span></span><span><span data-wiz-=
+span=3D"data-wiz-span"><font style=3D"color:rgb(36, 41, 46);"><sp=
+an><span data-wiz-span=3D"data-wiz-span" style=3D"color:rgb(0, 0,=
+ 0);">&nbsp;</span></span></font></span></span><span><span data-w=
+iz-span=3D"data-wiz-span"><font style=3D"color:rgb(36, 41, 46);">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"color:rgb(0, 0, 0)=
+;">//=D0=F2=C1=D0=BB=AF=BC=DC=B9=B9</span></font></span></span><s=
+pan><span data-wiz-span=3D"data-wiz-span"><br></span></span></div=
+><div><font><font><span data-wiz-span=3D"data-wiz-span">myProduce=
+r.setWriteTimestampToKafka=A3=A8true=A3=A9;</span></font></font><=
+/div><p style=3D"color: rgb(36, 41, 46);"><font><font><span data-=
+wiz-span=3D"data-wiz-span" style=3D"color:rgb(0, 0, 0);">stream.a=
+ddSink=A3=A8myProducer=A3=A9;</span></font></font><font><font><sp=
+an><span data-wiz-span=3D"data-wiz-span" style=3D"color:rgb(0, 0,=
+ 0);">&nbsp;</span></span></font></font></p><div><span><span data=
+-wiz-span=3D"data-wiz-span"><font style=3D"color:rgb(36, 41, 46);=
+"><font><font><span data-wiz-span=3D"data-wiz-span" style=3D"colo=
+r:rgb(0, 0, 0);">=CD=A8=B9=FD=C0=A9=D5=B9</span></font></font></f=
+ont></span></span><span><span data-wiz-span=3D"data-wiz-span"><fo=
+nt style=3D"color:rgb(36, 41, 46);"><code style=3D"font-size:0.85=
+rem;background-color:rgba(27, 31, 35, 0.0470588);"></code></font>=
+</span></span><span><span data-wiz-span=3D"data-wiz-span"><font s=
+tyle=3D"color:rgb(36, 41, 46);"><code><span data-wiz-span=3D"data=
+-wiz-span" style=3D"color:rgb(0, 0, 0);">FlinkKafkaPartitioner</s=
+pan></code></font></span></span><span><span data-wiz-span=3D"data=
+-wiz-span"><font style=3D"color:rgb(36, 41, 46);"><font><font><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"color:rgb(0, 0, 0);">=
+=C0=E0</span></font></font></font></span></span><span><span data-=
+wiz-span=3D"data-wiz-span"><font style=3D"color:rgb(36, 41, 46);"=
+><font><font><span data-wiz-span=3D"data-wiz-span" style=3D"color=
+:rgb(0, 0, 0);">=C0=B4=CA=B5=CF=D6=D7=D4=B6=A8=D2=E5=B7=D6=C7=F8=B3=
+=CC=D0=F2</span></font></font></font></span></span></div><div><br=
+></div><h3><font><font color=3D"#24292e"><span><span>=D7=AA=BB=BB=
+=CB=E3=D7=D3&nbsp;</span></span></font></font></h3><div><font><fo=
+nt color=3D"#24292e"><span><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"font-family: =CB=CE=CC=E5;">dev/stream/operators/index.z=
+h.md&nbsp;</span></span></font></font></div><div><font><font colo=
+r=3D"#24292e"><span><span data-wiz-span=3D"data-wiz-span"><span><=
+span>map&nbsp;</span></span></span></span><span><span data-wiz-sp=
+an=3D"data-wiz-span"><span>=D2=BB=B8=F6=D4=AA=CB=D8=B2=A2=C9=FA=B3=
+=C9</span></span></span></font></font><font><font color=3D"#24292=
+e"><span><span data-wiz-span=3D"data-wiz-span"><span><span data-w=
+iz-span=3D"data-wiz-span">=D2=BB=B8=F6=D4=AA=CB=D8=A3=AC</span></=
+span></span></span></font></font><font style=3D"line-height: 1.7;=
+"><font color=3D"#24292e"><span data-wiz-span=3D"data-wiz-span">f=
+ilter</span></font></font><font style=3D"line-height: 1.7;"><font=
+ color=3D"#24292e"><span data-wiz-span=3D"data-wiz-span">=B9=FD=C2=
+=CB</span></font></font></div><div><span style=3D"color: rgb(36,=20=
+41, 46);"><font><font><span data-wiz-span=3D"data-wiz-span">KeyBy=
+</span></font></font></span><span style=3D"color: rgb(36, 41, 46)=
+;"><font><font><span><span data-wiz-span=3D"data-wiz-span">=C1=F7=
+=B7=D6=C7=F8=CE=AA=B2=BB=CF=E0=BD=BB=B5=C4=B7=D6=C7=F8</span></sp=
+an></font></font></span><span style=3D"color: rgb(36, 41, 46);"><=
+span><span data-wiz-span=3D"data-wiz-span">DataStream=A1=FAKeyedS=
+tream&nbsp;</span></span></span><span style=3D"color: rgb(36, 41,=
+ 46);"><span><span><span data-wiz-span=3D"data-wiz-span">dataStre=
+am.keyBy=A3=A8=A1=B0someKey=A1=B1=A3=A9</span></span></span></spa=
+n><br style=3D"background-color:rgb(246, 248, 250)"></div><div><s=
+pan style=3D"color: rgb(36, 41, 46); background-color: rgb(246, 2=
+48, 250);"><span>=BC=F5=C9=D9&nbsp;</span>keyedStream.reduce=A1=A2=
+=D5=DB=B5=FE</span><span style=3D"color: rgb(36, 41, 46); backgro=
+und-color: rgb(246, 248, 250);"><span style=3D"background-color:=20=
+rgb(255, 255, 255);">keyedStream.fold=A1=A2</span></span></div><d=
+iv><span style=3D"color: rgb(36, 41, 46); background-color: rgb(2=
+46, 248, 250);"><span style=3D"background-color: rgb(255, 255, 25=
+5);">=BE=DB=BA=CF&nbsp;</span></span><span style=3D"color: rgb(36=
+, 41, 46); background-color: rgb(246, 248, 250);"><span style=3D"=
+background-color: rgb(255, 255, 255);"><span style=3D"background-=
+color: rgb(246, 248, 250);">keyedStream.sum/min/max(min=B7=B5=BB=D8=
+=D7=EE=D0=A1=D6=B5=A3=AC=B6=F8minBy=B7=B5=BB=D8=B8=C3=D7=D6=B6=CE=
+=D6=D0=BE=DF=D3=D0=D7=EE=D0=A1=D6=B5=B5=C4=D4=AA=CB=D8)</span></s=
+pan></span><br style=3D"background-color:rgb(246, 248, 250)"></di=
+v><div><font color=3D"#24292e"><span style=3D"background-color: r=
+gb(246, 248, 250);">=B4=B0=BF=DA KeyedStream=A1=FAWindowedStream&=
+nbsp;</span></font></div><div><font color=3D"#24292e"><span style=
+=3D"background-color: rgb(246, 248, 250);"><span>DataStrea</span>=
+</span></font><font color=3D"#24292e"><span><span><span data-wiz-=
+span=3D"data-wiz-span" style=3D"background-color: rgb(246, 248, 2=
+50);">m=A1=FAAllWindowedStream =CB=F9=D3=D0=BC=C7=C2=BC=BD=AB=CA=D5=
+=BC=AF=D4=DAwindowAll=D4=CB=CB=E3=B7=FB=B5=C4=D2=BB=B8=F6=C8=CE=CE=
+=F1=D6=D0</span></span></span></font><font color=3D"#24292e"><spa=
+n style=3D"background-color: rgb(246, 248, 250);"><br></span></fo=
+nt></div><div><font color=3D"#24292e"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"background-color:rgb(246, 248, 250)">Window=B2=
+=D9=D7=F7=A3=BA</span></font><font color=3D"#24292e"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"background-color:rgb(246, 248,=
+ 250)">&nbsp;&nbsp;</span></font><font color=3D"#24292e"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"background-color:rgb(246,=20=
+248, 250)">apply=A1=A2</span></font><font color=3D"#24292e"><span=
+ data-wiz-span=3D"data-wiz-span" style=3D"background-color:rgb(24=
+6, 248, 250)">reduce=A1=A2</span></font><font color=3D"#24292e"><=
+span data-wiz-span=3D"data-wiz-span" style=3D"background-color:rg=
+b(246, 248, 250)">fold=A1=A2=BE=DB=BA=CF&nbsp;</span></font><font=
+ color=3D"#24292e"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"background-color:rgb(246, 248, 250)">WindowedStream=A1=FADataStr=
+eam</span></font><font color=3D"#24292e"><span style=3D"backgroun=
+d-color: rgb(246, 248, 250);"><span><br></span></span></font></di=
+v><div><span><span style=3D"color: rgb(36, 41, 46);"><span data-w=
+iz-span=3D"data-wiz-span" style=3D"background-color: rgb(246, 248=
+, 250);">DataStream</span></span></span><span><span style=3D"colo=
+r: rgb(36, 41, 46);"><span><span data-wiz-span=3D"data-wiz-span"=20=
+style=3D"background-color: rgb(246, 248, 250);">&nbsp;</span></sp=
+an></span></span><span><span data-wiz-span=3D"data-wiz-span" styl=
+e=3D"color: rgb(36, 41, 46); background-color: rgb(246, 248, 250)=
+;">union =A3=AC</span></span><span><span style=3D"color: rgb(36,=20=
+41, 46);"><span data-wiz-span=3D"data-wiz-span" style=3D"backgrou=
+nd-color: rgb(246, 248, 250);">DataStream&nbsp;</span></span></sp=
+an><span><span data-wiz-span=3D"data-wiz-span" style=3D"color: rg=
+b(36, 41, 46); background-color: rgb(246, 248, 250);">join </span=
+></span><span><font color=3D"#24292e"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"background-color: rgb(246, 248, 250);">=B4=B0=
+=BF=DA=C1=B4=BD=D3</span></font></span></div><div><span data-wiz-=
+span=3D"data-wiz-span" style=3D"background-color:rgb(246, 248, 25=
+0)">Interval Join =A3=A8 KeyedStream=A3=ACKeyedStream=A1=FADataSt=
+ream =A3=A9</span></div><div><span data-wiz-span=3D"data-wiz-span=
+" style=3D"background-color:rgb(246, 248, 250)"><span style=3D"co=
+lor: rgb(36, 41, 46);">Cogroup&nbsp;</span><span style=3D"color:=20=
+rgb(36, 41, 46);"><span>dataStream.coGroup=A3=A8otherStream=A3=A9=
+</span></span></span></div><div><span data-wiz-span=3D"data-wiz-s=
+pan" style=3D"background-color:rgb(246, 248, 250)"><span style=3D=
+"color: rgb(36, 41, 46);"><span><span style=3D"background-color:=20=
+rgb(255, 255, 255);">=C1=AC=BD=D3=C1=F7 DataStream=A3=ACDataStrea=
+m=A1=FAConnectedStreams&nbsp;</span></span></span><span style=3D"=
+color: rgb(36, 41, 46);"><span><span style=3D"background-color: r=
+gb(255, 255, 255);"><span style=3D"color: rgb(51, 51, 51); font-s=
+ize: 1.125rem; background-color: rgb(254, 254, 254);">=C1=AC=BD=D3=
+=B5=C4=C1=BD=B8=F6=C1=F7=C0=E0=D0=CD=BF=C9=D2=D4=B2=BB=D2=BB=D6=C2=
+</span></span></span></span></span></div><div><span data-wiz-span=
+=3D"data-wiz-span" style=3D"background-color:rgb(246, 248, 250)">=
+<span style=3D"color: rgb(36, 41, 46);"><span><span style=3D"back=
+ground-color: rgb(255, 255, 255);">&nbsp;</span></span></span><sp=
+an style=3D"color: rgb(36, 41, 46);"><span>ConnectedStreams &lt;I=
+nteger=A3=ACString&gt; connectedStreams =3D someStream.connect=A3=
+=A8otherStream=A3=A9;</span></span></span></div><div><span data-w=
+iz-span=3D"data-wiz-span" style=3D"background-color:rgb(246, 248,=
+ 250)"><span style=3D"color: rgb(36, 41, 46);"><span><span><span>=
+ConnectedStreams =B5=C4</span></span></span></span><span style=3D=
+"color: rgb(36, 41, 46);"><span><span>map=BA=CDflatMap (&nbsp;</s=
+pan></span></span><span style=3D"color: rgb(36, 41, 46);"><span><=
+span><span>ConnectedStreams=A1=FADataStream)</span></span></span>=
+</span><span style=3D"color: rgb(36, 41, 46);"><span><br></span><=
+/span></span></div><div><span style=3D"background-color: rgb(246,=
+ 248, 250);"><font color=3D"#24292e">=C1=F7=B5=C4=B2=F0=B7=D6 spl=
+</font></span><span><font color=3D"#24292e"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"background-color: rgb(246, 248, 250);">i=
+t =BA=CD=D1=A1=D4=F1</span></font></span><span><font color=3D"#24=
+292e"><span data-wiz-span=3D"data-wiz-span" style=3D"background-c=
+olor: rgb(246, 248, 250);">split.select&nbsp;</span></font></span=
+><span style=3D"background-color: rgb(246, 248, 250);"><font colo=
+r=3D"#24292e"><br style=3D"background-color: rgb(255, 255, 255);"=
+></font></span><span><font color=3D"#24292e"><span data-wiz-span=3D=
+"data-wiz-span" style=3D"background-color: rgb(246, 248, 250);">=B5=
+=FC=B4=FA=C1=F7 &nbsp;DataStream=A1=FAIterativeStream=A1=FADataSt=
+ream&nbsp;</span></font></span></div><div><span><font color=3D"#2=
+4292e"><font><font><span data-wiz-span=3D"data-wiz-span" style=3D=
+"background-color: rgb(246, 248, 250);">=CC=E1=C8=A1=CA=B1=BC=E4=B4=
+=C1&nbsp;</span></font></font></font></span><span><font color=3D"=
+#24292e"><span><span data-wiz-span=3D"data-wiz-span" style=3D"bac=
+kground-color: rgb(246, 248, 250);">stream.a</span></span></font>=
+</span><span><font color=3D"#24292e"><span><span data-wiz-span=3D=
+"data-wiz-span" style=3D"background-color: rgb(246, 248, 250);">s=
+signTimestamps=A3=A8new TimeStampExtractor=A3=A8=A3=A9{...}=A3=A9=
+;</span></span></font></span><span><font color=3D"#24292e"><span>=
+<span><span data-wiz-span=3D"data-wiz-span" style=3D"background-c=
+olor: rgb(246, 248, 250);">&nbsp;</span></span></span></font></sp=
+an><span style=3D"background-color: rgb(246, 248, 250);"><font co=
+lor=3D"#24292e"><br></font></span></div><div><font color=3D"#2429=
+2e"><span data-wiz-span=3D"data-wiz-span" style=3D"background-col=
+or: rgb(246, 248, 250);">=D7=D4=B6=A8=D2=E5=B7=D6=C7=F8&nbsp;</sp=
+an></font><font color=3D"#24292e"><span><span><span><span data-wi=
+z-span=3D"data-wiz-span" style=3D"background-color: rgb(246, 248,=
+ 250);">partitionCustom =A1=A2</span></span></span></span></font>=
+<font color=3D"#24292e"><span data-wiz-span=3D"data-wiz-span" sty=
+le=3D"background-color: rgb(246, 248, 250);">=CB=E6=BB=FA=B7=D6=C7=
+=F8&nbsp;</span></font><font color=3D"#24292e"><span><span><span>=
+<span><span data-wiz-span=3D"data-wiz-span" style=3D"background-c=
+olor: rgb(246, 248, 250);">shuffle =A1=A2</span></span></span></s=
+pan></span></font><font color=3D"#24292e"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"background-color: rgb(246, 248, 250);">=D6=
+=D8=D0=C2=C6=BD=BA=E2=A3=A8=D1=AD=BB=B7=B7=D6=C7=F8=A3=A9</span><=
+/font><font color=3D"#24292e"><span data-wiz-span=3D"data-wiz-spa=
+n" style=3D"background-color: rgb(246, 248, 250);">rebalance =A1=A2=
+</span></font><font color=3D"#24292e"><span data-wiz-span=3D"data=
+-wiz-span" style=3D"background-color: rgb(246, 248, 250);">=D6=D8=
+=D0=C2=B5=F7=D5=FB&nbsp;</span></font><font color=3D"#24292e"><sp=
+an data-wiz-span=3D"data-wiz-span" style=3D"background-color: rgb=
+(246, 248, 250);">rescale</span></font><font color=3D"#24292e"><b=
+r style=3D"background-color:rgb(246, 248, 250)"></font><font colo=
+r=3D"#24292e"><span><span data-wiz-span=3D"data-wiz-span" style=3D=
+"background-color: rgb(246, 248, 250);">&nbsp;</span></span></fon=
+t><font color=3D"#24292e"><span><span><font><font><span data-wiz-=
+span=3D"data-wiz-span" style=3D"background-color: rgb(246, 248, 2=
+50);">=B9=E3=B2=A5&nbsp;</span></font></font></span></span></font=
+><font color=3D"#24292e"><span><span><font><font><span data-wiz-s=
+pan=3D"data-wiz-span" style=3D"background-color: rgb(246, 248, 25=
+0);">broadcast</span></font></font></span></span></font></div><di=
+v><font color=3D"#24292e"><span><span><font><font><span data-wiz-=
+span=3D"data-wiz-span"><code><span data-wiz-span=3D"data-wiz-span=
+" style=3D"background-color: rgb(246, 248, 250);">StreamExecution=
+Environment.disableOperatorChaining()</span></code></span></font>=
+</font></span></span></font><font color=3D"#24292e"><span data-wi=
+z-span=3D"data-wiz-span" style=3D"background-color:rgb(246, 248,=20=
+250)">=C8=E7=B9=FB=D2=AA=BD=FB=D3=C3=D5=FB=B8=F6=B9=A4=D7=F7=C1=B4=
+</span></font><font color=3D"#24292e"><br style=3D"background-col=
+or:rgb(246, 248, 250)"></font></div><div><font color=3D"#24292e">=
+<span><span><span><span data-wiz-span=3D"data-wiz-span" style=3D"=
+background-color: rgb(246, 248, 250);">=B8=FC=CF=B8=C1=A3=B6=C8=BF=
+=D8=D6=C6=C8=CE=CE=F1=C1=B4 someStream.map(...).startNewChain()</=
+span></span></span></span></font><font color=3D"#24292e"><span st=
+yle=3D"background-color: rgb(246, 248, 250);"><span><br></span></=
+span></font></div><div><font color=3D"#24292e"><span><span><span>=
+<span data-wiz-span=3D"data-wiz-span" style=3D"background-color:=20=
+rgb(246, 248, 250);"><span style=3D"background-color: rgb(255, 25=
+5, 255);">=C9=E8=D6=C3=B2=E5=B2=DB=B9=B2=CF=ED=D7=E9 someStream.f=
+ilter=A3=A8...=A3=A9.slotSharingGroup=A3=A8=A1=B0name=A1=B1=A3=A9=
+;</span></span></span></span></span><span><span><span><span data-=
+wiz-span=3D"data-wiz-span" style=3D"background-color: rgb(246, 24=
+8, 250);"><br></span></span></span></span></font></div><div></div=
+><h3>=CA=C2=BC=FE=CA=B1=BC=E4</h3><div><span class=3D"js-path-seg=
+ment"><span style=3D"color: rgb(3, 102, 214);"><a data-pjax=3D"tr=
+ue" href=3D"https://github.com/apache/flink/tree/master/docs/dev"=
+><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(36, 41=
+, 46); background-color: rgb(246, 248, 250);">dev</span></a></spa=
+n></span><span class=3D"separator"><span data-wiz-span=3D"data-wi=
+z-span" style=3D"color: rgb(36, 41, 46); background-color: rgb(24=
+6, 248, 250);">/</span></span><span class=3D"final-path" style=3D=
+"color: rgb(36, 41, 46);"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"background-color: rgb(246, 248, 250);">event_time.zh.md&n=
+bsp;</span></span></div><div><span class=3D"final-path" style=3D"=
+color: rgb(36, 41, 46);"><span data-wiz-span=3D"data-wiz-span" st=
+yle=3D""><font><font><span data-wiz-span=3D"data-wiz-span" style=3D=
+"background-color: rgb(246, 248, 250);">=B4=A6=C0=ED=CA=B1=BC=E4=A1=
+=A2</span></font></font></span></span><span class=3D"final-path"=20=
+style=3D"color: rgb(36, 41, 46);"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"background-color: rgb(246, 248, 250);">=CA=C2=BC=FE=
+=CA=B1=BC=E4=A1=A2</span></span><span class=3D"final-path" style=3D=
+"color: rgb(36, 41, 46);"><span data-wiz-span=3D"data-wiz-span" s=
+tyle=3D"background-color: rgb(246, 248, 250);">=C9=E3=C8=A1=CA=B1=
+=BC=E4</span></span></div><div><span class=3D"final-path" style=3D=
+"color: rgb(36, 41, 46);"><span data-wiz-span=3D"data-wiz-span">=C9=
+=E8=B6=A8=CA=B1=BC=E4=CC=D8=D5=F7 env.setStreamTimeCharacteristic=
+=A3=A8TimeCharacteristic.ProcessingTime=A3=A9;</span></span><span=
+ class=3D"final-path" style=3D"text-decoration: underline; color:=
+ rgb(36, 41, 46);"><span data-wiz-span=3D"data-wiz-span" style=3D=
+"font-family: =CB=CE=CC=E5;"><br></span></span></div><div><span c=
+lass=3D"final-path" style=3D"color: rgb(36, 41, 46);"><span data-=
+wiz-span=3D"data-wiz-span"><em><font><font>=CA=C2=BC=FE=CA=B1=BC=E4=
+&nbsp;</font></font></em><font><font>=D0=E8=D2=AA=CA=C2=BC=FE=CA=B1=
+=BC=E4=B5=C4=D4=B4=B2=A2=D7=D4=D0=D0=B7=A2=B3=F6=CB=AE=D3=A1=A3=AC=
+=BB=F2=D5=DF=B3=CC=D0=F2=B1=D8=D0=EB</font><font>=D4=DA=D4=B4=D6=AE=
+=BA=F3</font><font>=D7=A2=C8=EB</font></font><em><font><font>=CA=B1=
+=BC=E4=B4=C1=B7=D6=C5=E4=C6=F7=BA=CD=CB=AE=D3=A1=C9=FA=B3=C9=C6=F7=
+</font></font></em><br></span></span></div><h3>=C9=FA=B3=C9=CA=B1=
+=BC=E4=B4=C1/=CB=AE=D3=A1</h3><div>dev/event_timestamps_watermark=
+s.md</div><div><span style=3D"color: rgb(36, 41, 46);">val withTi=
+mestampsAndWatermarks=A3=BADataStream [MyEvent] =3D stream .filte=
+r=A3=A8_.severity =3D=3D WARNING=A3=A9.assignTimestampsAndWaterma=
+rks=A3=A8new MyTimestampsAndWatermarks=A3=A8=A3=A9=A3=A9</span><b=
+r style=3D"color:rgb(36, 41, 46);text-decoration:underline"></div=
+><div><span style=3D"color: rgb(36, 41, 46);">AssignerWithPeriodi=
+cWatermarks =B6=A8=CA=B1=CC=E1=C8=A1watermark</span></div><div>As=
+signerWithPunctuatedWatermarks&nbsp; &nbsp;&nbsp;<span style=3D"c=
+olor: rgb(64, 64, 64);">=C3=BF=D2=BB=B8=F6event=B5=BD=C0=B4=B5=C4=
+=CA=B1=BA=F2=A3=AC=BE=CD=BB=E1=CC=E1=C8=A1=D2=BB=B4=CEWatermark</=
+span></div><div><br></div><div><br></div><div><font><font color=3D=
+"#24292e"><pre style=3D"font-family: =CB=CE=CC=E5;"><font><span d=
+ata-wiz-span=3D"data-wiz-span" style=3D"font-family: =CB=CE=CC=E5=
+;">dev/execution_configuration.</span></font><font><span data-wiz=
+-span=3D"data-wiz-span" style=3D"font-family: =CB=CE=CC=E5;">zh.m=
+d </span></font><font><span style=3D"font-family: =CB=CE=CC=E5;">=
+<span data-wiz-span=3D"data-wiz-span" style=3D"font-family: =CB=CE=
+=CC=E5;">=D6=B4=D0=D0=B2=CE=CA=FD</span></span></font></pre><h3><=
+font><span style=3D"font-family: =CB=CE=CC=E5;"><span data-wiz-sp=
+an=3D"data-wiz-span" style=3D"font-family: =CB=CE=CC=E5;">=D7=B4=CC=
+=AC=BA=CD=C8=DD=B4=ED</span></span></font></h3><pre style=3D"font=
+-family: =CB=CE=CC=E5;"><font><span style=3D"font-family: =CB=CE=CC=
+=E5;"><span data-wiz-span=3D"data-wiz-span" style=3D"font-family:=
+ =CB=CE=CC=E5;"><span style=3D"font-family: =CB=CE=CC=E5;">dev/st=
+ream/state/index.md&nbsp;</span><u><br></u></span></span></font><=
+/pre><pre style=3D"font-family: =CB=CE=CC=E5;"><font><span style=3D=
+"font-family: =CB=CE=CC=E5;"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-family: =CB=CE=CC=E5;"><span style=3D"font-family=
+: =CB=CE=CC=E5;"><br></span></span></span></font></pre><pre style=
+=3D"font-family: =CB=CE=CC=E5;"><font><span style=3D"font-family:=
+ =CB=CE=CC=E5;"><span data-wiz-span=3D"data-wiz-span" style=3D"fo=
+nt-family: =CB=CE=CC=E5;"><span style=3D"font-family: =CB=CE=CC=E5=
+;">dev/stream/state/state.md</span></span></span></font></pre></f=
+ont><pre style=3D"font-family: =CB=CE=CC=E5;"><font color=3D"#242=
+92e"><font><span style=3D"font-family: =CB=CE=CC=E5;"><span data-=
+wiz-span=3D"data-wiz-span" style=3D"font-family: =CB=CE=CC=E5;"><=
+span style=3D"font-family: =CB=CE=CC=E5;"><pre style=3D"font-fami=
+ly: =CB=CE=CC=E5;"><font><span style=3D"font-family:=CB=CE=CC=E5;=
+"><span data-wiz-span=3D"data-wiz-span" style=3D"font-family:=CB=CE=
+=CC=E5;"><span style=3D"font-family:=CB=CE=CC=E5;"><code style=3D=
+"font-size:0.85rem;background-color:rgba(27, 31, 35, 0.0470588);"=
+>Keyed State=A3=A8<span>KeyedStream=D6=D0=B5=C4=D7=B4=CC=AC</span=
+>=A3=A9</code><font><font>=BA=CD</font></font><code style=3D"font=
+-size:0.85rem;background-color:rgba(27, 31, 35, 0.0470588);">Oper=
+ator State</code><br></span></span></span></font></pre><pre style=
+=3D"font-family: =CB=CE=CC=E5;"><font><span style=3D"font-family:=
+=CB=CE=CC=E5;"><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-family:=CB=CE=CC=E5;"><span style=3D"font-family:=CB=CE=CC=E5;"=
+><code style=3D"font-size:0.85rem;background-color:rgba(27, 31, 3=
+5, 0.0470588);"><span style=3D"font-size:1rem;background-color:rg=
+b(255, 255, 255);"><font><font><i>=CD=D0=B9=DC=D7=B4=CC=AC</i>=A3=
+=A8Flink=D4=CB=D0=D0=CA=B1=BF=D8=D6=C6=B5=C4=A3=A9</font></font><=
+/span><font style=3D"font-size:1rem;background-color:rgb(255, 255=
+, 255);"><font>=BA=CD</font></font><span style=3D"font-size:1rem;=
+background-color:rgb(255, 255, 255);"><font><font><i>=D4=AD=CA=BC=
+=D7=B4=CC=AC</i>=A3=A8<span>=B1=A3=C1=F4=D4=DA=D7=D4=BC=BA=B5=C4=CA=
+=FD=BE=DD=BD=E1=B9=B9=D6=D0=B5=C4=D7=B4=CC=AC</span>=A3=A9</font>=
+</font></span></code></span></span></span></font></pre></span></s=
+pan></span></font></font></pre><pre style=3D"font-family: =CB=CE=CC=
+=E5;"><font><span style=3D"font-family: =CB=CE=CC=E5;"><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-family: =CB=CE=CC=E5;">=
+<span style=3D"font-family: =CB=CE=CC=E5;">=C0=A9=D5=B9</span></s=
+pan></span><span><span data-wiz-span=3D"data-wiz-span"><span><spa=
+n>RichFlatMapFunction&nbsp;</span></span></span></span></font></p=
+re><pre style=3D"font-family: =CB=CE=CC=E5;"><span style=3D"line-=
+height: 1.7;">getRuntimeContext().getState=A3=A8ValueStateDescrip=
+tor=A3=A9</span></pre><pre style=3D"font-family: =CB=CE=CC=E5;"><=
+font><span><span data-wiz-span=3D"data-wiz-span"><span><span>.fla=
+tMap=A3=A8new CountWindowAverage=A3=A8 =A3=A9=A3=A9</span></span>=
+</span></span><span style=3D"font-family: =CB=CE=CC=E5;"><span da=
+ta-wiz-span=3D"data-wiz-span" style=3D"font-family: =CB=CE=CC=E5;=
+"><span style=3D"font-family: =CB=CE=CC=E5;"><br></span></span></=
+span></font></pre><pre style=3D"font-family: =CB=CE=CC=E5;"><font=
+><span><span data-wiz-span=3D"data-wiz-span"><span><span><br></sp=
+an></span></span></span></font></pre><pre style=3D"font-family: =CB=
+=CE=CC=E5;"><font><span style=3D"font-family: =CB=CE=CC=E5;"><spa=
+n data-wiz-span=3D"data-wiz-span" style=3D"font-family: =CB=CE=CC=
+=E5;"><span style=3D"font-family: =CB=CE=CC=E5;">ops/state/savepo=
+ints.md</span></span></span></font></pre><h3><font><span style=3D=
+"font-family: =CB=CE=CC=E5;"><span data-wiz-span=3D"data-wiz-span=
+" style=3D"font-family: =CB=CE=CC=E5;"><span style=3D"font-family=
+: =CB=CE=CC=E5;">=BC=EC=B2=E9=B5=E3</span></span></span></font></=
+h3></font></div><div><font><font color=3D"#24292e"><pre style=3D"=
+font-family: =CB=CE=CC=E5;"><span style=3D"font-size: 0.85rem; ba=
+ckground-color: rgba(27, 31, 35, 0.0470588);"><span style=3D"font=
+-size: 1rem; background-color: rgb(255, 255, 255);"><font><span><=
+span>dev/stream/state/checkpointing</span></span></font></span></=
+span>.md<span style=3D"font-size: 0.85rem; background-color: rgba=
+(27, 31, 35, 0.0470588);"><span style=3D"font-size: 1rem; backgro=
+und-color: rgb(255, 255, 255);"><font><span><span> </span></span>=
+</font></span></span></pre><pre style=3D"font-family: =CB=CE=CC=E5=
+;"><span style=3D"font-size: 0.85rem; background-color: rgba(27,=20=
+31, 35, 0.0470588);"><span style=3D"font-size: 1rem; background-c=
+olor: rgb(255, 255, 255);"><font><span><span><span>=D7=B4=CC=AC=BA=
+=F3=B6=CB</span></span></span><span><span><br></span></span></fon=
+t></span></span></pre></font><font color=3D"#24292e"><pre style=3D=
+"font-family: =CB=CE=CC=E5;"><span style=3D"line-height: 1.7;">/<=
+/span><span style=3D"font-size: 0.85rem; background-color: rgba(2=
+7, 31, 35, 0.0470588);"><span style=3D"font-size:1rem;background-=
+color:rgb(255, 255, 255)">ops</span></span>/<span style=3D"font-s=
+ize: 0.85rem; background-color: rgba(27, 31, 35, 0.0470588);"><sp=
+an style=3D"font-size:1rem;background-color:rgb(255, 255, 255)">s=
+tate</span></span>/<span style=3D"font-size: 0.85rem; background-=
+color: rgba(27, 31, 35, 0.0470588);"><span style=3D"font-size:1re=
+m;background-color:rgb(255, 255, 255)">state_backends</span></spa=
+n><span style=3D"line-height: 1.7;">.md</span></pre></font><font=20=
+color=3D"#24292e"><pre style=3D"font-family: =CB=CE=CC=E5;"><span=
+ style=3D"font-size: 0.85rem; background-color: rgba(27, 31, 35,=20=
+0.0470588);"><span style=3D"font-size:1rem;background-color:rgb(2=
+55, 255, 255)"><span>=D3=C3=D3=DA=D6=B8=B6=A8=D7=B4=CC=AC=B5=C4=B4=
+=E6=B4=A2=B7=BD=CA=BD=BA=CD=CE=BB=D6=C3</span><br></span></span><=
+/pre><pre style=3D"font-family: =CB=CE=CC=E5;"><span style=3D"fon=
+t-size: 0.85rem; background-color: rgba(27, 31, 35, 0.0470588);">=
+<br style=3D"font-size:1rem;background-color:rgb(255, 255, 255)">=
+</span></pre></font></font></div><div><font><font color=3D"#24292=
+e"><pre style=3D"font-family: =CB=CE=CC=E5;"></pre></font></font>=
+</div><h3><span data-wiz-span=3D"data-wiz-span" style=3D"color: r=
+gb(36, 41, 46);"><span>=B2=A2=D0=D0=B6=C8&nbsp;</span></span></h3=
+><div><span data-wiz-span=3D"data-wiz-span" style=3D"color: rgb(3=
+6, 41, 46);">dev/parallel.zh.md</span></div><div><span data-wiz-s=
+pan=3D"data-wiz-span">=CB=E3=D7=D3=B2=E3=B4=CE<span style=3D"colo=
+r: rgb(36, 41, 46);">setParallelism(5)</span></span></div><div><s=
+pan data-wiz-span=3D"data-wiz-span">=D6=B4=D0=D0=BB=B7=BE=B3=B2=E3=
+=B4=CE<span style=3D"color: rgb(36, 41, 46);">env.setParallelism(=
+3)</span></span></div><div><span data-wiz-span=3D"data-wiz-span">=
+=BF=CD=BB=A7=B6=CB=B2=E3=B4=CE&nbsp;</span><span style=3D"font-si=
+ze: 0.85rem; color: rgb(36, 41, 46); line-height: 1.7; background=
+-color: rgb(246, 248, 250);">flink run -p 10&nbsp;</span></div><d=
+iv><span data-wiz-span=3D"data-wiz-span">=CF=B5=CD=B3=B2=E3=B4=CE=
+<code style=3D"font-size: 0.85rem; color: rgb(36, 41, 46); backgr=
+ound-color: rgba(27, 31, 35, 0.0470588);">conf/flink-conf.yaml</c=
+ode><span style=3D"color: rgb(36, 41, 46);"><span>&nbsp;</span>=CE=
+=C4=BC=FE=D6=D0=B5=C4<span>&nbsp;</span></span><code style=3D"fon=
+t-size: 0.85rem; color: rgb(36, 41, 46); background-color: rgba(2=
+7, 31, 35, 0.0470588);">parallelism.default</code><span style=3D"=
+color: rgb(36, 41, 46);"><span>&nbsp;</span>=B2=CE=CA=FD</span></=
+span></div><div><span data-wiz-span=3D"data-wiz-span">=C9=E8=D6=C3=
+=D7=EE=B4=F3=B2=A2=D0=D0=B6=C8<code style=3D"font-size: 0.85rem;=20=
+color: rgb(36, 41, 46); background-color: rgba(27, 31, 35, 0.0470=
+588);">setMaxParallelism()</code><span style=3D"color: rgb(36, 41=
+, 46);"><span>&nbsp;</span>=B7=BD=B7=A8=C0=B4=C9=E8=B6=A8=D7=EE=B4=
+=F3=B2=A2=D0=D0=B6=C8</span></span></div><br class=3D"Apple-inter=
+change-newline"></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000362343.457--
+
+------=_Next_Part_0001087029.671--
+

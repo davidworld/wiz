@@ -1,0 +1,142 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?aGFkb29w1MvOrL3Fsb7V+8Dt?=
+Date: Date: Fri, 23 Jul 2021 05:51:01 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000626202.606"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000626202.606
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000208734.173"
+
+
+------=_Next_Part_0000208734.173
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000208734.173
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>hadoop=D4=CB=CE=AC=BD=C5=B1=BE=D5=FB=
+=C0=ED</title>=0A=0A=0A=0A=0A<style type=3D"text/css" id=3D"wiz_t=
+odo_style_id" wiz_link_version=3D"01.00.09">.wiz-todo, .wiz-todo-=
+img {width: 16px; height: 16px; cursor: default; padding: 0 10px=20=
+0 2px; vertical-align: -10%;-webkit-user-select: none;} .wiz-todo=
+-label { display: inline-block; padding-top: 7px; padding-bottom:=
+ 6px; line-height: 1.5;} .wiz-todo-label-checked {  color: #666;}=
+ .wiz-todo-label-unchecked {text-decoration: initial;} .wiz-todo-=
+completed-info {padding-left: 44px; display: inline-block; } .wiz=
+-todo-avatar { width:20px; height: 20px; vertical-align: -20%; ma=
+rgin-right:10px; border-radius: 2px;} .wiz-todo-account, .wiz-tod=
+o-dt { color: #666; }</style>=0A<style type=3D"text/css" id=3D"wi=
+z_custom_css">=0Abody=0A{=0A    font-family: Arial;=0A    font-si=
+ze: 10.5pt;=0A    line-height: 1.5;=0A}=0Ahtml, body=0A{=0A    co=
+lor: ;=0A    background-color: ;=0A}=0Ah1 {=0A    font-size:1.5em=
+;=0A    font-weight:bold;=0A}=0Ah2 {=0A    font-size:1.4em;=0A  =20=
+ font-weight:bold;=0A}=0Ah3 {=0A    font-size:1.3em;=0A    font-w=
+eight:bold;=0A}=0Ah4 {=0A    font-size:1.2em;=0A    font-weight:b=
+old;=0A}=0Ah5 {=0A    font-size:1.1em;=0A    font-weight:bold;=0A=
+}=0Ah6 {=0A    font-size:1.0em;=0A    font-weight:bold;=0A}=0Aimg=
+ {=0A    border:0;=0A    max-width: 100%;=0A    height: auto !imp=
+ortant;=0A}=0Ablockquote {=0A    margin-top:0px;=0A    margin-bot=
+tom:0px;=0A}=0Atable {=0A    border-collapse:collapse;=0A    bord=
+er:1px solid #bbbbbb;=0A}=0Atd {=0A    border-collapse:collapse;=0A=
+    border:1px solid #bbbbbb;=0A}=0A</style>=0A</head>=0A=0A<body=
+ style><div>start-balancer:</div><div>f($sudo =3D=3D TRUE)</div><=
+div><span class=3D"Apple-tab-span" style=3D"white-space:pre">		</=
+span>{</div><div><span class=3D"Apple-tab-span" style=3D"white-sp=
+ace:pre">			</span>$cmd =3D 'echo "'.$nn-&gt;ssh_pass.'" | sudo -=
+S -u hdfs /usr/sbin/hadoop-daemon.sh --config $HADOOP_CONF_DIR st=
+art balancer $@';</div><div><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre">		</span>}</div><div><span class=3D"Apple-tab-s=
+pan" style=3D"white-space:pre">		</span>else</div><div><span clas=
+s=3D"Apple-tab-span" style=3D"white-space:pre">		</span>{</div><d=
+iv><span class=3D"Apple-tab-span" style=3D"white-space:pre">			</=
+span>$cmd =3D 'sudo -u hdfs /usr/sbin/hadoop-daemon.sh --config $=
+HADOOP_CONF_DIR start balancer $@';</div><div><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre">		</span>}</div><div><br></=
+div><div>stop-balancer</div><div><br></div><div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre">	</span>if($sudo =3D=3D=
+ TRUE)</div><div><span class=3D"Apple-tab-span" style=3D"white-sp=
+ace:pre">		</span>{</div><div><span class=3D"Apple-tab-span" styl=
+e=3D"white-space:pre">			</span>$cmd =3D 'echo "'.$nn-&gt;ssh_pas=
+s.'" | sudo -S -u hdfs /usr/sbin/hadoop-daemon.sh --config $HADOO=
+P_CONF_DIR stop balancer $@';</div><div><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre">		</span>}</div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre">		</span>else</div><di=
+v><span class=3D"Apple-tab-span" style=3D"white-space:pre">		</sp=
+an>{</div><div><span class=3D"Apple-tab-span" style=3D"white-spac=
+e:pre">			</span>$cmd =3D 'sudo -u hdfs /usr/sbin/hadoop-daemon.s=
+h --config $HADOOP_CONF_DIR stop balancer $@';</div><div><span cl=
+ass=3D"Apple-tab-span" style=3D"white-space:pre">		</span>}</div>=
+</div><div><br></div><div>tail-balancer-log</div><div><br></div><=
+div><div><span class=3D"Apple-tab-span" style=3D"white-space:pre"=
+>	</span>if($sudo =3D=3D TRUE)</div><div><span class=3D"Apple-tab=
+-span" style=3D"white-space:pre">		</span>{</div><div><span class=
+=3D"Apple-tab-span" style=3D"white-space:pre">			</span>$cmd =3D=20=
+'echo "'.$nn-&gt;ssh_pass.'" | sudo -S -u hdfs tail -n200 /var/lo=
+g/hadoop/hdfs/hadoop-hdfs-balancer-'.$hostname.'.log';</div><div>=
+<span class=3D"Apple-tab-span" style=3D"white-space:pre">		</span=
+>}</div><div><span class=3D"Apple-tab-span" style=3D"white-space:=
+pre">		</span>else</div><div><span class=3D"Apple-tab-span" style=
+=3D"white-space:pre">		</span>{</div><div><span class=3D"Apple-ta=
+b-span" style=3D"white-space:pre">			</span>$cmd =3D 'sudo -u hdf=
+s tail -n200 /var/log/hadoop/hdfs/hadoop-hdfs-balancer-'.$hostnam=
+e.'.log';</div><div><span class=3D"Apple-tab-span" style=3D"white=
+-space:pre">		</span>}</div></div><div><br></div><div><br></div><=
+div>&nbsp;DFSAdminRefreshNodes<br></div><div><br></div><div><div>=
+if($sudo =3D=3D TRUE)</div><div><span class=3D"Apple-tab-span" st=
+yle=3D"white-space:pre">		</span>{</div><div><span class=3D"Apple=
+-tab-span" style=3D"white-space:pre">			</span>$cmd =3D 'echo "'.=
+$nn-&gt;ssh_pass.'" | sudo -S -u hdfs /usr/bin/hadoop dfsadmin -r=
+efreshNodes';</div><div><span class=3D"Apple-tab-span" style=3D"w=
+hite-space:pre">		</span>}</div><div><span class=3D"Apple-tab-spa=
+n" style=3D"white-space:pre">		</span>else</div><div><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre">		</span>{</div><div><=
+span class=3D"Apple-tab-span" style=3D"white-space:pre">			</span=
+>$cmd =3D 'sudo -u hdfs /usr/bin/hadoop dfsadmin -refreshNodes';<=
+/div><div><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+">		</span>}</div></div><div><br></div><div>DFSAdminReport<br></d=
+iv><div><br></div><div><div>if($sudo =3D=3D TRUE)</div><div><span=
+ class=3D"Apple-tab-span" style=3D"white-space:pre">		</span>{</d=
+iv><div><span class=3D"Apple-tab-span" style=3D"white-space:pre">=
+			</span>$cmd =3D 'echo "'.$nn-&gt;ssh_pass.'" | sudo -S -u hdfs=
+ /usr/bin/hadoop dfsadmin -report';</div><div><span class=3D"Appl=
+e-tab-span" style=3D"white-space:pre">		</span>}</div><div><span=20=
+class=3D"Apple-tab-span" style=3D"white-space:pre">		</span>else<=
+/div><div><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+">		</span>{</div><div><span class=3D"Apple-tab-span" style=3D"wh=
+ite-space:pre">			</span>$cmd =3D 'sudo -u hdfs /usr/bin/hadoop d=
+fsadmin -report';</div><div><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre">		</span>}</div></div><div><br></div><div><br><=
+/div><div>FormatNamenode<br></div><div><div>if($sudo =3D=3D TRUE)=
+</div><div><span class=3D"Apple-tab-span" style=3D"white-space:pr=
+e">		</span>{</div><div><span class=3D"Apple-tab-span" style=3D"w=
+hite-space:pre">			</span>$cmd =3D 'echo "'.$nn-&gt;ssh_pass.'" |=
+ sudo -S; echo "Y" |sudo -u hdfs /usr/bin/hadoop namenode -format=
+';</div><div><span class=3D"Apple-tab-span" style=3D"white-space:=
+pre">		</span>}</div><div><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre">		</span>else</div><div><span class=3D"Apple-ta=
+b-span" style=3D"white-space:pre">		</span>{</div><div><span clas=
+s=3D"Apple-tab-span" style=3D"white-space:pre">			</span>$cmd =3D=
+ 'sudo -u hdfs /usr/bin/hadoop namenode -format';</div><div><span=
+ class=3D"Apple-tab-span" style=3D"white-space:pre">		</span>}</d=
+iv></div><div><span class=3D"Apple-tab-span" style=3D"white-space=
+:pre">		</span></div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000208734.173--
+
+------=_Next_Part_0000626202.606--
+

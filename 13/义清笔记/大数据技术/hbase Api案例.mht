@@ -1,0 +1,1908 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?aGJhc2UgQXBpsLjA/Q==?=
+Date: Date: Fri, 23 Jul 2021 05:51:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000621984.035"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000621984.035
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000207328.226"
+
+
+------=_Next_Part_0000207328.226
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000207328.226
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>hbase Api=B0=B8=C0=FD</title>=0A=0A=0A=
+=0A<style type=3D"text/css" id=3D"wiz_custom_css">=0Abody=0A{=0A=20=
+   font-family: "Microsoft YaHei UI","Microsoft YaHei",SimSun,"Se=
+goe UI",Tahoma,Helvetica,Sans-Serif,"Microsoft YaHei", Georgia,He=
+lvetica,Arial,sans-serif,=CB=CE=CC=E5, PMingLiU,serif;=0A    font=
+-size: 10.5pt;=0A    line-height: 1.5;=0A}=0Ahtml, body=0A{=0A  =20=
+ =0A    =0A}=0Ah1 {=0A    font-size:1.5em;=0A    font-weight:bold=
+;=0A}=0Ah2 {=0A    font-size:1.4em;=0A    font-weight:bold;=0A}=0A=
+h3 {=0A    font-size:1.3em;=0A    font-weight:bold;=0A}=0Ah4 {=0A=
+    font-size:1.2em;=0A    font-weight:bold;=0A}=0Ah5 {=0A    fon=
+t-size:1.1em;=0A    font-weight:bold;=0A}=0Ah6 {=0A    font-size:=
+1.0em;=0A    font-weight:bold;=0A}=0Aimg {=0A    border:0;=0A   =20=
+max-width: 100%;=0A}=0Ablockquote {=0A    margin-top:0px;=0A    m=
+argin-bottom:0px;=0A}=0Atable {=0A    border-collapse:collapse;=0A=
+    border:1px solid #bbbbbb;=0A}=0Atd {=0A    border-collapse:co=
+llapse;=0A    border:1px solid #bbbbbb;=0A}=0A</style>=0A<style t=
+ype=3D"text/css" id=3D"wiz_todo_style_id" wiz_link_version=3D"01.=
+00.09">.wiz-todo, .wiz-todo-img {width: 16px; height: 16px; curso=
+r: default; padding: 0 10px 0 2px; vertical-align: -10%;-webkit-u=
+ser-select: none;} .wiz-todo-label { display: inline-block; paddi=
+ng-top: 7px; padding-bottom: 6px; line-height: 1.5;} .wiz-todo-la=
+bel-checked {  color: #666;} .wiz-todo-label-unchecked {text-deco=
+ration: initial;} .wiz-todo-completed-info {padding-left: 44px; d=
+isplay: inline-block; } .wiz-todo-avatar { width:20px; height: 20=
+px; vertical-align: -20%; margin-right:10px; border-radius: 2px;}=
+ .wiz-todo-account, .wiz-todo-dt { color: #666; }</style><link ty=
+pe=3D"text/css" rel=3D"stylesheet" id=3D"wiz_code_highlight_link"=
+ href=3D"wiz_code_highlight_2.css"></head>=0A=0A<body style><div>=
+<div><pre class=3D"prettyprint linenums prettyprinted"><ol class=3D=
+"linenums" style=3D"padding-left: 0px;"><li style=3D"list-style-t=
+ype: none; padding-left: 0px;" class=3D"L0"><code class=3D"langua=
+ge-java"><span class=3D"kwd">package</span><span class=3D"pln"> c=
+om</span><span class=3D"pun">.</span><span class=3D"pln">ffcs</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">hbase</span><s=
+pan class=3D"pun">;</span></code></li><li style=3D"list-style-typ=
+e: none; padding-left: 0px;" class=3D"L1"><code class=3D"language=
+-java"></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L2"><code class=3D"language-java"><span class=3D=
+"kwd">import</span><span class=3D"pln"> java</span><span class=3D=
+"pun">.</span><span class=3D"pln">io</span><span class=3D"pun">.<=
+/span><span class=3D"typ">IOException</span><span class=3D"pun">;=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L3"><code class=3D"language-java"></code></li>=
+<li style=3D"list-style-type: none; padding-left: 0px;" class=3D"=
+L4"><code class=3D"language-java"><span class=3D"kwd">import</spa=
+n><span class=3D"pln"> org</span><span class=3D"pun">.</span><spa=
+n class=3D"pln">apache</span><span class=3D"pun">.</span><span cl=
+ass=3D"pln">hadoop</span><span class=3D"pun">.</span><span class=3D=
+"pln">conf</span><span class=3D"pun">.</span><span class=3D"typ">=
+Configuration</span><span class=3D"pun">;</span></code></li><li s=
+tyle=3D"list-style-type: none; padding-left: 0px;" class=3D"L5"><=
+code class=3D"language-java"><span class=3D"kwd">import</span><sp=
+an class=3D"pln"> org</span><span class=3D"pun">.</span><span cla=
+ss=3D"pln">apache</span><span class=3D"pun">.</span><span class=3D=
+"pln">hadoop</span><span class=3D"pun">.</span><span class=3D"pln=
+">hbase</span><span class=3D"pun">.</span><span class=3D"typ">HBa=
+seConfiguration</span><span class=3D"pun">;</span></code></li><li=
+ style=3D"list-style-type: none; padding-left: 0px;" class=3D"L6"=
+><code class=3D"language-java"><span class=3D"kwd">import</span><=
+span class=3D"pln"> org</span><span class=3D"pun">.</span><span c=
+lass=3D"pln">apache</span><span class=3D"pun">.</span><span class=
+=3D"pln">hadoop</span><span class=3D"pun">.</span><span class=3D"=
+pln">hbase</span><span class=3D"pun">.</span><span class=3D"typ">=
+HColumnDescriptor</span><span class=3D"pun">;</span></code></li><=
+li style=3D"list-style-type: none; padding-left: 0px;" class=3D"L=
+7"><code class=3D"language-java"><span class=3D"kwd">import</span=
+><span class=3D"pln"> org</span><span class=3D"pun">.</span><span=
+ class=3D"pln">apache</span><span class=3D"pun">.</span><span cla=
+ss=3D"pln">hadoop</span><span class=3D"pun">.</span><span class=3D=
+"pln">hbase</span><span class=3D"pun">.</span><span class=3D"typ"=
+>HTableDescriptor</span><span class=3D"pun">;</span></code></li><=
+li style=3D"list-style-type: none; padding-left: 0px;" class=3D"L=
+8"><code class=3D"language-java"><span class=3D"kwd">import</span=
+><span class=3D"pln"> org</span><span class=3D"pun">.</span><span=
+ class=3D"pln">apache</span><span class=3D"pun">.</span><span cla=
+ss=3D"pln">hadoop</span><span class=3D"pun">.</span><span class=3D=
+"pln">hbase</span><span class=3D"pun">.</span><span class=3D"typ"=
+>KeyValue</span><span class=3D"pun">;</span></code></li><li style=
+=3D"list-style-type: none; padding-left: 0px;" class=3D"L9"><code=
+ class=3D"language-java"><span class=3D"kwd">import</span><span c=
+lass=3D"pln"> org</span><span class=3D"pun">.</span><span class=3D=
+"pln">apache</span><span class=3D"pun">.</span><span class=3D"pln=
+">hadoop</span><span class=3D"pun">.</span><span class=3D"pln">hb=
+ase</span><span class=3D"pun">.</span><span class=3D"pln">client<=
+/span><span class=3D"pun">.</span><span class=3D"typ">Delete</spa=
+n><span class=3D"pun">;</span></code></li><li style=3D"list-style=
+-type: none; padding-left: 0px;" class=3D"L0"><code class=3D"lang=
+uage-java"><span class=3D"kwd">import</span><span class=3D"pln">=20=
+org</span><span class=3D"pun">.</span><span class=3D"pln">apache<=
+/span><span class=3D"pun">.</span><span class=3D"pln">hadoop</spa=
+n><span class=3D"pun">.</span><span class=3D"pln">hbase</span><sp=
+an class=3D"pun">.</span><span class=3D"pln">client</span><span c=
+lass=3D"pun">.</span><span class=3D"typ">Get</span><span class=3D=
+"pun">;</span></code></li><li style=3D"list-style-type: none; pad=
+ding-left: 0px;" class=3D"L1"><code class=3D"language-java"><span=
+ class=3D"kwd">import</span><span class=3D"pln"> org</span><span=20=
+class=3D"pun">.</span><span class=3D"pln">apache</span><span clas=
+s=3D"pun">.</span><span class=3D"pln">hadoop</span><span class=3D=
+"pun">.</span><span class=3D"pln">hbase</span><span class=3D"pun"=
+>.</span><span class=3D"pln">client</span><span class=3D"pun">.</=
+span><span class=3D"typ">HBaseAdmin</span><span class=3D"pun">;</=
+span></code></li><li style=3D"list-style-type: none; padding-left=
+: 0px;" class=3D"L2"><code class=3D"language-java"><span class=3D=
+"kwd">import</span><span class=3D"pln"> org</span><span class=3D"=
+pun">.</span><span class=3D"pln">apache</span><span class=3D"pun"=
+>.</span><span class=3D"pln">hadoop</span><span class=3D"pun">.</=
+span><span class=3D"pln">hbase</span><span class=3D"pun">.</span>=
+<span class=3D"pln">client</span><span class=3D"pun">.</span><spa=
+n class=3D"typ">HTable</span><span class=3D"pun">;</span></code><=
+/li><li style=3D"list-style-type: none; padding-left: 0px;" class=
+=3D"L3"><code class=3D"language-java"><span class=3D"kwd">import<=
+/span><span class=3D"pln"> org</span><span class=3D"pun">.</span>=
+<span class=3D"pln">apache</span><span class=3D"pun">.</span><spa=
+n class=3D"pln">hadoop</span><span class=3D"pun">.</span><span cl=
+ass=3D"pln">hbase</span><span class=3D"pun">.</span><span class=3D=
+"pln">client</span><span class=3D"pun">.</span><span class=3D"typ=
+">Put</span><span class=3D"pun">;</span></code></li><li style=3D"=
+list-style-type: none; padding-left: 0px;" class=3D"L4"><code cla=
+ss=3D"language-java"><span class=3D"kwd">import</span><span class=
+=3D"pln"> org</span><span class=3D"pun">.</span><span class=3D"pl=
+n">apache</span><span class=3D"pun">.</span><span class=3D"pln">h=
+adoop</span><span class=3D"pun">.</span><span class=3D"pln">hbase=
+</span><span class=3D"pun">.</span><span class=3D"pln">client</sp=
+an><span class=3D"pun">.</span><span class=3D"typ">Result</span><=
+span class=3D"pun">;</span></code></li><li style=3D"list-style-ty=
+pe: none; padding-left: 0px;" class=3D"L5"><code class=3D"languag=
+e-java"><span class=3D"kwd">import</span><span class=3D"pln"> org=
+</span><span class=3D"pun">.</span><span class=3D"pln">apache</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">hadoop</span><=
+span class=3D"pun">.</span><span class=3D"pln">hbase</span><span=20=
+class=3D"pun">.</span><span class=3D"pln">client</span><span clas=
+s=3D"pun">.</span><span class=3D"typ">ResultScanner</span><span c=
+lass=3D"pun">;</span></code></li><li style=3D"list-style-type: no=
+ne; padding-left: 0px;" class=3D"L6"><code class=3D"language-java=
+"><span class=3D"kwd">import</span><span class=3D"pln"> org</span=
+><span class=3D"pun">.</span><span class=3D"pln">apache</span><sp=
+an class=3D"pun">.</span><span class=3D"pln">hadoop</span><span c=
+lass=3D"pun">.</span><span class=3D"pln">hbase</span><span class=3D=
+"pun">.</span><span class=3D"pln">client</span><span class=3D"pun=
+">.</span><span class=3D"typ">Scan</span><span class=3D"pun">;</s=
+pan></code></li><li style=3D"list-style-type: none; padding-left:=
+ 0px;" class=3D"L7"><code class=3D"language-java"><span class=3D"=
+kwd">import</span><span class=3D"pln"> org</span><span class=3D"p=
+un">.</span><span class=3D"pln">apache</span><span class=3D"pun">=
+.</span><span class=3D"pln">hadoop</span><span class=3D"pun">.</s=
+pan><span class=3D"pln">hbase</span><span class=3D"pun">.</span><=
+span class=3D"pln">util</span><span class=3D"pun">.</span><span c=
+lass=3D"typ">Bytes</span><span class=3D"pun">;</span></code></li>=
+<li style=3D"list-style-type: none; padding-left: 0px;" class=3D"=
+L8"><code class=3D"language-java"></code></li><li style=3D"list-s=
+tyle-type: none; padding-left: 0px;" class=3D"L9"><code class=3D"=
+language-java"><span class=3D"kwd">public</span><span class=3D"pl=
+n"> </span><span class=3D"kwd">class</span><span class=3D"pln"> <=
+/span><span class=3D"typ">Hbase</span><span class=3D"pln"> </span=
+><span class=3D"pun">{</span></code></li><li style=3D"list-style-=
+type: none; padding-left: 0px;" class=3D"L0"><code class=3D"langu=
+age-java"><span class=3D"pln">    </span><span class=3D"com">// =C9=
+=F9=C3=F7=BE=B2=CC=AC=C5=E4=D6=C3</span></code></li><li style=3D"=
+list-style-type: none; padding-left: 0px;" class=3D"L1"><code cla=
+ss=3D"language-java"><span class=3D"pln">    </span><span class=3D=
+"kwd">static</span><span class=3D"pln"> </span><span class=3D"typ=
+">Configuration</span><span class=3D"pln"> conf </span><span clas=
+s=3D"pun">=3D</span><span class=3D"pln"> </span><span class=3D"kw=
+d">null</span><span class=3D"pun">;</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L2"><code cl=
+ass=3D"language-java"><span class=3D"pln">    </span><span class=3D=
+"kwd">static</span><span class=3D"pln"> </span><span class=3D"pun=
+">{</span></code></li><li style=3D"list-style-type: none; padding=
+-left: 0px;" class=3D"L3"><code class=3D"language-java"><span cla=
+ss=3D"pln">        conf </span><span class=3D"pun">=3D</span><spa=
+n class=3D"pln"> </span><span class=3D"typ">HBaseConfiguration</s=
+pan><span class=3D"pun">.</span><span class=3D"pln">create</span>=
+<span class=3D"pun">();</span></code></li><li style=3D"list-style=
+-type: none; padding-left: 0px;" class=3D"L4"><code class=3D"lang=
+uage-java"><span class=3D"pln">        conf</span><span class=3D"=
+pun">.</span><span class=3D"pln">set</span><span class=3D"pun">(<=
+/span><span class=3D"str">"hbase.rootdir"</span><span class=3D"pu=
+n">,</span><span class=3D"pln"> </span><span class=3D"str">"hdfs:=
+//mycluster/hbase"</span><span class=3D"pun">);</span></code></li=
+><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L5"><code class=3D"language-java"><span class=3D"pln">        co=
+nf</span><span class=3D"pun">.</span><span class=3D"pln">set</spa=
+n><span class=3D"pun">(</span><span class=3D"str">"hbase.zookeepe=
+r.quorum"</span><span class=3D"pun">,</span><span class=3D"pln">=20=
+</span><span class=3D"str">"Zookeeper01,Namenode01,Namenode02"</s=
+pan><span class=3D"pun">);</span></code></li><li style=3D"list-st=
+yle-type: none; padding-left: 0px;" class=3D"L6"><code class=3D"l=
+anguage-java"><span class=3D"pln">    </span><span class=3D"pun">=
+}</span></code></li><li style=3D"list-style-type: none; padding-l=
+eft: 0px;" class=3D"L7"><code class=3D"language-java"></code></li=
+><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L8"><code class=3D"language-java"><span class=3D"pln">    </span=
+><span class=3D"com">/*</span></code></li><li style=3D"list-style=
+-type: none; padding-left: 0px;" class=3D"L9"><code class=3D"lang=
+uage-java"><span class=3D"com">     * =B4=B4=BD=A8=B1=ED</span></=
+code></li><li style=3D"list-style-type: none; padding-left: 0px;"=
+ class=3D"L0"><code class=3D"language-java"><span class=3D"com">=20=
+    * </span></code></li><li style=3D"list-style-type: none; padd=
+ing-left: 0px;" class=3D"L1"><code class=3D"language-java"><span=20=
+class=3D"com">     * @tableName =B1=ED=C3=FB</span></code></li><l=
+i style=3D"list-style-type: none; padding-left: 0px;" class=3D"L2=
+"><code class=3D"language-java"><span class=3D"com">     * </span=
+></code></li><li style=3D"list-style-type: none; padding-left: 0p=
+x;" class=3D"L3"><code class=3D"language-java"><span class=3D"com=
+">     * @family =C1=D0=D7=E5=C1=D0=B1=ED</span></code></li><li s=
+tyle=3D"list-style-type: none; padding-left: 0px;" class=3D"L4"><=
+code class=3D"language-java"><span class=3D"com">     */</span></=
+code></li><li style=3D"list-style-type: none; padding-left: 0px;"=
+ class=3D"L5"><code class=3D"language-java"><span class=3D"pln">=20=
+   </span><span class=3D"kwd">public</span><span class=3D"pln"> <=
+/span><span class=3D"kwd">static</span><span class=3D"pln"> </spa=
+n><span class=3D"kwd">void</span><span class=3D"pln"> creatTable<=
+/span><span class=3D"pun">(</span><span class=3D"typ">String</spa=
+n><span class=3D"pln"> tableName</span><span class=3D"pun">,</spa=
+n><span class=3D"pln"> </span><span class=3D"typ">String</span><s=
+pan class=3D"pun">[]</span><span class=3D"pln"> family</span><spa=
+n class=3D"pun">)</span></code></li><li style=3D"list-style-type:=
+ none; padding-left: 0px;" class=3D"L6"><code class=3D"language-j=
+ava"><span class=3D"pln">            </span><span class=3D"kwd">t=
+hrows</span><span class=3D"pln"> </span><span class=3D"typ">Excep=
+tion</span><span class=3D"pln"> </span><span class=3D"pun">{</spa=
+n></code></li><li style=3D"list-style-type: none; padding-left: 0=
+px;" class=3D"L7"><code class=3D"language-java"><span class=3D"pl=
+n">        </span><span class=3D"typ">HBaseAdmin</span><span clas=
+s=3D"pln"> admin </span><span class=3D"pun">=3D</span><span class=
+=3D"pln"> </span><span class=3D"kwd">new</span><span class=3D"pln=
+"> </span><span class=3D"typ">HBaseAdmin</span><span class=3D"pun=
+">(</span><span class=3D"pln">conf</span><span class=3D"pun">);</=
+span></code></li><li style=3D"list-style-type: none; padding-left=
+: 0px;" class=3D"L8"><code class=3D"language-java"><span class=3D=
+"pln">        </span><span class=3D"typ">HTableDescriptor</span><=
+span class=3D"pln"> desc </span><span class=3D"pun">=3D</span><sp=
+an class=3D"pln"> </span><span class=3D"kwd">new</span><span clas=
+s=3D"pln"> </span><span class=3D"typ">HTableDescriptor</span><spa=
+n class=3D"pun">(</span><span class=3D"pln">tableName</span><span=
+ class=3D"pun">);</span></code></li><li style=3D"list-style-type:=
+ none; padding-left: 0px;" class=3D"L9"><code class=3D"language-j=
+ava"><span class=3D"pln">        </span><span class=3D"kwd">for</=
+span><span class=3D"pln"> </span><span class=3D"pun">(</span><spa=
+n class=3D"kwd">int</span><span class=3D"pln"> i </span><span cla=
+ss=3D"pun">=3D</span><span class=3D"pln"> </span><span class=3D"l=
+it">0</span><span class=3D"pun">;</span><span class=3D"pln"> i </=
+span><span class=3D"pun">&lt;</span><span class=3D"pln"> family</=
+span><span class=3D"pun">.</span><span class=3D"pln">length</span=
+><span class=3D"pun">;</span><span class=3D"pln"> i</span><span c=
+lass=3D"pun">++)</span><span class=3D"pln"> </span><span class=3D=
+"pun">{</span></code></li><li style=3D"list-style-type: none; pad=
+ding-left: 0px;" class=3D"L0"><code class=3D"language-java"><span=
+ class=3D"pln">            desc</span><span class=3D"pun">.</span=
+><span class=3D"pln">addFamily</span><span class=3D"pun">(</span>=
+<span class=3D"kwd">new</span><span class=3D"pln"> </span><span c=
+lass=3D"typ">HColumnDescriptor</span><span class=3D"pun">(</span>=
+<span class=3D"pln">family</span><span class=3D"pun">[</span><spa=
+n class=3D"pln">i</span><span class=3D"pun">]));</span></code></l=
+i><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L1"><code class=3D"language-java"><span class=3D"pln">        </=
+span><span class=3D"pun">}</span></code></li><li style=3D"list-st=
+yle-type: none; padding-left: 0px;" class=3D"L2"><code class=3D"l=
+anguage-java"><span class=3D"pln">        </span><span class=3D"k=
+wd">if</span><span class=3D"pln"> </span><span class=3D"pun">(</s=
+pan><span class=3D"pln">admin</span><span class=3D"pun">.</span><=
+span class=3D"pln">tableExists</span><span class=3D"pun">(</span>=
+<span class=3D"pln">tableName</span><span class=3D"pun">))</span>=
+<span class=3D"pln"> </span><span class=3D"pun">{</span></code></=
+li><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L3"><code class=3D"language-java"><span class=3D"pln">         =20=
+  </span><span class=3D"typ">System</span><span class=3D"pun">.</=
+span><span class=3D"pln">out</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">println</span><span class=3D"pun">(</span><span=
+ class=3D"str">"table Exists!"</span><span class=3D"pun">);</span=
+></code></li><li style=3D"list-style-type: none; padding-left: 0p=
+x;" class=3D"L4"><code class=3D"language-java"><span class=3D"pln=
+">            </span><span class=3D"typ">System</span><span class=
+=3D"pun">.</span><span class=3D"pln">exit</span><span class=3D"pu=
+n">(</span><span class=3D"lit">0</span><span class=3D"pun">);</sp=
+an></code></li><li style=3D"list-style-type: none; padding-left:=20=
+0px;" class=3D"L5"><code class=3D"language-java"><span class=3D"p=
+ln">        </span><span class=3D"pun">}</span><span class=3D"pln=
+"> </span><span class=3D"kwd">else</span><span class=3D"pln"> </s=
+pan><span class=3D"pun">{</span></code></li><li style=3D"list-sty=
+le-type: none; padding-left: 0px;" class=3D"L6"><code class=3D"la=
+nguage-java"><span class=3D"pln">            admin</span><span cl=
+ass=3D"pun">.</span><span class=3D"pln">createTable</span><span c=
+lass=3D"pun">(</span><span class=3D"pln">desc</span><span class=3D=
+"pun">);</span></code></li><li style=3D"list-style-type: none; pa=
+dding-left: 0px;" class=3D"L7"><code class=3D"language-java"><spa=
+n class=3D"pln">            </span><span class=3D"typ">System</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">out</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">println</span><span c=
+lass=3D"pun">(</span><span class=3D"str">"create table Success!"<=
+/span><span class=3D"pun">);</span></code></li><li style=3D"list-=
+style-type: none; padding-left: 0px;" class=3D"L8"><code class=3D=
+"language-java"><span class=3D"pln">        </span><span class=3D=
+"pun">}</span></code></li><li style=3D"list-style-type: none; pad=
+ding-left: 0px;" class=3D"L9"><code class=3D"language-java"><span=
+ class=3D"pln">    </span><span class=3D"pun">}</span></code></li=
+><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L0"><code class=3D"language-java"></code></li><li style=3D"list-=
+style-type: none; padding-left: 0px;" class=3D"L1"><code class=3D=
+"language-java"><span class=3D"pln">    </span><span class=3D"com=
+">/*</span></code></li><li style=3D"list-style-type: none; paddin=
+g-left: 0px;" class=3D"L2"><code class=3D"language-java"><span cl=
+ass=3D"com">     * =CE=AA=B1=ED=CC=ED=BC=D3=CA=FD=BE=DD=A3=A8=CA=CA=
+=BA=CF=D6=AA=B5=C0=D3=D0=B6=E0=C9=D9=C1=D0=D7=E5=B5=C4=B9=CC=B6=A8=
+=B1=ED=A3=A9</span></code></li><li style=3D"list-style-type: none=
+; padding-left: 0px;" class=3D"L3"><code class=3D"language-java">=
+<span class=3D"com">     * </span></code></li><li style=3D"list-s=
+tyle-type: none; padding-left: 0px;" class=3D"L4"><code class=3D"=
+language-java"><span class=3D"com">     * @rowKey rowKey</span></=
+code></li><li style=3D"list-style-type: none; padding-left: 0px;"=
+ class=3D"L5"><code class=3D"language-java"><span class=3D"com">=20=
+    * </span></code></li><li style=3D"list-style-type: none; padd=
+ing-left: 0px;" class=3D"L6"><code class=3D"language-java"><span=20=
+class=3D"com">     * @tableName =B1=ED=C3=FB</span></code></li><l=
+i style=3D"list-style-type: none; padding-left: 0px;" class=3D"L7=
+"><code class=3D"language-java"><span class=3D"com">     * </span=
+></code></li><li style=3D"list-style-type: none; padding-left: 0p=
+x;" class=3D"L8"><code class=3D"language-java"><span class=3D"com=
+">     * @column1 =B5=DA=D2=BB=B8=F6=C1=D0=D7=E5=C1=D0=B1=ED</spa=
+n></code></li><li style=3D"list-style-type: none; padding-left: 0=
+px;" class=3D"L9"><code class=3D"language-java"><span class=3D"co=
+m">     * </span></code></li><li style=3D"list-style-type: none;=20=
+padding-left: 0px;" class=3D"L0"><code class=3D"language-java"><s=
+pan class=3D"com">     * @value1 =B5=DA=D2=BB=B8=F6=C1=D0=B5=C4=D6=
+=B5=B5=C4=C1=D0=B1=ED</span></code></li><li style=3D"list-style-t=
+ype: none; padding-left: 0px;" class=3D"L1"><code class=3D"langua=
+ge-java"><span class=3D"com">     * </span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L2"><code cl=
+ass=3D"language-java"><span class=3D"com">     * @column2 =B5=DA=B6=
+=FE=B8=F6=C1=D0=D7=E5=C1=D0=B1=ED</span></code></li><li style=3D"=
+list-style-type: none; padding-left: 0px;" class=3D"L3"><code cla=
+ss=3D"language-java"><span class=3D"com">     * </span></code></l=
+i><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L4"><code class=3D"language-java"><span class=3D"com">     * @va=
+lue2 =B5=DA=B6=FE=B8=F6=C1=D0=B5=C4=D6=B5=B5=C4=C1=D0=B1=ED</span=
+></code></li><li style=3D"list-style-type: none; padding-left: 0p=
+x;" class=3D"L5"><code class=3D"language-java"><span class=3D"com=
+">     */</span></code></li><li style=3D"list-style-type: none; p=
+adding-left: 0px;" class=3D"L6"><code class=3D"language-java"><sp=
+an class=3D"pln">    </span><span class=3D"kwd">public</span><spa=
+n class=3D"pln"> </span><span class=3D"kwd">static</span><span cl=
+ass=3D"pln"> </span><span class=3D"kwd">void</span><span class=3D=
+"pln"> addData</span><span class=3D"pun">(</span><span class=3D"t=
+yp">String</span><span class=3D"pln"> rowKey</span><span class=3D=
+"pun">,</span><span class=3D"pln"> </span><span class=3D"typ">Str=
+ing</span><span class=3D"pln"> tableName</span><span class=3D"pun=
+">,</span></code></li><li style=3D"list-style-type: none; padding=
+-left: 0px;" class=3D"L7"><code class=3D"language-java"><span cla=
+ss=3D"pln">            </span><span class=3D"typ">String</span><s=
+pan class=3D"pun">[]</span><span class=3D"pln"> column1</span><sp=
+an class=3D"pun">,</span><span class=3D"pln"> </span><span class=3D=
+"typ">String</span><span class=3D"pun">[]</span><span class=3D"pl=
+n"> value1</span><span class=3D"pun">,</span><span class=3D"pln">=
+ </span><span class=3D"typ">String</span><span class=3D"pun">[]</=
+span><span class=3D"pln"> column2</span><span class=3D"pun">,</sp=
+an><span class=3D"pln"> </span><span class=3D"typ">String</span><=
+span class=3D"pun">[]</span><span class=3D"pln"> value2</span><sp=
+an class=3D"pun">)</span></code></li><li style=3D"list-style-type=
+: none; padding-left: 0px;" class=3D"L8"><code class=3D"language-=
+java"><span class=3D"pln">            </span><span class=3D"kwd">=
+throws</span><span class=3D"pln"> </span><span class=3D"typ">IOEx=
+ception</span><span class=3D"pln"> </span><span class=3D"pun">{</=
+span></code></li><li style=3D"list-style-type: none; padding-left=
+: 0px;" class=3D"L9"><code class=3D"language-java"><span class=3D=
+"pln">        </span><span class=3D"typ">Put</span><span class=3D=
+"pln"> put </span><span class=3D"pun">=3D</span><span class=3D"pl=
+n"> </span><span class=3D"kwd">new</span><span class=3D"pln"> </s=
+pan><span class=3D"typ">Put</span><span class=3D"pun">(</span><sp=
+an class=3D"typ">Bytes</span><span class=3D"pun">.</span><span cl=
+ass=3D"pln">toBytes</span><span class=3D"pun">(</span><span class=
+=3D"pln">rowKey</span><span class=3D"pun">));</span><span class=3D=
+"com">// =C9=E8=D6=C3rowkey</span></code></li><li style=3D"list-s=
+tyle-type: none; padding-left: 0px;" class=3D"L0"><code class=3D"=
+language-java"><span class=3D"pln">        </span><span class=3D"=
+typ">HTable</span><span class=3D"pln"> table </span><span class=3D=
+"pun">=3D</span><span class=3D"pln"> </span><span class=3D"kwd">n=
+ew</span><span class=3D"pln"> </span><span class=3D"typ">HTable</=
+span><span class=3D"pun">(</span><span class=3D"pln">conf</span><=
+span class=3D"pun">,</span><span class=3D"pln"> </span><span clas=
+s=3D"typ">Bytes</span><span class=3D"pun">.</span><span class=3D"=
+pln">toBytes</span><span class=3D"pun">(</span><span class=3D"pln=
+">tableName</span><span class=3D"pun">));</span><span class=3D"co=
+m">// HTabel=B8=BA=D4=F0=B8=FA=BC=C7=C2=BC=CF=E0=B9=D8=B5=C4=B2=D9=
+=D7=F7=C8=E7=D4=F6=C9=BE=B8=C4=B2=E9=B5=C8// =BB=F1=C8=A1=B1=ED</=
+span></code></li><li style=3D"list-style-type: none; padding-left=
+: 0px;" class=3D"L1"><code class=3D"language-java"><span class=3D=
+"pln">        </span><span class=3D"typ">HColumnDescriptor</span>=
+<span class=3D"pun">[]</span><span class=3D"pln"> columnFamilies=20=
+</span><span class=3D"pun">=3D</span><span class=3D"pln"> table</=
+span><span class=3D"pun">.</span><span class=3D"pln">getTableDesc=
+riptor</span><span class=3D"pun">()</span><span class=3D"pln"> </=
+span><span class=3D"com">// =BB=F1=C8=A1=CB=F9=D3=D0=B5=C4=C1=D0=D7=
+=E5</span></code></li><li style=3D"list-style-type: none; padding=
+-left: 0px;" class=3D"L2"><code class=3D"language-java"><span cla=
+ss=3D"pln">                </span><span class=3D"pun">.</span><sp=
+an class=3D"pln">getColumnFamilies</span><span class=3D"pun">();<=
+/span></code></li><li style=3D"list-style-type: none; padding-lef=
+t: 0px;" class=3D"L3"><code class=3D"language-java"></code></li><=
+li style=3D"list-style-type: none; padding-left: 0px;" class=3D"L=
+4"><code class=3D"language-java"><span class=3D"pln">        </sp=
+an><span class=3D"kwd">for</span><span class=3D"pln"> </span><spa=
+n class=3D"pun">(</span><span class=3D"kwd">int</span><span class=
+=3D"pln"> i </span><span class=3D"pun">=3D</span><span class=3D"p=
+ln"> </span><span class=3D"lit">0</span><span class=3D"pun">;</sp=
+an><span class=3D"pln"> i </span><span class=3D"pun">&lt;</span><=
+span class=3D"pln"> columnFamilies</span><span class=3D"pun">.</s=
+pan><span class=3D"pln">length</span><span class=3D"pun">;</span>=
+<span class=3D"pln"> i</span><span class=3D"pun">++)</span><span=20=
+class=3D"pln"> </span><span class=3D"pun">{</span></code></li><li=
+ style=3D"list-style-type: none; padding-left: 0px;" class=3D"L5"=
+><code class=3D"language-java"><span class=3D"pln">            </=
+span><span class=3D"typ">String</span><span class=3D"pln"> family=
+Name </span><span class=3D"pun">=3D</span><span class=3D"pln"> co=
+lumnFamilies</span><span class=3D"pun">[</span><span class=3D"pln=
+">i</span><span class=3D"pun">].</span><span class=3D"pln">getNam=
+eAsString</span><span class=3D"pun">();</span><span class=3D"pln"=
+> </span><span class=3D"com">// =BB=F1=C8=A1=C1=D0=D7=E5=C3=FB</s=
+pan></code></li><li style=3D"list-style-type: none; padding-left:=
+ 0px;" class=3D"L6"><code class=3D"language-java"><span class=3D"=
+pln">            </span><span class=3D"kwd">if</span><span class=3D=
+"pln"> </span><span class=3D"pun">(</span><span class=3D"pln">fam=
+ilyName</span><span class=3D"pun">.</span><span class=3D"pln">equ=
+als</span><span class=3D"pun">(</span><span class=3D"str">"articl=
+e"</span><span class=3D"pun">))</span><span class=3D"pln"> </span=
+><span class=3D"pun">{</span><span class=3D"pln"> </span><span cl=
+ass=3D"com">// article=C1=D0=D7=E5put=CA=FD=BE=DD</span></code></=
+li><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L7"><code class=3D"language-java"><span class=3D"pln">         =20=
+      </span><span class=3D"kwd">for</span><span class=3D"pln"> <=
+/span><span class=3D"pun">(</span><span class=3D"kwd">int</span><=
+span class=3D"pln"> j </span><span class=3D"pun">=3D</span><span=20=
+class=3D"pln"> </span><span class=3D"lit">0</span><span class=3D"=
+pun">;</span><span class=3D"pln"> j </span><span class=3D"pun">&l=
+t;</span><span class=3D"pln"> column1</span><span class=3D"pun">.=
+</span><span class=3D"pln">length</span><span class=3D"pun">;</sp=
+an><span class=3D"pln"> j</span><span class=3D"pun">++)</span><sp=
+an class=3D"pln"> </span><span class=3D"pun">{</span></code></li>=
+<li style=3D"list-style-type: none; padding-left: 0px;" class=3D"=
+L8"><code class=3D"language-java"><span class=3D"pln">          =20=
+         put</span><span class=3D"pun">.</span><span class=3D"pln=
+">add</span><span class=3D"pun">(</span><span class=3D"typ">Bytes=
+</span><span class=3D"pun">.</span><span class=3D"pln">toBytes</s=
+pan><span class=3D"pun">(</span><span class=3D"pln">familyName</s=
+pan><span class=3D"pun">),</span></code></li><li style=3D"list-st=
+yle-type: none; padding-left: 0px;" class=3D"L9"><code class=3D"l=
+anguage-java"><span class=3D"pln">                            </s=
+pan><span class=3D"typ">Bytes</span><span class=3D"pun">.</span><=
+span class=3D"pln">toBytes</span><span class=3D"pun">(</span><spa=
+n class=3D"pln">column1</span><span class=3D"pun">[</span><span c=
+lass=3D"pln">j</span><span class=3D"pun">]),</span><span class=3D=
+"pln"> </span><span class=3D"typ">Bytes</span><span class=3D"pun"=
+>.</span><span class=3D"pln">toBytes</span><span class=3D"pun">(<=
+/span><span class=3D"pln">value1</span><span class=3D"pun">[</spa=
+n><span class=3D"pln">j</span><span class=3D"pun">]));</span></co=
+de></li><li style=3D"list-style-type: none; padding-left: 0px;" c=
+lass=3D"L0"><code class=3D"language-java"><span class=3D"pln">  =20=
+             </span><span class=3D"pun">}</span></code></li><li s=
+tyle=3D"list-style-type: none; padding-left: 0px;" class=3D"L1"><=
+code class=3D"language-java"><span class=3D"pln">            </sp=
+an><span class=3D"pun">}</span></code></li><li style=3D"list-styl=
+e-type: none; padding-left: 0px;" class=3D"L2"><code class=3D"lan=
+guage-java"><span class=3D"pln">            </span><span class=3D=
+"kwd">if</span><span class=3D"pln"> </span><span class=3D"pun">(<=
+/span><span class=3D"pln">familyName</span><span class=3D"pun">.<=
+/span><span class=3D"pln">equals</span><span class=3D"pun">(</spa=
+n><span class=3D"str">"author"</span><span class=3D"pun">))</span=
+><span class=3D"pln"> </span><span class=3D"pun">{</span><span cl=
+ass=3D"pln"> </span><span class=3D"com">// author=C1=D0=D7=E5put=CA=
+=FD=BE=DD</span></code></li><li style=3D"list-style-type: none; p=
+adding-left: 0px;" class=3D"L3"><code class=3D"language-java"><sp=
+an class=3D"pln">                </span><span class=3D"kwd">for</=
+span><span class=3D"pln"> </span><span class=3D"pun">(</span><spa=
+n class=3D"kwd">int</span><span class=3D"pln"> j </span><span cla=
+ss=3D"pun">=3D</span><span class=3D"pln"> </span><span class=3D"l=
+it">0</span><span class=3D"pun">;</span><span class=3D"pln"> j </=
+span><span class=3D"pun">&lt;</span><span class=3D"pln"> column2<=
+/span><span class=3D"pun">.</span><span class=3D"pln">length</spa=
+n><span class=3D"pun">;</span><span class=3D"pln"> j</span><span=20=
+class=3D"pun">++)</span><span class=3D"pln"> </span><span class=3D=
+"pun">{</span></code></li><li style=3D"list-style-type: none; pad=
+ding-left: 0px;" class=3D"L4"><code class=3D"language-java"><span=
+ class=3D"pln">                    put</span><span class=3D"pun">=
+.</span><span class=3D"pln">add</span><span class=3D"pun">(</span=
+><span class=3D"typ">Bytes</span><span class=3D"pun">.</span><spa=
+n class=3D"pln">toBytes</span><span class=3D"pun">(</span><span c=
+lass=3D"pln">familyName</span><span class=3D"pun">),</span></code=
+></li><li style=3D"list-style-type: none; padding-left: 0px;" cla=
+ss=3D"L5"><code class=3D"language-java"><span class=3D"pln">    =20=
+                       </span><span class=3D"typ">Bytes</span><sp=
+an class=3D"pun">.</span><span class=3D"pln">toBytes</span><span=20=
+class=3D"pun">(</span><span class=3D"pln">column2</span><span cla=
+ss=3D"pun">[</span><span class=3D"pln">j</span><span class=3D"pun=
+">]),</span><span class=3D"pln"> </span><span class=3D"typ">Bytes=
+</span><span class=3D"pun">.</span><span class=3D"pln">toBytes</s=
+pan><span class=3D"pun">(</span><span class=3D"pln">value2</span>=
+<span class=3D"pun">[</span><span class=3D"pln">j</span><span cla=
+ss=3D"pun">]));</span></code></li><li style=3D"list-style-type: n=
+one; padding-left: 0px;" class=3D"L6"><code class=3D"language-jav=
+a"><span class=3D"pln">                </span><span class=3D"pun"=
+>}</span></code></li><li style=3D"list-style-type: none; padding-=
+left: 0px;" class=3D"L7"><code class=3D"language-java"><span clas=
+s=3D"pln">            </span><span class=3D"pun">}</span></code><=
+/li><li style=3D"list-style-type: none; padding-left: 0px;" class=
+=3D"L8"><code class=3D"language-java"><span class=3D"pln">      =20=
+ </span><span class=3D"pun">}</span></code></li><li style=3D"list=
+-style-type: none; padding-left: 0px;" class=3D"L9"><code class=3D=
+"language-java"><span class=3D"pln">        table</span><span cla=
+ss=3D"pun">.</span><span class=3D"pln">put</span><span class=3D"p=
+un">(</span><span class=3D"pln">put</span><span class=3D"pun">);<=
+/span></code></li><li style=3D"list-style-type: none; padding-lef=
+t: 0px;" class=3D"L0"><code class=3D"language-java"><span class=3D=
+"pln">        </span><span class=3D"typ">System</span><span class=
+=3D"pun">.</span><span class=3D"pln">out</span><span class=3D"pun=
+">.</span><span class=3D"pln">println</span><span class=3D"pun">(=
+</span><span class=3D"str">"add data Success!"</span><span class=3D=
+"pun">);</span></code></li><li style=3D"list-style-type: none; pa=
+dding-left: 0px;" class=3D"L1"><code class=3D"language-java"><spa=
+n class=3D"pln">    </span><span class=3D"pun">}</span></code></l=
+i><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L2"><code class=3D"language-java"></code></li><li style=3D"list-=
+style-type: none; padding-left: 0px;" class=3D"L3"><code class=3D=
+"language-java"><span class=3D"pln">    </span><span class=3D"com=
+">/*</span></code></li><li style=3D"list-style-type: none; paddin=
+g-left: 0px;" class=3D"L4"><code class=3D"language-java"><span cl=
+ass=3D"com">     * =B8=F9=BE=DDrwokey=B2=E9=D1=AF</span></code></=
+li><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L5"><code class=3D"language-java"><span class=3D"com">     * </s=
+pan></code></li><li style=3D"list-style-type: none; padding-left:=
+ 0px;" class=3D"L6"><code class=3D"language-java"><span class=3D"=
+com">     * @rowKey rowKey</span></code></li><li style=3D"list-st=
+yle-type: none; padding-left: 0px;" class=3D"L7"><code class=3D"l=
+anguage-java"><span class=3D"com">     * </span></code></li><li s=
+tyle=3D"list-style-type: none; padding-left: 0px;" class=3D"L8"><=
+code class=3D"language-java"><span class=3D"com">     * @tableNam=
+e =B1=ED=C3=FB</span></code></li><li style=3D"list-style-type: no=
+ne; padding-left: 0px;" class=3D"L9"><code class=3D"language-java=
+"><span class=3D"com">     */</span></code></li><li style=3D"list=
+-style-type: none; padding-left: 0px;" class=3D"L0"><code class=3D=
+"language-java"><span class=3D"pln">    </span><span class=3D"kwd=
+">public</span><span class=3D"pln"> </span><span class=3D"kwd">st=
+atic</span><span class=3D"pln"> </span><span class=3D"typ">Result=
+</span><span class=3D"pln"> getResult</span><span class=3D"pun">(=
+</span><span class=3D"typ">String</span><span class=3D"pln"> tabl=
+eName</span><span class=3D"pun">,</span><span class=3D"pln"> </sp=
+an><span class=3D"typ">String</span><span class=3D"pln"> rowKey</=
+span><span class=3D"pun">)</span></code></li><li style=3D"list-st=
+yle-type: none; padding-left: 0px;" class=3D"L1"><code class=3D"l=
+anguage-java"><span class=3D"pln">            </span><span class=3D=
+"kwd">throws</span><span class=3D"pln"> </span><span class=3D"typ=
+">IOException</span><span class=3D"pln"> </span><span class=3D"pu=
+n">{</span></code></li><li style=3D"list-style-type: none; paddin=
+g-left: 0px;" class=3D"L2"><code class=3D"language-java"><span cl=
+ass=3D"pln">        </span><span class=3D"typ">Get</span><span cl=
+ass=3D"pln"> get </span><span class=3D"pun">=3D</span><span class=
+=3D"pln"> </span><span class=3D"kwd">new</span><span class=3D"pln=
+"> </span><span class=3D"typ">Get</span><span class=3D"pun">(</sp=
+an><span class=3D"typ">Bytes</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">toBytes</span><span class=3D"pun">(</span><span=
+ class=3D"pln">rowKey</span><span class=3D"pun">));</span></code>=
+</li><li style=3D"list-style-type: none; padding-left: 0px;" clas=
+s=3D"L3"><code class=3D"language-java"><span class=3D"pln">     =20=
+  </span><span class=3D"typ">HTable</span><span class=3D"pln"> ta=
+ble </span><span class=3D"pun">=3D</span><span class=3D"pln"> </s=
+pan><span class=3D"kwd">new</span><span class=3D"pln"> </span><sp=
+an class=3D"typ">HTable</span><span class=3D"pun">(</span><span c=
+lass=3D"pln">conf</span><span class=3D"pun">,</span><span class=3D=
+"pln"> </span><span class=3D"typ">Bytes</span><span class=3D"pun"=
+>.</span><span class=3D"pln">toBytes</span><span class=3D"pun">(<=
+/span><span class=3D"pln">tableName</span><span class=3D"pun">));=
+</span><span class=3D"com">// =BB=F1=C8=A1=B1=ED</span></code></l=
+i><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L4"><code class=3D"language-java"><span class=3D"pln">        </=
+span><span class=3D"typ">Result</span><span class=3D"pln"> result=
+ </span><span class=3D"pun">=3D</span><span class=3D"pln"> table<=
+/span><span class=3D"pun">.</span><span class=3D"pln">get</span><=
+span class=3D"pun">(</span><span class=3D"pln">get</span><span cl=
+ass=3D"pun">);</span></code></li><li style=3D"list-style-type: no=
+ne; padding-left: 0px;" class=3D"L5"><code class=3D"language-java=
+"><span class=3D"pln">        </span><span class=3D"kwd">for</spa=
+n><span class=3D"pln"> </span><span class=3D"pun">(</span><span c=
+lass=3D"typ">KeyValue</span><span class=3D"pln"> kv </span><span=20=
+class=3D"pun">:</span><span class=3D"pln"> result</span><span cla=
+ss=3D"pun">.</span><span class=3D"pln">list</span><span class=3D"=
+pun">())</span><span class=3D"pln"> </span><span class=3D"pun">{<=
+/span></code></li><li style=3D"list-style-type: none; padding-lef=
+t: 0px;" class=3D"L6"><code class=3D"language-java"><span class=3D=
+"pln">            </span><span class=3D"typ">System</span><span c=
+lass=3D"pun">.</span><span class=3D"pln">out</span><span class=3D=
+"pun">.</span><span class=3D"pln">println</span><span class=3D"pu=
+n">(</span><span class=3D"str">"family:"</span><span class=3D"pln=
+"> </span><span class=3D"pun">+</span><span class=3D"pln"> </span=
+><span class=3D"typ">Bytes</span><span class=3D"pun">.</span><spa=
+n class=3D"pln">toString</span><span class=3D"pun">(</span><span=20=
+class=3D"pln">kv</span><span class=3D"pun">.</span><span class=3D=
+"pln">getFamily</span><span class=3D"pun">()));</span></code></li=
+><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L7"><code class=3D"language-java"><span class=3D"pln">         =20=
+  </span><span class=3D"typ">System</span><span class=3D"pun">.</=
+span><span class=3D"pln">out</span></code></li><li style=3D"list-=
+style-type: none; padding-left: 0px;" class=3D"L8"><code class=3D=
+"language-java"><span class=3D"pln">                    </span><s=
+pan class=3D"pun">.</span><span class=3D"pln">println</span><span=
+ class=3D"pun">(</span><span class=3D"str">"qualifier:"</span><sp=
+an class=3D"pln"> </span><span class=3D"pun">+</span><span class=3D=
+"pln"> </span><span class=3D"typ">Bytes</span><span class=3D"pun"=
+>.</span><span class=3D"pln">toString</span><span class=3D"pun">(=
+</span><span class=3D"pln">kv</span><span class=3D"pun">.</span><=
+span class=3D"pln">getQualifier</span><span class=3D"pun">()));</=
+span></code></li><li style=3D"list-style-type: none; padding-left=
+: 0px;" class=3D"L9"><code class=3D"language-java"><span class=3D=
+"pln">            </span><span class=3D"typ">System</span><span c=
+lass=3D"pun">.</span><span class=3D"pln">out</span><span class=3D=
+"pun">.</span><span class=3D"pln">println</span><span class=3D"pu=
+n">(</span><span class=3D"str">"value:"</span><span class=3D"pln"=
+> </span><span class=3D"pun">+</span><span class=3D"pln"> </span>=
+<span class=3D"typ">Bytes</span><span class=3D"pun">.</span><span=
+ class=3D"pln">toString</span><span class=3D"pun">(</span><span c=
+lass=3D"pln">kv</span><span class=3D"pun">.</span><span class=3D"=
+pln">getValue</span><span class=3D"pun">()));</span></code></li><=
+li style=3D"list-style-type: none; padding-left: 0px;" class=3D"L=
+0"><code class=3D"language-java"><span class=3D"pln">           =20=
+</span><span class=3D"typ">System</span><span class=3D"pun">.</sp=
+an><span class=3D"pln">out</span><span class=3D"pun">.</span><spa=
+n class=3D"pln">println</span><span class=3D"pun">(</span><span c=
+lass=3D"str">"Timestamp:"</span><span class=3D"pln"> </span><span=
+ class=3D"pun">+</span><span class=3D"pln"> kv</span><span class=3D=
+"pun">.</span><span class=3D"pln">getTimestamp</span><span class=3D=
+"pun">());</span></code></li><li style=3D"list-style-type: none;=20=
+padding-left: 0px;" class=3D"L1"><code class=3D"language-java"><s=
+pan class=3D"pln">            </span><span class=3D"typ">System</=
+span><span class=3D"pun">.</span><span class=3D"pln">out</span><s=
+pan class=3D"pun">.</span><span class=3D"pln">println</span><span=
+ class=3D"pun">(</span><span class=3D"str">"---------------------=
+----------------------"</span><span class=3D"pun">);</span></code=
+></li><li style=3D"list-style-type: none; padding-left: 0px;" cla=
+ss=3D"L2"><code class=3D"language-java"><span class=3D"pln">    =20=
+   </span><span class=3D"pun">}</span></code></li><li style=3D"li=
+st-style-type: none; padding-left: 0px;" class=3D"L3"><code class=
+=3D"language-java"><span class=3D"pln">        </span><span class=
+=3D"kwd">return</span><span class=3D"pln"> result</span><span cla=
+ss=3D"pun">;</span></code></li><li style=3D"list-style-type: none=
+; padding-left: 0px;" class=3D"L4"><code class=3D"language-java">=
+<span class=3D"pln">    </span><span class=3D"pun">}</span></code=
+></li><li style=3D"list-style-type: none; padding-left: 0px;" cla=
+ss=3D"L5"><code class=3D"language-java"></code></li><li style=3D"=
+list-style-type: none; padding-left: 0px;" class=3D"L6"><code cla=
+ss=3D"language-java"><span class=3D"pln">    </span><span class=3D=
+"com">/*</span></code></li><li style=3D"list-style-type: none; pa=
+dding-left: 0px;" class=3D"L7"><code class=3D"language-java"><spa=
+n class=3D"com">     * =B1=E9=C0=FA=B2=E9=D1=AFhbase=B1=ED</span>=
+</code></li><li style=3D"list-style-type: none; padding-left: 0px=
+;" class=3D"L8"><code class=3D"language-java"><span class=3D"com"=
+>     * </span></code></li><li style=3D"list-style-type: none; pa=
+dding-left: 0px;" class=3D"L9"><code class=3D"language-java"><spa=
+n class=3D"com">     * @tableName =B1=ED=C3=FB</span></code></li>=
+<li style=3D"list-style-type: none; padding-left: 0px;" class=3D"=
+L0"><code class=3D"language-java"><span class=3D"com">     */</sp=
+an></code></li><li style=3D"list-style-type: none; padding-left:=20=
+0px;" class=3D"L1"><code class=3D"language-java"><span class=3D"p=
+ln">    </span><span class=3D"kwd">public</span><span class=3D"pl=
+n"> </span><span class=3D"kwd">static</span><span class=3D"pln">=20=
+</span><span class=3D"kwd">void</span><span class=3D"pln"> getRes=
+ultScann</span><span class=3D"pun">(</span><span class=3D"typ">St=
+ring</span><span class=3D"pln"> tableName</span><span class=3D"pu=
+n">)</span><span class=3D"pln"> </span><span class=3D"kwd">throws=
+</span><span class=3D"pln"> </span><span class=3D"typ">IOExceptio=
+n</span><span class=3D"pln"> </span><span class=3D"pun">{</span><=
+/code></li><li style=3D"list-style-type: none; padding-left: 0px;=
+" class=3D"L2"><code class=3D"language-java"><span class=3D"pln">=
+        </span><span class=3D"typ">Scan</span><span class=3D"pln"=
+> scan </span><span class=3D"pun">=3D</span><span class=3D"pln">=20=
+</span><span class=3D"kwd">new</span><span class=3D"pln"> </span>=
+<span class=3D"typ">Scan</span><span class=3D"pun">();</span></co=
+de></li><li style=3D"list-style-type: none; padding-left: 0px;" c=
+lass=3D"L3"><code class=3D"language-java"><span class=3D"pln">  =20=
+     </span><span class=3D"typ">ResultScanner</span><span class=3D=
+"pln"> rs </span><span class=3D"pun">=3D</span><span class=3D"pln=
+"> </span><span class=3D"kwd">null</span><span class=3D"pun">;</s=
+pan></code></li><li style=3D"list-style-type: none; padding-left:=
+ 0px;" class=3D"L4"><code class=3D"language-java"><span class=3D"=
+pln">        </span><span class=3D"typ">HTable</span><span class=3D=
+"pln"> table </span><span class=3D"pun">=3D</span><span class=3D"=
+pln"> </span><span class=3D"kwd">new</span><span class=3D"pln"> <=
+/span><span class=3D"typ">HTable</span><span class=3D"pun">(</spa=
+n><span class=3D"pln">conf</span><span class=3D"pun">,</span><spa=
+n class=3D"pln"> </span><span class=3D"typ">Bytes</span><span cla=
+ss=3D"pun">.</span><span class=3D"pln">toBytes</span><span class=3D=
+"pun">(</span><span class=3D"pln">tableName</span><span class=3D"=
+pun">));</span></code></li><li style=3D"list-style-type: none; pa=
+dding-left: 0px;" class=3D"L5"><code class=3D"language-java"><spa=
+n class=3D"pln">        </span><span class=3D"kwd">try</span><spa=
+n class=3D"pln"> </span><span class=3D"pun">{</span></code></li><=
+li style=3D"list-style-type: none; padding-left: 0px;" class=3D"L=
+6"><code class=3D"language-java"><span class=3D"pln">           =20=
+rs </span><span class=3D"pun">=3D</span><span class=3D"pln"> tabl=
+e</span><span class=3D"pun">.</span><span class=3D"pln">getScanne=
+r</span><span class=3D"pun">(</span><span class=3D"pln">scan</spa=
+n><span class=3D"pun">);</span></code></li><li style=3D"list-styl=
+e-type: none; padding-left: 0px;" class=3D"L7"><code class=3D"lan=
+guage-java"><span class=3D"pln">            </span><span class=3D=
+"kwd">for</span><span class=3D"pln"> </span><span class=3D"pun">(=
+</span><span class=3D"typ">Result</span><span class=3D"pln"> r </=
+span><span class=3D"pun">:</span><span class=3D"pln"> rs</span><s=
+pan class=3D"pun">)</span><span class=3D"pln"> </span><span class=
+=3D"pun">{</span></code></li><li style=3D"list-style-type: none;=20=
+padding-left: 0px;" class=3D"L8"><code class=3D"language-java"><s=
+pan class=3D"pln">                </span><span class=3D"kwd">for<=
+/span><span class=3D"pln"> </span><span class=3D"pun">(</span><sp=
+an class=3D"typ">KeyValue</span><span class=3D"pln"> kv </span><s=
+pan class=3D"pun">:</span><span class=3D"pln"> r</span><span clas=
+s=3D"pun">.</span><span class=3D"pln">list</span><span class=3D"p=
+un">())</span><span class=3D"pln"> </span><span class=3D"pun">{</=
+span></code></li><li style=3D"list-style-type: none; padding-left=
+: 0px;" class=3D"L9"><code class=3D"language-java"><span class=3D=
+"pln">                    </span><span class=3D"typ">System</span=
+><span class=3D"pun">.</span><span class=3D"pln">out</span><span=20=
+class=3D"pun">.</span><span class=3D"pln">println</span><span cla=
+ss=3D"pun">(</span><span class=3D"str">"row:"</span><span class=3D=
+"pln"> </span><span class=3D"pun">+</span><span class=3D"pln"> </=
+span><span class=3D"typ">Bytes</span><span class=3D"pun">.</span>=
+<span class=3D"pln">toString</span><span class=3D"pun">(</span><s=
+pan class=3D"pln">kv</span><span class=3D"pun">.</span><span clas=
+s=3D"pln">getRow</span><span class=3D"pun">()));</span></code></l=
+i><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L0"><code class=3D"language-java"><span class=3D"pln">         =20=
+          </span><span class=3D"typ">System</span><span class=3D"=
+pun">.</span><span class=3D"pln">out</span><span class=3D"pun">.<=
+/span><span class=3D"pln">println</span><span class=3D"pun">(</sp=
+an><span class=3D"str">"family:"</span></code></li><li style=3D"l=
+ist-style-type: none; padding-left: 0px;" class=3D"L1"><code clas=
+s=3D"language-java"><span class=3D"pln">                        =20=
+   </span><span class=3D"pun">+</span><span class=3D"pln"> </span=
+><span class=3D"typ">Bytes</span><span class=3D"pun">.</span><spa=
+n class=3D"pln">toString</span><span class=3D"pun">(</span><span=20=
+class=3D"pln">kv</span><span class=3D"pun">.</span><span class=3D=
+"pln">getFamily</span><span class=3D"pun">()));</span></code></li=
+><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L2"><code class=3D"language-java"><span class=3D"pln">         =20=
+          </span><span class=3D"typ">System</span><span class=3D"=
+pun">.</span><span class=3D"pln">out</span><span class=3D"pun">.<=
+/span><span class=3D"pln">println</span><span class=3D"pun">(</sp=
+an><span class=3D"str">"qualifier:"</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L3"><code cl=
+ass=3D"language-java"><span class=3D"pln">                      =20=
+     </span><span class=3D"pun">+</span><span class=3D"pln"> </sp=
+an><span class=3D"typ">Bytes</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">toString</span><span class=3D"pun">(</span><spa=
+n class=3D"pln">kv</span><span class=3D"pun">.</span><span class=3D=
+"pln">getQualifier</span><span class=3D"pun">()));</span></code><=
+/li><li style=3D"list-style-type: none; padding-left: 0px;" class=
+=3D"L4"><code class=3D"language-java"><span class=3D"pln">      =20=
+             </span><span class=3D"typ">System</span><span class=3D=
+"pun">.</span><span class=3D"pln">out</span></code></li><li style=
+=3D"list-style-type: none; padding-left: 0px;" class=3D"L5"><code=
+ class=3D"language-java"><span class=3D"pln">                   =20=
+        </span><span class=3D"pun">.</span><span class=3D"pln">pr=
+intln</span><span class=3D"pun">(</span><span class=3D"str">"valu=
+e:"</span><span class=3D"pln"> </span><span class=3D"pun">+</span=
+><span class=3D"pln"> </span><span class=3D"typ">Bytes</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">toString</span><span=20=
+class=3D"pun">(</span><span class=3D"pln">kv</span><span class=3D=
+"pun">.</span><span class=3D"pln">getValue</span><span class=3D"p=
+un">()));</span></code></li><li style=3D"list-style-type: none; p=
+adding-left: 0px;" class=3D"L6"><code class=3D"language-java"><sp=
+an class=3D"pln">                    </span><span class=3D"typ">S=
+ystem</span><span class=3D"pun">.</span><span class=3D"pln">out</=
+span><span class=3D"pun">.</span><span class=3D"pln">println</spa=
+n><span class=3D"pun">(</span><span class=3D"str">"timestamp:"</s=
+pan><span class=3D"pln"> </span><span class=3D"pun">+</span><span=
+ class=3D"pln"> kv</span><span class=3D"pun">.</span><span class=3D=
+"pln">getTimestamp</span><span class=3D"pun">());</span></code></=
+li><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L7"><code class=3D"language-java"><span class=3D"pln">         =20=
+          </span><span class=3D"typ">System</span><span class=3D"=
+pun">.</span><span class=3D"pln">out</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L8"><code cl=
+ass=3D"language-java"><span class=3D"pln">                      =20=
+     </span><span class=3D"pun">.</span><span class=3D"pln">print=
+ln</span><span class=3D"pun">(</span><span class=3D"str">"-------=
+------------------------------------"</span><span class=3D"pun">)=
+;</span></code></li><li style=3D"list-style-type: none; padding-l=
+eft: 0px;" class=3D"L9"><code class=3D"language-java"><span class=
+=3D"pln">                </span><span class=3D"pun">}</span></cod=
+e></li><li style=3D"list-style-type: none; padding-left: 0px;" cl=
+ass=3D"L0"><code class=3D"language-java"><span class=3D"pln">   =20=
+        </span><span class=3D"pun">}</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L1"><code cl=
+ass=3D"language-java"><span class=3D"pln">        </span><span cl=
+ass=3D"pun">}</span><span class=3D"pln"> </span><span class=3D"kw=
+d">finally</span><span class=3D"pln"> </span><span class=3D"pun">=
+{</span></code></li><li style=3D"list-style-type: none; padding-l=
+eft: 0px;" class=3D"L2"><code class=3D"language-java"><span class=
+=3D"pln">            rs</span><span class=3D"pun">.</span><span c=
+lass=3D"pln">close</span><span class=3D"pun">();</span></code></l=
+i><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L3"><code class=3D"language-java"><span class=3D"pln">        </=
+span><span class=3D"pun">}</span></code></li><li style=3D"list-st=
+yle-type: none; padding-left: 0px;" class=3D"L4"><code class=3D"l=
+anguage-java"><span class=3D"pln">    </span><span class=3D"pun">=
+}</span></code></li><li style=3D"list-style-type: none; padding-l=
+eft: 0px;" class=3D"L5"><code class=3D"language-java"></code></li=
+><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L6"><code class=3D"language-java"><span class=3D"pln">    </span=
+><span class=3D"com">/*</span></code></li><li style=3D"list-style=
+-type: none; padding-left: 0px;" class=3D"L7"><code class=3D"lang=
+uage-java"><span class=3D"com">     * =B1=E9=C0=FA=B2=E9=D1=AFhba=
+se=B1=ED</span></code></li><li style=3D"list-style-type: none; pa=
+dding-left: 0px;" class=3D"L8"><code class=3D"language-java"><spa=
+n class=3D"com">     * </span></code></li><li style=3D"list-style=
+-type: none; padding-left: 0px;" class=3D"L9"><code class=3D"lang=
+uage-java"><span class=3D"com">     * @tableName =B1=ED=C3=FB</sp=
+an></code></li><li style=3D"list-style-type: none; padding-left:=20=
+0px;" class=3D"L0"><code class=3D"language-java"><span class=3D"c=
+om">     */</span></code></li><li style=3D"list-style-type: none;=
+ padding-left: 0px;" class=3D"L1"><code class=3D"language-java"><=
+span class=3D"pln">    </span><span class=3D"kwd">public</span><s=
+pan class=3D"pln"> </span><span class=3D"kwd">static</span><span=20=
+class=3D"pln"> </span><span class=3D"kwd">void</span><span class=3D=
+"pln"> getResultScann</span><span class=3D"pun">(</span><span cla=
+ss=3D"typ">String</span><span class=3D"pln"> tableName</span><spa=
+n class=3D"pun">,</span><span class=3D"pln"> </span><span class=3D=
+"typ">String</span><span class=3D"pln"> start_rowkey</span><span=20=
+class=3D"pun">,</span></code></li><li style=3D"list-style-type: n=
+one; padding-left: 0px;" class=3D"L2"><code class=3D"language-jav=
+a"><span class=3D"pln">            </span><span class=3D"typ">Str=
+ing</span><span class=3D"pln"> stop_rowkey</span><span class=3D"p=
+un">)</span><span class=3D"pln"> </span><span class=3D"kwd">throw=
+s</span><span class=3D"pln"> </span><span class=3D"typ">IOExcepti=
+on</span><span class=3D"pln"> </span><span class=3D"pun">{</span>=
+</code></li><li style=3D"list-style-type: none; padding-left: 0px=
+;" class=3D"L3"><code class=3D"language-java"><span class=3D"pln"=
+>        </span><span class=3D"typ">Scan</span><span class=3D"pln=
+"> scan </span><span class=3D"pun">=3D</span><span class=3D"pln">=
+ </span><span class=3D"kwd">new</span><span class=3D"pln"> </span=
+><span class=3D"typ">Scan</span><span class=3D"pun">();</span></c=
+ode></li><li style=3D"list-style-type: none; padding-left: 0px;"=20=
+class=3D"L4"><code class=3D"language-java"><span class=3D"pln"> =20=
+      scan</span><span class=3D"pun">.</span><span class=3D"pln">=
+setStartRow</span><span class=3D"pun">(</span><span class=3D"typ"=
+>Bytes</span><span class=3D"pun">.</span><span class=3D"pln">toBy=
+tes</span><span class=3D"pun">(</span><span class=3D"pln">start_r=
+owkey</span><span class=3D"pun">));</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L5"><code cl=
+ass=3D"language-java"><span class=3D"pln">        scan</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">setStopRow</span><spa=
+n class=3D"pun">(</span><span class=3D"typ">Bytes</span><span cla=
+ss=3D"pun">.</span><span class=3D"pln">toBytes</span><span class=3D=
+"pun">(</span><span class=3D"pln">stop_rowkey</span><span class=3D=
+"pun">));</span></code></li><li style=3D"list-style-type: none; p=
+adding-left: 0px;" class=3D"L6"><code class=3D"language-java"><sp=
+an class=3D"pln">        </span><span class=3D"typ">ResultScanner=
+</span><span class=3D"pln"> rs </span><span class=3D"pun">=3D</sp=
+an><span class=3D"pln"> </span><span class=3D"kwd">null</span><sp=
+an class=3D"pun">;</span></code></li><li style=3D"list-style-type=
+: none; padding-left: 0px;" class=3D"L7"><code class=3D"language-=
+java"><span class=3D"pln">        </span><span class=3D"typ">HTab=
+le</span><span class=3D"pln"> table </span><span class=3D"pun">=3D=
+</span><span class=3D"pln"> </span><span class=3D"kwd">new</span>=
+<span class=3D"pln"> </span><span class=3D"typ">HTable</span><spa=
+n class=3D"pun">(</span><span class=3D"pln">conf</span><span clas=
+s=3D"pun">,</span><span class=3D"pln"> </span><span class=3D"typ"=
+>Bytes</span><span class=3D"pun">.</span><span class=3D"pln">toBy=
+tes</span><span class=3D"pun">(</span><span class=3D"pln">tableNa=
+me</span><span class=3D"pun">));</span></code></li><li style=3D"l=
+ist-style-type: none; padding-left: 0px;" class=3D"L8"><code clas=
+s=3D"language-java"><span class=3D"pln">        </span><span clas=
+s=3D"kwd">try</span><span class=3D"pln"> </span><span class=3D"pu=
+n">{</span></code></li><li style=3D"list-style-type: none; paddin=
+g-left: 0px;" class=3D"L9"><code class=3D"language-java"><span cl=
+ass=3D"pln">            rs </span><span class=3D"pun">=3D</span><=
+span class=3D"pln"> table</span><span class=3D"pun">.</span><span=
+ class=3D"pln">getScanner</span><span class=3D"pun">(</span><span=
+ class=3D"pln">scan</span><span class=3D"pun">);</span></code></l=
+i><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L0"><code class=3D"language-java"><span class=3D"pln">         =20=
+  </span><span class=3D"kwd">for</span><span class=3D"pln"> </spa=
+n><span class=3D"pun">(</span><span class=3D"typ">Result</span><s=
+pan class=3D"pln"> r </span><span class=3D"pun">:</span><span cla=
+ss=3D"pln"> rs</span><span class=3D"pun">)</span><span class=3D"p=
+ln"> </span><span class=3D"pun">{</span></code></li><li style=3D"=
+list-style-type: none; padding-left: 0px;" class=3D"L1"><code cla=
+ss=3D"language-java"><span class=3D"pln">                </span><=
+span class=3D"kwd">for</span><span class=3D"pln"> </span><span cl=
+ass=3D"pun">(</span><span class=3D"typ">KeyValue</span><span clas=
+s=3D"pln"> kv </span><span class=3D"pun">:</span><span class=3D"p=
+ln"> r</span><span class=3D"pun">.</span><span class=3D"pln">list=
+</span><span class=3D"pun">())</span><span class=3D"pln"> </span>=
+<span class=3D"pun">{</span></code></li><li style=3D"list-style-t=
+ype: none; padding-left: 0px;" class=3D"L2"><code class=3D"langua=
+ge-java"><span class=3D"pln">                    </span><span cla=
+ss=3D"typ">System</span><span class=3D"pun">.</span><span class=3D=
+"pln">out</span><span class=3D"pun">.</span><span class=3D"pln">p=
+rintln</span><span class=3D"pun">(</span><span class=3D"str">"row=
+:"</span><span class=3D"pln"> </span><span class=3D"pun">+</span>=
+<span class=3D"pln"> </span><span class=3D"typ">Bytes</span><span=
+ class=3D"pun">.</span><span class=3D"pln">toString</span><span c=
+lass=3D"pun">(</span><span class=3D"pln">kv</span><span class=3D"=
+pun">.</span><span class=3D"pln">getRow</span><span class=3D"pun"=
+>()));</span></code></li><li style=3D"list-style-type: none; padd=
+ing-left: 0px;" class=3D"L3"><code class=3D"language-java"><span=20=
+class=3D"pln">                    </span><span class=3D"typ">Syst=
+em</span><span class=3D"pun">.</span><span class=3D"pln">out</spa=
+n><span class=3D"pun">.</span><span class=3D"pln">println</span><=
+span class=3D"pun">(</span><span class=3D"str">"family:"</span></=
+code></li><li style=3D"list-style-type: none; padding-left: 0px;"=
+ class=3D"L4"><code class=3D"language-java"><span class=3D"pln">=20=
+                           </span><span class=3D"pun">+</span><sp=
+an class=3D"pln"> </span><span class=3D"typ">Bytes</span><span cl=
+ass=3D"pun">.</span><span class=3D"pln">toString</span><span clas=
+s=3D"pun">(</span><span class=3D"pln">kv</span><span class=3D"pun=
+">.</span><span class=3D"pln">getFamily</span><span class=3D"pun"=
+>()));</span></code></li><li style=3D"list-style-type: none; padd=
+ing-left: 0px;" class=3D"L5"><code class=3D"language-java"><span=20=
+class=3D"pln">                    </span><span class=3D"typ">Syst=
+em</span><span class=3D"pun">.</span><span class=3D"pln">out</spa=
+n><span class=3D"pun">.</span><span class=3D"pln">println</span><=
+span class=3D"pun">(</span><span class=3D"str">"qualifier:"</span=
+></code></li><li style=3D"list-style-type: none; padding-left: 0p=
+x;" class=3D"L6"><code class=3D"language-java"><span class=3D"pln=
+">                            </span><span class=3D"pun">+</span>=
+<span class=3D"pln"> </span><span class=3D"typ">Bytes</span><span=
+ class=3D"pun">.</span><span class=3D"pln">toString</span><span c=
+lass=3D"pun">(</span><span class=3D"pln">kv</span><span class=3D"=
+pun">.</span><span class=3D"pln">getQualifier</span><span class=3D=
+"pun">()));</span></code></li><li style=3D"list-style-type: none;=
+ padding-left: 0px;" class=3D"L7"><code class=3D"language-java"><=
+span class=3D"pln">                    </span><span class=3D"typ"=
+>System</span><span class=3D"pun">.</span><span class=3D"pln">out=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L8"><code class=3D"language-java"><span class=3D=
+"pln">                            </span><span class=3D"pun">.</s=
+pan><span class=3D"pln">println</span><span class=3D"pun">(</span=
+><span class=3D"str">"value:"</span><span class=3D"pln"> </span><=
+span class=3D"pun">+</span><span class=3D"pln"> </span><span clas=
+s=3D"typ">Bytes</span><span class=3D"pun">.</span><span class=3D"=
+pln">toString</span><span class=3D"pun">(</span><span class=3D"pl=
+n">kv</span><span class=3D"pun">.</span><span class=3D"pln">getVa=
+lue</span><span class=3D"pun">()));</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L9"><code cl=
+ass=3D"language-java"><span class=3D"pln">                    </s=
+pan><span class=3D"typ">System</span><span class=3D"pun">.</span>=
+<span class=3D"pln">out</span><span class=3D"pun">.</span><span c=
+lass=3D"pln">println</span><span class=3D"pun">(</span><span clas=
+s=3D"str">"timestamp:"</span><span class=3D"pln"> </span><span cl=
+ass=3D"pun">+</span><span class=3D"pln"> kv</span><span class=3D"=
+pun">.</span><span class=3D"pln">getTimestamp</span><span class=3D=
+"pun">());</span></code></li><li style=3D"list-style-type: none;=20=
+padding-left: 0px;" class=3D"L0"><code class=3D"language-java"><s=
+pan class=3D"pln">                    </span><span class=3D"typ">=
+System</span><span class=3D"pun">.</span><span class=3D"pln">out<=
+/span></code></li><li style=3D"list-style-type: none; padding-lef=
+t: 0px;" class=3D"L1"><code class=3D"language-java"><span class=3D=
+"pln">                            </span><span class=3D"pun">.</s=
+pan><span class=3D"pln">println</span><span class=3D"pun">(</span=
+><span class=3D"str">"-------------------------------------------=
+"</span><span class=3D"pun">);</span></code></li><li style=3D"lis=
+t-style-type: none; padding-left: 0px;" class=3D"L2"><code class=3D=
+"language-java"><span class=3D"pln">                </span><span=20=
+class=3D"pun">}</span></code></li><li style=3D"list-style-type: n=
+one; padding-left: 0px;" class=3D"L3"><code class=3D"language-jav=
+a"><span class=3D"pln">            </span><span class=3D"pun">}</=
+span></code></li><li style=3D"list-style-type: none; padding-left=
+: 0px;" class=3D"L4"><code class=3D"language-java"><span class=3D=
+"pln">        </span><span class=3D"pun">}</span><span class=3D"p=
+ln"> </span><span class=3D"kwd">finally</span><span class=3D"pln"=
+> </span><span class=3D"pun">{</span></code></li><li style=3D"lis=
+t-style-type: none; padding-left: 0px;" class=3D"L5"><code class=3D=
+"language-java"><span class=3D"pln">            rs</span><span cl=
+ass=3D"pun">.</span><span class=3D"pln">close</span><span class=3D=
+"pun">();</span></code></li><li style=3D"list-style-type: none; p=
+adding-left: 0px;" class=3D"L6"><code class=3D"language-java"><sp=
+an class=3D"pln">        </span><span class=3D"pun">}</span></cod=
+e></li><li style=3D"list-style-type: none; padding-left: 0px;" cl=
+ass=3D"L7"><code class=3D"language-java"><span class=3D"pln">   =20=
+</span><span class=3D"pun">}</span></code></li><li style=3D"list-=
+style-type: none; padding-left: 0px;" class=3D"L8"><code class=3D=
+"language-java"></code></li><li style=3D"list-style-type: none; p=
+adding-left: 0px;" class=3D"L9"><code class=3D"language-java"><sp=
+an class=3D"pln">    </span><span class=3D"com">/*</span></code><=
+/li><li style=3D"list-style-type: none; padding-left: 0px;" class=
+=3D"L0"><code class=3D"language-java"><span class=3D"com">     *=20=
+=B2=E9=D1=AF=B1=ED=D6=D0=B5=C4=C4=B3=D2=BB=C1=D0</span></code></l=
+i><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L1"><code class=3D"language-java"><span class=3D"com">     * </s=
+pan></code></li><li style=3D"list-style-type: none; padding-left:=
+ 0px;" class=3D"L2"><code class=3D"language-java"><span class=3D"=
+com">     * @tableName =B1=ED=C3=FB</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L3"><code cl=
+ass=3D"language-java"><span class=3D"com">     * </span></code></=
+li><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L4"><code class=3D"language-java"><span class=3D"com">     * @ro=
+wKey rowKey</span></code></li><li style=3D"list-style-type: none;=
+ padding-left: 0px;" class=3D"L5"><code class=3D"language-java"><=
+span class=3D"com">     */</span></code></li><li style=3D"list-st=
+yle-type: none; padding-left: 0px;" class=3D"L6"><code class=3D"l=
+anguage-java"><span class=3D"pln">    </span><span class=3D"kwd">=
+public</span><span class=3D"pln"> </span><span class=3D"kwd">stat=
+ic</span><span class=3D"pln"> </span><span class=3D"kwd">void</sp=
+an><span class=3D"pln"> getResultByColumn</span><span class=3D"pu=
+n">(</span><span class=3D"typ">String</span><span class=3D"pln">=20=
+tableName</span><span class=3D"pun">,</span><span class=3D"pln">=20=
+</span><span class=3D"typ">String</span><span class=3D"pln"> rowK=
+ey</span><span class=3D"pun">,</span></code></li><li style=3D"lis=
+t-style-type: none; padding-left: 0px;" class=3D"L7"><code class=3D=
+"language-java"><span class=3D"pln">            </span><span clas=
+s=3D"typ">String</span><span class=3D"pln"> familyName</span><spa=
+n class=3D"pun">,</span><span class=3D"pln"> </span><span class=3D=
+"typ">String</span><span class=3D"pln"> columnName</span><span cl=
+ass=3D"pun">)</span><span class=3D"pln"> </span><span class=3D"kw=
+d">throws</span><span class=3D"pln"> </span><span class=3D"typ">I=
+OException</span><span class=3D"pln"> </span><span class=3D"pun">=
+{</span></code></li><li style=3D"list-style-type: none; padding-l=
+eft: 0px;" class=3D"L8"><code class=3D"language-java"><span class=
+=3D"pln">        </span><span class=3D"typ">HTable</span><span cl=
+ass=3D"pln"> table </span><span class=3D"pun">=3D</span><span cla=
+ss=3D"pln"> </span><span class=3D"kwd">new</span><span class=3D"p=
+ln"> </span><span class=3D"typ">HTable</span><span class=3D"pun">=
+(</span><span class=3D"pln">conf</span><span class=3D"pun">,</spa=
+n><span class=3D"pln"> </span><span class=3D"typ">Bytes</span><sp=
+an class=3D"pun">.</span><span class=3D"pln">toBytes</span><span=20=
+class=3D"pun">(</span><span class=3D"pln">tableName</span><span c=
+lass=3D"pun">));</span></code></li><li style=3D"list-style-type:=20=
+none; padding-left: 0px;" class=3D"L9"><code class=3D"language-ja=
+va"><span class=3D"pln">        </span><span class=3D"typ">Get</s=
+pan><span class=3D"pln"> get </span><span class=3D"pun">=3D</span=
+><span class=3D"pln"> </span><span class=3D"kwd">new</span><span=20=
+class=3D"pln"> </span><span class=3D"typ">Get</span><span class=3D=
+"pun">(</span><span class=3D"typ">Bytes</span><span class=3D"pun"=
+>.</span><span class=3D"pln">toBytes</span><span class=3D"pun">(<=
+/span><span class=3D"pln">rowKey</span><span class=3D"pun">));</s=
+pan></code></li><li style=3D"list-style-type: none; padding-left:=
+ 0px;" class=3D"L0"><code class=3D"language-java"><span class=3D"=
+pln">        get</span><span class=3D"pun">.</span><span class=3D=
+"pln">addColumn</span><span class=3D"pun">(</span><span class=3D"=
+typ">Bytes</span><span class=3D"pun">.</span><span class=3D"pln">=
+toBytes</span><span class=3D"pun">(</span><span class=3D"pln">fam=
+ilyName</span><span class=3D"pun">),</span><span class=3D"pln"> <=
+/span><span class=3D"typ">Bytes</span><span class=3D"pun">.</span=
+><span class=3D"pln">toBytes</span><span class=3D"pun">(</span><s=
+pan class=3D"pln">columnName</span><span class=3D"pun">));</span>=
+<span class=3D"pln"> </span><span class=3D"com">// =BB=F1=C8=A1=D6=
+=B8=B6=A8=C1=D0=D7=E5=BA=CD=C1=D0=D0=DE=CA=CE=B7=FB=B6=D4=D3=A6=B5=
+=C4=C1=D0</span></code></li><li style=3D"list-style-type: none; p=
+adding-left: 0px;" class=3D"L1"><code class=3D"language-java"><sp=
+an class=3D"pln">        </span><span class=3D"typ">Result</span>=
+<span class=3D"pln"> result </span><span class=3D"pun">=3D</span>=
+<span class=3D"pln"> table</span><span class=3D"pun">.</span><spa=
+n class=3D"pln">get</span><span class=3D"pun">(</span><span class=
+=3D"pln">get</span><span class=3D"pun">);</span></code></li><li s=
+tyle=3D"list-style-type: none; padding-left: 0px;" class=3D"L2"><=
+code class=3D"language-java"><span class=3D"pln">        </span><=
+span class=3D"kwd">for</span><span class=3D"pln"> </span><span cl=
+ass=3D"pun">(</span><span class=3D"typ">KeyValue</span><span clas=
+s=3D"pln"> kv </span><span class=3D"pun">:</span><span class=3D"p=
+ln"> result</span><span class=3D"pun">.</span><span class=3D"pln"=
+>list</span><span class=3D"pun">())</span><span class=3D"pln"> </=
+span><span class=3D"pun">{</span></code></li><li style=3D"list-st=
+yle-type: none; padding-left: 0px;" class=3D"L3"><code class=3D"l=
+anguage-java"><span class=3D"pln">            </span><span class=3D=
+"typ">System</span><span class=3D"pun">.</span><span class=3D"pln=
+">out</span><span class=3D"pun">.</span><span class=3D"pln">print=
+ln</span><span class=3D"pun">(</span><span class=3D"str">"family:=
+"</span><span class=3D"pln"> </span><span class=3D"pun">+</span><=
+span class=3D"pln"> </span><span class=3D"typ">Bytes</span><span=20=
+class=3D"pun">.</span><span class=3D"pln">toString</span><span cl=
+ass=3D"pun">(</span><span class=3D"pln">kv</span><span class=3D"p=
+un">.</span><span class=3D"pln">getFamily</span><span class=3D"pu=
+n">()));</span></code></li><li style=3D"list-style-type: none; pa=
+dding-left: 0px;" class=3D"L4"><code class=3D"language-java"><spa=
+n class=3D"pln">            </span><span class=3D"typ">System</sp=
+an><span class=3D"pun">.</span><span class=3D"pln">out</span></co=
+de></li><li style=3D"list-style-type: none; padding-left: 0px;" c=
+lass=3D"L5"><code class=3D"language-java"><span class=3D"pln">  =20=
+                 </span><span class=3D"pun">.</span><span class=3D=
+"pln">println</span><span class=3D"pun">(</span><span class=3D"st=
+r">"qualifier:"</span><span class=3D"pln"> </span><span class=3D"=
+pun">+</span><span class=3D"pln"> </span><span class=3D"typ">Byte=
+s</span><span class=3D"pun">.</span><span class=3D"pln">toString<=
+/span><span class=3D"pun">(</span><span class=3D"pln">kv</span><s=
+pan class=3D"pun">.</span><span class=3D"pln">getQualifier</span>=
+<span class=3D"pun">()));</span></code></li><li style=3D"list-sty=
+le-type: none; padding-left: 0px;" class=3D"L6"><code class=3D"la=
+nguage-java"><span class=3D"pln">            </span><span class=3D=
+"typ">System</span><span class=3D"pun">.</span><span class=3D"pln=
+">out</span><span class=3D"pun">.</span><span class=3D"pln">print=
+ln</span><span class=3D"pun">(</span><span class=3D"str">"value:"=
+</span><span class=3D"pln"> </span><span class=3D"pun">+</span><s=
+pan class=3D"pln"> </span><span class=3D"typ">Bytes</span><span c=
+lass=3D"pun">.</span><span class=3D"pln">toString</span><span cla=
+ss=3D"pun">(</span><span class=3D"pln">kv</span><span class=3D"pu=
+n">.</span><span class=3D"pln">getValue</span><span class=3D"pun"=
+>()));</span></code></li><li style=3D"list-style-type: none; padd=
+ing-left: 0px;" class=3D"L7"><code class=3D"language-java"><span=20=
+class=3D"pln">            </span><span class=3D"typ">System</span=
+><span class=3D"pun">.</span><span class=3D"pln">out</span><span=20=
+class=3D"pun">.</span><span class=3D"pln">println</span><span cla=
+ss=3D"pun">(</span><span class=3D"str">"Timestamp:"</span><span c=
+lass=3D"pln"> </span><span class=3D"pun">+</span><span class=3D"p=
+ln"> kv</span><span class=3D"pun">.</span><span class=3D"pln">get=
+Timestamp</span><span class=3D"pun">());</span></code></li><li st=
+yle=3D"list-style-type: none; padding-left: 0px;" class=3D"L8"><c=
+ode class=3D"language-java"><span class=3D"pln">            </spa=
+n><span class=3D"typ">System</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">out</span><span class=3D"pun">.</span><span cla=
+ss=3D"pln">println</span><span class=3D"pun">(</span><span class=3D=
+"str">"-------------------------------------------"</span><span c=
+lass=3D"pun">);</span></code></li><li style=3D"list-style-type: n=
+one; padding-left: 0px;" class=3D"L9"><code class=3D"language-jav=
+a"><span class=3D"pln">        </span><span class=3D"pun">}</span=
+></code></li><li style=3D"list-style-type: none; padding-left: 0p=
+x;" class=3D"L0"><code class=3D"language-java"><span class=3D"pln=
+">    </span><span class=3D"pun">}</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L1"><code cl=
+ass=3D"language-java"></code></li><li style=3D"list-style-type: n=
+one; padding-left: 0px;" class=3D"L2"><code class=3D"language-jav=
+a"><span class=3D"pln">    </span><span class=3D"com">/*</span></=
+code></li><li style=3D"list-style-type: none; padding-left: 0px;"=
+ class=3D"L3"><code class=3D"language-java"><span class=3D"com">=20=
+    * =B8=FC=D0=C2=B1=ED=D6=D0=B5=C4=C4=B3=D2=BB=C1=D0</span></co=
+de></li><li style=3D"list-style-type: none; padding-left: 0px;" c=
+lass=3D"L4"><code class=3D"language-java"><span class=3D"com">  =20=
+  * </span></code></li><li style=3D"list-style-type: none; paddin=
+g-left: 0px;" class=3D"L5"><code class=3D"language-java"><span cl=
+ass=3D"com">     * @tableName =B1=ED=C3=FB</span></code></li><li=20=
+style=3D"list-style-type: none; padding-left: 0px;" class=3D"L6">=
+<code class=3D"language-java"><span class=3D"com">     * </span><=
+/code></li><li style=3D"list-style-type: none; padding-left: 0px;=
+" class=3D"L7"><code class=3D"language-java"><span class=3D"com">=
+     * @rowKey rowKey</span></code></li><li style=3D"list-style-t=
+ype: none; padding-left: 0px;" class=3D"L8"><code class=3D"langua=
+ge-java"><span class=3D"com">     * </span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L9"><code cl=
+ass=3D"language-java"><span class=3D"com">     * @familyName =C1=D0=
+=D7=E5=C3=FB</span></code></li><li style=3D"list-style-type: none=
+; padding-left: 0px;" class=3D"L0"><code class=3D"language-java">=
+<span class=3D"com">     * </span></code></li><li style=3D"list-s=
+tyle-type: none; padding-left: 0px;" class=3D"L1"><code class=3D"=
+language-java"><span class=3D"com">     * @columnName =C1=D0=C3=FB=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L2"><code class=3D"language-java"><span class=3D=
+"com">     * </span></code></li><li style=3D"list-style-type: non=
+e; padding-left: 0px;" class=3D"L3"><code class=3D"language-java"=
+><span class=3D"com">     * @value =B8=FC=D0=C2=BA=F3=B5=C4=D6=B5=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L4"><code class=3D"language-java"><span class=3D=
+"com">     */</span></code></li><li style=3D"list-style-type: non=
+e; padding-left: 0px;" class=3D"L5"><code class=3D"language-java"=
+><span class=3D"pln">    </span><span class=3D"kwd">public</span>=
+<span class=3D"pln"> </span><span class=3D"kwd">static</span><spa=
+n class=3D"pln"> </span><span class=3D"kwd">void</span><span clas=
+s=3D"pln"> updateTable</span><span class=3D"pun">(</span><span cl=
+ass=3D"typ">String</span><span class=3D"pln"> tableName</span><sp=
+an class=3D"pun">,</span><span class=3D"pln"> </span><span class=3D=
+"typ">String</span><span class=3D"pln"> rowKey</span><span class=3D=
+"pun">,</span></code></li><li style=3D"list-style-type: none; pad=
+ding-left: 0px;" class=3D"L6"><code class=3D"language-java"><span=
+ class=3D"pln">            </span><span class=3D"typ">String</spa=
+n><span class=3D"pln"> familyName</span><span class=3D"pun">,</sp=
+an><span class=3D"pln"> </span><span class=3D"typ">String</span><=
+span class=3D"pln"> columnName</span><span class=3D"pun">,</span>=
+<span class=3D"pln"> </span><span class=3D"typ">String</span><spa=
+n class=3D"pln"> value</span><span class=3D"pun">)</span></code><=
+/li><li style=3D"list-style-type: none; padding-left: 0px;" class=
+=3D"L7"><code class=3D"language-java"><span class=3D"pln">      =20=
+     </span><span class=3D"kwd">throws</span><span class=3D"pln">=
+ </span><span class=3D"typ">IOException</span><span class=3D"pln"=
+> </span><span class=3D"pun">{</span></code></li><li style=3D"lis=
+t-style-type: none; padding-left: 0px;" class=3D"L8"><code class=3D=
+"language-java"><span class=3D"pln">        </span><span class=3D=
+"typ">HTable</span><span class=3D"pln"> table </span><span class=3D=
+"pun">=3D</span><span class=3D"pln"> </span><span class=3D"kwd">n=
+ew</span><span class=3D"pln"> </span><span class=3D"typ">HTable</=
+span><span class=3D"pun">(</span><span class=3D"pln">conf</span><=
+span class=3D"pun">,</span><span class=3D"pln"> </span><span clas=
+s=3D"typ">Bytes</span><span class=3D"pun">.</span><span class=3D"=
+pln">toBytes</span><span class=3D"pun">(</span><span class=3D"pln=
+">tableName</span><span class=3D"pun">));</span></code></li><li s=
+tyle=3D"list-style-type: none; padding-left: 0px;" class=3D"L9"><=
+code class=3D"language-java"><span class=3D"pln">        </span><=
+span class=3D"typ">Put</span><span class=3D"pln"> put </span><spa=
+n class=3D"pun">=3D</span><span class=3D"pln"> </span><span class=
+=3D"kwd">new</span><span class=3D"pln"> </span><span class=3D"typ=
+">Put</span><span class=3D"pun">(</span><span class=3D"typ">Bytes=
+</span><span class=3D"pun">.</span><span class=3D"pln">toBytes</s=
+pan><span class=3D"pun">(</span><span class=3D"pln">rowKey</span>=
+<span class=3D"pun">));</span></code></li><li style=3D"list-style=
+-type: none; padding-left: 0px;" class=3D"L0"><code class=3D"lang=
+uage-java"><span class=3D"pln">        put</span><span class=3D"p=
+un">.</span><span class=3D"pln">add</span><span class=3D"pun">(</=
+span><span class=3D"typ">Bytes</span><span class=3D"pun">.</span>=
+<span class=3D"pln">toBytes</span><span class=3D"pun">(</span><sp=
+an class=3D"pln">familyName</span><span class=3D"pun">),</span><s=
+pan class=3D"pln"> </span><span class=3D"typ">Bytes</span><span c=
+lass=3D"pun">.</span><span class=3D"pln">toBytes</span><span clas=
+s=3D"pun">(</span><span class=3D"pln">columnName</span><span clas=
+s=3D"pun">),</span></code></li><li style=3D"list-style-type: none=
+; padding-left: 0px;" class=3D"L1"><code class=3D"language-java">=
+<span class=3D"pln">                </span><span class=3D"typ">By=
+tes</span><span class=3D"pun">.</span><span class=3D"pln">toBytes=
+</span><span class=3D"pun">(</span><span class=3D"pln">value</spa=
+n><span class=3D"pun">));</span></code></li><li style=3D"list-sty=
+le-type: none; padding-left: 0px;" class=3D"L2"><code class=3D"la=
+nguage-java"><span class=3D"pln">        table</span><span class=3D=
+"pun">.</span><span class=3D"pln">put</span><span class=3D"pun">(=
+</span><span class=3D"pln">put</span><span class=3D"pun">);</span=
+></code></li><li style=3D"list-style-type: none; padding-left: 0p=
+x;" class=3D"L3"><code class=3D"language-java"><span class=3D"pln=
+">        </span><span class=3D"typ">System</span><span class=3D"=
+pun">.</span><span class=3D"pln">out</span><span class=3D"pun">.<=
+/span><span class=3D"pln">println</span><span class=3D"pun">(</sp=
+an><span class=3D"str">"update table Success!"</span><span class=3D=
+"pun">);</span></code></li><li style=3D"list-style-type: none; pa=
+dding-left: 0px;" class=3D"L4"><code class=3D"language-java"><spa=
+n class=3D"pln">    </span><span class=3D"pun">}</span></code></l=
+i><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L5"><code class=3D"language-java"></code></li><li style=3D"list-=
+style-type: none; padding-left: 0px;" class=3D"L6"><code class=3D=
+"language-java"><span class=3D"pln">    </span><span class=3D"com=
+">/*</span></code></li><li style=3D"list-style-type: none; paddin=
+g-left: 0px;" class=3D"L7"><code class=3D"language-java"><span cl=
+ass=3D"com">     * =B2=E9=D1=AF=C4=B3=C1=D0=CA=FD=BE=DD=B5=C4=B6=E0=
+=B8=F6=B0=E6=B1=BE</span></code></li><li style=3D"list-style-type=
+: none; padding-left: 0px;" class=3D"L8"><code class=3D"language-=
+java"><span class=3D"com">     * </span></code></li><li style=3D"=
+list-style-type: none; padding-left: 0px;" class=3D"L9"><code cla=
+ss=3D"language-java"><span class=3D"com">     * @tableName =B1=ED=
+=C3=FB</span></code></li><li style=3D"list-style-type: none; padd=
+ing-left: 0px;" class=3D"L0"><code class=3D"language-java"><span=20=
+class=3D"com">     * </span></code></li><li style=3D"list-style-t=
+ype: none; padding-left: 0px;" class=3D"L1"><code class=3D"langua=
+ge-java"><span class=3D"com">     * @rowKey rowKey</span></code><=
+/li><li style=3D"list-style-type: none; padding-left: 0px;" class=
+=3D"L2"><code class=3D"language-java"><span class=3D"com">     *=20=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L3"><code class=3D"language-java"><span class=3D=
+"com">     * @familyName =C1=D0=D7=E5=C3=FB</span></code></li><li=
+ style=3D"list-style-type: none; padding-left: 0px;" class=3D"L4"=
+><code class=3D"language-java"><span class=3D"com">     * </span>=
+</code></li><li style=3D"list-style-type: none; padding-left: 0px=
+;" class=3D"L5"><code class=3D"language-java"><span class=3D"com"=
+>     * @columnName =C1=D0=C3=FB</span></code></li><li style=3D"l=
+ist-style-type: none; padding-left: 0px;" class=3D"L6"><code clas=
+s=3D"language-java"><span class=3D"com">     */</span></code></li=
+><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L7"><code class=3D"language-java"><span class=3D"pln">    </span=
+><span class=3D"kwd">public</span><span class=3D"pln"> </span><sp=
+an class=3D"kwd">static</span><span class=3D"pln"> </span><span c=
+lass=3D"kwd">void</span><span class=3D"pln"> getResultByVersion</=
+span><span class=3D"pun">(</span><span class=3D"typ">String</span=
+><span class=3D"pln"> tableName</span><span class=3D"pun">,</span=
+><span class=3D"pln"> </span><span class=3D"typ">String</span><sp=
+an class=3D"pln"> rowKey</span><span class=3D"pun">,</span></code=
+></li><li style=3D"list-style-type: none; padding-left: 0px;" cla=
+ss=3D"L8"><code class=3D"language-java"><span class=3D"pln">    =20=
+       </span><span class=3D"typ">String</span><span class=3D"pln=
+"> familyName</span><span class=3D"pun">,</span><span class=3D"pl=
+n"> </span><span class=3D"typ">String</span><span class=3D"pln">=20=
+columnName</span><span class=3D"pun">)</span><span class=3D"pln">=
+ </span><span class=3D"kwd">throws</span><span class=3D"pln"> </s=
+pan><span class=3D"typ">IOException</span><span class=3D"pln"> </=
+span><span class=3D"pun">{</span></code></li><li style=3D"list-st=
+yle-type: none; padding-left: 0px;" class=3D"L9"><code class=3D"l=
+anguage-java"><span class=3D"pln">        </span><span class=3D"t=
+yp">HTable</span><span class=3D"pln"> table </span><span class=3D=
+"pun">=3D</span><span class=3D"pln"> </span><span class=3D"kwd">n=
+ew</span><span class=3D"pln"> </span><span class=3D"typ">HTable</=
+span><span class=3D"pun">(</span><span class=3D"pln">conf</span><=
+span class=3D"pun">,</span><span class=3D"pln"> </span><span clas=
+s=3D"typ">Bytes</span><span class=3D"pun">.</span><span class=3D"=
+pln">toBytes</span><span class=3D"pun">(</span><span class=3D"pln=
+">tableName</span><span class=3D"pun">));</span></code></li><li s=
+tyle=3D"list-style-type: none; padding-left: 0px;" class=3D"L0"><=
+code class=3D"language-java"><span class=3D"pln">        </span><=
+span class=3D"typ">Get</span><span class=3D"pln"> get </span><spa=
+n class=3D"pun">=3D</span><span class=3D"pln"> </span><span class=
+=3D"kwd">new</span><span class=3D"pln"> </span><span class=3D"typ=
+">Get</span><span class=3D"pun">(</span><span class=3D"typ">Bytes=
+</span><span class=3D"pun">.</span><span class=3D"pln">toBytes</s=
+pan><span class=3D"pun">(</span><span class=3D"pln">rowKey</span>=
+<span class=3D"pun">));</span></code></li><li style=3D"list-style=
+-type: none; padding-left: 0px;" class=3D"L1"><code class=3D"lang=
+uage-java"><span class=3D"pln">        get</span><span class=3D"p=
+un">.</span><span class=3D"pln">addColumn</span><span class=3D"pu=
+n">(</span><span class=3D"typ">Bytes</span><span class=3D"pun">.<=
+/span><span class=3D"pln">toBytes</span><span class=3D"pun">(</sp=
+an><span class=3D"pln">familyName</span><span class=3D"pun">),</s=
+pan><span class=3D"pln"> </span><span class=3D"typ">Bytes</span><=
+span class=3D"pun">.</span><span class=3D"pln">toBytes</span><spa=
+n class=3D"pun">(</span><span class=3D"pln">columnName</span><spa=
+n class=3D"pun">));</span></code></li><li style=3D"list-style-typ=
+e: none; padding-left: 0px;" class=3D"L2"><code class=3D"language=
+-java"><span class=3D"pln">        get</span><span class=3D"pun">=
+.</span><span class=3D"pln">setMaxVersions</span><span class=3D"p=
+un">(</span><span class=3D"lit">5</span><span class=3D"pun">);</s=
+pan></code></li><li style=3D"list-style-type: none; padding-left:=
+ 0px;" class=3D"L3"><code class=3D"language-java"><span class=3D"=
+pln">        </span><span class=3D"typ">Result</span><span class=3D=
+"pln"> result </span><span class=3D"pun">=3D</span><span class=3D=
+"pln"> table</span><span class=3D"pun">.</span><span class=3D"pln=
+">get</span><span class=3D"pun">(</span><span class=3D"pln">get</=
+span><span class=3D"pun">);</span></code></li><li style=3D"list-s=
+tyle-type: none; padding-left: 0px;" class=3D"L4"><code class=3D"=
+language-java"><span class=3D"pln">        </span><span class=3D"=
+kwd">for</span><span class=3D"pln"> </span><span class=3D"pun">(<=
+/span><span class=3D"typ">KeyValue</span><span class=3D"pln"> kv=20=
+</span><span class=3D"pun">:</span><span class=3D"pln"> result</s=
+pan><span class=3D"pun">.</span><span class=3D"pln">list</span><s=
+pan class=3D"pun">())</span><span class=3D"pln"> </span><span cla=
+ss=3D"pun">{</span></code></li><li style=3D"list-style-type: none=
+; padding-left: 0px;" class=3D"L5"><code class=3D"language-java">=
+<span class=3D"pln">            </span><span class=3D"typ">System=
+</span><span class=3D"pun">.</span><span class=3D"pln">out</span>=
+<span class=3D"pun">.</span><span class=3D"pln">println</span><sp=
+an class=3D"pun">(</span><span class=3D"str">"family:"</span><spa=
+n class=3D"pln"> </span><span class=3D"pun">+</span><span class=3D=
+"pln"> </span><span class=3D"typ">Bytes</span><span class=3D"pun"=
+>.</span><span class=3D"pln">toString</span><span class=3D"pun">(=
+</span><span class=3D"pln">kv</span><span class=3D"pun">.</span><=
+span class=3D"pln">getFamily</span><span class=3D"pun">()));</spa=
+n></code></li><li style=3D"list-style-type: none; padding-left: 0=
+px;" class=3D"L6"><code class=3D"language-java"><span class=3D"pl=
+n">            </span><span class=3D"typ">System</span><span clas=
+s=3D"pun">.</span><span class=3D"pln">out</span><span class=3D"pu=
+n">.</span><span class=3D"pln">println</span><span class=3D"pun">=
+(</span><span class=3D"str">"qualifier:"</span><span class=3D"pln=
+"> </span><span class=3D"pun">+</span><span class=3D"pln"> </span=
+><span class=3D"typ">Bytes</span><span class=3D"pun">.</span><spa=
+n class=3D"pln">toString</span><span class=3D"pun">(</span><span=20=
+class=3D"pln">kv</span><span class=3D"pun">.</span><span class=3D=
+"pln">getQualifier</span><span class=3D"pun">()));</span></code><=
+/li><li style=3D"list-style-type: none; padding-left: 0px;" class=
+=3D"L7"><code class=3D"language-java"><span class=3D"pln">      =20=
+     </span><span class=3D"typ">System</span><span class=3D"pun">=
+.</span><span class=3D"pln">out</span><span class=3D"pun">.</span=
+><span class=3D"pln">println</span><span class=3D"pun">(</span><s=
+pan class=3D"str">"value:"</span><span class=3D"pln"> </span><spa=
+n class=3D"pun">+</span><span class=3D"pln"> </span><span class=3D=
+"typ">Bytes</span><span class=3D"pun">.</span><span class=3D"pln"=
+>toString</span><span class=3D"pun">(</span><span class=3D"pln">k=
+v</span><span class=3D"pun">.</span><span class=3D"pln">getValue<=
+/span><span class=3D"pun">()));</span></code></li><li style=3D"li=
+st-style-type: none; padding-left: 0px;" class=3D"L8"><code class=
+=3D"language-java"><span class=3D"pln">            </span><span c=
+lass=3D"typ">System</span><span class=3D"pun">.</span><span class=
+=3D"pln">out</span><span class=3D"pun">.</span><span class=3D"pln=
+">println</span><span class=3D"pun">(</span><span class=3D"str">"=
+Timestamp:"</span><span class=3D"pln"> </span><span class=3D"pun"=
+>+</span><span class=3D"pln"> kv</span><span class=3D"pun">.</spa=
+n><span class=3D"pln">getTimestamp</span><span class=3D"pun">());=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L9"><code class=3D"language-java"><span class=3D=
+"pln">            </span><span class=3D"typ">System</span><span c=
+lass=3D"pun">.</span><span class=3D"pln">out</span><span class=3D=
+"pun">.</span><span class=3D"pln">println</span><span class=3D"pu=
+n">(</span><span class=3D"str">"---------------------------------=
+----------"</span><span class=3D"pun">);</span></code></li><li st=
+yle=3D"list-style-type: none; padding-left: 0px;" class=3D"L0"><c=
+ode class=3D"language-java"><span class=3D"pln">        </span><s=
+pan class=3D"pun">}</span></code></li><li style=3D"list-style-typ=
+e: none; padding-left: 0px;" class=3D"L1"><code class=3D"language=
+-java"><span class=3D"pln">        </span><span class=3D"com">/*<=
+/span></code></li><li style=3D"list-style-type: none; padding-lef=
+t: 0px;" class=3D"L2"><code class=3D"language-java"><span class=3D=
+"com">         * List&lt;?&gt; results =3D table.get(get).list();=
+ Iterator&lt;?&gt; it =3D</span></code></li><li style=3D"list-sty=
+le-type: none; padding-left: 0px;" class=3D"L3"><code class=3D"la=
+nguage-java"><span class=3D"com">         * results.iterator(); w=
+hile (it.hasNext()) {</span></code></li><li style=3D"list-style-t=
+ype: none; padding-left: 0px;" class=3D"L4"><code class=3D"langua=
+ge-java"><span class=3D"com">         * System.out.println(it.nex=
+t().toString()); }</span></code></li><li style=3D"list-style-type=
+: none; padding-left: 0px;" class=3D"L5"><code class=3D"language-=
+java"><span class=3D"com">         */</span></code></li><li style=
+=3D"list-style-type: none; padding-left: 0px;" class=3D"L6"><code=
+ class=3D"language-java"><span class=3D"pln">    </span><span cla=
+ss=3D"pun">}</span></code></li><li style=3D"list-style-type: none=
+; padding-left: 0px;" class=3D"L7"><code class=3D"language-java">=
+</code></li><li style=3D"list-style-type: none; padding-left: 0px=
+;" class=3D"L8"><code class=3D"language-java"><span class=3D"pln"=
+>    </span><span class=3D"com">/*</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L9"><code cl=
+ass=3D"language-java"><span class=3D"com">     * =C9=BE=B3=FD=D6=B8=
+=B6=A8=B5=C4=C1=D0</span></code></li><li style=3D"list-style-type=
+: none; padding-left: 0px;" class=3D"L0"><code class=3D"language-=
+java"><span class=3D"com">     * </span></code></li><li style=3D"=
+list-style-type: none; padding-left: 0px;" class=3D"L1"><code cla=
+ss=3D"language-java"><span class=3D"com">     * @tableName =B1=ED=
+=C3=FB</span></code></li><li style=3D"list-style-type: none; padd=
+ing-left: 0px;" class=3D"L2"><code class=3D"language-java"><span=20=
+class=3D"com">     * </span></code></li><li style=3D"list-style-t=
+ype: none; padding-left: 0px;" class=3D"L3"><code class=3D"langua=
+ge-java"><span class=3D"com">     * @rowKey rowKey</span></code><=
+/li><li style=3D"list-style-type: none; padding-left: 0px;" class=
+=3D"L4"><code class=3D"language-java"><span class=3D"com">     *=20=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L5"><code class=3D"language-java"><span class=3D=
+"com">     * @familyName =C1=D0=D7=E5=C3=FB</span></code></li><li=
+ style=3D"list-style-type: none; padding-left: 0px;" class=3D"L6"=
+><code class=3D"language-java"><span class=3D"com">     * </span>=
+</code></li><li style=3D"list-style-type: none; padding-left: 0px=
+;" class=3D"L7"><code class=3D"language-java"><span class=3D"com"=
+>     * @columnName =C1=D0=C3=FB</span></code></li><li style=3D"l=
+ist-style-type: none; padding-left: 0px;" class=3D"L8"><code clas=
+s=3D"language-java"><span class=3D"com">     */</span></code></li=
+><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L9"><code class=3D"language-java"><span class=3D"pln">    </span=
+><span class=3D"kwd">public</span><span class=3D"pln"> </span><sp=
+an class=3D"kwd">static</span><span class=3D"pln"> </span><span c=
+lass=3D"kwd">void</span><span class=3D"pln"> deleteColumn</span><=
+span class=3D"pun">(</span><span class=3D"typ">String</span><span=
+ class=3D"pln"> tableName</span><span class=3D"pun">,</span><span=
+ class=3D"pln"> </span><span class=3D"typ">String</span><span cla=
+ss=3D"pln"> rowKey</span><span class=3D"pun">,</span></code></li>=
+<li style=3D"list-style-type: none; padding-left: 0px;" class=3D"=
+L0"><code class=3D"language-java"><span class=3D"pln">          =20=
+ </span><span class=3D"typ">String</span><span class=3D"pln"> fal=
+ilyName</span><span class=3D"pun">,</span><span class=3D"pln"> </=
+span><span class=3D"typ">String</span><span class=3D"pln"> column=
+Name</span><span class=3D"pun">)</span><span class=3D"pln"> </spa=
+n><span class=3D"kwd">throws</span><span class=3D"pln"> </span><s=
+pan class=3D"typ">IOException</span><span class=3D"pln"> </span><=
+span class=3D"pun">{</span></code></li><li style=3D"list-style-ty=
+pe: none; padding-left: 0px;" class=3D"L1"><code class=3D"languag=
+e-java"><span class=3D"pln">        </span><span class=3D"typ">HT=
+able</span><span class=3D"pln"> table </span><span class=3D"pun">=
+=3D</span><span class=3D"pln"> </span><span class=3D"kwd">new</sp=
+an><span class=3D"pln"> </span><span class=3D"typ">HTable</span><=
+span class=3D"pun">(</span><span class=3D"pln">conf</span><span c=
+lass=3D"pun">,</span><span class=3D"pln"> </span><span class=3D"t=
+yp">Bytes</span><span class=3D"pun">.</span><span class=3D"pln">t=
+oBytes</span><span class=3D"pun">(</span><span class=3D"pln">tabl=
+eName</span><span class=3D"pun">));</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L2"><code cl=
+ass=3D"language-java"><span class=3D"pln">        </span><span cl=
+ass=3D"typ">Delete</span><span class=3D"pln"> deleteColumn </span=
+><span class=3D"pun">=3D</span><span class=3D"pln"> </span><span=20=
+class=3D"kwd">new</span><span class=3D"pln"> </span><span class=3D=
+"typ">Delete</span><span class=3D"pun">(</span><span class=3D"typ=
+">Bytes</span><span class=3D"pun">.</span><span class=3D"pln">toB=
+ytes</span><span class=3D"pun">(</span><span class=3D"pln">rowKey=
+</span><span class=3D"pun">));</span></code></li><li style=3D"lis=
+t-style-type: none; padding-left: 0px;" class=3D"L3"><code class=3D=
+"language-java"><span class=3D"pln">        deleteColumn</span><s=
+pan class=3D"pun">.</span><span class=3D"pln">deleteColumns</span=
+><span class=3D"pun">(</span><span class=3D"typ">Bytes</span><spa=
+n class=3D"pun">.</span><span class=3D"pln">toBytes</span><span c=
+lass=3D"pun">(</span><span class=3D"pln">falilyName</span><span c=
+lass=3D"pun">),</span></code></li><li style=3D"list-style-type: n=
+one; padding-left: 0px;" class=3D"L4"><code class=3D"language-jav=
+a"><span class=3D"pln">                </span><span class=3D"typ"=
+>Bytes</span><span class=3D"pun">.</span><span class=3D"pln">toBy=
+tes</span><span class=3D"pun">(</span><span class=3D"pln">columnN=
+ame</span><span class=3D"pun">));</span></code></li><li style=3D"=
+list-style-type: none; padding-left: 0px;" class=3D"L5"><code cla=
+ss=3D"language-java"><span class=3D"pln">        table</span><spa=
+n class=3D"pun">.</span><span class=3D"kwd">delete</span><span cl=
+ass=3D"pun">(</span><span class=3D"pln">deleteColumn</span><span=20=
+class=3D"pun">);</span></code></li><li style=3D"list-style-type:=20=
+none; padding-left: 0px;" class=3D"L6"><code class=3D"language-ja=
+va"><span class=3D"pln">        </span><span class=3D"typ">System=
+</span><span class=3D"pun">.</span><span class=3D"pln">out</span>=
+<span class=3D"pun">.</span><span class=3D"pln">println</span><sp=
+an class=3D"pun">(</span><span class=3D"pln">falilyName </span><s=
+pan class=3D"pun">+</span><span class=3D"pln"> </span><span class=
+=3D"str">":"</span><span class=3D"pln"> </span><span class=3D"pun=
+">+</span><span class=3D"pln"> columnName </span><span class=3D"p=
+un">+</span><span class=3D"pln"> </span><span class=3D"str">"is d=
+eleted!"</span><span class=3D"pun">);</span></code></li><li style=
+=3D"list-style-type: none; padding-left: 0px;" class=3D"L7"><code=
+ class=3D"language-java"><span class=3D"pln">    </span><span cla=
+ss=3D"pun">}</span></code></li><li style=3D"list-style-type: none=
+; padding-left: 0px;" class=3D"L8"><code class=3D"language-java">=
+</code></li><li style=3D"list-style-type: none; padding-left: 0px=
+;" class=3D"L9"><code class=3D"language-java"><span class=3D"pln"=
+>    </span><span class=3D"com">/*</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L0"><code cl=
+ass=3D"language-java"><span class=3D"com">     * =C9=BE=B3=FD=D6=B8=
+=B6=A8=B5=C4=C1=D0</span></code></li><li style=3D"list-style-type=
+: none; padding-left: 0px;" class=3D"L1"><code class=3D"language-=
+java"><span class=3D"com">     * </span></code></li><li style=3D"=
+list-style-type: none; padding-left: 0px;" class=3D"L2"><code cla=
+ss=3D"language-java"><span class=3D"com">     * @tableName =B1=ED=
+=C3=FB</span></code></li><li style=3D"list-style-type: none; padd=
+ing-left: 0px;" class=3D"L3"><code class=3D"language-java"><span=20=
+class=3D"com">     * </span></code></li><li style=3D"list-style-t=
+ype: none; padding-left: 0px;" class=3D"L4"><code class=3D"langua=
+ge-java"><span class=3D"com">     * @rowKey rowKey</span></code><=
+/li><li style=3D"list-style-type: none; padding-left: 0px;" class=
+=3D"L5"><code class=3D"language-java"><span class=3D"com">     */=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L6"><code class=3D"language-java"><span class=3D=
+"pln">    </span><span class=3D"kwd">public</span><span class=3D"=
+pln"> </span><span class=3D"kwd">static</span><span class=3D"pln"=
+> </span><span class=3D"kwd">void</span><span class=3D"pln"> dele=
+teAllColumn</span><span class=3D"pun">(</span><span class=3D"typ"=
+>String</span><span class=3D"pln"> tableName</span><span class=3D=
+"pun">,</span><span class=3D"pln"> </span><span class=3D"typ">Str=
+ing</span><span class=3D"pln"> rowKey</span><span class=3D"pun">)=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L7"><code class=3D"language-java"><span class=3D=
+"pln">            </span><span class=3D"kwd">throws</span><span c=
+lass=3D"pln"> </span><span class=3D"typ">IOException</span><span=20=
+class=3D"pln"> </span><span class=3D"pun">{</span></code></li><li=
+ style=3D"list-style-type: none; padding-left: 0px;" class=3D"L8"=
+><code class=3D"language-java"><span class=3D"pln">        </span=
+><span class=3D"typ">HTable</span><span class=3D"pln"> table </sp=
+an><span class=3D"pun">=3D</span><span class=3D"pln"> </span><spa=
+n class=3D"kwd">new</span><span class=3D"pln"> </span><span class=
+=3D"typ">HTable</span><span class=3D"pun">(</span><span class=3D"=
+pln">conf</span><span class=3D"pun">,</span><span class=3D"pln">=20=
+</span><span class=3D"typ">Bytes</span><span class=3D"pun">.</spa=
+n><span class=3D"pln">toBytes</span><span class=3D"pun">(</span><=
+span class=3D"pln">tableName</span><span class=3D"pun">));</span>=
+</code></li><li style=3D"list-style-type: none; padding-left: 0px=
+;" class=3D"L9"><code class=3D"language-java"><span class=3D"pln"=
+>        </span><span class=3D"typ">Delete</span><span class=3D"p=
+ln"> deleteAll </span><span class=3D"pun">=3D</span><span class=3D=
+"pln"> </span><span class=3D"kwd">new</span><span class=3D"pln">=20=
+</span><span class=3D"typ">Delete</span><span class=3D"pun">(</sp=
+an><span class=3D"typ">Bytes</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">toBytes</span><span class=3D"pun">(</span><span=
+ class=3D"pln">rowKey</span><span class=3D"pun">));</span></code>=
+</li><li style=3D"list-style-type: none; padding-left: 0px;" clas=
+s=3D"L0"><code class=3D"language-java"><span class=3D"pln">     =20=
+  table</span><span class=3D"pun">.</span><span class=3D"kwd">del=
+ete</span><span class=3D"pun">(</span><span class=3D"pln">deleteA=
+ll</span><span class=3D"pun">);</span></code></li><li style=3D"li=
+st-style-type: none; padding-left: 0px;" class=3D"L1"><code class=
+=3D"language-java"><span class=3D"pln">        </span><span class=
+=3D"typ">System</span><span class=3D"pun">.</span><span class=3D"=
+pln">out</span><span class=3D"pun">.</span><span class=3D"pln">pr=
+intln</span><span class=3D"pun">(</span><span class=3D"str">"all=20=
+columns are deleted!"</span><span class=3D"pun">);</span></code><=
+/li><li style=3D"list-style-type: none; padding-left: 0px;" class=
+=3D"L2"><code class=3D"language-java"><span class=3D"pln">    </s=
+pan><span class=3D"pun">}</span></code></li><li style=3D"list-sty=
+le-type: none; padding-left: 0px;" class=3D"L3"><code class=3D"la=
+nguage-java"></code></li><li style=3D"list-style-type: none; padd=
+ing-left: 0px;" class=3D"L4"><code class=3D"language-java"><span=20=
+class=3D"pln">    </span><span class=3D"com">/*</span></code></li=
+><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L5"><code class=3D"language-java"><span class=3D"com">     * =C9=
+=BE=B3=FD=B1=ED</span></code></li><li style=3D"list-style-type: n=
+one; padding-left: 0px;" class=3D"L6"><code class=3D"language-jav=
+a"><span class=3D"com">     * </span></code></li><li style=3D"lis=
+t-style-type: none; padding-left: 0px;" class=3D"L7"><code class=3D=
+"language-java"><span class=3D"com">     * @tableName =B1=ED=C3=FB=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L8"><code class=3D"language-java"><span class=3D=
+"com">     */</span></code></li><li style=3D"list-style-type: non=
+e; padding-left: 0px;" class=3D"L9"><code class=3D"language-java"=
+><span class=3D"pln">    </span><span class=3D"kwd">public</span>=
+<span class=3D"pln"> </span><span class=3D"kwd">static</span><spa=
+n class=3D"pln"> </span><span class=3D"kwd">void</span><span clas=
+s=3D"pln"> deleteTable</span><span class=3D"pun">(</span><span cl=
+ass=3D"typ">String</span><span class=3D"pln"> tableName</span><sp=
+an class=3D"pun">)</span><span class=3D"pln"> </span><span class=3D=
+"kwd">throws</span><span class=3D"pln"> </span><span class=3D"typ=
+">IOException</span><span class=3D"pln"> </span><span class=3D"pu=
+n">{</span></code></li><li style=3D"list-style-type: none; paddin=
+g-left: 0px;" class=3D"L0"><code class=3D"language-java"><span cl=
+ass=3D"pln">        </span><span class=3D"typ">HBaseAdmin</span><=
+span class=3D"pln"> admin </span><span class=3D"pun">=3D</span><s=
+pan class=3D"pln"> </span><span class=3D"kwd">new</span><span cla=
+ss=3D"pln"> </span><span class=3D"typ">HBaseAdmin</span><span cla=
+ss=3D"pun">(</span><span class=3D"pln">conf</span><span class=3D"=
+pun">);</span></code></li><li style=3D"list-style-type: none; pad=
+ding-left: 0px;" class=3D"L1"><code class=3D"language-java"><span=
+ class=3D"pln">        admin</span><span class=3D"pun">.</span><s=
+pan class=3D"pln">disableTable</span><span class=3D"pun">(</span>=
+<span class=3D"pln">tableName</span><span class=3D"pun">);</span>=
+</code></li><li style=3D"list-style-type: none; padding-left: 0px=
+;" class=3D"L2"><code class=3D"language-java"><span class=3D"pln"=
+>        admin</span><span class=3D"pun">.</span><span class=3D"p=
+ln">deleteTable</span><span class=3D"pun">(</span><span class=3D"=
+pln">tableName</span><span class=3D"pun">);</span></code></li><li=
+ style=3D"list-style-type: none; padding-left: 0px;" class=3D"L3"=
+><code class=3D"language-java"><span class=3D"pln">        </span=
+><span class=3D"typ">System</span><span class=3D"pun">.</span><sp=
+an class=3D"pln">out</span><span class=3D"pun">.</span><span clas=
+s=3D"pln">println</span><span class=3D"pun">(</span><span class=3D=
+"pln">tableName </span><span class=3D"pun">+</span><span class=3D=
+"pln"> </span><span class=3D"str">"is deleted!"</span><span class=
+=3D"pun">);</span></code></li><li style=3D"list-style-type: none;=
+ padding-left: 0px;" class=3D"L4"><code class=3D"language-java"><=
+span class=3D"pln">    </span><span class=3D"pun">}</span></code>=
+</li><li style=3D"list-style-type: none; padding-left: 0px;" clas=
+s=3D"L5"><code class=3D"language-java"></code></li><li style=3D"l=
+ist-style-type: none; padding-left: 0px;" class=3D"L6"><code clas=
+s=3D"language-java"><span class=3D"pln">    </span><span class=3D=
+"kwd">public</span><span class=3D"pln"> </span><span class=3D"kwd=
+">static</span><span class=3D"pln"> </span><span class=3D"kwd">vo=
+id</span><span class=3D"pln"> main</span><span class=3D"pun">(</s=
+pan><span class=3D"typ">String</span><span class=3D"pun">[]</span=
+><span class=3D"pln"> args</span><span class=3D"pun">)</span><spa=
+n class=3D"pln"> </span><span class=3D"kwd">throws</span><span cl=
+ass=3D"pln"> </span><span class=3D"typ">Exception</span><span cla=
+ss=3D"pln"> </span><span class=3D"pun">{</span></code></li><li st=
+yle=3D"list-style-type: none; padding-left: 0px;" class=3D"L7"><c=
+ode class=3D"language-java"></code></li><li style=3D"list-style-t=
+ype: none; padding-left: 0px;" class=3D"L8"><code class=3D"langua=
+ge-java"><span class=3D"pln">        </span><span class=3D"com">/=
+/ =B4=B4=BD=A8=B1=ED</span></code></li><li style=3D"list-style-ty=
+pe: none; padding-left: 0px;" class=3D"L9"><code class=3D"languag=
+e-java"><span class=3D"pln">        </span><span class=3D"typ">St=
+ring</span><span class=3D"pln"> tableName </span><span class=3D"p=
+un">=3D</span><span class=3D"pln"> </span><span class=3D"str">"bl=
+og2"</span><span class=3D"pun">;</span></code></li><li style=3D"l=
+ist-style-type: none; padding-left: 0px;" class=3D"L0"><code clas=
+s=3D"language-java"><span class=3D"pln">        </span><span clas=
+s=3D"typ">String</span><span class=3D"pun">[]</span><span class=3D=
+"pln"> family </span><span class=3D"pun">=3D</span><span class=3D=
+"pln"> </span><span class=3D"pun">{</span><span class=3D"pln"> </=
+span><span class=3D"str">"article"</span><span class=3D"pun">,</s=
+pan><span class=3D"pln"> </span><span class=3D"str">"author"</spa=
+n><span class=3D"pln"> </span><span class=3D"pun">};</span></code=
+></li><li style=3D"list-style-type: none; padding-left: 0px;" cla=
+ss=3D"L1"><code class=3D"language-java"><span class=3D"pln">    =20=
+   </span><span class=3D"kwd">if</span><span class=3D"pun">(</spa=
+n><span class=3D"str">"create"</span><span class=3D"pun">.</span>=
+<span class=3D"pln">equals</span><span class=3D"pun">(</span><spa=
+n class=3D"pln">args</span><span class=3D"pun">[</span><span clas=
+s=3D"lit">0</span><span class=3D"pun">])){</span></code></li><li=20=
+style=3D"list-style-type: none; padding-left: 0px;" class=3D"L2">=
+<code class=3D"language-java"><span class=3D"pln">        	 creat=
+Table</span><span class=3D"pun">(</span><span class=3D"pln">table=
+Name</span><span class=3D"pun">,</span><span class=3D"pln"> famil=
+y</span><span class=3D"pun">);</span></code></li><li style=3D"lis=
+t-style-type: none; padding-left: 0px;" class=3D"L3"><code class=3D=
+"language-java"><span class=3D"pln">        </span><span class=3D=
+"pun">}</span></code></li><li style=3D"list-style-type: none; pad=
+ding-left: 0px;" class=3D"L4"><code class=3D"language-java"><span=
+ class=3D"pln">       </span></code></li><li style=3D"list-style-=
+type: none; padding-left: 0px;" class=3D"L5"><code class=3D"langu=
+age-java"></code></li><li style=3D"list-style-type: none; padding=
+-left: 0px;" class=3D"L6"><code class=3D"language-java"><span cla=
+ss=3D"pln">        </span><span class=3D"com">// =CE=AA=B1=ED=CC=ED=
+=BC=D3=CA=FD=BE=DD</span></code></li><li style=3D"list-style-type=
+: none; padding-left: 0px;" class=3D"L7"><code class=3D"language-=
+java"></code></li><li style=3D"list-style-type: none; padding-lef=
+t: 0px;" class=3D"L8"><code class=3D"language-java"><span class=3D=
+"pln">        </span><span class=3D"typ">String</span><span class=
+=3D"pun">[]</span><span class=3D"pln"> column1 </span><span class=
+=3D"pun">=3D</span><span class=3D"pln"> </span><span class=3D"pun=
+">{</span><span class=3D"pln"> </span><span class=3D"str">"title"=
+</span><span class=3D"pun">,</span><span class=3D"pln"> </span><s=
+pan class=3D"str">"content"</span><span class=3D"pun">,</span><sp=
+an class=3D"pln"> </span><span class=3D"str">"tag"</span><span cl=
+ass=3D"pln"> </span><span class=3D"pun">};</span></code></li><li=20=
+style=3D"list-style-type: none; padding-left: 0px;" class=3D"L9">=
+<code class=3D"language-java"><span class=3D"pln">        </span>=
+<span class=3D"typ">String</span><span class=3D"pun">[]</span><sp=
+an class=3D"pln"> value1 </span><span class=3D"pun">=3D</span><sp=
+an class=3D"pln"> </span><span class=3D"pun">{</span></code></li>=
+<li style=3D"list-style-type: none; padding-left: 0px;" class=3D"=
+L0"><code class=3D"language-java"><span class=3D"pln">          =20=
+     </span><span class=3D"str">"Head First HBase"</span><span cl=
+ass=3D"pun">,</span></code></li><li style=3D"list-style-type: non=
+e; padding-left: 0px;" class=3D"L1"><code class=3D"language-java"=
+><span class=3D"pln">                </span><span class=3D"str">"=
+HBase is the Hadoop database. Use it when you need random, realti=
+me read/write access to your Big Data."</span><span class=3D"pun"=
+>,</span></code></li><li style=3D"list-style-type: none; padding-=
+left: 0px;" class=3D"L2"><code class=3D"language-java"><span clas=
+s=3D"pln">                </span><span class=3D"str">"Hadoop,HBas=
+e,NoSQL"</span><span class=3D"pln"> </span><span class=3D"pun">};=
+</span></code></li><li style=3D"list-style-type: none; padding-le=
+ft: 0px;" class=3D"L3"><code class=3D"language-java"><span class=3D=
+"pln">        </span><span class=3D"typ">String</span><span class=
+=3D"pun">[]</span><span class=3D"pln"> column2 </span><span class=
+=3D"pun">=3D</span><span class=3D"pln"> </span><span class=3D"pun=
+">{</span><span class=3D"pln"> </span><span class=3D"str">"name"<=
+/span><span class=3D"pun">,</span><span class=3D"pln"> </span><sp=
+an class=3D"str">"nickname"</span><span class=3D"pln"> </span><sp=
+an class=3D"pun">};</span></code></li><li style=3D"list-style-typ=
+e: none; padding-left: 0px;" class=3D"L4"><code class=3D"language=
+-java"><span class=3D"pln">        </span><span class=3D"typ">Str=
+ing</span><span class=3D"pun">[]</span><span class=3D"pln"> value=
+2 </span><span class=3D"pun">=3D</span><span class=3D"pln"> </spa=
+n><span class=3D"pun">{</span><span class=3D"pln"> </span><span c=
+lass=3D"str">"nicholas"</span><span class=3D"pun">,</span><span c=
+lass=3D"pln"> </span><span class=3D"str">"lee"</span><span class=3D=
+"pln"> </span><span class=3D"pun">};</span></code></li><li style=3D=
+"list-style-type: none; padding-left: 0px;" class=3D"L5"><code cl=
+ass=3D"language-java"><span class=3D"pln">        </span><span cl=
+ass=3D"kwd">if</span><span class=3D"pun">(</span><span class=3D"s=
+tr">"add"</span><span class=3D"pun">.</span><span class=3D"pln">e=
+quals</span><span class=3D"pun">(</span><span class=3D"pln">args<=
+/span><span class=3D"pun">[</span><span class=3D"lit">0</span><sp=
+an class=3D"pun">])){</span></code></li><li style=3D"list-style-t=
+ype: none; padding-left: 0px;" class=3D"L6"><code class=3D"langua=
+ge-java"><span class=3D"pln">	        addData</span><span class=3D=
+"pun">(</span><span class=3D"str">"rowkey1"</span><span class=3D"=
+pun">,</span><span class=3D"pln"> </span><span class=3D"str">"blo=
+g2"</span><span class=3D"pun">,</span><span class=3D"pln"> column=
+1</span><span class=3D"pun">,</span><span class=3D"pln"> value1</=
+span><span class=3D"pun">,</span><span class=3D"pln"> column2</sp=
+an><span class=3D"pun">,</span><span class=3D"pln"> value2</span>=
+<span class=3D"pun">);</span></code></li><li style=3D"list-style-=
+type: none; padding-left: 0px;" class=3D"L7"><code class=3D"langu=
+age-java"><span class=3D"pln">	        addData</span><span class=3D=
+"pun">(</span><span class=3D"str">"rowkey2"</span><span class=3D"=
+pun">,</span><span class=3D"pln"> </span><span class=3D"str">"blo=
+g2"</span><span class=3D"pun">,</span><span class=3D"pln"> column=
+1</span><span class=3D"pun">,</span><span class=3D"pln"> value1</=
+span><span class=3D"pun">,</span><span class=3D"pln"> column2</sp=
+an><span class=3D"pun">,</span><span class=3D"pln"> value2</span>=
+<span class=3D"pun">);</span></code></li><li style=3D"list-style-=
+type: none; padding-left: 0px;" class=3D"L8"><code class=3D"langu=
+age-java"><span class=3D"pln">	        addData</span><span class=3D=
+"pun">(</span><span class=3D"str">"rowkey3"</span><span class=3D"=
+pun">,</span><span class=3D"pln"> </span><span class=3D"str">"blo=
+g2"</span><span class=3D"pun">,</span><span class=3D"pln"> column=
+1</span><span class=3D"pun">,</span><span class=3D"pln"> value1</=
+span><span class=3D"pun">,</span><span class=3D"pln"> column2</sp=
+an><span class=3D"pun">,</span><span class=3D"pln"> value2</span>=
+<span class=3D"pun">);</span></code></li><li style=3D"list-style-=
+type: none; padding-left: 0px;" class=3D"L9"><code class=3D"langu=
+age-java"><span class=3D"pln">	    </span><span class=3D"pun">}</=
+span></code></li><li style=3D"list-style-type: none; padding-left=
+: 0px;" class=3D"L0"><code class=3D"language-java"><span class=3D=
+"pln">	        </span></code></li><li style=3D"list-style-type: n=
+one; padding-left: 0px;" class=3D"L1"><code class=3D"language-jav=
+a"><span class=3D"pln">        </span><span class=3D"kwd">if</spa=
+n><span class=3D"pun">(</span><span class=3D"str">"select"</span>=
+<span class=3D"pun">.</span><span class=3D"pln">equals</span><spa=
+n class=3D"pun">(</span><span class=3D"pln">args</span><span clas=
+s=3D"pun">[</span><span class=3D"lit">0</span><span class=3D"pun"=
+>])){</span></code></li><li style=3D"list-style-type: none; paddi=
+ng-left: 0px;" class=3D"L2"><code class=3D"language-java"><span c=
+lass=3D"pln">        	 </span><span class=3D"com">// =B1=E9=C0=FA=
+=B2=E9=D1=AF</span></code></li><li style=3D"list-style-type: none=
+; padding-left: 0px;" class=3D"L3"><code class=3D"language-java">=
+<span class=3D"pln">            getResultScann</span><span class=3D=
+"pun">(</span><span class=3D"str">"blog2"</span><span class=3D"pu=
+n">);</span></code></li><li style=3D"list-style-type: none; paddi=
+ng-left: 0px;" class=3D"L4"><code class=3D"language-java"><span c=
+lass=3D"pln">            </span><span class=3D"com">// =B8=F9=BE=DD=
+row key=B7=B6=CE=A7=B1=E9=C0=FA=B2=E9=D1=AF</span></code></li><li=
+ style=3D"list-style-type: none; padding-left: 0px;" class=3D"L5"=
+><code class=3D"language-java"><span class=3D"pln">            ge=
+tResultScann</span><span class=3D"pun">(</span><span class=3D"str=
+">"blog2"</span><span class=3D"pun">,</span><span class=3D"pln">=20=
+</span><span class=3D"str">"rowkey4"</span><span class=3D"pun">,<=
+/span><span class=3D"pln"> </span><span class=3D"str">"rowkey5"</=
+span><span class=3D"pun">);</span></code></li><li style=3D"list-s=
+tyle-type: none; padding-left: 0px;" class=3D"L6"><code class=3D"=
+language-java"><span class=3D"pln">            </span><span class=
+=3D"com">// =B2=E9=D1=AF</span></code></li><li style=3D"list-styl=
+e-type: none; padding-left: 0px;" class=3D"L7"><code class=3D"lan=
+guage-java"><span class=3D"pln">            getResult</span><span=
+ class=3D"pun">(</span><span class=3D"str">"blog2"</span><span cl=
+ass=3D"pun">,</span><span class=3D"pln"> </span><span class=3D"st=
+r">"rowkey1"</span><span class=3D"pun">);</span></code></li><li s=
+tyle=3D"list-style-type: none; padding-left: 0px;" class=3D"L8"><=
+code class=3D"language-java"></code></li><li style=3D"list-style-=
+type: none; padding-left: 0px;" class=3D"L9"><code class=3D"langu=
+age-java"><span class=3D"pln">            </span><span class=3D"c=
+om">// =B2=E9=D1=AF=C4=B3=D2=BB=C1=D0=B5=C4=D6=B5</span></code></=
+li><li style=3D"list-style-type: none; padding-left: 0px;" class=3D=
+"L0"><code class=3D"language-java"><span class=3D"pln">         =20=
+  getResultByColumn</span><span class=3D"pun">(</span><span class=
+=3D"str">"blog2"</span><span class=3D"pun">,</span><span class=3D=
+"pln"> </span><span class=3D"str">"rowkey1"</span><span class=3D"=
+pun">,</span><span class=3D"pln"> </span><span class=3D"str">"aut=
+hor"</span><span class=3D"pun">,</span><span class=3D"pln"> </spa=
+n><span class=3D"str">"name"</span><span class=3D"pun">);</span><=
+/code></li><li style=3D"list-style-type: none; padding-left: 0px;=
+" class=3D"L1"><code class=3D"language-java"></code></li><li styl=
+e=3D"list-style-type: none; padding-left: 0px;" class=3D"L2"><cod=
+e class=3D"language-java"><span class=3D"pln">        </span><spa=
+n class=3D"pun">}</span></code></li><li style=3D"list-style-type:=
+ none; padding-left: 0px;" class=3D"L3"><code class=3D"language-j=
+ava"><span class=3D"pln">       </span><span class=3D"kwd">if</sp=
+an><span class=3D"pun">(</span><span class=3D"str">"other"</span>=
+<span class=3D"pun">.</span><span class=3D"pln">equals</span><spa=
+n class=3D"pun">(</span><span class=3D"pln">args</span><span clas=
+s=3D"pun">[</span><span class=3D"lit">0</span><span class=3D"pun"=
+>])){</span></code></li><li style=3D"list-style-type: none; paddi=
+ng-left: 0px;" class=3D"L4"><code class=3D"language-java"><span c=
+lass=3D"pln">    	   </span><span class=3D"com">// =B8=FC=D0=C2=C1=
+=D0</span></code></li><li style=3D"list-style-type: none; padding=
+-left: 0px;" class=3D"L5"><code class=3D"language-java"><span cla=
+ss=3D"pln">           updateTable</span><span class=3D"pun">(</sp=
+an><span class=3D"str">"blog2"</span><span class=3D"pun">,</span>=
+<span class=3D"pln"> </span><span class=3D"str">"rowkey1"</span><=
+span class=3D"pun">,</span><span class=3D"pln"> </span><span clas=
+s=3D"str">"author"</span><span class=3D"pun">,</span><span class=3D=
+"pln"> </span><span class=3D"str">"name"</span><span class=3D"pun=
+">,</span><span class=3D"pln"> </span><span class=3D"str">"bin"</=
+span><span class=3D"pun">);</span></code></li><li style=3D"list-s=
+tyle-type: none; padding-left: 0px;" class=3D"L6"><code class=3D"=
+language-java"></code></li><li style=3D"list-style-type: none; pa=
+dding-left: 0px;" class=3D"L7"><code class=3D"language-java"><spa=
+n class=3D"pln">           </span><span class=3D"com">// =B2=E9=D1=
+=AF=C4=B3=D2=BB=C1=D0=B5=C4=D6=B5</span></code></li><li style=3D"=
+list-style-type: none; padding-left: 0px;" class=3D"L8"><code cla=
+ss=3D"language-java"><span class=3D"pln">           getResultByCo=
+lumn</span><span class=3D"pun">(</span><span class=3D"str">"blog2=
+"</span><span class=3D"pun">,</span><span class=3D"pln"> </span><=
+span class=3D"str">"rowkey1"</span><span class=3D"pun">,</span><s=
+pan class=3D"pln"> </span><span class=3D"str">"author"</span><spa=
+n class=3D"pun">,</span><span class=3D"pln"> </span><span class=3D=
+"str">"name"</span><span class=3D"pun">);</span></code></li><li s=
+tyle=3D"list-style-type: none; padding-left: 0px;" class=3D"L9"><=
+code class=3D"language-java"></code></li><li style=3D"list-style-=
+type: none; padding-left: 0px;" class=3D"L0"><code class=3D"langu=
+age-java"><span class=3D"pln">           </span><span class=3D"co=
+m">// =B2=E9=D1=AF=C4=B3=C1=D0=B5=C4=B6=E0=B0=E6=B1=BE</span></co=
+de></li><li style=3D"list-style-type: none; padding-left: 0px;" c=
+lass=3D"L1"><code class=3D"language-java"><span class=3D"pln">  =20=
+        getResultByVersion</span><span class=3D"pun">(</span><spa=
+n class=3D"str">"blog2"</span><span class=3D"pun">,</span><span c=
+lass=3D"pln"> </span><span class=3D"str">"rowkey1"</span><span cl=
+ass=3D"pun">,</span><span class=3D"pln"> </span><span class=3D"st=
+r">"author"</span><span class=3D"pun">,</span><span class=3D"pln"=
+> </span><span class=3D"str">"name"</span><span class=3D"pun">);<=
+/span></code></li><li style=3D"list-style-type: none; padding-lef=
+t: 0px;" class=3D"L2"><code class=3D"language-java"></code></li><=
+li style=3D"list-style-type: none; padding-left: 0px;" class=3D"L=
+3"><code class=3D"language-java"><span class=3D"pln">           <=
+/span><span class=3D"com">// =C9=BE=B3=FD=D2=BB=C1=D0</span></cod=
+e></li><li style=3D"list-style-type: none; padding-left: 0px;" cl=
+ass=3D"L4"><code class=3D"language-java"><span class=3D"pln">   =20=
+       deleteColumn</span><span class=3D"pun">(</span><span class=
+=3D"str">"blog2"</span><span class=3D"pun">,</span><span class=3D=
+"pln"> </span><span class=3D"str">"rowkey1"</span><span class=3D"=
+pun">,</span><span class=3D"pln"> </span><span class=3D"str">"aut=
+hor"</span><span class=3D"pun">,</span><span class=3D"pln"> </spa=
+n><span class=3D"str">"nickname"</span><span class=3D"pun">);</sp=
+an></code></li><li style=3D"list-style-type: none; padding-left:=20=
+0px;" class=3D"L5"><code class=3D"language-java"></code></li><li=20=
+style=3D"list-style-type: none; padding-left: 0px;" class=3D"L6">=
+<code class=3D"language-java"><span class=3D"pln">           </sp=
+an><span class=3D"com">// =C9=BE=B3=FD=CB=F9=D3=D0=C1=D0</span></=
+code></li><li style=3D"list-style-type: none; padding-left: 0px;"=
+ class=3D"L7"><code class=3D"language-java"><span class=3D"pln">=20=
+          deleteAllColumn</span><span class=3D"pun">(</span><span=
+ class=3D"str">"blog2"</span><span class=3D"pun">,</span><span cl=
+ass=3D"pln"> </span><span class=3D"str">"rowkey1"</span><span cla=
+ss=3D"pun">);</span></code></li><li style=3D"list-style-type: non=
+e; padding-left: 0px;" class=3D"L8"><code class=3D"language-java"=
+></code></li><li style=3D"list-style-type: none; padding-left: 0p=
+x;" class=3D"L9"><code class=3D"language-java"><span class=3D"pln=
+">           </span><span class=3D"com">// =C9=BE=B3=FD=B1=ED</sp=
+an></code></li><li style=3D"list-style-type: none; padding-left:=20=
+0px;" class=3D"L0"><code class=3D"language-java"><span class=3D"p=
+ln">           deleteTable</span><span class=3D"pun">(</span><spa=
+n class=3D"str">"blog2"</span><span class=3D"pun">);</span><span=20=
+class=3D"pln"> </span></code></li><li style=3D"list-style-type: n=
+one; padding-left: 0px;" class=3D"L1"><code class=3D"language-jav=
+a"><span class=3D"pln">       </span><span class=3D"pun">}</span>=
+</code></li><li style=3D"list-style-type: none; padding-left: 0px=
+;" class=3D"L2"><code class=3D"language-java"><span class=3D"pln"=
+>       </span></code></li><li style=3D"list-style-type: none; pa=
+dding-left: 0px;" class=3D"L3"><code class=3D"language-java"></co=
+de></li><li style=3D"list-style-type: none; padding-left: 0px;" c=
+lass=3D"L4"><code class=3D"language-java"><span class=3D"pln">  =20=
+ </span><span class=3D"pun">}</span></code></li><li style=3D"list=
+-style-type: none; padding-left: 0px;" class=3D"L5"><code class=3D=
+"language-java"><span class=3D"pun">}</span></code></li></ol></pr=
+e></div><div><br></div></div>=0A=0A=0A=0A</body></html>=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A
+
+------=_Next_Part_0000207328.226--
+
+------=_Next_Part_0000621984.035
+Content-Type: text/css;
+	name="wiz_code_highlight_2.css"
+Content-Transfer-Encoding: base64
+Content-ID: <wiz_code_highlight_2.css>
+Content-Location: wiz_code_highlight_2.css
+
+//4NAAoADQAKAA0ACgAuAGgAbABqAHMAIAB7AA0ACgAgACAAZABpAHMAcABsAGEAeQA6ACAAYgBsAG8AYwBrADsAIABwAGEAZABkAGkAbgBnADoAIAAwAC4ANQBlAG0AOwANAAoAIAAgAGIAYQBjAGsAZwByAG8AdQBuAGQAOgAgACMARgAwAEYAMABGADAAOwANAAoAfQANAAoADQAKAC4AaABsAGoAcwAsAA0ACgAuAGgAbABqAHMALQBzAHUAYgBzAHQALAANAAoALgBoAGwAagBzAC0AdABhAGcAIAAuAGgAbABqAHMALQB0AGkAdABsAGUALAANAAoALgBsAGkAcwBwACAALgBoAGwAagBzAC0AdABpAHQAbABlACwADQAKAC4AYwBsAG8AagB1AHIAZQAgAC4AaABsAGoAcwAtAGIAdQBpAGwAdABfAGkAbgAsAA0ACgAuAG4AZwBpAG4AeAAgAC4AaABsAGoAcwAtAHQAaQB0AGwAZQAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgAGIAbABhAGMAawA7AA0ACgB9AA0ACgANAAoALgBoAGwAagBzAC0AcwB0AHIAaQBuAGcALAANAAoALgBoAGwAagBzAC0AdABpAHQAbABlACwADQAKAC4AaABsAGoAcwAtAGMAbwBuAHMAdABhAG4AdAAsAA0ACgAuAGgAbABqAHMALQBwAGEAcgBlAG4AdAAsAA0ACgAuAGgAbABqAHMALQB0AGEAZwAgAC4AaABsAGoAcwAtAHYAYQBsAHUAZQAsAA0ACgAuAGgAbABqAHMALQByAHUAbABlAHMAIAAuAGgAbABqAHMALQB2AGEAbAB1AGUALAANAAoALgBoAGwAagBzAC0AcgB1AGwAZQBzACAALgBoAGwAagBzAC0AdgBhAGwAdQBlACAALgBoAGwAagBzAC0AbgB1AG0AYgBlAHIALAANAAoALgBoAGwAagBzAC0AcAByAGUAcAByAG8AYwBlAHMAcwBvAHIALAANAAoALgBoAGwAagBzAC0AcAByAGEAZwBtAGEALAANAAoALgBoAGEAbQBsACAALgBoAGwAagBzAC0AcwB5AG0AYgBvAGwALAANAAoALgByAHUAYgB5ACAALgBoAGwAagBzAC0AcwB5AG0AYgBvAGwALAANAAoALgByAHUAYgB5ACAALgBoAGwAagBzAC0AcwB5AG0AYgBvAGwAIAAuAGgAbABqAHMALQBzAHQAcgBpAG4AZwAsAA0ACgAuAGgAbABqAHMALQBhAGcAZwByAGUAZwBhAHQAZQAsAA0ACgAuAGgAbABqAHMALQB0AGUAbQBwAGwAYQB0AGUAXwB0AGEAZwAsAA0ACgAuAGQAagBhAG4AZwBvACAALgBoAGwAagBzAC0AdgBhAHIAaQBhAGIAbABlACwADQAKAC4AcwBtAGEAbABsAHQAYQBsAGsAIAAuAGgAbABqAHMALQBjAGwAYQBzAHMALAANAAoALgBoAGwAagBzAC0AYQBkAGQAaQB0AGkAbwBuACwADQAKAC4AaABsAGoAcwAtAGYAbABvAHcALAANAAoALgBoAGwAagBzAC0AcwB0AHIAZQBhAG0ALAANAAoALgBiAGEAcwBoACAALgBoAGwAagBzAC0AdgBhAHIAaQBhAGIAbABlACwADQAKAC4AYQBwAGEAYwBoAGUAIAAuAGgAbABqAHMALQB0AGEAZwAsAA0ACgAuAGEAcABhAGMAaABlACAALgBoAGwAagBzAC0AYwBiAHIAYQBjAGsAZQB0ACwADQAKAC4AdABlAHgAIAAuAGgAbABqAHMALQBjAG8AbQBtAGEAbgBkACwADQAKAC4AdABlAHgAIAAuAGgAbABqAHMALQBzAHAAZQBjAGkAYQBsACwADQAKAC4AZQByAGwAYQBuAGcAXwByAGUAcABsACAALgBoAGwAagBzAC0AZgB1AG4AYwB0AGkAbwBuAF8AbwByAF8AYQB0AG8AbQAsAA0ACgAuAGEAcwBjAGkAaQBkAG8AYwAgAC4AaABsAGoAcwAtAGgAZQBhAGQAZQByACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwAagBzAC0AaABlAGEAZABlAHIALAANAAoALgBjAG8AZgBmAGUAZQBzAGMAcgBpAHAAdAAgAC4AaABsAGoAcwAtAGEAdAB0AHIAaQBiAHUAdABlACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA4ADAAMAA7AA0ACgB9AA0ACgANAAoALgBzAG0AYQByAHQAcQB1AG8AdABlACwADQAKAC4AaABsAGoAcwAtAGMAbwBtAG0AZQBuAHQALAANAAoALgBoAGwAagBzAC0AYQBuAG4AbwB0AGEAdABpAG8AbgAsAA0ACgAuAGgAbABqAHMALQB0AGUAbQBwAGwAYQB0AGUAXwBjAG8AbQBtAGUAbgB0ACwADQAKAC4AZABpAGYAZgAgAC4AaABsAGoAcwAtAGgAZQBhAGQAZQByACwADQAKAC4AaABsAGoAcwAtAGMAaAB1AG4AawAsAA0ACgAuAGEAcwBjAGkAaQBkAG8AYwAgAC4AaABsAGoAcwAtAGIAbABvAGMAawBxAHUAbwB0AGUALAANAAoALgBtAGEAcgBrAGQAbwB3AG4AIAAuAGgAbABqAHMALQBiAGwAbwBjAGsAcQB1AG8AdABlACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA4ADgAOAA7AA0ACgB9AA0ACgANAAoALgBoAGwAagBzAC0AbgB1AG0AYgBlAHIALAANAAoALgBoAGwAagBzAC0AZABhAHQAZQAsAA0ACgAuAGgAbABqAHMALQByAGUAZwBlAHgAcAAsAA0ACgAuAGgAbABqAHMALQBsAGkAdABlAHIAYQBsACwADQAKAC4AaABsAGoAcwAtAGgAZQB4AGMAbwBsAG8AcgAsAA0ACgAuAHMAbQBhAGwAbAB0AGEAbABrACAALgBoAGwAagBzAC0AcwB5AG0AYgBvAGwALAANAAoALgBzAG0AYQBsAGwAdABhAGwAawAgAC4AaABsAGoAcwAtAGMAaABhAHIALAANAAoALgBnAG8AIAAuAGgAbABqAHMALQBjAG8AbgBzAHQAYQBuAHQALAANAAoALgBoAGwAagBzAC0AYwBoAGEAbgBnAGUALAANAAoALgBsAGEAcwBzAG8AIAAuAGgAbABqAHMALQB2AGEAcgBpAGEAYgBsAGUALAANAAoALgBtAGEAawBlAGYAaQBsAGUAIAAuAGgAbABqAHMALQB2AGEAcgBpAGEAYgBsAGUALAANAAoALgBhAHMAYwBpAGkAZABvAGMAIAAuAGgAbABqAHMALQBiAHUAbABsAGUAdAAsAA0ACgAuAG0AYQByAGsAZABvAHcAbgAgAC4AaABsAGoAcwAtAGIAdQBsAGwAZQB0ACwADQAKAC4AYQBzAGMAaQBpAGQAbwBjACAALgBoAGwAagBzAC0AbABpAG4AawBfAHUAcgBsACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwAagBzAC0AbABpAG4AawBfAHUAcgBsACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwAwADgAMAA7AA0ACgB9AA0ACgANAAoALgBoAGwAagBzAC0AbABhAGIAZQBsACwADQAKAC4AaABsAGoAcwAtAGoAYQB2AGEAZABvAGMALAANAAoALgByAHUAYgB5ACAALgBoAGwAagBzAC0AcwB0AHIAaQBuAGcALAANAAoALgBoAGwAagBzAC0AZABlAGMAbwByAGEAdABvAHIALAANAAoALgBoAGwAagBzAC0AZgBpAGwAdABlAHIAIAAuAGgAbABqAHMALQBhAHIAZwB1AG0AZQBuAHQALAANAAoALgBoAGwAagBzAC0AbABvAGMAYQBsAHYAYQByAHMALAANAAoALgBoAGwAagBzAC0AYQByAHIAYQB5ACwADQAKAC4AaABsAGoAcwAtAGEAdAB0AHIAXwBzAGUAbABlAGMAdABvAHIALAANAAoALgBoAGwAagBzAC0AaQBtAHAAbwByAHQAYQBuAHQALAANAAoALgBoAGwAagBzAC0AcABzAGUAdQBkAG8ALAANAAoALgBoAGwAagBzAC0AcABpACwADQAKAC4AaABhAG0AbAAgAC4AaABsAGoAcwAtAGIAdQBsAGwAZQB0ACwADQAKAC4AaABsAGoAcwAtAGQAbwBjAHQAeQBwAGUALAANAAoALgBoAGwAagBzAC0AZABlAGwAZQB0AGkAbwBuACwADQAKAC4AaABsAGoAcwAtAGUAbgB2AHYAYQByACwADQAKAC4AaABsAGoAcwAtAHMAaABlAGIAYQBuAGcALAANAAoALgBhAHAAYQBjAGgAZQAgAC4AaABsAGoAcwAtAHMAcQBiAHIAYQBjAGsAZQB0ACwADQAKAC4AbgBnAGkAbgB4ACAALgBoAGwAagBzAC0AYgB1AGkAbAB0AF8AaQBuACwADQAKAC4AdABlAHgAIAAuAGgAbABqAHMALQBmAG8AcgBtAHUAbABhACwADQAKAC4AZQByAGwAYQBuAGcAXwByAGUAcABsACAALgBoAGwAagBzAC0AcgBlAHMAZQByAHYAZQBkACwADQAKAC4AaABsAGoAcwAtAHAAcgBvAG0AcAB0ACwADQAKAC4AYQBzAGMAaQBpAGQAbwBjACAALgBoAGwAagBzAC0AbABpAG4AawBfAGwAYQBiAGUAbAAsAA0ACgAuAG0AYQByAGsAZABvAHcAbgAgAC4AaABsAGoAcwAtAGwAaQBuAGsAXwBsAGEAYgBlAGwALAANAAoALgB2AGgAZABsACAALgBoAGwAagBzAC0AYQB0AHQAcgBpAGIAdQB0AGUALAANAAoALgBjAGwAbwBqAHUAcgBlACAALgBoAGwAagBzAC0AYQB0AHQAcgBpAGIAdQB0AGUALAANAAoALgBhAHMAYwBpAGkAZABvAGMAIAAuAGgAbABqAHMALQBhAHQAdAByAGkAYgB1AHQAZQAsAA0ACgAuAGwAYQBzAHMAbwAgAC4AaABsAGoAcwAtAGEAdAB0AHIAaQBiAHUAdABlACwADQAKAC4AYwBvAGYAZgBlAGUAcwBjAHIAaQBwAHQAIAAuAGgAbABqAHMALQBwAHIAbwBwAGUAcgB0AHkALAANAAoALgBoAGwAagBzAC0AcABoAG8AbgB5ACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA4ADgARgANAAoAfQANAAoADQAKAC4AaABsAGoAcwAtAGsAZQB5AHcAbwByAGQALAANAAoALgBoAGwAagBzAC0AaQBkACwADQAKAC4AaABsAGoAcwAtAHQAaQB0AGwAZQAsAA0ACgAuAGgAbABqAHMALQBiAHUAaQBsAHQAXwBpAG4ALAANAAoALgBoAGwAagBzAC0AYQBnAGcAcgBlAGcAYQB0AGUALAANAAoALgBjAHMAcwAgAC4AaABsAGoAcwAtAHQAYQBnACwADQAKAC4AaABsAGoAcwAtAGoAYQB2AGEAZABvAGMAdABhAGcALAANAAoALgBoAGwAagBzAC0AcABoAHAAZABvAGMALAANAAoALgBoAGwAagBzAC0AeQBhAHIAZABvAGMAdABhAGcALAANAAoALgBzAG0AYQBsAGwAdABhAGwAawAgAC4AaABsAGoAcwAtAGMAbABhAHMAcwAsAA0ACgAuAGgAbABqAHMALQB3AGkAbgB1AHQAaQBsAHMALAANAAoALgBiAGEAcwBoACAALgBoAGwAagBzAC0AdgBhAHIAaQBhAGIAbABlACwADQAKAC4AYQBwAGEAYwBoAGUAIAAuAGgAbABqAHMALQB0AGEAZwAsAA0ACgAuAGcAbwAgAC4AaABsAGoAcwAtAHQAeQBwAGUAbgBhAG0AZQAsAA0ACgAuAHQAZQB4ACAALgBoAGwAagBzAC0AYwBvAG0AbQBhAG4AZAAsAA0ACgAuAGEAcwBjAGkAaQBkAG8AYwAgAC4AaABsAGoAcwAtAHMAdAByAG8AbgBnACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwAagBzAC0AcwB0AHIAbwBuAGcALAANAAoALgBoAGwAagBzAC0AcgBlAHEAdQBlAHMAdAAsAA0ACgAuAGgAbABqAHMALQBzAHQAYQB0AHUAcwAgAHsADQAKACAAIABmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgAgAGIAbwBsAGQAOwANAAoAfQANAAoADQAKAC4AYQBzAGMAaQBpAGQAbwBjACAALgBoAGwAagBzAC0AZQBtAHAAaABhAHMAaQBzACwADQAKAC4AbQBhAHIAawBkAG8AdwBuACAALgBoAGwAagBzAC0AZQBtAHAAaABhAHMAaQBzACAAewANAAoAIAAgAGYAbwBuAHQALQBzAHQAeQBsAGUAOgAgAGkAdABhAGwAaQBjADsADQAKAH0ADQAKAA0ACgAuAG4AZwBpAG4AeAAgAC4AaABsAGoAcwAtAGIAdQBpAGwAdABfAGkAbgAgAHsADQAKACAAIABmAG8AbgB0AC0AdwBlAGkAZwBoAHQAOgAgAG4AbwByAG0AYQBsADsADQAKAH0ADQAKAA0ACgAuAGMAbwBmAGYAZQBlAHMAYwByAGkAcAB0ACAALgBqAGEAdgBhAHMAYwByAGkAcAB0ACwADQAKAC4AagBhAHYAYQBzAGMAcgBpAHAAdAAgAC4AeABtAGwALAANAAoALgBsAGEAcwBzAG8AIAAuAG0AYQByAGsAdQBwACwADQAKAC4AdABlAHgAIAAuAGgAbABqAHMALQBmAG8AcgBtAHUAbABhACwADQAKAC4AeABtAGwAIAAuAGoAYQB2AGEAcwBjAHIAaQBwAHQALAANAAoALgB4AG0AbAAgAC4AdgBiAHMAYwByAGkAcAB0ACwADQAKAC4AeABtAGwAIAAuAGMAcwBzACwADQAKAC4AeABtAGwAIAAuAGgAbABqAHMALQBjAGQAYQB0AGEAIAB7AA0ACgAgACAAbwBwAGEAYwBpAHQAeQA6ACAAMAAuADUAOwANAAoAfQANAAoADQAKAHAAcgBlACAAewANAAoAIAAgAGYAbwBuAHQALQBzAGkAegBlADoAIAAxADMAcAB4ADsADQAKAH0ADQAKAA0ACgBwAHIAZQAsACAAYwBvAGQAZQAgAHsADQAKACAAIABmAG8AbgB0AC0AZgBhAG0AaQBsAHkAOgAgAEMAbwBuAHMAbwBsAGEAcwAsACAAIgBMAGkAYgBlAHIAYQB0AGkAbwBuACAATQBvAG4AbwAiACwAIABNAGUAbgBsAG8ALAAgAEMAbwB1AHIAaQBlAHIALAAgAG0AbwBuAG8AcwBwAGEAYwBlADsADQAKACAAIAB3AG8AcgBkAC0AdwByAGEAcAA6ACAAYgByAGUAYQBrAC0AdwBvAHIAZAA7AA0ACgB9AA0ACgANAAoALgBwAGwAbgAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgACMANAA4ADQAOAA0AEMAOwAgAH0ADQAKAA0ACgAuAHMAdAByACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwBEAEQAMQAxADQANAA7ACAAfQANAAoADQAKAC4AawB3AGQAIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjADEARQAzADQANwBCADsAIAB9AA0ACgANAAoALgBjAG8AbQAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgACMAOQAzAEEAMQBBADEAOwAgAH0ADQAKAA0ACgAuAHQAeQBwACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7ACAAfQANAAoADQAKAC4AbABpAHQAIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjADEAOQA1AEYAOQAxADsAIAB9AA0ACgANAAoALgBwAHUAbgAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgACMAOQAzAEEAMQBBADEAOwAgAH0ADQAKAA0ACgAuAG8AcABuACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAIwA5ADMAQQAxAEEAMQA7ACAAfQANAAoADQAKAC4AYwBsAG8AIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjADkAMwBBADEAQQAxADsAIAB9AA0ACgANAAoALgB0AGEAZwAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgACMAMAAwADgAOwAgAH0ADQAKAA0ACgAuAGEAdABuACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7ACAAfQANAAoADQAKAC4AYQB0AHYAIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjAEQARAAxADEANAA0ADsAIAB9AA0ACgANAAoALgBkAGUAYwAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgAHQAZQBhAGwAOwAgAH0ADQAKAA0ACgAuAHYAYQByACAAewANAAoAIAAgAGMAbwBsAG8AcgA6ACAAdABlAGEAbAA7ACAAfQANAAoADQAKAC4AZgB1AG4AIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjAEQAQwAzADIAMgBGADsAIAB9AA0ACgANAAoADQAKAHAAcgBlAC4AcAByAGUAdAB0AHkAcAByAGkAbgB0ACAAewANAAoAIAAgAGIAYQBjAGsAZwByAG8AdQBuAGQALQBjAG8AbABvAHIAOgAgACMARgA3AEYANwBGADkAOwANAAoAIAAgAHAAYQBkAGQAaQBuAGcAOgAgADEAMABwAHgAOwANAAoAIAAgAGIAbwByAGQAZQByADoAIAAxAHAAeAAgAHMAbwBsAGkAZAAgACMARQAxAEUAMQBFADgAOwAgAA0ACgAgACAAdABhAGIALQBzAGkAegBlADoAIAA0ADsAIAB9AA0ACgANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBlAG4AdQBtAHMAIAB7AA0ACgAgACAAYgBvAHgALQBzAGgAYQBkAG8AdwA6ACAANAAwAHAAeAAgADAAIAAwACAAIwBGAEIARgBCAEYAQwAgAGkAbgBzAGUAdAAsACAANAAxAHAAeAAgADAAIAAwACAAIwBFAEMARQBDAEYAMAAgAGkAbgBzAGUAdAA7ACAAfQANAAoADQAKAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAHsADQAKACAAIABjAG8AbABvAHIAOgAgACMAMQBFADMANAA3AEIAOwANAAoAIAAgAHAAYQBkAGQAaQBuAGcALQBsAGUAZgB0ADoAIAAzADAAcAB4ACAAIQBpAG0AcABvAHIAdABhAG4AdAA7AA0ACgAgACAAbQBhAHIAZwBpAG4ALQB0AG8AcAA6ACAAMAA7AA0ACgAgACAAbQBhAHIAZwBpAG4ALQBiAG8AdAB0AG8AbQA6ACAAMAA7AA0ACgB9AA0ACgANAAoAcAByAGUALgBwAHIAZQB0AHQAeQBwAHIAaQBuAHQALgBsAGkAbgBlAG4AdQBtAHMAIABvAGwALgBsAGkAbgBlAG4AdQBtAHMAIABsAGkAIAB7AA0ACgAgACAAYwBvAGwAbwByADoAIAAjAEIARQBCAEUAQwA1ADsADQAKACAAIABsAGkAbgBlAC0AaABlAGkAZwBoAHQAOgAgADEAOABwAHgAOwANAAoAIAAgAHAAYQBkAGQAaQBuAGcALQBsAGUAZgB0ADoAIAAxADIAcAB4ACAAIQBpAG0AcABvAHIAdABhAG4AdAA7ACAADQAKAH0ADQAKAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwAMAAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwAMQAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwAMgAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwAMwAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwANAAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwANQAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwANgAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwANwAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwAOAAsAA0ACgBwAHIAZQAuAHAAcgBlAHQAdAB5AHAAcgBpAG4AdAAuAGwAaQBuAGUAbgB1AG0AcwAgAG8AbAAuAGwAaQBuAGUAbgB1AG0AcwAgAGwAaQAuAEwAOQAgAHsADQAKACAAIABsAGkAcwB0AC0AcwB0AHkAbABlAC0AdAB5AHAAZQA6ACAAZABlAGMAaQBtAGEAbAAgACEAaQBtAHAAbwByAHQAYQBuAHQAOwAgAA0ACgB9AA0ACgA=
+
+------=_Next_Part_0000621984.035--
+

@@ -1,0 +1,352 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?sum/tGxpbnV4t/7O8cb3tcS0xcXM0MXPog==?=
+Date: Date: Fri, 23 Jul 2021 05:51:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000620811.943"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000620811.943
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000206937.637"
+
+
+------=_Next_Part_0000206937.637
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000206937.637
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>=B2=E9=BF=B4linux=B7=FE=CE=F1=C6=F7=B5=
+=C4=B4=C5=C5=CC=D0=C5=CF=A2</title>=0A=0A=0A=0A=0A<style type=3D"=
+text/css" id=3D"wiz_todo_style_id" wiz_link_version=3D"01.00.09">=
+.wiz-todo, .wiz-todo-img {width: 16px; height: 16px; cursor: defa=
+ult; padding: 0 10px 0 2px; vertical-align: -10%;-webkit-user-sel=
+ect: none;} .wiz-todo-label { display: inline-block; padding-top:=
+ 7px; padding-bottom: 6px; line-height: 1.5;} .wiz-todo-label-che=
+cked {  color: #666;} .wiz-todo-label-unchecked {text-decoration:=
+ initial;} .wiz-todo-completed-info {padding-left: 44px; display:=
+ inline-block; } .wiz-todo-avatar { width:20px; height: 20px; ver=
+tical-align: -20%; margin-right:10px; border-radius: 2px;} .wiz-t=
+odo-account, .wiz-todo-dt { color: #666; }</style>=0A<style type=3D=
+"text/css" id=3D"wiz_custom_css">=0Abody=0A{=0A    font-family: A=
+rial;=0A    font-size: 10.5pt;=0A    line-height: 1.5;=0A}=0Ahtml=
+, body=0A{=0A    color: ;=0A    background-color: ;=0A}=0Ah1 {=0A=
+    font-size:1.5em;=0A    font-weight:bold;=0A}=0Ah2 {=0A    fon=
+t-size:1.4em;=0A    font-weight:bold;=0A}=0Ah3 {=0A    font-size:=
+1.3em;=0A    font-weight:bold;=0A}=0Ah4 {=0A    font-size:1.2em;=0A=
+    font-weight:bold;=0A}=0Ah5 {=0A    font-size:1.1em;=0A    fon=
+t-weight:bold;=0A}=0Ah6 {=0A    font-size:1.0em;=0A    font-weigh=
+t:bold;=0A}=0Aimg {=0A    border:0;=0A    max-width: 100%;=0A   =20=
+height: auto !important;=0A}=0Ablockquote {=0A    margin-top:0px;=
+=0A    margin-bottom:0px;=0A}=0Atable {=0A    border-collapse:col=
+lapse;=0A    border:1px solid #bbbbbb;=0A}=0Atd {=0A    border-co=
+llapse:collapse;=0A    border:1px solid #bbbbbb;=0A}=0A</style>=0A=
+</head>=0A=0A<body style><h3>=C6=D5=CD=A8=C4=A3=CA=BD</h3><pre cl=
+ass=3D"brush:java;"><p>1=A1=A2fdisk -l =B2=E9=BF=B4=C4=E3=B5=C4=D3=
+=B2=C5=CC=B1=E0=BA=C5=A3=AC=C8=E7sda,sdb </p><p>2=A1=A2smartctl -=
+-all /dev/sda </p></pre><pre class=3D"brush:java;">[cloud@dn81 ~]=
+$ su - root=0APassword: =0A[root@dn81 ~]# smartctl --all /dev/sdb=
+=0Asmartctl 5.42 2011-10-20 r3458 [x86_64-linux-2.6.32-279.el6.x8=
+6_64] (local build)=0ACopyright (C) 2002-11 by Bruce Allen, http:=
+//smartmontools.sourceforge.net=0A=0AVendor:               TOSHIB=
+A    #=B6=AB=D6=A5=D3=B2=C5=CC=0AProduct:              MG03SCA100=
+      =0ARevision:             DG02=0AUser Capacity:        1,000=
+,204,886,016 bytes [1.00 TB]   #=C8=DD=C1=BF=0ALogical block size=
+:   512 bytes=0ALogical Unit id:      0x5000039568d130ec=0ASerial=
+ number:        34E0A06PFVN1=0ADevice type:          disk=0ATrans=
+port protocol:   SAS=0ALocal Time is:        Mon Jul 13 09:15:40=20=
+2015 CST=0ADevice supports SMART and is Enabled=0ATemperature War=
+ning Disabled or Not Supported=0ASMART Health Status: OK=0A=0ACur=
+rent Drive Temperature:     34 C=0ADrive Trip Temperature:      =20=
+ 50 C=0AManufactured in week 11 of year 2014=0ASpecified cycle co=
+unt over device lifetime:  50000=0AAccumulated start-stop cycles:=
+  35=0ASpecified load-unload count over device lifetime:  600000=0A=
+Accumulated load-unload cycles:  10217=0AElements in grown defect=
+ list: 0=0A=0AError counter log:=0A           Errors Corrected by=
+           Total   Correction     Gigabytes    Total=0A         =20=
+     ECC          rereads/    errors   algorithm      processed =20=
+  uncorrected=0A           fast | delayed   rewrites  corrected =20=
+invocations   [10^9 bytes]  errors=0Aread:          0      279  =20=
+    279       279        741     462625.271           0=0Awrite:=20=
+        0        0         0         0          0      29059.024=20=
+          0=0Averify:        0        0         0         0     =20=
+    0       1011.759           0=0A=0ANon-medium error count:   =20=
+   33=0A=0ASMART Self-test log=0ANum  Test              Status  =20=
+              segment  LifeTime  LBA_first_err [SK ASC ASQ]=0A  =20=
+  Description                              number   (hours)=0A# 1=
+  Background short  Completed                  64       4       =20=
+         - [-   -    -]=0A# 2  Background long   Completed      =20=
+           64       4                 - [-   -    -]=0A# 3  Backg=
+round short  Completed                  64       1              =20=
+  - [-   -    -]=0A=0ALong (extended) Self Test duration: 9247 se=
+conds [154.1 minutes]<br></pre><pre class=3D"brush:java;"><br></p=
+re><pre class=3D"brush:java;"><p><span style=3D"font-size: small;=
+">=C7=EB=D7=A2=D2=E2result=BA=F3=B1=DF=B5=C4=BD=E1=B9=FB=A3=BAPAS=
+SED=A3=AC=D5=E2=B1=ED=CA=BE=D3=B2=C5=CC=BD=A1=BF=B5=D7=B4=CC=AC=C1=
+=BC=BA=C3=A3=BB=C8=E7=B9=FB=D5=E2=0A=C0=EF=CF=D4=CA=BEFailure=A3=AC=
+=C4=C7=C3=B4=D7=EE=BA=C3=C1=A2=BF=CC=B8=F8=B7=FE=CE=F1=C6=F7=B8=FC=
+=BB=BB=D3=B2=C5=CC=A1=A3SMART=D6=BB=C4=DC=B1=A8=B8=E6=B4=C5=C5=CC=
+=D2=D1=BE=AD=B2=BB=D4=D9=BD=A1=BF=B5=A3=AC=B5=AB=CA=C7=B1=A8=BE=AF=
+=BA=F3=BB=B9=C4=DC=BC=CC=D0=F8=D4=CB=D0=D0=B6=E0=BE=C3=CA=C7=B2=BB=
+=C8=B7=B6=A8=B5=C4=A1=A3=CD=A8=B3=A3=A3=ACSMART=B1=A8=0A=BE=AF=B2=
+=CE=CA=FD=CA=C7=D3=D0=D4=A4=C1=F4=B5=C4=A3=AC=B4=C5=C5=CC=B1=A8=BE=
+=AF=BA=F3=A3=AC=B2=BB=BB=E1=B5=B1=B3=A1=BB=B5=B5=F4=A3=AC=D2=BB=B0=
+=E3=C4=DC=BC=E1=B3=D6=D2=BB=B6=CE=CA=B1=BC=E4=A3=AC=D3=D0=B5=C4=D3=
+=B2=C5=CCSMART=B1=A8=BE=AF=BA=F3=BB=B9=BC=CC=D0=F8=C5=DC=C1=CB=BA=
+=C3=BC=B8=C4=EA=A3=AC=D3=D0=B5=C4=D3=B2=C5=CCSMART=B1=A8=B4=ED=BA=
+=F3=BC=B8=CC=EC=BE=CD=BB=B5=C1=CB=A1=A3=B5=AB=0A=CA=C7=D2=BB=B5=A9=
+=B3=F6=CF=D6=B1=A8=BE=AF=A3=AC=BD=C4=D0=D2=D0=C4=C0=EF=CA=C7=CD=F2=
+=CD=F2=B2=BB=C4=DC=B5=C4=A1=AD=A1=AD<br><span style=3D"color: #00=
+8000;">#smartctl -A &nbsp; /dev/sda&nbsp; <span style=3D"color: #=
+000000;">=B2=E9=BF=B4=D3=B2=C5=CC=B5=C4=CF=EA=CF=B8=D0=C5=CF=A2</=
+span>=0A<br></span>=0A</span>=0A</p>=0A<p><span style=3D"color: #=
+008000; font-size: small;">#smartctl -s on&nbsp; /dev/sda&nbsp; <=
+span style=3D"color: #000000;">=C8=E7=B9=FB=C3=BB=D3=D0=B4=F2=BF=AA=
+SMART=BC=BC=CA=F5=A3=AC=CA=B9=D3=C3=B8=C3=C3=FC=C1=EE=B4=F2=BF=AA=
+SMART=BC=BC=CA=F5=A1=A3</span>=0A<br>=0A#smartctl -t short&nbsp;=20=
+/dev/sda&nbsp; <span style=3D"color: #000000;">=BA=F3=CC=A8=BC=EC=
+=B2=E2=D3=B2=C5=CC=A3=AC=CF=FB=BA=C4=CA=B1=BC=E4=B6=CC=A3=BB</spa=
+n>=0A<br>=0A#smartctl -t long&nbsp; /dev/sda &nbsp; <span style=3D=
+"color: #000000;">=BA=F3=CC=A8=BC=EC=B2=E2=D3=B2=C5=CC=A3=AC=CF=FB=
+=BA=C4=CA=B1=BC=E4=B3=A4=A3=BB</span>=0A<br>=0A#smartctl -C -t&nb=
+sp; /dev/sda &nbsp; <span style=3D"color: #000000;">short=C7=B0=CC=
+=A8=BC=EC=B2=E2=D3=B2=C5=CC=A3=AC=CF=FB=BA=C4=CA=B1=BC=E4=B6=CC=A3=
+=BB</span>=0A<br>=0A#smartctl -C -t&nbsp; /dev/sda &nbsp; <span s=
+tyle=3D"color: #000000;">long=C7=B0=CC=A8=BC=EC=B2=E2=D3=B2=C5=CC=
+=A3=AC=CF=FB=BA=C4=CA=B1=BC=E4=B3=A4=A1=A3=C6=E4=CA=B5=BE=CD=CA=C7=
+=C0=FB=D3=C3=D3=B2=C5=CCSMART=B5=C4=D7=D4=BC=EC=B3=CC=D0=F2=A1=A3=
+</span>=0A<br>=0A#smartctl -X &nbsp; /dev/sda &nbsp;&nbsp;&nbsp;&=
+nbsp; <span style=3D"color: #000000;">=D6=D0=B6=CF=BA=F3=CC=A8=BC=
+=EC=B2=E2=D3=B2=C5=CC=A1=A3</span>=0A<br>=0A#smartctl -l selftest=
+&nbsp; /dev/sda&nbsp; <span style=3D"color: #000000;">=CF=D4=CA=BE=
+=D3=B2=C5=CC=BC=EC=B2=E2=C8=D5=D6=BE=A1=A3</span>=0A<br>=0A#smart=
+ctl -l error &nbsp; /dev/sda &nbsp;&nbsp; <span style=3D"color: #=
+000000;">=CF=D4=CA=BE=D3=B2=C5=CC=B4=ED=CE=F3=BB=E3=D7=DC=A1=A3</=
+span>=0A</span>=0A<span style=3D"font-size: small;"><br>=0A=C8=E7=
+=B9=FB=D0=E8=D2=AA=B6=A8=C6=DA=B5=C7=C2=BC=B5=BD=B7=FE=CE=F1=C6=F7=
+=C9=CF=D4=CB=D0=D0smartctl=B1=C8=BD=CF=C2=E9=B7=B3=CA=B1=A3=AClin=
+ux=BB=B9=CC=E1=B9=A9=C1=CB=CF=B5=CD=B3=BD=F8=B3=CCsmartd=A3=AC=B1=
+=E0=BC=AD=C5=E4=D6=C3=CE=C4=BC=FE=A3=BA1&nbsp;&nbsp;&nbsp; vi&nbs=
+p; /etc/smartd.conf<br>=0A=D5=E2=B8=F6=C5=E4=D6=C3=CE=C4=BC=FE=D6=
+=D0=B4=F3=B2=BF=B7=D6=BF=C9=C4=DC=CA=C7=D7=A2=CA=CD=B5=F4=B5=C4=CB=
+=B5=C3=F7=A3=AC=D6=BB=D0=E8=D2=AA=D0=B4=C8=EB=BA=CD=B5=B1=C7=B0=D3=
+=B2=C5=CC=CF=E0=B9=D8=B5=C4=C5=E4=D6=C3=BC=B4=BF=C9=A3=BA</span>=0A=
+</p>=0A<table style=3D"height: 800px;" border=3D"0" width=3D"650"=
+>=0A<tbody><tr>=0A<td>=0A<span style=3D"font-size: small;"><span=20=
+style=3D"color: #008000;">/dev/sda -H&nbsp; -m&nbsp; test@test123=
+123.com</span>=0A</span>=0A</td>=0A<td>=0A<p><span style=3D"font-=
+size: small;">&nbsp;//</span>=0A<span style=3D"font-size: small;"=
+>=BC=E0=BF=D8=B4=C5=C5=CC=B5=C4=BD=A1=BF=B5=D7=B4=CC=AC,=B5=B1SMA=
+RT=D6=D0=B1=A8=B8=E6</span>=0A<span style=3D"font-size: small;">P=
+ASSED=B5=C4=CA=B1=BA=F2=B2=BB=C0=ED=B2=C7=A1=A3=D2=BB=B5=A9=B3=F6=
+=CF=D6</span>=0A<span style=3D"font-size: small;">Failure=A3=AC=C1=
+=A2=BF=CC=D3=C3=D3=CA=BC=FE=CD=A8=D6=AA=D3=C3=BB=A7=D6=B8=B6=A8=B5=
+=C4=D3=CA=CF=E4</span>=0A</p>=0A</td>=0A</tr>=0A<tr>=0A<td>=0A<sp=
+an style=3D"font-size: small;"><span style=3D"color: #008000;">/d=
+ev/sda -a -m&nbsp; admin@example.com,root@localhost </span>=0A</s=
+pan>=0A</td>=0A<td>=0A<span style=3D"font-size: small;">//</span>=
+=0A<span style=3D"font-size: small;">=BC=E0=BF=D8=B4=C5=C5=CC=B5=C4=
+=CB=F9=D3=D0=CA=F4=D0=D4,=B5=B1SMART=D6=D0=B1=A8=B8=E6</span>=0A<=
+span style=3D"font-size: small;">PASSED=B5=C4=CA=B1=BA=F2=B2=BB=C0=
+=ED=B2=C7=A1=A3=D2=BB=B5=A9=B3=F6=CF=D6</span>=0A<span style=3D"f=
+ont-size: small;">Failure=A3=AC=C1=A2=BF=CC=D3=C3=D3=CA=BC=FE=CD=A8=
+=D6=AA=D3=C3=BB=A7=D6=B8=B6=A8=B5=C4=D3=CA=CF=E4</span>=0A</td>=0A=
+</tr>=0A<tr>=0A<td>=0A<span style=3D"color: #008000; font-size: s=
+mall;">&nbsp;/dev/twa0 -d 3ware,0 -a -s L/../../7/00</span>=0A<br=
+>=0A</td>=0A<td>=0A<p><span style=3D"font-size: small;">//</span>=
+=0A<span style=3D"font-size: small;">=BC=E0=BF=D83ware 9000=BF=D8=
+=D6=C6=C6=F7=C9=CF=B5=C4=B5=DA=D2=BB=B8=F6ATA=B4=C5=C5=CC=B5=C4=CB=
+=F9=D3=D0=CA=F4=D0=D4,=D4=DA=C3=BF=B8=F6=C0=F1=B0=DD=CC=EC=B5=C40=
+0:00--01:00=BD=F8=D0=D0=B3=A4=B8=F1=CA=BD=B5=C4=D7=D4=CE=D2=BC=EC=
+=B2=E2</span>=0A</p>=0A</td>=0A</tr>=0A<tr>=0A<td>=0A<span style=3D=
+"color: #008000; font-size: small;">/dev/sg2 -d areca,1 -a&nbsp;=20=
+-s L/../(01|15)/./22</span>=0A</td>=0A<td>=0A<p><span style=3D"fo=
+nt-size: small;">//</span>=0A<span style=3D"font-size: small;">=BC=
+=E0=BF=D8Areca Raid=BF=D8=D6=C6=C6=F7=C9=CF=B5=C4=B5=DA=D2=BB=B8=F6=
+SATA=B4=C5=C5=CC=B5=C4=CB=F9=D3=D0=CA=F4=D0=D4,=D4=DA=C3=BF=B8=F6=
+=C0=F1=B0=DD=D4=C2=B5=C4=B5=DA1=CC=EC=BA=CD=B5=DA15=CC=EC=B5=C422=
+:00--23:00=BD=F8=D0=D0=B3=A4=B8=F1=CA=BD=B5=C4=D7=D4=CE=D2=BC=EC=B2=
+=E2</span>=0A</p>=0A</td>=0A</tr>=0A<tr>=0A<td>=0A<span style=3D"=
+color: #008000; font-size: small;">-s (O/../.././(00|06|12|18)|S/=
+../.././01|L/../../6/03)</span>=0A</td>=0A<td>=0A<span style=3D"f=
+ont-size: small;">//</span>=0A<span style=3D"font-size: small;">=D4=
+=DA=C3=BF=CC=EC=B5=C400:00,06:00,12:00,18:00=BD=F8=D0=D0=C0=EB=CF=
+=DF=B5=C4=D7=D4=BC=EC=A3=AC=B2=A2=D4=DA=C3=BF=CC=EC=B5=C401:00-02=
+:00=BD=F8=D0=D0=B6=CC=B8=F1=CA=BD=B5=C4=D7=D4=BC=EC=A3=AC=B2=A2=D4=
+=DA=C3=BF=B8=F6=C0=F1=B0=DD6=B5=C403:00-04:00=BD=F8=D0=D0=B3=A4=B8=
+=F1=CA=BD=B5=C4=D7=D4=BC=EC</span>=0A<br>=0A</td>=0A</tr>=0A</tbo=
+dy></table>=0A<p><span style=3D"font-size: small;">=C5=E4=D6=C3=BA=
+=C3</span>=0A<span style=3D"font-size: small;">smartd.conf=BA=F3=D0=
+=E8=D6=B4=D0=D0</span>=0A</p>=0A<p><span style=3D"font-size: smal=
+l;"><span style=3D"color: #008000;">/etc/init.d/smartd restart</s=
+pan>=0A=BC=B4=BF=C9=C9=FA=D0=A7</span></p>=0A<p><span style=3D"fo=
+nt-size: small;">=C6=E4=CB=FB=BA=CDsmartd.conf=CF=E0=B9=D8=B5=C4=C5=
+=E4=D6=C3=BF=C9=B2=CE=BC=FB:</span>=0A</p>=0A<p><span style=3D"fo=
+nt-size: small;">http://smartmontools.sourceforge.net/man/smartd.=
+conf.5.html</span>=0A<span style=3D"font-size: small;"><br><stron=
+g><span style=3D"color: #ff0000;">=CA=B9=D3=C3</span>=0A</strong>=
+=0A</span>=0A<strong><span style=3D"color: #ff0000; font-size: sm=
+all;">badblocks=BC=EC=B2=E2=D3=B2=C5=CC=BB=B5=BF=E9</span>=0A</st=
+rong>=0A<br><span style=3D"font-size: small;">badblocks=C3=FC=C1=EE=
+=BF=C9=D2=D4=BC=EC=B2=E9=B4=C5=C5=CC=D7=B0=D6=C3=D6=D0=CB=F0=BB=B5=
+=B5=C4=C7=F8=BF=E9=A1=A3=D6=B4=D0=D0=B8=C3=D6=B8=C1=EE=CA=B1=D0=EB=
+=D6=B8=B6=A8=CB=F9=D2=AA=BC=EC=B2=E9=B5=C4=B4=C5=C5=CC=D7=B0=D6=C3=
+=A3=AC=BC=B0=B4=CB=D7=B0=D6=C3=B5=C4=B4=C5=C5=CC=C7=F8=BF=E9=CA=FD=
+=A1=A3<br>=0A=D3=EF=B7=A8=D3=EB=B2=CE=CA=FD=A3=BA&nbsp;&nbsp;&nbs=
+p; =D3=EF=B7=A8=A3=BAbadblocks [-svw][-b ][-o ][=B4=C5=C5=CC=D7=B0=
+=D6=C3][=B4=C5=C5=CC=C7=F8=BF=E9=CA=FD][=C6=F4=CA=BC=C7=F8=BF=E9]=
+=B2=CE=CA=FD=A3=BA -b =0A=D6=B8=B6=A8=B4=C5=C5=CC=B5=C4=C7=F8=BF=E9=
+=B4=F3=D0=A1=A3=AC=B5=A5=CE=BB=CE=AA=D7=D6=BD=DA=A1=A3-o =BD=AB=BC=
+=EC=B2=E9=B5=C4=BD=E1=B9=FB=D0=B4=C8=EB=D6=B8=B6=A8=B5=C4=CA=E4=B3=
+=F6=CE=C4=BC=FE=A1=A3-s =D4=DA=BC=EC=B2=E9=CA=B1=CF=D4=CA=BE=BD=F8=
+=B6=C8=A1=A3-v =D6=B4=D0=D0=CA=B1=CF=D4=CA=BE=CF=EA=CF=B8=B5=C4=D0=
+=C5=CF=A2=A1=A3-w =0A=D4=DA=BC=EC=B2=E9=CA=B1=A3=AC=D6=B4=D0=D0=D0=
+=B4=C8=EB=B2=E2=CA=D4=A1=A3 [=B4=C5=C5=CC=D7=B0=D6=C3] =D6=B8=B6=A8=
+=D2=AA=BC=EC=B2=E9=B5=C4=B4=C5=C5=CC=D7=B0=D6=C3=A1=A3[=B4=C5=C5=CC=
+=C7=F8=BF=E9=CA=FD] =D6=B8=B6=A8=B4=C5=C5=CC=D7=B0=D6=C3=B5=C4=C7=
+=F8=BF=E9=D7=DC=CA=FD=A1=A3 [=C6=F4=CA=BC=C7=F8=BF=E9] =D6=B8=B6=A8=
+=D2=AA=B4=D3=C4=C4=B8=F6=C7=F8=BF=E9=BF=AA=CA=BC=BC=EC=B2=E9=A1=A3=
+<br>=0Abadblocks=BC=EC=B2=E2=B4=C5=C5=CC=BB=B5=BF=E9=A3=BA</span>=
+=0A</p>=0A<p><span style=3D"font-size: small;">badblocks -s//=CF=D4=
+=CA=BE=BD=F8=B6=C8&nbsp; -v//=CF=D4=CA=BE=D6=B4=D0=D0=CF=EA=CF=B8=
+=C7=E9=BF=F6 &nbsp; /dev/sda1<br><span style=3D"color: #008000;">=
+# badblocks -s -v /dev/sda<br>=0A=D5=FD=D4=DA=BC=EC=B2=E9=B4=D3 0=
+ =B5=BD 244198583=B5=C4=BF=E9<br>=0AChecking for bad blocks (read=
+-only test): ^C0.10% done, 0:04 elapsed<br>=0AInterrupted at bloc=
+k 272896</span>=0A<br>=0A$badblocks -s//=CF=D4=CA=BE=BD=F8=B6=C8=20=
+-w//=D2=D4=D0=B4=C8=A5=BC=EC=B2=E2 -v//=CF=D4=CA=BE=D6=B4=D0=D0=CF=
+=EA=CF=B8=C7=E9=BF=F6 /dev/sda2<br><span style=3D"color: #008000;=
+"># badblocks -w -s -v /dev/sda1=0AChecking for bad blocks in rea=
+d-write mode=0AFrom block 0 to 25607577=0ATesting with pattern 0x=
+aa: ^C0.73% done, 0:03 elapsed</span>=0A</span>=0A</p><p><span st=
+yle=3D"font-size: small;">=D7=A2=D2=E2=A3=AC=B2=BB=C4=DC=D2=D4=D0=
+=B4=B5=C4=B7=BD=CA=BD=BC=EC=B2=E2=D2=D1=BE=AD=B9=D2=D4=D8=B5=C4=D3=
+=B2=C5=CC</span></p><br><small><small>&nbsp;</small></small></pre=
+><pre class=3D"brush:java;"><br></pre><pre class=3D"brush:java;">=
+<br></pre><h3>=B4=C5=C5=CC=D5=F3=C1=D0 RAID=C4=A3=CA=BD</h3><div>=
+<p>=C8=E7=B9=FB=B8=C3=BB=FA=D3=D0=D7=F6=B4=C5=C5=CC=D5=F3=C1=D0=A3=
+=AC=C4=C7=C3=B4=D4=CB=D0=D0=C9=CF=CA=F6=C3=FC=C1=EE=BB=E1=B1=A8=B4=
+=ED=A3=AC=B5=C3=B2=BB=B5=BD=C4=E3=D2=AA=B5=C4=B4=C5=C5=CC=D0=C5=CF=
+=A2=A1=A3=BF=C9=D2=D4=BD=E8=D6=FAMegaCli=C3=FC=C1=EE</p>=0A<p>Meg=
+aCli=C3=FC=C1=EE=CF=B5=CD=B3=B2=BB=D7=D4=B4=F8=A3=AC=D0=E8=D2=AA=B6=
+=EE=CD=E2<a href=3D"http://www.2cto.com/soft" target=3D"_blank" c=
+lass=3D"keylink">=CF=C2=D4=D8</a>=A3=AC</p>=0A<p>=CF=C2=D4=D8=B5=D8=
+=D6=B7=A3=BA</p>=0A<p>http://www.lsi.com/downloads/Public/RAID%20=
+Controllers/RAID%20Controllers%20Common%20Files/8.07.14_MegaCLI.z=
+ip</p>=0A<p>=CF=C2=D4=D8=D6=AE=BA=F3=BD=E2=D1=B9=A3=AC</p>=0A<p>u=
+nzip CSA1.5-MegaCli_REL80571.zip</p>=0A<p>cd MegaCLI/MegaCli_<a h=
+ref=3D"http://www.2cto.com/os/linux/" target=3D"_blank" class=3D"=
+keylink">Linux</a></p>=0A<p>rpm -ivh MegaCli-8.05.71-1.noarch.rpm=
+</p>=0A=0A<p>=B0=B2=D7=B0=CD=EA=B3=C9</p>=0A<p>ln -s /opt/MegaRAI=
+D/MegaCli/MegaCli64 /usr/bin/<br>=0A</p>=0A<p>=C4=AC=C8=CF=B0=B2=D7=
+=B0=D4=DA/opt=CF=C2=C3=E6=A3=AC=BD=A8=C1=A2=C8=ED=C1=B4=B5=BD/usr=
+/bin</p>=0A<pre class=3D"brush:java;">[root@localhost bin]# /opt/=
+MegaRAID/MegaCli/MegaCli64 -PDlist -aALL=0A=0AAdapter #0=0A=0AEnc=
+losure Device ID: 32=0ASlot Number: 0=0ADrive's position: DiskGro=
+up: 0, Span: 0, Arm: 0=0AEnclosure position: 1=0ADevice Id: 0=0AW=
+WN: 50000C0F02E57BE9=0ASequence Number: 2=0AMedia Error Count: 0=0A=
+Other Error Count: 0=0APredictive Failure Count: 0=0ALast Predict=
+ive Failure Event Seq Number: 0=0APD Type: SAS=0A=0ARaw Size: 279=
+.396 GB [0x22ecb25c Sectors]=0ANon Coerced Size: 278.896 GB [0x22=
+dcb25c Sectors]=0ACoerced Size: 278.875 GB [0x22dc0000 Sectors]=0A=
+Sector Size:  0=0AFirmware state: Online, Spun Up=0ADevice Firmwa=
+re Level: D1S6=0AShield Counter: 0=0ASuccessful diagnostics compl=
+etion on :  N/A=0ASAS Address(0): 0x50000c0f02e57bea=0ASAS Addres=
+s(1): 0x0=0AConnected Port Number: 0(path0)=0AInquiry Data: WD  =20=
+   WD3001BKHG      D1S6WX11E83NU249=0AFDE Capable: Not Capable=0A=
+FDE Enable: Disable=0ASecured: Unsecured=0ALocked: Unlocked=0ANee=
+ds EKM Attention: No=0AForeign State: None=0ADevice Speed: 6.0Gb/=
+s=0ALink Speed: 6.0Gb/s=0AMedia Type: Hard Disk Device=0ADrive Te=
+mperature :31C (87.80 F)=0API Eligibility:  No=0ADrive is formatt=
+ed for PI information:  No=0API: No PI=0APort-0 :=0APort status:=20=
+Active=0APort's Linkspeed: 6.0Gb/s=0APort-1 :=0APort status: Acti=
+ve=0APort's Linkspeed: Unknown=0ADrive has flagged a S.M.A.R.T al=
+ert : No=0A=0A=0A=0AEnclosure Device ID: 32=0ASlot Number: 1=0ADr=
+ive's position: DiskGroup: 0, Span: 0, Arm: 1=0AEnclosure positio=
+n: 1=0ADevice Id: 1=0AWWN: 50000C0F028F32ED=0ASequence Number: 2=0A=
+Media Error Count: 0=0AOther Error Count: 0=0APredictive Failure=20=
+Count: 0=0ALast Predictive Failure Event Seq Number: 0=0APD Type:=
+ SAS=0A=0ARaw Size: 279.396 GB [0x22ecb25c Sectors]=0ANon Coerced=
+ Size: 278.896 GB [0x22dcb25c Sectors]=0ACoerced Size: 278.875 GB=
+ [0x22dc0000 Sectors]=0ASector Size:  0=0AFirmware state: Online,=
+ Spun Up=0ADevice Firmware Level: D1S6=0AShield Counter: 0=0ASucc=
+essful diagnostics completion on :  N/A=0ASAS Address(0): 0x50000=
+c0f028f32ee=0ASAS Address(1): 0x0=0AConnected Port Number: 1(path=
+0)=0AInquiry Data: WD      WD3001BKHG      D1S6WX11E83VD242=0AFDE=
+ Capable: Not Capable=0AFDE Enable: Disable=0ASecured: Unsecured=0A=
+Locked: Unlocked=0ANeeds EKM Attention: No=0AForeign State: None=0A=
+Device Speed: 6.0Gb/s=0ALink Speed: 6.0Gb/s=0AMedia Type: Hard Di=
+sk Device=0ADrive Temperature :31C (87.80 F)=0API Eligibility:  N=
+o=0ADrive is formatted for PI information:  No=0API: No PI=0APort=
+-0 :=0APort status: Active=0APort's Linkspeed: 6.0Gb/s=0APort-1 :=
+=0APort status: Active=0APort's Linkspeed: Unknown=0ADrive has fl=
+agged a S.M.A.R.T alert : No=0A=0A=0A=0AEnclosure Device ID: 32=0A=
+Slot Number: 2=0ADrive's position: DiskGroup: 0, Span: 0, Arm: 2=0A=
+Enclosure position: 1=0ADevice Id: 2=0AWWN: 50000C0F02E5B8ED=0ASe=
+quence Number: 2=0AMedia Error Count: 0=0AOther Error Count: 0=0A=
+Predictive Failure Count: 0=0ALast Predictive Failure Event Seq N=
+umber: 0=0APD Type: SAS=0A=0ARaw Size: 279.396 GB [0x22ecb25c Sec=
+tors]=0ANon Coerced Size: 278.896 GB [0x22dcb25c Sectors]=0ACoerc=
+ed Size: 278.875 GB [0x22dc0000 Sectors]=0ASector Size:  0=0AFirm=
+ware state: Online, Spun Up=0ADevice Firmware Level: D1S6=0AShiel=
+d Counter: 0=0ASuccessful diagnostics completion on :  N/A=0ASAS=20=
+Address(0): 0x50000c0f02e5b8ee=0ASAS Address(1): 0x0=0AConnected=20=
+Port Number: 2(path0)=0AInquiry Data: WD      WD3001BKHG      D1S=
+6WX11E83NU081=0AFDE Capable: Not Capable=0AFDE Enable: Disable=0A=
+Secured: Unsecured=0ALocked: Unlocked=0ANeeds EKM Attention: No=0A=
+Foreign State: None=0ADevice Speed: 6.0Gb/s=0ALink Speed: 6.0Gb/s=
+=0AMedia Type: Hard Disk Device=0ADrive Temperature :28C (82.40 F=
+)=0API Eligibility:  No=0ADrive is formatted for PI information:=20=
+ No=0API: No PI=0APort-0 :=0APort status: Active=0APort's Linkspe=
+ed: 6.0Gb/s=0APort-1 :=0APort status: Active=0APort's Linkspeed:=20=
+Unknown=0ADrive has flagged a S.M.A.R.T alert : No=0A=0A=0A=0A=0A=
+Exit Code: 0x00=0A</pre>=0A<p><br>=0A </p>=0A<p>=B4=D3=C9=CF=C3=E6=
+=BF=C9=D2=D4=BF=B4=B3=F6=A3=AC=B8=C3=BB=FA=D3=D0=C8=FD=BF=E9=D3=B2=
+=C5=CC=A3=AC=D0=CD=BA=C5=CE=AA=A3=AC</p>=0A<p>WD      WD3001BKHG=20=
+     D1S6WX11E83NU249=A3=AC=C8=DD=C1=BF=CE=AA300GB=A1=A3</p>=0A<p=
+> </p>=0A<p>=0AMegaCli=B3=A3=D3=C3=B2=CE=CA=FD=BD=E9=C9=DC <br>=0A=
+MegaCli -adpCount =A1=BE=CF=D4=CA=BE=CA=CA=C5=E4=C6=F7=B8=F6=CA=FD=
+=A1=BF<br>=0AMegaCli -AdpGetTime =A8CaALL =A1=BE=CF=D4=CA=BE=CA=CA=
+=C5=E4=C6=F7=CA=B1=BC=E4=A1=BF<br>=0AMegaCli -AdpAllInfo -aAll =A1=
+=BE=CF=D4=CA=BE=CB=F9=D3=D0=CA=CA=C5=E4=C6=F7=D0=C5=CF=A2=A1=BF<b=
+r>=0AMegaCli -LDInfo -LALL -aAll =A1=BE=CF=D4=CA=BE=CB=F9=D3=D0=C2=
+=DF=BC=AD=B4=C5=C5=CC=D7=E9=D0=C5=CF=A2=A1=BF<br>=0AMegaCli -PDLi=
+st -aAll =A1=BE=CF=D4=CA=BE=CB=F9=D3=D0=B5=C4=CE=EF=C0=ED=D0=C5=CF=
+=A2=A1=BF<br>=0AMegaCli -AdpBbuCmd -GetBbuStatus -aALL |grep =A1=AE=
+Charger Status=A1=AF =A1=BE=B2=E9=BF=B4=B3=E4=B5=E7=D7=B4=CC=AC=A1=
+=BF<br>=0AMegaCli -AdpBbuCmd -GetBbuStatus -aALL=A1=BE=CF=D4=CA=BE=
+BBU=D7=B4=CC=AC=D0=C5=CF=A2=A1=BF<br>=0AMegaCli -AdpBbuCmd -GetBb=
+uCapacityInfo -aALL=A1=BE=CF=D4=CA=BEBBU=C8=DD=C1=BF=D0=C5=CF=A2=A1=
+=BF<br>=0AMegaCli -AdpBbuCmd -GetBbuDesignInfo -aALL =A1=BE=CF=D4=
+=CA=BEBBU=C9=E8=BC=C6=B2=CE=CA=FD=A1=BF<br>=0AMegaCli -AdpBbuCmd=20=
+-GetBbuProperties -aALL =A1=BE=CF=D4=CA=BE=B5=B1=C7=B0BBU=CA=F4=D0=
+=D4=A1=BF<br>=0AMegaCli -cfgdsply -aALL =A1=BE=CF=D4=CA=BERaid=BF=
+=A8=D0=CD=BA=C5=A3=ACRaid=C9=E8=D6=C3=A3=ACDisk=CF=E0=B9=D8=D0=C5=
+=CF=A2=A1=BF</p>=0A<p>=0A=B4=C5=B4=F8=D7=B4=CC=AC=B5=C4=B1=E4=BB=AF=
+=A3=AC=B4=D3=B0=CE=C5=CC=A3=AC=B5=BD=B2=E5=C5=CC=B5=C4=B9=FD=B3=CC=
+=D6=D0=A1=A3 <br>=0ADevice |Normal|Damage|Rebuild|Normal<br>=0AVi=
+rtual Drive |Optimal|Degraded|Degraded|Optimal<br>=0APhysical Dri=
+ve |Online|Failed =A8C&gt; Unconfigured|Rebuild|Online</p><br><di=
+v style=3D"color:gray"><small>=C0=B4=D4=B4=A3=BA&nbsp;&lt;<a href=
+=3D"http://www.2cto.com/os/201501/370316.html">http://www.2cto.co=
+m/os/201501/370316.html</a><small>&gt;</small></small></div><smal=
+l><small>&nbsp;</small></small></div>=0A=0A=0A=0A</body></html>=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000206937.637--
+
+------=_Next_Part_0000620811.943--
+

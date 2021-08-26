@@ -1,0 +1,198 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?Y2F0IC1wcm9jLW1lbWluZm/P6r3i?=
+Date: Date: Fri, 23 Jul 2021 05:51:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000621000.463"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000621000.463
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000207000.049"
+
+
+------=_Next_Part_0000207000.049
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000207000.049
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>cat -proc-meminfo=CF=EA=BD=E2</title=
+>=0A=0A=0A=0A=0A<style type=3D"text/css" id=3D"wiz_todo_style_id"=
+ wiz_link_version=3D"01.00.09">.wiz-todo, .wiz-todo-img {width: 1=
+6px; height: 16px; cursor: default; padding: 0 10px 0 2px; vertic=
+al-align: -10%;-webkit-user-select: none;} .wiz-todo-label { disp=
+lay: inline-block; padding-top: 7px; padding-bottom: 6px; line-he=
+ight: 1.5;} .wiz-todo-label-checked {  color: #666;} .wiz-todo-la=
+bel-unchecked {text-decoration: initial;} .wiz-todo-completed-inf=
+o {padding-left: 44px; display: inline-block; } .wiz-todo-avatar=20=
+{ width:20px; height: 20px; vertical-align: -20%; margin-right:10=
+px; border-radius: 2px;} .wiz-todo-account, .wiz-todo-dt { color:=
+ #666; }</style>=0A<style type=3D"text/css" id=3D"wiz_custom_css"=
+>=0Abody=0A{=0A    font-family: Arial;=0A    font-size: 10.5pt;=0A=
+    line-height: 1.5;=0A}=0Ahtml, body=0A{=0A    color: ;=0A    b=
+ackground-color: ;=0A}=0Ah1 {=0A    font-size:1.5em;=0A    font-w=
+eight:bold;=0A}=0Ah2 {=0A    font-size:1.4em;=0A    font-weight:b=
+old;=0A}=0Ah3 {=0A    font-size:1.3em;=0A    font-weight:bold;=0A=
+}=0Ah4 {=0A    font-size:1.2em;=0A    font-weight:bold;=0A}=0Ah5=20=
+{=0A    font-size:1.1em;=0A    font-weight:bold;=0A}=0Ah6 {=0A  =20=
+ font-size:1.0em;=0A    font-weight:bold;=0A}=0Aimg {=0A    borde=
+r:0;=0A    max-width: 100%;=0A    height: auto !important;=0A}=0A=
+blockquote {=0A    margin-top:0px;=0A    margin-bottom:0px;=0A}=0A=
+table {=0A    border-collapse:collapse;=0A    border:1px solid #b=
+bbbbb;=0A}=0Atd {=0A    border-collapse:collapse;=0A    border:1p=
+x solid #bbbbbb;=0A}=0A</style>=0A</head>=0A=0A<body style><div>[=
+root@nn71 agent]$cat /proc/meminfo</div><div>MemTotal: &nbsp; &nb=
+sp; &nbsp; 132110448 kB</div><div>MemFree: &nbsp; &nbsp; &nbsp; &=
+nbsp;127798996 kB</div><div>Buffers: &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp;381900 kB</div><div>Cached: &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp;1866244 kB</div><div>SwapCached: &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp;0 kB</div><div>Active: &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp;1112012 kB</div><div>Inactive: &nbsp; &nbsp; &nbsp; &nbsp;159=
+6048 kB</div><div>Active(anon): &nbsp; &nbsp; 460112 kB</div><div=
+>Inactive(anon): &nbsp; &nbsp; &nbsp; 16 kB</div><div>Active(file=
+): &nbsp; &nbsp; 651900 kB</div><div>Inactive(file): &nbsp;159603=
+2 kB</div><div>Unevictable: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 0=20=
+kB</div><div>Mlocked: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; 0 kB</div><div>SwapTotal: &nbsp; &nbsp; &nbsp;69730288 kB</=
+div><div>SwapFree: &nbsp; &nbsp; &nbsp; 69730288 kB</div><div>Dir=
+ty: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;20 kB<=
+/div><div>Writeback: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 0=20=
+kB</div><div>AnonPages: &nbsp; &nbsp; &nbsp; &nbsp;459932 kB</div=
+><div>Mapped: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;30524 kB</=
+div><div>Shmem: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+212 kB</div><div>Slab: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+242260 kB</div><div>SReclaimable: &nbsp; &nbsp; 189732 kB</div><d=
+iv>SUnreclaim: &nbsp; &nbsp; &nbsp; &nbsp;52528 kB</div><div>Kern=
+elStack: &nbsp; &nbsp; &nbsp; &nbsp;7656 kB</div><div>PageTables:=
+ &nbsp; &nbsp; &nbsp; &nbsp; 9308 kB</div><div>NFS_Unstable: &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp;0 kB</div><div>Bounce: &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;0 kB</div><div>Writeba=
+ckTmp: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;0 kB</div><div>CommitLim=
+it: &nbsp; &nbsp;135785512 kB</div><div>Committed_AS: &nbsp; 2366=
+9340 kB</div><div>VmallocTotal: &nbsp; 34359738367 kB</div><div>V=
+mallocUsed: &nbsp; &nbsp; &nbsp;498828 kB</div><div>VmallocChunk:=
+ &nbsp; 34291716584 kB</div><div>HardwareCorrupted: &nbsp; &nbsp;=
+ 0 kB</div><div>AnonHugePages: &nbsp; &nbsp;393216 kB</div><div>H=
+ugePages_Total: &nbsp; &nbsp; &nbsp; 0</div><div>HugePages_Free:=20=
+&nbsp; &nbsp; &nbsp; &nbsp;0</div><div>HugePages_Rsvd: &nbsp; &nb=
+sp; &nbsp; &nbsp;0</div><div>HugePages_Surp: &nbsp; &nbsp; &nbsp;=
+ &nbsp;0</div><div>Hugepagesize: &nbsp; &nbsp; &nbsp; 2048 kB</di=
+v><div>DirectMap4k: &nbsp; &nbsp; &nbsp; &nbsp;5056 kB</div><div>=
+DirectMap2M: &nbsp; &nbsp; 2045952 kB</div><div>DirectMap1G: &nbs=
+p; &nbsp;132120576 kB</div><div><span style=3D"text-indent: 2em;=20=
+font-size: 10.5pt; line-height: 1.5;">=CF=E0=D3=A6=D1=A1=CF=EE=D6=
+=D0=CE=C4=D2=E2=CB=BC=CF=EB=B8=F7=CE=BB=B8=DF=CA=D6=D2=D1=BE=AD=D6=
+=AA=B5=C0=A3=AC=C8=E7=BA=CE=B7=AD=D2=EB=D3=D0=CA=B2=C3=B4=B4=ED=CE=
+=F3=A3=AC=C7=EB=CE=F1=B1=D8=D6=B8=B3=F6=A3=BA</span><span style=3D=
+"text-indent: 2em; font-size: 10.5pt; line-height: 1.5;">&nbsp;</=
+span><wbr style=3D"text-indent:2em; font-size:10.5pt;"><span styl=
+e=3D"text-indent: 2em; font-size: 10.5pt; line-height: 1.5;">&nbs=
+p;</span><wbr style=3D"text-indent:2em; font-size:10.5pt;"><span=20=
+style=3D"text-indent: 2em; font-size: 10.5pt; line-height: 1.5;">=
+&nbsp;</span><wbr style=3D"text-indent:2em; font-size:10.5pt;"><s=
+pan style=3D"text-indent: 2em; font-size: 10.5pt; line-height: 1.=
+5;"> MemTotal:=0A=CB=F9=D3=D0=BF=C9=D3=C3RAM=B4=F3=D0=A1 =A3=A8=BC=
+=B4=CE=EF=C0=ED=C4=DA=B4=E6=BC=F5=C8=A5=D2=BB=D0=A9=D4=A4=C1=F4=CE=
+=BB=BA=CD=C4=DA=BA=CB=B5=C4=B6=FE=BD=F8=D6=C6=B4=FA=C2=EB=B4=F3=D0=
+=A1=A3=A9</span></div><div><span style=3D"text-indent: 2em; font-=
+size: 10.5pt; line-height: 1.5;">MemFree: LowFree=D3=EBHighFree=B5=
+=C4=D7=DC=BA=CD=A3=AC=B1=BB=CF=B5=CD=B3=C1=F4=D7=C5=CE=B4=CA=B9=D3=
+=C3=B5=C4=C4=DA=B4=E6</span></div><div><span style=3D"text-indent=
+: 2em; font-size: 10.5pt; line-height: 1.5;">Buffers: =D3=C3=C0=B4=
+=B8=F8=CE=C4=BC=FE=D7=F6=BB=BA=B3=E5=B4=F3=D0=A1</span></div><div=
+><span style=3D"text-indent: 2em; font-size: 10.5pt; line-height:=
+ 1.5;">Cached: =B1=BB=B8=DF=CB=D9=BB=BA=B3=E5=B4=E6=B4=A2=C6=F7=A3=
+=A8cache memory=A3=A9=D3=C3=B5=C4=C4=DA=B4=E6=B5=C4=B4=F3=D0=A1=A3=
+=A8=B5=C8=D3=DA=0Adiskcache&nbsp;</span><wbr style=3D"text-indent=
+:2em; font-size:10.5pt;"><span style=3D"text-indent: 2em; font-si=
+ze: 10.5pt; line-height: 1.5;">minus&nbsp;</span><wbr style=3D"te=
+xt-indent:2em; font-size:10.5pt;"><span style=3D"text-indent: 2em=
+; font-size: 10.5pt; line-height: 1.5;">SwapCache =A3=A9.</span><=
+/div><div><span style=3D"text-indent: 2em; font-size: 10.5pt; lin=
+e-height: 1.5;">SwapCached:=B1=BB=B8=DF=CB=D9=BB=BA=B3=E5=B4=E6=B4=
+=A2=C6=F7=A3=A8cache memory=A3=A9=D3=C3=B5=C4=BD=BB=BB=BB=BF=D5=BC=
+=E4=B5=C4=B4=F3=D0=A1</span></div><div><span style=3D"text-indent=
+: 2em; font-size: 10.5pt; line-height: 1.5;">=D2=D1=BE=AD=B1=BB=BD=
+=BB=BB=BB=B3=F6=C0=B4=B5=C4=C4=DA=B4=E6=A3=AC=B5=AB=C8=D4=C8=BB=B1=
+=BB=B4=E6=B7=C5=D4=DAswapfile=D6=D0=A1=A3=D3=C3=C0=B4=D4=DA=D0=E8=
+=D2=AA=B5=C4=CA=B1=BA=F2=BA=DC=BF=EC=B5=C4=B1=BB=CC=E6=BB=BB=B6=F8=
+=B2=BB=D0=E8=D2=AA=D4=D9=B4=CE=B4=F2=BF=AAI/O=B6=CB=BF=DA=A1=A3</=
+span></div><div><span style=3D"text-indent: 2em; font-size: 10.5p=
+t; line-height: 1.5;">Active: =D4=DA=BB=EE=D4=BE=CA=B9=D3=C3=D6=D0=
+=B5=C4=BB=BA=B3=E5=BB=F2=B8=DF=CB=D9=BB=BA=B3=E5=B4=E6=B4=A2=C6=F7=
+=D2=B3=C3=E6=CE=C4=BC=FE=B5=C4=B4=F3=D0=A1=A3=AC=B3=FD=B7=C7=B7=C7=
+=B3=A3=B1=D8=D2=AA=B7=F1=D4=F2=B2=BB=BB=E1=B1=BB=D2=C6=D7=F7=CB=FB=
+=D3=C3.</span></div><div><span style=3D"text-indent: 2em; font-si=
+ze: 10.5pt; line-height: 1.5;">Inactive:=0A=D4=DA=B2=BB=BE=AD=B3=A3=
+=CA=B9=D3=C3=D6=D0=B5=C4=BB=BA=B3=E5=BB=F2=B8=DF=CB=D9=BB=BA=B3=E5=
+=B4=E6=B4=A2=C6=F7=D2=B3=C3=E6=CE=C4=BC=FE=B5=C4=B4=F3=D0=A1=A3=AC=
+=BF=C9=C4=DC=B1=BB=D3=C3=D3=DA=C6=E4=CB=FB=CD=BE=BE=B6.</span></d=
+iv><div><span style=3D"text-indent: 2em; font-size: 10.5pt; line-=
+height: 1.5;">HighTotal:</span></div><div><span style=3D"text-ind=
+ent: 2em; font-size: 10.5pt; line-height: 1.5;">HighFree:=0A=B8=C3=
+=C7=F8=D3=F2=B2=BB=CA=C7=D6=B1=BD=D3=D3=B3=C9=E4=B5=BD=C4=DA=BA=CB=
+=BF=D5=BC=E4=A1=A3=C4=DA=BA=CB=B1=D8=D0=EB=CA=B9=D3=C3=B2=BB=CD=AC=
+=B5=C4=CA=D6=B7=A8=CA=B9=D3=C3=B8=C3=B6=CE=C4=DA=B4=E6=A1=A3</spa=
+n></div><div><span style=3D"text-indent: 2em; font-size: 10.5pt;=20=
+line-height: 1.5;">LowTotal:</span></div><div><span style=3D"text=
+-indent: 2em; font-size: 10.5pt; line-height: 1.5;">LowFree: =B5=CD=
+=CE=BB=BF=C9=D2=D4=B4=EF=B5=BD=B8=DF=CE=BB=C4=DA=B4=E6=D2=BB=D1=F9=
+=B5=C4=D7=F7=D3=C3=A3=AC=B6=F8=C7=D2=CB=FC=BB=B9=C4=DC=B9=BB=B1=BB=
+=C4=DA=BA=CB=D3=C3=C0=B4=BC=C7=C2=BC=D2=BB=D0=A9=D7=D4=BC=BA=B5=C4=
+=CA=FD=BE=DD=BD=E1=B9=B9=A1=A3Among many&nbsp;</span><span style=3D=
+"font-size: 10.5pt; line-height: 1.5; text-indent: 2em;">other th=
+ings, it is where everything from the Slab is&nbsp;</span><span s=
+tyle=3D"text-indent: 2em; font-size: 10.5pt; line-height: 1.5;">a=
+llocated.&nbsp;</span><wbr style=3D"text-indent:2em; font-size:10=
+.5pt;"><span style=3D"text-indent: 2em; font-size: 10.5pt; line-h=
+eight: 1.5;"> Bad things happen when you're out of=0Alowmem.</spa=
+n></div><div><span style=3D"text-indent: 2em; font-size: 10.5pt;=20=
+line-height: 1.5;">SwapTotal: =BD=BB=BB=BB=BF=D5=BC=E4=B5=C4=D7=DC=
+=B4=F3=D0=A1</span></div><div><span style=3D"text-indent: 2em; fo=
+nt-size: 10.5pt; line-height: 1.5;">SwapFree:=0A=CE=B4=B1=BB=CA=B9=
+=D3=C3=BD=BB=BB=BB=BF=D5=BC=E4=B5=C4=B4=F3=D0=A1</span></div><div=
+><span style=3D"text-indent: 2em; font-size: 10.5pt; line-height:=
+ 1.5;">Dirty:=0A=B5=C8=B4=FD=B1=BB=D0=B4=BB=D8=B5=BD=B4=C5=C5=CC=B5=
+=C4=C4=DA=B4=E6=B4=F3=D0=A1=A1=A3</span></div><div><span style=3D=
+"text-indent: 2em; font-size: 10.5pt; line-height: 1.5;">Writebac=
+k: =D5=FD=D4=DA=B1=BB=D0=B4=BB=D8=B5=BD=B4=C5=C5=CC=B5=C4=C4=DA=B4=
+=E6=B4=F3=D0=A1=A1=A3</span></div><div><span style=3D"text-indent=
+: 2em; font-size: 10.5pt; line-height: 1.5;">AnonPages=A3=BA=CE=B4=
+=D3=B3=C9=E4=D2=B3=B5=C4=C4=DA=B4=E6=B4=F3=D0=A1</span></div><div=
+><span style=3D"text-indent: 2em; font-size: 10.5pt; line-height:=
+ 1.5;">Mapped: =C9=E8=B1=B8=BA=CD=CE=C4=BC=FE=B5=C8=D3=B3=C9=E4=B5=
+=C4=B4=F3=D0=A1=A1=A3</span></div><div><span style=3D"text-indent=
+: 2em; font-size: 10.5pt; line-height: 1.5;">Slab: =C4=DA=BA=CB=CA=
+=FD=BE=DD=BD=E1=B9=B9=BB=BA=B4=E6=B5=C4=B4=F3=D0=A1=A3=AC=BF=C9=D2=
+=D4=BC=F5=C9=D9=C9=EA=C7=EB=BA=CD=CA=CD=B7=C5=C4=DA=B4=E6=B4=F8=C0=
+=B4=B5=C4=CF=FB=BA=C4=A1=A3</span></div><div><span style=3D"text-=
+indent: 2em; font-size: 10.5pt; line-height: 1.5;">SReclaimable:=BF=
+=C9=CA=D5=BB=D8Slab=B5=C4=B4=F3=D0=A1</span></div><div><span styl=
+e=3D"text-indent: 2em; font-size: 10.5pt; line-height: 1.5;">SUnr=
+eclaim=A3=BA=B2=BB=BF=C9=CA=D5=BB=D8Slab=B5=C4=B4=F3=D0=A1=A3=A8S=
+Unreclaim+SReclaimable=A3=BDSlab=A3=A9</span></div><div><span sty=
+le=3D"text-indent: 2em; font-size: 10.5pt; line-height: 1.5;">Pag=
+eTables=A3=BA=B9=DC=C0=ED=C4=DA=B4=E6=B7=D6=D2=B3=D2=B3=C3=E6=B5=C4=
+=CB=F7=D2=FD=B1=ED=B5=C4=B4=F3=D0=A1=A1=A3</span></div><div><span=
+ style=3D"text-indent: 2em; font-size: 10.5pt; line-height: 1.5;"=
+>NFS_Unstable:=B2=BB=CE=C8=B6=A8=D2=B3=B1=ED=B5=C4=B4=F3=D0=A1</s=
+pan></div><div><small><small>&nbsp;</small></small></div>=0A=0A=0A=
+=0A</body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000207000.049--
+
+------=_Next_Part_0000621000.463--
+

@@ -1,0 +1,1195 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?UmVkaXMgv827p7bLway90w==?=
+Date: Date: Fri, 23 Jul 2021 05:50:22 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000507609.458"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000507609.458
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000169203.618"
+
+
+------=_Next_Part_0000169203.618
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000169203.618
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A<title>Redis =BF=CD=BB=A7=B6=CB=C1=AC=BD=D3</title>=0A=
+    =0A<style id=3D"wiz_custom_css">html, .wiz-editor-body {font-=
+size: 12pt;}.wiz-editor-body {font-family: Helvetica, 'Hiragino S=
+ans GB', '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91', 'Microsoft YaHei=
+ UI', SimSun, SimHei, arial, sans-serif;line-height: 1.7;margin:=20=
+0 auto;padding: 20px 16px;padding: 1.25rem 1rem;}.wiz-editor-body=
+ h1,.wiz-editor-body h2,.wiz-editor-body h3,.wiz-editor-body h4,.=
+wiz-editor-body h5,.wiz-editor-body h6 {margin:20px 0 10px;margin=
+:1.25rem 0 0.625rem;padding: 0;font-weight: bold;}.wiz-editor-bod=
+y h1 {font-size:20pt;font-size:1.67rem;}.wiz-editor-body h2 {font=
+-size:18pt;font-size:1.5rem;}.wiz-editor-body h3 {font-size:15pt;=
+font-size:1.25rem;}.wiz-editor-body h4 {font-size:14pt;font-size:=
+1.17rem;}.wiz-editor-body h5 {font-size:12pt;font-size:1rem;}.wiz=
+-editor-body h6 {font-size:12pt;font-size:1rem;color: #777777;mar=
+gin: 1rem 0;}.wiz-editor-body div,.wiz-editor-body p,.wiz-editor-=
+body ul,.wiz-editor-body ol,.wiz-editor-body dl,.wiz-editor-body=20=
+li {margin:8px 0;}.wiz-editor-body blockquote,.wiz-editor-body ta=
+ble,.wiz-editor-body pre,.wiz-editor-body code {margin:8px 0;}.wi=
+z-editor-body .CodeMirror pre {margin:0;}.wiz-editor-body ul,.wiz=
+-editor-body ol {padding-left:32px;padding-left:2rem;}.wiz-editor=
+-body ol.wiz-list-level1 > li {list-style-type:decimal;}.wiz-edit=
+or-body ol.wiz-list-level2 > li {list-style-type:lower-latin;}.wi=
+z-editor-body ol.wiz-list-level3 > li {list-style-type:lower-roma=
+n;}.wiz-editor-body blockquote {padding: 0 12px;}.wiz-editor-body=
+ blockquote > :first-child {margin-top:0;}.wiz-editor-body blockq=
+uote > :last-child {margin-bottom:0;}.wiz-editor-body img {border=
+:0;max-width:100%;height:auto !important;margin:2px 0;}.wiz-edito=
+r-body table {border-collapse:collapse;border:1px solid #bbbbbb;}=
+.wiz-editor-body td,.wiz-editor-body th {padding:4px 8px;border-c=
+ollapse:collapse;border:1px solid #bbbbbb;min-height:28px;word-br=
+eak:break-word;box-sizing: border-box;}.wiz-hide {display:none !i=
+mportant;}</style></head>=0A=0A<body class=3D"wiz-editor-body" sp=
+ellcheck=3D"false"><div><div class=3D"help-body-box-detail-title"=
+><h1 style=3D"font-size: 2rem;">Redis =BF=CD=BB=A7=B6=CB=C1=AC=BD=
+=D3</h1></div><p class=3D"helper-update" style=3D"font-size:0.875=
+rem;color:rgb(153, 153, 153);">=B8=FC=D0=C2=CA=B1=BC=E4=A3=BA2018=
+-07-23 10:44:50</p><div class=3D"helper-ribbon ribbon" data-spm=3D=
+"7"><a class=3D"helper-edit" href=3D"https://github.com/AlibabaCl=
+oudDocs/kvstore/blob/master/cn.zh-CN/%E5%BF%AB%E9%80%9F%E5%85%A5%=
+E9%97%A8/%E8%BF%9E%E6%8E%A5%E5%AE%9E%E4%BE%8B/Redis%20%E5%AE%A2%E=
+6%88%B7%E7%AB%AF%E8%BF%9E%E6%8E%A5.md" data-spm-protocol=3D"i" ta=
+rget=3D"_blank" style=3D"text-decoration:none;color:rgb(55, 61, 6=
+5);">=B1=E0=BC=AD =A1=A4</a><span class=3D"Apple-converted-space"=
+>&nbsp;</span><span class=3D"Apple-converted-space">&nbsp;</span>=
+<span class=3D"Apple-converted-space">&nbsp;</span></div><p class=
+=3D"p" style=3D"color:rgb(51, 51, 51);font-size:0.875rem">=D3=C9=D3=
+=DA=D4=C6=CA=FD=BE=DD=BF=E2 Redis =CC=E1=B9=A9=B5=C4=CA=FD=BE=DD=BF=
+=E2=B7=FE=CE=F1=D3=EB=D4=AD=C9=FA=B5=C4=CA=FD=BE=DD=BF=E2=B7=FE=CE=
+=F1=CD=EA=C8=AB=BC=E6=C8=DD=A3=AC=C1=AC=BD=D3=CA=FD=BE=DD=BF=E2=B5=
+=C4=B7=BD=CA=BD=D2=B2=BB=F9=B1=BE=C0=E0=CB=C6=A1=A3=C8=CE=BA=CE=BC=
+=E6=C8=DD Redis =D0=AD=D2=E9=B5=C4=BF=CD=BB=A7=B6=CB=B6=BC=BF=C9=D2=
+=D4=B7=C3=CE=CA=D4=C6=CA=FD=BE=DD=BF=E2 Redis =B0=E6=B7=FE=CE=F1=A3=
+=AC=C4=FA=BF=C9=D2=D4=B8=F9=BE=DD=D7=D4=C9=ED=D3=A6=D3=C3=CC=D8=B5=
+=E3=D1=A1=D3=C3=C8=CE=BA=CE Redis =BF=CD=BB=A7=B6=CB=A1=A3</p><di=
+v class=3D"wiz-table-container" style=3D"color:rgb(51, 51, 51);fo=
+nt-size:0.875rem;position:relative;padding:0px"><div class=3D"not=
+e notice note_notice wiz-table-body"><table class=3D"note__title=20=
+noticetitle catchTable" style=3D"width:768px;"><tbody><tr><td row=
+span=3D"2" style=3D"font-size:0.875rem;width:32px;"><img src=3D"0=
+.021091659523858164.png"></td><td style=3D"font-size:0.875rem;"><=
+span>=D7=A2=D2=E2</span></td></tr><tr><td style=3D"font-size:0.81=
+3rem;width:auto;"><ul class=3D"ul" id=3D"concept-dys-yvb-5db-ul-d=
+2t-wnt-j2b"><li class=3D"li">=D4=C6=CA=FD=BE=DD=BF=E2 Redis =B0=E6=
+=BD=F6=D6=A7=B3=D6=B0=A2=C0=EF=D4=C6=C4=DA=CD=F8=B7=C3=CE=CA=A3=AC=
+=B2=BB=D6=A7=B3=D6=CD=E2=CD=F8=B7=C3=CE=CA=A3=AC=BC=B4=D6=BB=D3=D0=
+=D4=DA=CD=AC=D2=BBVPC=C4=DA=B5=C4 ECS=C9=CF=B0=B2=D7=B0 Redis =BF=
+=CD=BB=A7=B6=CB=B2=C5=C4=DC=D3=EB=D4=C6=CA=FD=BE=DD=BF=E2=BD=A8=C1=
+=A2=C1=AC=BD=D3=B2=A2=BD=F8=D0=D0=CA=FD=BE=DD=B2=D9=D7=F7=A1=A3</=
+li><li class=3D"li">=C8=E7=B9=FB=CD=AC=D2=BBVPC=C4=DA=B5=C4=CA=B5=
+=C0=FD=BF=AA=C6=F4=C1=CB=C3=E2=C3=DC=B7=C3=CE=CA=B9=A6=C4=DC=A3=AC=
+=D4=F2=CE=DE=D0=E8=CC=E1=B9=A9=C3=DC=C2=EB=D0=C5=CF=A2=A3=AC=BC=B4=
+=BF=C9=C1=AC=BD=D3=CA=FD=BE=DD=BF=E2=A1=A3</li></ul></td></tr></t=
+body></table></div></div><p class=3D"p" style=3D"color:rgb(51, 51=
+, 51);font-size:0.875rem">Redis =B5=C4=BF=CD=BB=A7=B6=CB=C7=EB=B2=
+=CE=BF=BC<span class=3D"Apple-converted-space">&nbsp;</span><a cl=
+ass=3D"xref" href=3D"http://redis.io/clients" target=3D"_blank" s=
+tyle=3D"text-decoration:none;color:rgb(0, 183, 211);background:0p=
+x 0px;">http://redis.io/clients</a>=A1=A3</p><div class=3D"body c=
+onbody" style=3D"color:rgb(51, 51, 51);font-size:0.875rem"><ul cl=
+ass=3D"ul" id=3D"concept-dys-yvb-5db-ul-ypv-lkc-5db"><li class=3D=
+"li"><a class=3D"xref" href=3D"https://help.aliyun.com/document_d=
+etail/43848.html?spm=3Da2c4g.11186623.6.570.0jOLMt#concept-dys-yv=
+b-5db-section-bqv-lkc-5db" style=3D"text-decoration:none;color:rg=
+b(0, 183, 211);background:0px 0px;">Jedis =BF=CD=BB=A7=B6=CB</a><=
+/li><li class=3D"li"><a class=3D"xref" href=3D"https://help.aliyu=
+n.com/document_detail/43848.html?spm=3Da2c4g.11186623.6.570.0jOLM=
+t#concept-dys-yvb-5db-section-fsv-lkc-5db" style=3D"text-decorati=
+on:none;color:rgb(0, 183, 211);background:0px 0px;">phpredis =BF=CD=
+=BB=A7=B6=CB</a></li><li class=3D"li"><a class=3D"xref" href=3D"h=
+ttps://help.aliyun.com/document_detail/43848.html?spm=3Da2c4g.111=
+86623.6.570.0jOLMt#concept-dys-yvb-5db-section-rsv-lkc-5db" style=
+=3D"text-decoration:none;color:rgb(0, 183, 211);background:0px 0p=
+x;">redis-py =BF=CD=BB=A7=B6=CB</a></li><li class=3D"li"><a class=
+=3D"xref" href=3D"https://help.aliyun.com/document_detail/43848.h=
+tml?spm=3Da2c4g.11186623.6.570.0jOLMt#concept-dys-yvb-5db-section=
+-zsv-lkc-5db" style=3D"text-decoration:none;color:rgb(0, 183, 211=
+);background:0px 0px;">C/C++ =BF=CD=BB=A7=B6=CB</a></li><li class=
+=3D"li"><a class=3D"xref" href=3D"https://help.aliyun.com/documen=
+t_detail/43848.html?spm=3Da2c4g.11186623.6.570.0jOLMt#concept-dys=
+-yvb-5db-section-cvv-lkc-5db" style=3D"text-decoration:none;color=
+:rgb(0, 183, 211);background:0px 0px;">.net =BF=CD=BB=A7=B6=CB</a=
+></li><li class=3D"li"><a class=3D"xref" href=3D"https://help.ali=
+yun.com/document_detail/43848.html?spm=3Da2c4g.11186623.6.570.0jO=
+LMt#concept-dys-yvb-5db-section-lwv-lkc-5db" style=3D"text-decora=
+tion:none;color:rgb(0, 183, 211);background:0px 0px;">node-redis=20=
+=BF=CD=BB=A7=B6=CB</a></li><li class=3D"li"><a class=3D"xref" hre=
+f=3D"https://help.aliyun.com/document_detail/43848.html?spm=3Da2c=
+4g.11186623.6.570.0jOLMt#concept-dys-yvb-5db-section-uwv-lkc-5db"=
+ style=3D"text-decoration:none;color:rgb(0, 183, 211);background:=
+0px 0px;">C# =BF=CD=BB=A7=B6=CB StackExchange.Redis</a></li></ul>=
+<section class=3D"section" id=3D"concept-dys-yvb-5db-section-bqv-=
+lkc-5db"><h2 class=3D"title sectiontitle" id=3D"h2-url-1" style=3D=
+"font-size:1.25rem;color:rgb(102, 102, 102);">Jedis =BF=CD=BB=A7=B6=
+=CB</h2><p class=3D"p" style=3D"font-size:0.875rem;">Jedis =BF=CD=
+=BB=A7=B6=CB=B7=C3=CE=CA=D4=C6=CA=FD=BE=DD=BF=E2 Redis =B0=E6=B7=FE=
+=CE=F1=A3=AC=D3=D0=D2=D4=CF=C2=C1=BD=D6=D6=B7=BD=B7=A8=A3=BA</p><=
+ul class=3D"ul" id=3D"concept-dys-yvb-5db-ul-cqv-lkc-5db"><li cla=
+ss=3D"li">Jedis=B5=A5=C1=B4=BD=D3</li><li class=3D"li">JedisPool=C1=
+=AC=BD=D3=B3=D8=C1=AC=BD=D3</li></ul><p class=3D"p" style=3D"font=
+-size:0.875rem;">=B2=D9=D7=F7=B2=BD=D6=E8=C8=E7=CF=C2=A3=BA</p><o=
+l class=3D"ol wiz-list-level1" id=3D"concept-dys-yvb-5db-ol-dqv-l=
+kc-5db"><li class=3D"li"><p class=3D"p" style=3D"font-size:0.875r=
+em;">=CF=C2=D4=D8=B2=A2=B0=B2=D7=B0Jedis=BF=CD=BB=A7=B6=CB=A3=BA=B5=
+=A5=BB=F7<a class=3D"xref" href=3D"https://github.com/xetorthio/j=
+edis/wiki/Getting-started" target=3D"_blank" style=3D"text-decora=
+tion:none;color:rgb(0, 183, 211);background:0px 0px;">=CF=C2=D4=D8=
+=B5=D8=D6=B7</a>=A1=A3</p></li><li class=3D"li"><p class=3D"p" st=
+yle=3D"font-size:0.875rem;">Jedis =B5=A5=C1=AC=BD=D3=CA=BE=C0=FD<=
+/p><ol class=3D"ol wiz-list-level2" id=3D"concept-dys-yvb-5db-ol-=
+eqv-lkc-5db"><li class=3D"li"><p class=3D"p" style=3D"font-size:0=
+.875rem;">=B4=F2=BF=AA Eclipse =BF=CD=BB=A7=B6=CB=A3=AC=B4=B4=BD=A8=
+=D2=BB=B8=F6 Project=A3=AC=CA=E4=C8=EB=C8=E7=CF=C2=B4=FA=C2=EB=B6=
+=CE=A3=BA</p><pre class=3D"pre codeblock" style=3D"font-size:0.87=
+5rem;background:rgb(247, 247, 247);"><code class=3D"hljs processi=
+ng" style=3D"font-family:monospace;font-size:0.875rem;background:=
+0px 0px transparent;color:rgb(0, 0, 0);"><span class=3D"hljs-keyw=
+ord">import</span> redis.clients.jedis.Jedis;=0A<span class=3D"hl=
+js-keyword">public</span> class jedistest {=0A<span class=3D"hljs=
+-keyword">public</span> <span class=3D"hljs-keyword">static</span=
+> <span class=3D"hljs-keyword">void</span> main(<span class=3D"hl=
+js-keyword">String</span>[] args) {=0A<span class=3D"hljs-keyword=
+">try</span> {=0A     <span class=3D"hljs-keyword">String</span>=20=
+host =3D <span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0=
+);">"xx.kvstore.aliyuncs.com"</span>;<span class=3D"hljs-comment"=
+ style=3D"color:rgb(136, 136, 136);">//=BF=D8=D6=C6=CC=A8=CF=D4=CA=
+=BE=B7=C3=CE=CA=B5=D8=D6=B7</span>=0A     <span class=3D"hljs-bui=
+lt_in">int</span> port =3D <span class=3D"hljs-number" style=3D"c=
+olor:rgb(0, 136, 0);">6379</span>;=0A     Jedis jedis =3D <span c=
+lass=3D"hljs-keyword">new</span> Jedis(host, port);=0A     <span=20=
+class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">//=BC=F8=
+=C8=A8=D0=C5=CF=A2</span>=0A     jedis.auth(<span class=3D"hljs-s=
+tring" style=3D"color:rgb(136, 0, 0);">"password"</span>);<span c=
+lass=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">//passw=
+ord</span>=0A     <span class=3D"hljs-keyword">String</span> <spa=
+n class=3D"hljs-built_in">key</span> =3D <span class=3D"hljs-stri=
+ng" style=3D"color:rgb(136, 0, 0);">"redis"</span>;=0A     <span=20=
+class=3D"hljs-keyword">String</span> value =3D <span class=3D"hlj=
+s-string" style=3D"color:rgb(136, 0, 0);">"aliyun-redis"</span>;=0A=
+     <span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 13=
+6);">//select db=C4=AC=C8=CF=CE=AA0</span>=0A     jedis.select(<s=
+pan class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">1</span=
+>);=0A     <span class=3D"hljs-comment" style=3D"color:rgb(136, 1=
+36, 136);">//set=D2=BB=B8=F6key</span>=0A     jedis.<span class=3D=
+"hljs-built_in">set</span>(<span class=3D"hljs-built_in">key</spa=
+n>, value);=0A     System.out.<span class=3D"hljs-built_in">print=
+ln</span>(<span class=3D"hljs-string" style=3D"color:rgb(136, 0,=20=
+0);">"Set Key "</span> + <span class=3D"hljs-built_in">key</span>=
+ + <span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"=20=
+Value: "</span> + value);=0A     <span class=3D"hljs-comment" sty=
+le=3D"color:rgb(136, 136, 136);">//get =C9=E8=D6=C3=BD=F8=C8=A5=B5=
+=C4key</span>=0A     <span class=3D"hljs-keyword">String</span> g=
+etvalue =3D jedis.<span class=3D"hljs-built_in">get</span>(<span=20=
+class=3D"hljs-built_in">key</span>);=0A     System.out.<span clas=
+s=3D"hljs-built_in">println</span>(<span class=3D"hljs-string" st=
+yle=3D"color:rgb(136, 0, 0);">"Get Key "</span> + <span class=3D"=
+hljs-built_in">key</span> + <span class=3D"hljs-string" style=3D"=
+color:rgb(136, 0, 0);">" ReturnValue: "</span> + getvalue);=0A  =20=
+  jedis.quit();=0A     jedis.close();=0A} =0A<span class=3D"hljs-=
+keyword">catch</span> (Exception e) {=0A e.printStackTrace();=0A=20=
+}=0A}=0A}</code></pre></li><li class=3D"li"><p class=3D"p" style=3D=
+"font-size:0.875rem;">=D4=CB=D0=D0=C9=CF=CA=F6 Project=A3=AC=D4=DA=
+ Eclipse =B5=C4=BF=D8=D6=C6=CC=A8=CA=E4=B3=F6=C8=E7=CF=C2=D4=CB=D0=
+=D0=BD=E1=B9=FB=D4=F2=B1=ED=CA=BE=C4=FA=D2=D1=B3=C9=B9=A6=C1=AC=BD=
+=D3=D4=C6=CA=FD=BE=DD=BF=E2 Redis=A1=A3</p><pre class=3D"pre code=
+block" style=3D"font-size:0.875rem;background:rgb(247, 247, 247);=
+"><code class=3D"hljs sql" style=3D"font-family:monospace;font-si=
+ze:0.875rem;background:0px 0px transparent;color:rgb(0, 0, 0);"><=
+span class=3D"hljs-keyword">Set</span> <span class=3D"hljs-keywor=
+d">Key</span> redis <span class=3D"hljs-keyword">Value</span> ali=
+yun-redis=0A<span class=3D"hljs-keyword">Get</span> <span class=3D=
+"hljs-keyword">Key</span> redis ReturnValue aliyun-redis</code></=
+pre><p class=3D"p" style=3D"font-size:0.875rem;">=BD=D3=CF=C2=C0=B4=
+=C4=FA=BE=CD=BF=C9=D2=D4=CD=A8=B9=FD=D7=D4=BC=BA=B5=C4=B1=BE=B5=D8=
+=BF=CD=BB=A7=B6=CB Jedis =B2=D9=D7=F7=C4=FA=B5=C4=D4=C6=CA=FD=BE=DD=
+=BF=E2 Redis=A1=A3=C4=FA=D2=B2=BF=C9=D2=D4=CD=A8=B9=FD JedisPool=20=
+=C1=AC=BD=D3=B3=D8=C0=B4=C1=AC=BD=D3=C4=FA=B5=C4=D4=C6=CA=FD=BE=DD=
+=BF=E2 Redis=A1=A3</p></li></ol></li><li class=3D"li"><p class=3D=
+"p" style=3D"font-size:0.875rem;"><strong class=3D"ph b">JedisPoo=
+l =C1=AC=BD=D3=B3=D8=CA=BE=C0=FD</strong></p><ol class=3D"ol wiz-=
+list-level2" id=3D"concept-dys-yvb-5db-ol-tqv-lkc-5db"><li class=3D=
+"li"><p class=3D"p" style=3D"font-size:0.875rem;">=B4=F2=BF=AA Ec=
+lipse =BF=CD=BB=A7=B6=CB=A3=AC=B4=B4=BD=A8=D2=BB=B8=F6 Project=A3=
+=AC=C5=E4=D6=C3 pom =CE=C4=BC=FE=A3=AC=BE=DF=CC=E5=C5=E4=D6=C3=C8=
+=E7=CF=C2=CB=F9=CA=BE=A3=BA</p><pre class=3D"pre codeblock" style=
+=3D"font-size:0.875rem;background:rgb(247, 247, 247);"><code clas=
+s=3D"hljs xml" style=3D"font-family:monospace;font-size:0.875rem;=
+background:0px 0px transparent;color:rgb(0, 0, 0);"><span class=3D=
+"hljs-tag">&lt;<span class=3D"hljs-name" style=3D"color:rgb(136,=20=
+0, 0);">dependency</span>&gt;</span>=0A<span class=3D"hljs-tag">&=
+lt;<span class=3D"hljs-name" style=3D"color:rgb(136, 0, 0);">grou=
+pId</span>&gt;</span>redis.clients<span class=3D"hljs-tag">&lt;/<=
+span class=3D"hljs-name" style=3D"color:rgb(136, 0, 0);">groupId<=
+/span>&gt;</span>=0A<span class=3D"hljs-tag">&lt;<span class=3D"h=
+ljs-name" style=3D"color:rgb(136, 0, 0);">artifactId</span>&gt;</=
+span>jedis<span class=3D"hljs-tag">&lt;/<span class=3D"hljs-name"=
+ style=3D"color:rgb(136, 0, 0);">artifactId</span>&gt;</span>=0A<=
+span class=3D"hljs-tag">&lt;<span class=3D"hljs-name" style=3D"co=
+lor:rgb(136, 0, 0);">version</span>&gt;</span>2.7.2<span class=3D=
+"hljs-tag">&lt;/<span class=3D"hljs-name" style=3D"color:rgb(136,=
+ 0, 0);">version</span>&gt;</span>=0A<span class=3D"hljs-tag">&lt=
+;<span class=3D"hljs-name" style=3D"color:rgb(136, 0, 0);">type</=
+span>&gt;</span>jar<span class=3D"hljs-tag">&lt;/<span class=3D"h=
+ljs-name" style=3D"color:rgb(136, 0, 0);">type</span>&gt;</span>=0A=
+<span class=3D"hljs-tag">&lt;<span class=3D"hljs-name" style=3D"c=
+olor:rgb(136, 0, 0);">scope</span>&gt;</span>compile<span class=3D=
+"hljs-tag">&lt;/<span class=3D"hljs-name" style=3D"color:rgb(136,=
+ 0, 0);">scope</span>&gt;</span>=0A<span class=3D"hljs-tag">&lt;/=
+<span class=3D"hljs-name" style=3D"color:rgb(136, 0, 0);">depende=
+ncy</span>&gt;</span></code></pre></li><li class=3D"li"><p class=3D=
+"p" style=3D"font-size:0.875rem;">=D4=DA project =D6=D0=CC=ED=BC=D3=
+=C8=E7=CF=C2=D3=A6=D3=C3=A3=BA</p><pre class=3D"pre codeblock" st=
+yle=3D"font-size:0.875rem;background:rgb(247, 247, 247);"><code c=
+lass=3D"hljs css" style=3D"font-family:monospace;font-size:0.875r=
+em;background:0px 0px transparent;color:rgb(0, 0, 0);"><span clas=
+s=3D"hljs-selector-tag">import</span> <span class=3D"hljs-selecto=
+r-tag">org</span><span class=3D"hljs-selector-class">.apache</spa=
+n><span class=3D"hljs-selector-class">.commons</span><span class=3D=
+"hljs-selector-class">.pool2</span><span class=3D"hljs-selector-c=
+lass">.PooledObject</span>;=0A<span class=3D"hljs-selector-tag">i=
+mport</span> <span class=3D"hljs-selector-tag">org</span><span cl=
+ass=3D"hljs-selector-class">.apache</span><span class=3D"hljs-sel=
+ector-class">.commons</span><span class=3D"hljs-selector-class">.=
+pool2</span><span class=3D"hljs-selector-class">.PooledObjectFact=
+ory</span>;=0A<span class=3D"hljs-selector-tag">import</span> <sp=
+an class=3D"hljs-selector-tag">org</span><span class=3D"hljs-sele=
+ctor-class">.apache</span><span class=3D"hljs-selector-class">.co=
+mmons</span><span class=3D"hljs-selector-class">.pool2</span><spa=
+n class=3D"hljs-selector-class">.impl</span><span class=3D"hljs-s=
+elector-class">.DefaultPooledObject</span>;=0A<span class=3D"hljs=
+-selector-tag">import</span> <span class=3D"hljs-selector-tag">or=
+g</span><span class=3D"hljs-selector-class">.apache</span><span c=
+lass=3D"hljs-selector-class">.commons</span><span class=3D"hljs-s=
+elector-class">.pool2</span><span class=3D"hljs-selector-class">.=
+impl</span><span class=3D"hljs-selector-class">.GenericObjectPool=
+Config</span>;=0A<span class=3D"hljs-selector-tag">import</span>=20=
+<span class=3D"hljs-selector-tag">redis</span><span class=3D"hljs=
+-selector-class">.clients</span><span class=3D"hljs-selector-clas=
+s">.jedis</span><span class=3D"hljs-selector-class">.HostAndPort<=
+/span>;=0A<span class=3D"hljs-selector-tag">import</span> <span c=
+lass=3D"hljs-selector-tag">redis</span><span class=3D"hljs-select=
+or-class">.clients</span><span class=3D"hljs-selector-class">.jed=
+is</span><span class=3D"hljs-selector-class">.Jedis</span>;=0A<sp=
+an class=3D"hljs-selector-tag">import</span> <span class=3D"hljs-=
+selector-tag">redis</span><span class=3D"hljs-selector-class">.cl=
+ients</span><span class=3D"hljs-selector-class">.jedis</span><spa=
+n class=3D"hljs-selector-class">.JedisPool</span>;=0A<span class=3D=
+"hljs-selector-tag">import</span> <span class=3D"hljs-selector-ta=
+g">redis</span><span class=3D"hljs-selector-class">.clients</span=
+><span class=3D"hljs-selector-class">.jedis</span><span class=3D"=
+hljs-selector-class">.JedisPoolConfig</span>;</code></pre></li><l=
+i class=3D"li"><p class=3D"p" style=3D"font-size:0.875rem;">=C8=E7=
+=B9=FB=C4=FA=B5=C4 Jedis =BF=CD=BB=A7=B6=CB=B0=E6=B1=BE=CA=C7 Jed=
+is-2.7.2=A3=AC=D4=DA Project =D6=D0=CA=E4=C8=EB=C8=E7=CF=C2=B4=FA=
+=C2=EB=A3=BA</p><pre class=3D"pre codeblock" style=3D"font-size:0=
+.875rem;background:rgb(247, 247, 247);"><code class=3D"hljs ardui=
+no" style=3D"font-family:monospace;font-size:0.875rem;background:=
+0px 0px transparent;color:rgb(0, 0, 0);">JedisPoolConfig <span cl=
+ass=3D"hljs-built_in">config</span> =3D <span class=3D"hljs-keywo=
+rd">new</span> JedisPoolConfig();=0A<span class=3D"hljs-comment"=20=
+style=3D"color:rgb(136, 136, 136);">//=D7=EE=B4=F3=BF=D5=CF=D0=C1=
+=AC=BD=D3=CA=FD, =D3=A6=D3=C3=D7=D4=BC=BA=C6=C0=B9=C0=A3=AC=B2=BB=
+=D2=AA=B3=AC=B9=FDApsaraDB for Redis=C3=BF=B8=F6=CA=B5=C0=FD=D7=EE=
+=B4=F3=B5=C4=C1=AC=BD=D3=CA=FD</span>=0A<span class=3D"hljs-built=
+_in">config</span>.setMaxIdle(<span class=3D"hljs-number" style=3D=
+"color:rgb(0, 136, 0);">200</span>);=0A<span class=3D"hljs-commen=
+t" style=3D"color:rgb(136, 136, 136);">//=D7=EE=B4=F3=C1=AC=BD=D3=
+=CA=FD, =D3=A6=D3=C3=D7=D4=BC=BA=C6=C0=B9=C0=A3=AC=B2=BB=D2=AA=B3=
+=AC=B9=FDApsaraDB for Redis=C3=BF=B8=F6=CA=B5=C0=FD=D7=EE=B4=F3=B5=
+=C4=C1=AC=BD=D3=CA=FD</span>=0A<span class=3D"hljs-built_in">conf=
+ig</span>.setMaxTotal(<span class=3D"hljs-number" style=3D"color:=
+rgb(0, 136, 0);">300</span>);=0A<span class=3D"hljs-built_in">con=
+fig</span>.setTestOnBorrow(false);=0A<span class=3D"hljs-built_in=
+">config</span>.setTestOnReturn(false);=0A<span class=3D"hljs-key=
+word">String</span> host =3D <span class=3D"hljs-string" style=3D=
+"color:rgb(136, 0, 0);">"*.aliyuncs.com"</span>;=0A<span class=3D=
+"hljs-keyword">String</span> password =3D <span class=3D"hljs-str=
+ing" style=3D"color:rgb(136, 0, 0);">"=C3=DC=C2=EB"</span>;=0AJed=
+isPool pool =3D <span class=3D"hljs-keyword">new</span> JedisPool=
+(<span class=3D"hljs-built_in">config</span>, host, <span class=3D=
+"hljs-number" style=3D"color:rgb(0, 136, 0);">6379</span>, <span=20=
+class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">3000</span>=
+, password);=0AJedis jedis =3D null;=0A<span class=3D"hljs-built_=
+in">try</span> {=0Ajedis =3D pool.getResource();=0A<span class=3D=
+"hljs-comment" style=3D"color:rgb(136, 136, 136);">/// ... do stu=
+ff here ... for example</span>=0Ajedis.set(<span class=3D"hljs-st=
+ring" style=3D"color:rgb(136, 0, 0);">"foo"</span>, <span class=3D=
+"hljs-string" style=3D"color:rgb(136, 0, 0);">"bar"</span>);=0A<s=
+pan class=3D"hljs-keyword">String</span> foobar =3D jedis.<span c=
+lass=3D"hljs-built_in">get</span>(<span class=3D"hljs-string" sty=
+le=3D"color:rgb(136, 0, 0);">"foo"</span>);=0Ajedis.zadd(<span cl=
+ass=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"sose"</span>=
+, <span class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">0</=
+span>, <span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);=
+">"car"</span>);=0Ajedis.zadd(<span class=3D"hljs-string" style=3D=
+"color:rgb(136, 0, 0);">"sose"</span>, <span class=3D"hljs-number=
+" style=3D"color:rgb(0, 136, 0);">0</span>, <span class=3D"hljs-s=
+tring" style=3D"color:rgb(136, 0, 0);">"bike"</span>);=0ASet&lt;<=
+span class=3D"hljs-keyword">String</span>&gt; sose =3D jedis.zran=
+ge(<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"s=
+ose"</span>, <span class=3D"hljs-number" style=3D"color:rgb(0, 13=
+6, 0);">0</span>, <span class=3D"hljs-number" style=3D"color:rgb(=
+0, 136, 0);">-1</span>);=0A} finally {=0A<span class=3D"hljs-buil=
+t_in">if</span> (jedis !=3D null) {=0Ajedis.<span class=3D"hljs-b=
+uilt_in">close</span>();=0A}=0A}=0A<span class=3D"hljs-comment" s=
+tyle=3D"color:rgb(136, 136, 136);">/// ... when closing your appl=
+ication:</span>=0Apool.destroy();</code></pre></li><li class=3D"l=
+i"><p class=3D"p" style=3D"font-size:0.875rem;">=C8=E7=B9=FB=C4=FA=
+=B5=C4 Jedis =BF=CD=BB=A7=B6=CB=B0=E6=B1=BE=CA=C7 Jedis-2.6=A1=A2=
+Jedis-2.5=A3=AC=D4=DA Project =D6=D0=CA=E4=C8=EB=C8=E7=CF=C2=B4=FA=
+=C2=EB=A3=BA</p><pre class=3D"pre codeblock" style=3D"font-size:0=
+.875rem;background:rgb(247, 247, 247);"><code class=3D"hljs dart"=
+ style=3D"font-family:monospace;font-size:0.875rem;background:0px=
+ 0px transparent;color:rgb(0, 0, 0);">JedisPoolConfig config =3D=20=
+<span class=3D"hljs-keyword">new</span> JedisPoolConfig();=0A<spa=
+n class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">//=D7=
+=EE=B4=F3=BF=D5=CF=D0=C1=AC=BD=D3=CA=FD, =D3=A6=D3=C3=D7=D4=BC=BA=
+=C6=C0=B9=C0=A3=AC=B2=BB=D2=AA=B3=AC=B9=FDApsaraDB for Redis=C3=BF=
+=B8=F6=CA=B5=C0=FD=D7=EE=B4=F3=B5=C4=C1=AC=BD=D3=CA=FD</span>=0Ac=
+onfig.setMaxIdle(<span class=3D"hljs-number" style=3D"color:rgb(0=
+, 136, 0);">200</span>);=0A<span class=3D"hljs-comment" style=3D"=
+color:rgb(136, 136, 136);">//=D7=EE=B4=F3=C1=AC=BD=D3=CA=FD, =D3=A6=
+=D3=C3=D7=D4=BC=BA=C6=C0=B9=C0=A3=AC=B2=BB=D2=AA=B3=AC=B9=FDApsar=
+aDB for Redis=C3=BF=B8=F6=CA=B5=C0=FD=D7=EE=B4=F3=B5=C4=C1=AC=BD=D3=
+=CA=FD</span>=0Aconfig.setMaxTotal(<span class=3D"hljs-number" st=
+yle=3D"color:rgb(0, 136, 0);">300</span>);=0Aconfig.setTestOnBorr=
+ow(<span class=3D"hljs-keyword">false</span>);=0Aconfig.setTestOn=
+Return(<span class=3D"hljs-keyword">false</span>);=0A<span class=3D=
+"hljs-built_in">String</span> host =3D <span class=3D"hljs-string=
+" style=3D"color:rgb(136, 0, 0);">"*.aliyuncs.com"</span>;=0A<spa=
+n class=3D"hljs-built_in">String</span> password =3D <span class=3D=
+"hljs-string" style=3D"color:rgb(136, 0, 0);">"=C3=DC=C2=EB"</spa=
+n>;=0AJedisPool pool =3D <span class=3D"hljs-keyword">new</span>=20=
+JedisPool(config, host, <span class=3D"hljs-number" style=3D"colo=
+r:rgb(0, 136, 0);">6379</span>, <span class=3D"hljs-number" style=
+=3D"color:rgb(0, 136, 0);">3000</span>, password);=0AJedis jedis=20=
+=3D <span class=3D"hljs-keyword">null</span>;=0Aboolean broken =3D=
+ <span class=3D"hljs-keyword">false</span>;=0A<span class=3D"hljs=
+-keyword">try</span> {=0A     jedis =3D pool.getResource();=0A  =20=
+  <span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);=
+"><span class=3D"markdown">/// ... do stuff here ... for example<=
+/span></span>=0A     jedis.<span class=3D"hljs-keyword">set</span=
+>(<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"fo=
+o"</span>, <span class=3D"hljs-string" style=3D"color:rgb(136, 0,=
+ 0);">"bar"</span>);=0A     <span class=3D"hljs-built_in">String<=
+/span> foobar =3D jedis.<span class=3D"hljs-keyword">get</span>(<=
+span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"foo"<=
+/span>);=0A     jedis.zadd(<span class=3D"hljs-string" style=3D"c=
+olor:rgb(136, 0, 0);">"sose"</span>, <span class=3D"hljs-number"=20=
+style=3D"color:rgb(0, 136, 0);">0</span>, <span class=3D"hljs-str=
+ing" style=3D"color:rgb(136, 0, 0);">"car"</span>);=0A     jedis.=
+zadd(<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">=
+"sose"</span>, <span class=3D"hljs-number" style=3D"color:rgb(0,=20=
+136, 0);">0</span>, <span class=3D"hljs-string" style=3D"color:rg=
+b(136, 0, 0);">"bike"</span>);=0A     <span class=3D"hljs-built_i=
+n">Set</span>&lt;<span class=3D"hljs-built_in">String</span>&gt;=20=
+sose =3D jedis.zrange(<span class=3D"hljs-string" style=3D"color:=
+rgb(136, 0, 0);">"sose"</span>, <span class=3D"hljs-number" style=
+=3D"color:rgb(0, 136, 0);">0</span>, <span class=3D"hljs-number"=20=
+style=3D"color:rgb(0, 136, 0);">-1</span>);=0A} =0A<span class=3D=
+"hljs-keyword">catch</span>(Exception e)=0A{=0A     broken =3D <s=
+pan class=3D"hljs-keyword">true</span>;=0A} <span class=3D"hljs-k=
+eyword">finally</span> {=0A<span class=3D"hljs-keyword">if</span>=
+ (broken) {=0A     pool.returnBrokenResource(jedis);=0A} <span cl=
+ass=3D"hljs-keyword">else</span> <span class=3D"hljs-keyword">if<=
+/span> (jedis !=3D <span class=3D"hljs-keyword">null</span>) {=0A=
+     pool.returnResource(jedis);=0A }=0A}</code></pre></li><li cl=
+ass=3D"li"><p class=3D"p" style=3D"font-size:0.875rem;">=D4=CB=D0=
+=D0=C9=CF=CA=F6 Project=A3=AC=D4=DA Eclipse =B5=C4=BF=D8=D6=C6=CC=
+=A8=CA=E4=B3=F6=C8=E7=CF=C2=D4=CB=D0=D0=BD=E1=B9=FB=D4=F2=B1=ED=CA=
+=BE=C4=FA=D2=D1=B3=C9=B9=A6=C1=AC=BD=D3=D4=C6=CA=FD=BE=DD=BF=E2 R=
+edis=A1=A3</p><pre class=3D"pre codeblock" style=3D"font-size:0.8=
+75rem;background:rgb(247, 247, 247);"><code class=3D"hljs sql" st=
+yle=3D"font-family:monospace;font-size:0.875rem;background:0px 0p=
+x transparent;color:rgb(0, 0, 0);"><span class=3D"hljs-keyword">S=
+et</span> <span class=3D"hljs-keyword">Key</span> redis <span cla=
+ss=3D"hljs-keyword">Value</span> aliyun-redis=0A<span class=3D"hl=
+js-keyword">Get</span> <span class=3D"hljs-keyword">Key</span> re=
+dis ReturnValue aliyun-redis</code></pre><p class=3D"p" style=3D"=
+font-size:0.875rem;">=BD=D3=CF=C2=C0=B4=C4=FA=BE=CD=BF=C9=D2=D4=CD=
+=A8=B9=FD=D7=D4=BC=BA=B5=C4=B1=BE=B5=D8=BF=CD=BB=A7=B6=CBJedis=B2=
+=D9=D7=F7=C4=FA=B5=C4=D4=C6=CA=FD=BE=DD=BF=E2 Redis=A1=A3</p></li=
+></ol></li></ol></section><section class=3D"section" id=3D"concep=
+t-dys-yvb-5db-section-fsv-lkc-5db"><h2 class=3D"title sectiontitl=
+e" id=3D"h2-url-2" style=3D"font-size:1.25rem;color:rgb(102, 102,=
+ 102);">phpredis =BF=CD=BB=A7=B6=CB</h2><p class=3D"p" style=3D"f=
+ont-size:0.875rem;">=B2=D9=D7=F7=B2=BD=D6=E8=C8=E7=CF=C2=CB=F9=CA=
+=BE=A3=BA</p><ol class=3D"ol wiz-list-level1" id=3D"concept-dys-y=
+vb-5db-ol-gsv-lkc-5db"><li class=3D"li"><p class=3D"p" style=3D"f=
+ont-size:0.875rem;">=CF=C2=D4=D8=B2=A2=B0=B2=D7=B0phpredis=BF=CD=BB=
+=A7=B6=CB=A3=BA=B5=A5=BB=F7<span class=3D"Apple-converted-space">=
+&nbsp;</span><a class=3D"xref" href=3D"https://github.com/phpredi=
+s/phpredis" target=3D"_blank" style=3D"text-decoration:none;color=
+:rgb(0, 183, 211);background:0px 0px;">=CF=C2=D4=D8=B5=D8=D6=B7</=
+a>=A1=A3</p></li><li class=3D"li"><p class=3D"p" style=3D"font-si=
+ze:0.875rem;">=D4=DA=C8=CE=BA=CE=D2=BB=BF=EE=BF=C9=D2=D4=B1=E0=BC=
+=AD php =B5=C4=B1=E0=BC=AD=C6=F7=D6=D0=CA=E4=C8=EB=C8=E7=CF=C2=B4=
+=FA=C2=EB=A3=BA</p><pre class=3D"pre codeblock" style=3D"font-siz=
+e:0.875rem;background:rgb(247, 247, 247);"><code class=3D"hljs xm=
+l" style=3D"font-family:monospace;font-size:0.875rem;background:0=
+px 0px transparent;color:rgb(0, 0, 0);"><span class=3D"php"><span=
+ class=3D"hljs-meta">&lt;?php</span>=0A <span class=3D"hljs-comme=
+nt" style=3D"color:rgb(136, 136, 136);">/* =D5=E2=C0=EF=CC=E6=BB=BB=
+=CE=AA=C1=AC=BD=D3=B5=C4=CA=B5=C0=FDhost=BA=CDport */</span>=0A $=
+host =3D <span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0=
+);">"localhost"</span>;=0A $port =3D <span class=3D"hljs-number"=20=
+style=3D"color:rgb(0, 136, 0);">6379</span>;=0A <span class=3D"hl=
+js-comment" style=3D"color:rgb(136, 136, 136);">/* =D5=E2=C0=EF=CC=
+=E6=BB=BB=CE=AA=CA=B5=C0=FDid=BA=CD=CA=B5=C0=FDpassword */</span>=
+=0A $user =3D <span class=3D"hljs-string" style=3D"color:rgb(136,=
+ 0, 0);">"test_username"</span>;=0A $pwd =3D <span class=3D"hljs-=
+string" style=3D"color:rgb(136, 0, 0);">"test_password"</span>;=0A=
+ $redis =3D <span class=3D"hljs-keyword">new</span> Redis();=0A <=
+span class=3D"hljs-keyword">if</span> ($redis-&gt;connect($host,=20=
+$port) =3D=3D <span class=3D"hljs-keyword">false</span>) {=0A   =20=
+     <span class=3D"hljs-keyword">die</span>($redis-&gt;getLastEr=
+ror());=0A   }=0A <span class=3D"hljs-keyword">if</span> ($redis-=
+&gt;auth($pwd) =3D=3D <span class=3D"hljs-keyword">false</span>)=20=
+{=0A         <span class=3D"hljs-keyword">die</span>($redis-&gt;g=
+etLastError());=0A  }=0A  <span class=3D"hljs-comment" style=3D"c=
+olor:rgb(136, 136, 136);">/* =C8=CF=D6=A4=BA=F3=BE=CD=BF=C9=D2=D4=
+=BD=F8=D0=D0=CA=FD=BE=DD=BF=E2=B2=D9=D7=F7=A3=AC=CF=EA=C7=E9=CE=C4=
+=B5=B5=B2=CE=BF=BChttps://github.com/phpredis/phpredis */</span>=0A=
+ <span class=3D"hljs-keyword">if</span> ($redis-&gt;set(<span cla=
+ss=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"foo"</span>,=20=
+<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"bar"=
+</span>) =3D=3D <span class=3D"hljs-keyword">false</span>) {=0A =20=
+       <span class=3D"hljs-keyword">die</span>($redis-&gt;getLast=
+Error());=0A }=0A $value =3D $redis-&gt;get(<span class=3D"hljs-s=
+tring" style=3D"color:rgb(136, 0, 0);">"foo"</span>);=0A <span cl=
+ass=3D"hljs-keyword">echo</span> $value;=0A <span class=3D"hljs-m=
+eta">?&gt;</span></span></code></pre></li><li class=3D"li">=D6=B4=
+=D0=D0=C9=CF=CA=F6=B4=FA=C2=EB=A3=AC=C4=FA=BE=CD=BF=C9=D2=D4=CD=A8=
+=B9=FD=D7=D4=BC=BA=B5=C4=B1=BE=B5=D8=BF=CD=BB=A7=B6=CB phpredis =B7=
+=C3=CE=CA=C4=FA=B5=C4=D4=C6=CA=FD=BE=DD=BF=E2 Redis=A3=AC=CF=EA=C7=
+=E9=CE=C4=B5=B5=B2=CE=BF=BC<span class=3D"Apple-converted-space">=
+&nbsp;</span><a class=3D"xref" href=3D"https://github.com/phpredi=
+s/phpredis" target=3D"_blank" style=3D"text-decoration:none;color=
+:rgb(0, 183, 211);background:0px 0px;">https://github.com/phpredi=
+s/phpredis</a><span class=3D"Apple-converted-space">&nbsp;</span>=
+=A1=A3</li></ol></section><section class=3D"section" id=3D"concep=
+t-dys-yvb-5db-section-rsv-lkc-5db"><h2 class=3D"title sectiontitl=
+e" id=3D"h2-url-3" style=3D"font-size:1.25rem;color:rgb(102, 102,=
+ 102);">redis-py =BF=CD=BB=A7=B6=CB</h2><p class=3D"p" style=3D"f=
+ont-size:0.875rem;">=B2=D9=D7=F7=B2=BD=D6=E8=C8=E7=CF=C2=A3=BA</p=
+><ol class=3D"ol wiz-list-level1" id=3D"concept-dys-yvb-5db-ol-ss=
+v-lkc-5db"><li class=3D"li"><p class=3D"p" style=3D"font-size:0.8=
+75rem;">=CF=C2=D4=D8=B2=A2=B0=B2=D7=B0 redis-py =BF=CD=BB=A7=B6=CB=
+=A3=BA=B5=A5=BB=F7<span class=3D"Apple-converted-space">&nbsp;</s=
+pan><a class=3D"xref" href=3D"https://github.com/andymccurdy/redi=
+s-py" target=3D"_blank" style=3D"text-decoration:none;color:rgb(0=
+, 183, 211);background:0px 0px;">=CF=C2=D4=D8=B5=D8=D6=B7</a>=A1=A3=
+</p></li><li class=3D"li"><p class=3D"p" style=3D"font-size:0.875=
+rem;">=D4=DA=C8=CE=BA=CE=D2=BB=BF=EE=BF=C9=D2=D4=B1=E0=BC=AD Pyth=
+on =B5=C4=B1=E0=BC=AD=C6=F7=D6=D0=CA=E4=C8=EB=C8=E7=CF=C2=B4=FA=C2=
+=EB=A3=AC=BC=B4=BF=C9=BD=A8=C1=A2=C1=AC=BD=D3=CD=A8=B9=FD=B1=BE=B5=
+=D8=BF=CD=BB=A7=B6=CB redis-py =BD=F8=D0=D0=CA=FD=BE=DD=BF=E2=B2=D9=
+=D7=F7=A1=A3</p></li></ol><pre class=3D"pre codeblock" style=3D"f=
+ont-size:0.875rem;background:rgb(247, 247, 247);"><code class=3D"=
+hljs vala" style=3D"font-family:monospace;font-size:0.875rem;back=
+ground:0px 0px transparent;color:rgb(0, 0, 0);"><span class=3D"hl=
+js-meta">#!/usr/bin/env python</span>=0A<span class=3D"hljs-meta"=
+>#-*- coding: utf-8 -*-</span>=0Aimport redis=0A<span class=3D"hl=
+js-meta">#=D5=E2=C0=EF=CC=E6=BB=BB=CE=AA=C1=AC=BD=D3=B5=C4=CA=B5=C0=
+=FDhost=BA=CDport</span>=0Ahost =3D <span class=3D"hljs-string" s=
+tyle=3D"color:rgb(136, 0, 0);">'localhost'</span>=0Aport =3D <spa=
+n class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">6379</spa=
+n>=0A<span class=3D"hljs-meta">#=D5=E2=C0=EF=CC=E6=BB=BB=CE=AA=CA=
+=B5=C0=FDpassword</span>=0Apwd =3D <span class=3D"hljs-string" st=
+yle=3D"color:rgb(136, 0, 0);">'test_password'</span>=0Ar =3D redi=
+s.StrictRedis(host=3Dhost, port=3Dport, password=3Dpwd)=0A<span c=
+lass=3D"hljs-meta">#=C1=AC=BD=D3=BD=A8=C1=A2=BA=F3=BE=CD=BF=C9=D2=
+=D4=BD=F8=D0=D0=CA=FD=BE=DD=BF=E2=B2=D9=D7=F7=A3=AC=CF=EA=C7=E9=CE=
+=C4=B5=B5=B2=CE=BF=BChttps://github.com/andymccurdy/redis-py</spa=
+n>=0Ar.<span class=3D"hljs-keyword">set</span>(<span class=3D"hlj=
+s-string" style=3D"color:rgb(136, 0, 0);">'foo'</span>, <span cla=
+ss=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">'bar'</span>);=
+=0Aprint r.<span class=3D"hljs-keyword">get</span>(<span class=3D=
+"hljs-string" style=3D"color:rgb(136, 0, 0);">'foo'</span>)</code=
+></pre></section><section class=3D"section" id=3D"concept-dys-yvb=
+-5db-section-zsv-lkc-5db"><h2 class=3D"title sectiontitle" id=3D"=
+h2-url-4" style=3D"font-size:1.25rem;color:rgb(102, 102, 102);">C=
+/C++ =BF=CD=BB=A7=B6=CB</h2><p class=3D"p" style=3D"font-size:0.8=
+75rem;">=B2=D9=D7=F7=B2=BD=D6=E8=C8=E7=CF=C2=CB=F9=CA=BE=A3=BA</p=
+><ol class=3D"ol wiz-list-level1" id=3D"concept-dys-yvb-5db-ol-at=
+v-lkc-5db"><li class=3D"li"><p class=3D"p" style=3D"font-size:0.8=
+75rem;">=CF=C2=D4=D8=B2=A2=B1=E0=D2=EB=B0=B2=D7=B0=A3=C3=BF=CD=BB=
+=A7=B6=CB=A3=AC=B1=E0=D2=EB=B0=B2=D7=B0=B4=FA=C2=EB=C8=E7=CF=C2=CB=
+=F9=CA=BE=A3=BA</p><pre class=3D"pre codeblock" style=3D"font-siz=
+e:0.875rem;background:rgb(247, 247, 247);"><code class=3D"hljs vi=
+m" style=3D"font-family:monospace;font-size:0.875rem;background:0=
+px 0px transparent;color:rgb(0, 0, 0);">     git clone http<span=20=
+class=3D"hljs-variable">s:</span>//github.<span class=3D"hljs-key=
+word">com</span>/redis/hiredis.git=0A     <span class=3D"hljs-key=
+word">cd</span> hiredis=0A     <span class=3D"hljs-keyword">make<=
+/span> =0A     sudo <span class=3D"hljs-keyword">make</span> inst=
+all</code></pre></li><li class=3D"li"><p class=3D"p" style=3D"fon=
+t-size:0.875rem;">=D4=DA C/C++=B1=E0=BC=AD=C6=F7=D6=D0=B1=E0=D0=B4=
+=C8=E7=CF=C2=B4=FA=C2=EB=A3=BA</p><pre class=3D"pre codeblock" st=
+yle=3D"font-size:0.875rem;background:rgb(247, 247, 247);"><code c=
+lass=3D"hljs mipsasm" style=3D"font-family:monospace;font-size:0.=
+875rem;background:0px 0px transparent;color:rgb(0, 0, 0);">     <=
+span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">#=
+include &lt;stdio.h&gt;</span>=0A     <span class=3D"hljs-comment=
+" style=3D"color:rgb(136, 136, 136);">#include &lt;stdlib.h&gt;</=
+span>=0A     <span class=3D"hljs-comment" style=3D"color:rgb(136,=
+ 136, 136);">#include &lt;string.h&gt;</span>=0A     <span class=3D=
+"hljs-comment" style=3D"color:rgb(136, 136, 136);">#include &lt;h=
+iredis.h&gt;</span>=0A     int main(int argc, char **argv) {=0A =20=
+   unsigned int <span class=3D"hljs-keyword">j;=0A</span>     red=
+isContext *c<span class=3D"hljs-comment" style=3D"color:rgb(136,=20=
+136, 136);">;</span>=0A     redisReply *reply<span class=3D"hljs-=
+comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A     if (=
+argc &lt; <span class=3D"hljs-number" style=3D"color:rgb(0, 136,=20=
+0);">4</span>) {=0A             printf(<span class=3D"hljs-string=
+" style=3D"color:rgb(136, 0, 0);">"Usage: example xxx.kvstore.ali=
+yuncs.com 6379 instance_id password\n"</span>)<span class=3D"hljs=
+-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A       =20=
+     exit(<span class=3D"hljs-number" style=3D"color:rgb(0, 136,=20=
+0);">0</span>)<span class=3D"hljs-comment" style=3D"color:rgb(136=
+, 136, 136);">;</span>=0A     }=0A     const char *hostname =3D a=
+rgv[<span class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">1=
+</span>]<span class=3D"hljs-comment" style=3D"color:rgb(136, 136,=
+ 136);">;</span>=0A     const int port =3D atoi(argv[<span class=3D=
+"hljs-number" style=3D"color:rgb(0, 136, 0);">2</span>])<span cla=
+ss=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A=
+     const char *<span class=3D"hljs-keyword">instance_id </span>=
+=3D argv[<span class=3D"hljs-number" style=3D"color:rgb(0, 136, 0=
+);">3</span>]<span class=3D"hljs-comment" style=3D"color:rgb(136,=
+ 136, 136);">;</span>=0A     const char *password =3D argv[<span=20=
+class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">4</span>]<s=
+pan class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">;<=
+/span>=0A     struct timeval timeout =3D { <span class=3D"hljs-nu=
+mber" style=3D"color:rgb(0, 136, 0);">1</span>, <span class=3D"hl=
+js-number" style=3D"color:rgb(0, 136, 0);">500000</span> }<span c=
+lass=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">; // 1.=
+5 seconds</span>=0A     c =3D redisConnectWithTimeout(hostname, p=
+ort, timeout)<span class=3D"hljs-comment" style=3D"color:rgb(136,=
+ 136, 136);">;</span>=0A     if (c =3D=3D NULL <span class=3D"hlj=
+s-title" style=3D"color:rgb(136, 0, 0);">||</span> c-&gt;err) {=0A=
+     if (c) {=0A             printf(<span class=3D"hljs-string" s=
+tyle=3D"color:rgb(136, 0, 0);">"Connection error: %s\n"</span>, c=
+-&gt;errstr)<span class=3D"hljs-comment" style=3D"color:rgb(136,=20=
+136, 136);">;</span>=0A             redisFree(c)<span class=3D"hl=
+js-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A     }=
+ else {=0A             printf(<span class=3D"hljs-string" style=3D=
+"color:rgb(136, 0, 0);">"Connection error: can't allocate redis c=
+ontext\n"</span>)<span class=3D"hljs-comment" style=3D"color:rgb(=
+136, 136, 136);">;</span>=0A     }=0A     exit(<span class=3D"hlj=
+s-number" style=3D"color:rgb(0, 136, 0);">1</span>)<span class=3D=
+"hljs-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A  =20=
+  }=0A     <span class=3D"hljs-comment" style=3D"color:rgb(136, 1=
+36, 136);">/* AUTH */</span>=0A     reply =3D redisCommand(c, <sp=
+an class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"AUTH %s=
+"</span>, password)<span class=3D"hljs-comment" style=3D"color:rg=
+b(136, 136, 136);">;</span>=0A     printf(<span class=3D"hljs-str=
+ing" style=3D"color:rgb(136, 0, 0);">"AUTH: %s\n"</span>, reply-&=
+gt;str)<span class=3D"hljs-comment" style=3D"color:rgb(136, 136,=20=
+136);">;</span>=0A     freeReplyObject(reply)<span class=3D"hljs-=
+comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A     <spa=
+n class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">/* P=
+ING server */</span>=0A     reply =3D redisCommand(c,<span class=3D=
+"hljs-string" style=3D"color:rgb(136, 0, 0);">"PING"</span>)<span=
+ class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">;</sp=
+an>=0A     printf(<span class=3D"hljs-string" style=3D"color:rgb(=
+136, 0, 0);">"PING: %s\n"</span>, reply-&gt;str)<span class=3D"hl=
+js-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A     f=
+reeReplyObject(reply)<span class=3D"hljs-comment" style=3D"color:=
+rgb(136, 136, 136);">;</span>=0A     <span class=3D"hljs-comment"=
+ style=3D"color:rgb(136, 136, 136);">/* Set a key */</span>=0A  =20=
+  reply =3D redisCommand(c,<span class=3D"hljs-string" style=3D"c=
+olor:rgb(136, 0, 0);">"SET %s %s"</span>, <span class=3D"hljs-str=
+ing" style=3D"color:rgb(136, 0, 0);">"foo"</span>, <span class=3D=
+"hljs-string" style=3D"color:rgb(136, 0, 0);">"hello world"</span=
+>)<span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);=
+">;</span>=0A     printf(<span class=3D"hljs-string" style=3D"col=
+or:rgb(136, 0, 0);">"SET: %s\n"</span>, reply-&gt;str)<span class=
+=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A=
+     freeReplyObject(reply)<span class=3D"hljs-comment" style=3D"=
+color:rgb(136, 136, 136);">;</span>=0A     <span class=3D"hljs-co=
+mment" style=3D"color:rgb(136, 136, 136);">/* Set a key using bin=
+ary safe API */</span>=0A     reply =3D redisCommand(c,<span clas=
+s=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"SET %b %b"</sp=
+an>, <span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">=
+"bar"</span>, (size_t) <span class=3D"hljs-number" style=3D"color=
+:rgb(0, 136, 0);">3</span>, <span class=3D"hljs-string" style=3D"=
+color:rgb(136, 0, 0);">"hello"</span>, (size_t) <span class=3D"hl=
+js-number" style=3D"color:rgb(0, 136, 0);">5</span>)<span class=3D=
+"hljs-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A  =20=
+  printf(<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0=
+);">"SET (binary API): %s\n"</span>, reply-&gt;str)<span class=3D=
+"hljs-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A  =20=
+  freeReplyObject(reply)<span class=3D"hljs-comment" style=3D"col=
+or:rgb(136, 136, 136);">;</span>=0A     <span class=3D"hljs-comme=
+nt" style=3D"color:rgb(136, 136, 136);">/* Try a GET and two INCR=
+ */</span>=0A     reply =3D redisCommand(c,<span class=3D"hljs-st=
+ring" style=3D"color:rgb(136, 0, 0);">"GET foo"</span>)<span clas=
+s=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A=
+     printf(<span class=3D"hljs-string" style=3D"color:rgb(136, 0=
+, 0);">"GET foo: %s\n"</span>, reply-&gt;str)<span class=3D"hljs-=
+comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A     free=
+ReplyObject(reply)<span class=3D"hljs-comment" style=3D"color:rgb=
+(136, 136, 136);">;</span>=0A     reply =3D redisCommand(c,<span=20=
+class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"INCR count=
+er"</span>)<span class=3D"hljs-comment" style=3D"color:rgb(136, 1=
+36, 136);">;</span>=0A     printf(<span class=3D"hljs-string" sty=
+le=3D"color:rgb(136, 0, 0);">"INCR counter: %lld\n"</span>, reply=
+-&gt;integer)<span class=3D"hljs-comment" style=3D"color:rgb(136,=
+ 136, 136);">;</span>=0A     freeReplyObject(reply)<span class=3D=
+"hljs-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A  =20=
+  <span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);=
+">/* again ... */</span>=0A     reply =3D redisCommand(c,<span cl=
+ass=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"INCR counter=
+"</span>)<span class=3D"hljs-comment" style=3D"color:rgb(136, 136=
+, 136);">;</span>=0A     printf(<span class=3D"hljs-string" style=
+=3D"color:rgb(136, 0, 0);">"INCR counter: %lld\n"</span>, reply-&=
+gt;integer)<span class=3D"hljs-comment" style=3D"color:rgb(136, 1=
+36, 136);">;</span>=0A     freeReplyObject(reply)<span class=3D"h=
+ljs-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A    =20=
+<span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">=
+/* Create a list of numbers, from 0 to 9 */</span>=0A     reply =3D=
+ redisCommand(c,<span class=3D"hljs-string" style=3D"color:rgb(13=
+6, 0, 0);">"DEL mylist"</span>)<span class=3D"hljs-comment" style=
+=3D"color:rgb(136, 136, 136);">;</span>=0A     freeReplyObject(re=
+ply)<span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136=
+);">;</span>=0A     for (<span class=3D"hljs-keyword">j </span>=3D=
+ <span class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">0</s=
+pan><span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136=
+);">; j &lt; 10; j++) {</span>=0A             char <span class=3D=
+"hljs-keyword">buf[64];=0A</span>             snprintf(<span clas=
+s=3D"hljs-keyword">buf,64,"%d",j);=0A</span>             reply =3D=
+ redisCommand(c,<span class=3D"hljs-string" style=3D"color:rgb(13=
+6, 0, 0);">"LPUSH mylist element-%s"</span>, <span class=3D"hljs-=
+keyword">buf);=0A</span>             freeReplyObject(reply)<span=20=
+class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">;</spa=
+n>=0A         }=0A     <span class=3D"hljs-comment" style=3D"colo=
+r:rgb(136, 136, 136);">/* Let's check what we have inside the lis=
+t */</span>=0A     reply =3D redisCommand(c,<span class=3D"hljs-s=
+tring" style=3D"color:rgb(136, 0, 0);">"LRANGE mylist 0 -1"</span=
+>)<span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);=
+">;</span>=0A     if (reply-&gt;type =3D=3D REDIS_REPLY_ARRAY) {=0A=
+             for (<span class=3D"hljs-keyword">j </span>=3D <span=
+ class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">0</span><s=
+pan class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">;=20=
+j &lt; reply-&gt;elements; j++) {</span>=0A             printf(<s=
+pan class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"%u) %s=
+\n"</span>, <span class=3D"hljs-keyword">j, </span>reply-&gt;elem=
+ent[<span class=3D"hljs-keyword">j]-&gt;str);=0A</span>     }=0A=20=
+    }=0A     freeReplyObject(reply)<span class=3D"hljs-comment" s=
+tyle=3D"color:rgb(136, 136, 136);">;</span>=0A     <span class=3D=
+"hljs-comment" style=3D"color:rgb(136, 136, 136);">/* Disconnects=
+ and frees the context */</span>=0A     redisFree(c)<span class=3D=
+"hljs-comment" style=3D"color:rgb(136, 136, 136);">;</span>=0A  =20=
+  return <span class=3D"hljs-number" style=3D"color:rgb(0, 136, 0=
+);">0</span><span class=3D"hljs-comment" style=3D"color:rgb(136,=20=
+136, 136);">;</span>=0A     }</code></pre></li><li class=3D"li"><=
+p class=3D"p" style=3D"font-size:0.875rem;">=B1=E0=D2=EB=C9=CF=CA=
+=F6=B4=FA=C2=EB=A1=A3</p><pre class=3D"pre codeblock" style=3D"fo=
+nt-size:0.875rem;background:rgb(247, 247, 247);"><code class=3D"h=
+ljs maxima" style=3D"font-family:monospace;font-size:0.875rem;bac=
+kground:0px 0px transparent;color:rgb(0, 0, 0);">gcc -o <span cla=
+ss=3D"hljs-built_in">example</span> -g <span class=3D"hljs-built_=
+in">example</span>.c -I /usr/<span class=3D"hljs-built_in">local<=
+/span>/include/hiredis -lhiredis</code></pre></li><li class=3D"li=
+"><p class=3D"p" style=3D"font-size:0.875rem;">=B2=E2=CA=D4=D4=CB=
+=D0=D0=A1=A3</p><pre class=3D"pre codeblock" style=3D"font-size:0=
+.875rem;background:rgb(247, 247, 247);"><code class=3D"hljs stylu=
+s" style=3D"font-family:monospace;font-size:0.875rem;background:0=
+px 0px transparent;color:rgb(0, 0, 0);"> example xxx<span class=3D=
+"hljs-selector-class">.kvstore</span><span class=3D"hljs-selector=
+-class">.aliyuncs</span><span class=3D"hljs-selector-class">.com<=
+/span> <span class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);=
+">6379</span> instance_id password</code></pre></li></ol></sectio=
+n><p class=3D"p" style=3D"font-size:0.875rem;">=D6=C1=B4=CB=CD=EA=
+=B3=C9=CD=A8=B9=FD C/C++ =BF=CD=BB=A7=B6=CB=C1=AC=BD=D3=D4=C6=CA=FD=
+=BE=DD=BF=E2 Redis=A1=A3</p><section class=3D"section" id=3D"conc=
+ept-dys-yvb-5db-section-cvv-lkc-5db"><h2 class=3D"title sectionti=
+tle" id=3D"h2-url-5" style=3D"font-size:1.25rem;color:rgb(102, 10=
+2, 102);">.net =BF=CD=BB=A7=B6=CB</h2><p class=3D"p" style=3D"fon=
+t-size:0.875rem;">=B2=D9=D7=F7=B2=BD=D6=E8=C8=E7=CF=C2=CB=F9=CA=BE=
+=A3=BA</p><ol class=3D"ol wiz-list-level1" id=3D"concept-dys-yvb-=
+5db-ol-dvv-lkc-5db"><li class=3D"li"><p class=3D"p" style=3D"font=
+-size:0.875rem;">=CF=C2=D4=D8=B2=A2=CA=B9=D3=C3.net =BF=CD=BB=A7=B6=
+=CB=A1=A3</p><pre class=3D"pre codeblock" style=3D"font-size:0.87=
+5rem;background:rgb(247, 247, 247);"><code class=3D"hljs crmsh" s=
+tyle=3D"font-family:monospace;font-size:0.875rem;background:0px 0=
+px transparent;color:rgb(0, 0, 0);"> git <span class=3D"hljs-keyw=
+ord">clone</span> <span class=3D"hljs-title" style=3D"color:rgb(1=
+36, 0, 0);">https</span>://github.com/ServiceStack/ServiceStack.R=
+edis</code></pre></li><li class=3D"li"><p class=3D"p" style=3D"fo=
+nt-size:0.875rem;">=D4=DA.net =BF=CD=BB=A7=B6=CB=D6=D0=D0=C2=BD=A8=
+ .net =CF=EE=C4=BF=A1=A3</p></li><li class=3D"li"><p class=3D"p"=20=
+style=3D"font-size:0.875rem;">=CC=ED=BC=D3=BF=CD=BB=A7=B6=CB=D2=FD=
+=D3=C3=A3=AC=D2=FD=D3=C3=CE=C4=BC=FE=D4=DA=BF=E2=CE=C4=BC=FE=B5=C4=
+ ServiceStack.Redis/lib/tests =D6=D0=A1=A3</p></li><li class=3D"l=
+i"><p class=3D"p" style=3D"font-size:0.875rem;">=D4=DA=D0=C2=BD=A8=
+=B5=C4.net =CF=EE=C4=BF=D6=D0=CA=E4=C8=EB=C8=E7=CF=C2=B4=FA=C2=EB=
+=C0=B4=C1=AC=BD=D3=D4=C6=CA=FD=BE=DD=BF=E2 Redis=A1=A3=CF=EA=CF=B8=
+=B5=C4=BD=D3=BF=DA=D3=C3=B7=A8=C7=EB=B2=CE=BC=FB<span class=3D"Ap=
+ple-converted-space">&nbsp;</span><a class=3D"xref" href=3D"https=
+://github.com/ServiceStack/ServiceStack.Redis" target=3D"_blank"=20=
+style=3D"text-decoration:none;color:rgb(0, 183, 211);background:0=
+px 0px;">https://github.com/ServiceStack/ServiceStack.Redis</a><s=
+pan class=3D"Apple-converted-space">&nbsp;</span>=A1=A3</p><pre c=
+lass=3D"pre codeblock" style=3D"font-size:0.875rem;background:rgb=
+(247, 247, 247);"><code class=3D"hljs cs" style=3D"font-family:mo=
+nospace;font-size:0.875rem;background:0px 0px transparent;color:r=
+gb(0, 0, 0);"><span class=3D"hljs-keyword">using</span> System;=0A=
+ <span class=3D"hljs-keyword">using</span> System.Collections.Gen=
+eric;=0A <span class=3D"hljs-keyword">using</span> System.Linq;=0A=
+ <span class=3D"hljs-keyword">using</span> System.Text;=0A <span=20=
+class=3D"hljs-keyword">using</span> System.Threading.Tasks;=0A <s=
+pan class=3D"hljs-keyword">using</span> ServiceStack.Redis;=0A <s=
+pan class=3D"hljs-keyword">namespace</span> <span class=3D"hljs-t=
+itle" style=3D"color:rgb(136, 0, 0);">ServiceStack.Redis.Tests</s=
+pan>=0A {=0A         <span class=3D"hljs-keyword">class</span> <s=
+pan class=3D"hljs-title" style=3D"color:rgb(136, 0, 0);">Program<=
+/span>=0A {=0A <span class=3D"hljs-function"><span class=3D"hljs-=
+keyword">public</span> <span class=3D"hljs-keyword">static</span>=
+ <span class=3D"hljs-keyword">void</span> <span class=3D"hljs-tit=
+le" style=3D"color:rgb(136, 0, 0);">RedisClientTest</span>()=0A <=
+/span>{=0A         <span class=3D"hljs-keyword">string</span> hos=
+t =3D <span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);"=
+>"127.0.0.1"</span>;<span class=3D"hljs-comment" style=3D"color:r=
+gb(136, 136, 136);">/*=B7=C3=CE=CAhost=B5=D8=D6=B7*/</span>=0A  =20=
+      <span class=3D"hljs-keyword">string</span> password =3D <sp=
+an class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"passwor=
+d"</span>;<span class=3D"hljs-comment" style=3D"color:rgb(136, 13=
+6, 136);">/*=C3=DC=C2=EB*/</span>=0A         RedisClient redisCli=
+ent =3D <span class=3D"hljs-keyword">new</span> RedisClient(host,=
+ <span class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">6379=
+</span>, password);=0A         <span class=3D"hljs-keyword">strin=
+g</span> key =3D <span class=3D"hljs-string" style=3D"color:rgb(1=
+36, 0, 0);">"test-aliyun"</span>;=0A         <span class=3D"hljs-=
+keyword">string</span> <span class=3D"hljs-keyword">value</span>=20=
+=3D <span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"=
+test-aliyun-value"</span>;=0A         redisClient.Set(key, <span=20=
+class=3D"hljs-keyword">value</span>);=0A         <span class=3D"h=
+ljs-keyword">string</span> listKey =3D <span class=3D"hljs-string=
+" style=3D"color:rgb(136, 0, 0);">"test-aliyun-list"</span>;=0A =20=
+       System.Console.WriteLine(<span class=3D"hljs-string" style=
+=3D"color:rgb(136, 0, 0);">"set key "</span> + key + <span class=3D=
+"hljs-string" style=3D"color:rgb(136, 0, 0);">" value "</span> +=20=
+<span class=3D"hljs-keyword">value</span>);=0A         <span clas=
+s=3D"hljs-keyword">string</span> getValue =3D System.Text.Encodin=
+g.Default.GetString(redisClient.Get(key));=0A         System.Cons=
+ole.WriteLine(<span class=3D"hljs-string" style=3D"color:rgb(136,=
+ 0, 0);">"get key "</span> + getValue);=0A         System.Console=
+.Read();=0A }=0A <span class=3D"hljs-function"><span class=3D"hlj=
+s-keyword">public</span> <span class=3D"hljs-keyword">static</spa=
+n> <span class=3D"hljs-keyword">void</span> <span class=3D"hljs-t=
+itle" style=3D"color:rgb(136, 0, 0);">RedisPoolClientTest</span>(=
+)=0A </span>{=0A         <span class=3D"hljs-keyword">string</spa=
+n>[] testReadWriteHosts =3D <span class=3D"hljs-keyword">new</spa=
+n>[] {=0A         <span class=3D"hljs-string" style=3D"color:rgb(=
+136, 0, 0);">"redis://password@127.0.0.1:6379"</span><span class=3D=
+"hljs-comment" style=3D"color:rgb(136, 136, 136);">/*redis://=C3=DC=
+=C2=EB@=B7=C3=CE=CA=B5=D8=D6=B7:=B6=CB=BF=DA*/</span>=0A };=0A Re=
+disConfig.VerifyMasterConnections =3D <span class=3D"hljs-literal=
+" style=3D"color:rgb(0, 136, 0);">false</span>;<span class=3D"hlj=
+s-comment" style=3D"color:rgb(136, 136, 136);">//=D0=E8=D2=AA=C9=E8=
+=D6=C3</span>=0A PooledRedisClientManager redisPoolManager =3D <s=
+pan class=3D"hljs-keyword">new</span> PooledRedisClientManager(<s=
+pan class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">10</spa=
+n><span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);=
+">/*=C1=AC=BD=D3=B3=D8=B8=F6=CA=FD*/</span>, <span class=3D"hljs-=
+number" style=3D"color:rgb(0, 136, 0);">10</span><span class=3D"h=
+ljs-comment" style=3D"color:rgb(136, 136, 136);">/*=C1=AC=BD=D3=B3=
+=D8=B3=AC=CA=B1=CA=B1=BC=E4*/</span>, testReadWriteHosts);=0A <sp=
+an class=3D"hljs-keyword">for</span> (<span class=3D"hljs-keyword=
+">int</span> i =3D <span class=3D"hljs-number" style=3D"color:rgb=
+(0, 136, 0);">0</span>; i &lt; <span class=3D"hljs-number" style=3D=
+"color:rgb(0, 136, 0);">100</span>; i++){=0A         IRedisClient=
+ redisClient =3D redisPoolManager.GetClient();<span class=3D"hljs=
+-comment" style=3D"color:rgb(136, 136, 136);">//=BB=F1=C8=A1=C1=AC=
+=BD=D3</span>=0A         RedisNativeClient redisNativeClient =3D=20=
+(RedisNativeClient)redisClient;=0A         redisNativeClient.Clie=
+nt =3D <span class=3D"hljs-literal" style=3D"color:rgb(0, 136, 0)=
+;">null</span>;<span class=3D"hljs-comment" style=3D"color:rgb(13=
+6, 136, 136);">//ApsaraDB for Redis=B2=BB=D6=A7=B3=D6client setna=
+me=CB=F9=D2=D4=D5=E2=C0=EF=D0=E8=D2=AA=CF=D4=CA=BE=B5=C4=B0=D1cli=
+ent=B6=D4=CF=F3=D6=C3=CE=AAnull</span>=0A <span class=3D"hljs-key=
+word">try</span>=0A {=0A         <span class=3D"hljs-keyword">str=
+ing</span> key =3D <span class=3D"hljs-string" style=3D"color:rgb=
+(136, 0, 0);">"test-aliyun1111"</span>;=0A         <span class=3D=
+"hljs-keyword">string</span> <span class=3D"hljs-keyword">value</=
+span> =3D <span class=3D"hljs-string" style=3D"color:rgb(136, 0,=20=
+0);">"test-aliyun-value1111"</span>;=0A         redisClient.Set(k=
+ey, <span class=3D"hljs-keyword">value</span>);=0A         <span=20=
+class=3D"hljs-keyword">string</span> listKey =3D <span class=3D"h=
+ljs-string" style=3D"color:rgb(136, 0, 0);">"test-aliyun-list"</s=
+pan>;=0A         redisClient.AddItemToList(listKey, <span class=3D=
+"hljs-keyword">value</span>);=0A         System.Console.WriteLine=
+(<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"set=
+ key "</span> + key + <span class=3D"hljs-string" style=3D"color:=
+rgb(136, 0, 0);">" value "</span> + <span class=3D"hljs-keyword">=
+value</span>);=0A         <span class=3D"hljs-keyword">string</sp=
+an> getValue =3D redisClient.GetValue(key);=0A         System.Con=
+sole.WriteLine(<span class=3D"hljs-string" style=3D"color:rgb(136=
+, 0, 0);">"get key "</span> + getValue);=0A         redisClient.D=
+ispose();<span class=3D"hljs-comment" style=3D"color:rgb(136, 136=
+, 136);">//</span>=0A }<span class=3D"hljs-keyword">catch</span>=20=
+(Exception e)=0A {=0A         System.Console.WriteLine(e.Message)=
+;=0A }=0A }=0A         System.Console.Read();=0A }=0A <span class=
+=3D"hljs-function"><span class=3D"hljs-keyword">static</span> <sp=
+an class=3D"hljs-keyword">void</span> <span class=3D"hljs-title"=20=
+style=3D"color:rgb(136, 0, 0);">Main</span>(<span class=3D"hljs-p=
+arams"><span class=3D"hljs-keyword">string</span>[] args</span>)=0A=
+ </span>{=0A         <span class=3D"hljs-comment" style=3D"color:=
+rgb(136, 136, 136);">//=B5=A5=C1=B4=BD=D3=C4=A3=CA=BD</span>=0A =20=
+       RedisClientTest();=0A         <span class=3D"hljs-comment"=
+ style=3D"color:rgb(136, 136, 136);">//=C1=AC=BD=D3=B3=D8=C4=A3=CA=
+=BD</span>=0A         RedisPoolClientTest();=0A }=0A }=0A }</code=
+></pre></li></ol></section><section class=3D"section" id=3D"conce=
+pt-dys-yvb-5db-section-lwv-lkc-5db"><h2 class=3D"title sectiontit=
+le" id=3D"h2-url-6" style=3D"font-size:1.25rem;color:rgb(102, 102=
+, 102);">node-redis =BF=CD=BB=A7=B6=CB</h2><p class=3D"p" style=3D=
+"font-size:0.875rem;">=B2=D9=D7=F7=B2=BD=D6=E8=C8=E7=CF=C2=CB=F9=CA=
+=BE=A3=BA</p><ol class=3D"ol wiz-list-level1" id=3D"concept-dys-y=
+vb-5db-ol-mwv-lkc-5db"><li class=3D"li"><p class=3D"p" style=3D"f=
+ont-size:0.875rem;">=CF=C2=D4=D8=B2=A2=B0=B2=D7=B0 node-redis=A1=A3=
+</p><pre class=3D"pre codeblock" style=3D"font-size:0.875rem;back=
+ground:rgb(247, 247, 247);"><code class=3D"hljs cmake" style=3D"f=
+ont-family:monospace;font-size:0.875rem;background:0px 0px transp=
+arent;color:rgb(0, 0, 0);">npm <span class=3D"hljs-keyword">insta=
+ll</span> hiredis redis</code></pre></li><li class=3D"li"><p clas=
+s=3D"p" style=3D"font-size:0.875rem;">=D4=DA node-redis =BF=CD=BB=
+=A7=B6=CB=D6=D0=CA=E4=C8=EB=C8=E7=CF=C2=B4=FA=C2=EB=B2=A2=D6=B4=D0=
+=D0=D2=D4=B4=CB=C1=AC=BD=D3=D4=C6=CA=FD=BE=DD Redis =B0=E6=A1=A3<=
+/p><pre class=3D"pre codeblock" style=3D"font-size:0.875rem;backg=
+round:rgb(247, 247, 247);"><code class=3D"hljs routeros" style=3D=
+"font-family:monospace;font-size:0.875rem;background:0px 0px tran=
+sparent;color:rgb(0, 0, 0);"> var redis =3D require(<span class=3D=
+"hljs-string" style=3D"color:rgb(136, 0, 0);">"redis"</span>),=0A=
+<span class=3D"hljs-built_in"> client </span>=3D redis.createClie=
+nt({detect_buffers: <span class=3D"hljs-literal" style=3D"color:r=
+gb(0, 136, 0);">true</span>});=0A client.auth(<span class=3D"hljs=
+-string" style=3D"color:rgb(136, 0, 0);">"password"</span>, redis=
+.print)</code></pre></li><li class=3D"li"><p class=3D"p" style=3D=
+"font-size:0.875rem;">=CA=B9=D3=C3=D4=C6=CA=FD=BE=DD Redis =B0=E6=
+=A1=A3</p><pre class=3D"pre codeblock" style=3D"font-size:0.875re=
+m;background:rgb(247, 247, 247);"><code class=3D"hljs haxe" style=
+=3D"font-family:monospace;font-size:0.875rem;background:0px 0px t=
+ransparent;color:rgb(0, 0, 0);">   <span class=3D"hljs-comment" s=
+tyle=3D"color:rgb(136, 136, 136);">// =D0=B4=C8=EB=CA=FD=BE=DD</s=
+pan>=0A client.<span class=3D"hljs-keyword">set</span>(<span clas=
+s=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"key"</span>, <=
+span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"OK"</=
+span>);=0A <span class=3D"hljs-comment" style=3D"color:rgb(136, 1=
+36, 136);">// =BB=F1=C8=A1=CA=FD=BE=DD=A3=AC=B7=B5=BB=D8String</s=
+pan>=0A client.<span class=3D"hljs-keyword">get</span>(<span clas=
+s=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"key"</span>, <=
+span class=3D"hljs-function"><span class=3D"hljs-keyword">functio=
+n</span> </span>(err, reply) {=0A console.log(reply.toString());=20=
+<span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">=
+// print `OK`</span>=0A });=0A <span class=3D"hljs-comment" style=
+=3D"color:rgb(136, 136, 136);">// =C8=E7=B9=FB=B4=AB=C8=EB=D2=BB=B8=
+=F6Buffer=A3=AC=B7=B5=BB=D8=D2=B2=CA=C7=D2=BB=B8=F6Buffer</span>=0A=
+ client.<span class=3D"hljs-keyword">get</span>(<span class=3D"hl=
+js-keyword">new</span> <span class=3D"hljs-type">Buffer</span>(<s=
+pan class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"key"</=
+span>), <span class=3D"hljs-function"><span class=3D"hljs-keyword=
+">function</span> </span>(err, reply) {=0A console.log(reply.toSt=
+ring()); <span class=3D"hljs-comment" style=3D"color:rgb(136, 136=
+, 136);">// print `&lt;Buffer 4f 4b&gt;`</span>=0A });=0A client.=
+quit();</code></pre></li></ol></section><section class=3D"section=
+" id=3D"concept-dys-yvb-5db-section-uwv-lkc-5db"><h2 class=3D"tit=
+le sectiontitle" id=3D"h2-url-7" style=3D"font-size:1.25rem;color=
+:rgb(102, 102, 102);">C# =BF=CD=BB=A7=B6=CB StackExchange.Redis</=
+h2><p class=3D"p" style=3D"font-size:0.875rem;">=B2=D9=D7=F7=B2=BD=
+=D6=E8=C8=E7=CF=C2=CB=F9=CA=BE=A3=BA</p><ol class=3D"ol wiz-list-=
+level1" id=3D"concept-dys-yvb-5db-ol-vwv-lkc-5db"><li class=3D"li=
+"><p class=3D"p" style=3D"font-size:0.875rem;">=CF=C2=D4=D8=B2=A2=
+=B0=B2=D7=B0<span class=3D"Apple-converted-space">&nbsp;</span><a=
+ class=3D"xref" href=3D"https://github.com/StackExchange/StackExc=
+hange.Redis?spm=3D5176.100239.blogcont272212.10.IsQwET&amp;file=3D=
+StackExchange.Redis" target=3D"_blank" style=3D"text-decoration:n=
+one;color:rgb(0, 183, 211);background:0px 0px;">StackExchange.Red=
+is</a>=A1=A3</p></li><li class=3D"li"><div class=3D"p">=CC=ED=BC=D3=
+=D2=FD=D3=C3=A1=A3<pre class=3D"pre codeblock" style=3D"font-size=
+:0.875rem;background:rgb(247, 247, 247);"><code class=3D"hljs abn=
+f" style=3D"font-family:monospace;font-size:0.875rem;background:0=
+px 0px transparent;color:rgb(0, 0, 0);">using StackExchange.Redis=
+<span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">=
+;</span></code></pre></div></li><li class=3D"li"><p class=3D"p" s=
+tyle=3D"font-size:0.875rem;">=B3=F5=CA=BC=BB=AF ConnectionMultipl=
+exer=A1=A3</p><p class=3D"p" style=3D"font-size:0.875rem;">Connec=
+tionMultiplexer =CA=C7 StackExchange.Redis =B5=C4=BA=CB=D0=C4=A3=AC=
+=CB=FC=B1=BB=D5=FB=B8=F6=D3=A6=D3=C3=B3=CC=D0=F2=B9=B2=CF=ED=BA=CD=
+=D6=D8=D3=C3=A3=AC=D3=A6=B8=C3=C9=E8=D6=C3=CE=AA=B5=A5=C0=FD=A3=AC=
+=CB=FC=B5=C4=B3=F5=CA=BC=BB=AF=C8=E7=CF=C2=A3=BA</p><pre class=3D=
+"pre codeblock" style=3D"font-size:0.875rem;background:rgb(247, 2=
+47, 247);"><code class=3D"hljs cs" style=3D"font-family:monospace=
+;font-size:0.875rem;background:0px 0px transparent;color:rgb(0, 0=
+, 0);"> <span class=3D"hljs-comment" style=3D"color:rgb(136, 136,=
+ 136);">// redis config</span>=0A <span class=3D"hljs-keyword">pr=
+ivate</span> <span class=3D"hljs-keyword">static</span> Configura=
+tionOptions configurationOptions =3D ConfigurationOptions.Parse(<=
+span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"127.0=
+.0.1:6379,password=3Dxxx,connectTimeout=3D2000"</span>);=0A  <spa=
+n class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">//th=
+e lock for singleton</span>=0A <span class=3D"hljs-keyword">priva=
+te</span> <span class=3D"hljs-keyword">static</span> <span class=3D=
+"hljs-keyword">readonly</span> <span class=3D"hljs-keyword">objec=
+t</span> Locker =3D <span class=3D"hljs-keyword">new</span> <span=
+ class=3D"hljs-keyword">object</span>();=0A  <span class=3D"hljs-=
+comment" style=3D"color:rgb(136, 136, 136);">//singleton</span>=0A=
+ <span class=3D"hljs-keyword">private</span> <span class=3D"hljs-=
+keyword">static</span> ConnectionMultiplexer redisConn;=0A <span=20=
+class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136);">//sing=
+leton</span>=0A <span class=3D"hljs-function"><span class=3D"hljs=
+-keyword">public</span> <span class=3D"hljs-keyword">static</span=
+> ConnectionMultiplexer <span class=3D"hljs-title" style=3D"color=
+:rgb(136, 0, 0);">getRedisConn</span>()=0A </span>{=0A     <span=20=
+class=3D"hljs-keyword">if</span> (redisConn =3D=3D <span class=3D=
+"hljs-literal" style=3D"color:rgb(0, 136, 0);">null</span>)=0A  =20=
+  {=0A         <span class=3D"hljs-keyword">lock</span> (Locker)=0A=
+         {=0A             <span class=3D"hljs-keyword">if</span>=20=
+(redisConn =3D=3D <span class=3D"hljs-literal" style=3D"color:rgb=
+(0, 136, 0);">null</span> || !redisConn.IsConnected)=0A         =20=
+   {=0A                 redisConn =3D ConnectionMultiplexer.Conne=
+ct(configurationOptions);=0A             }=0A         }=0A     }=0A=
+     <span class=3D"hljs-keyword">return</span> redisConn;=0A }</=
+code></pre><div class=3D"wiz-table-container" style=3D"position:=20=
+relative; padding: 0px;"><div class=3D"note note note_note wiz-ta=
+ble-body"><table class=3D"note__title notetitle catchTable" style=
+=3D"width:740px;"><tbody><tr><td rowspan=3D"2" style=3D"font-size=
+:0.875rem;width:32px;"><img src=3D"0.0037106261353090364.png"></t=
+d><td style=3D"font-size:0.875rem;"><span>=CB=B5=C3=F7</span></td=
+></tr><tr><td style=3D"font-size:0.813rem;width:auto;"><p class=3D=
+"p" style=3D"font-size:0.875rem;">ConfigurationOptions =B0=FC=BA=AC=
+=BA=DC=B6=E0=D1=A1=CF=EE=A3=AC=C0=FD=C8=E7 keepAlive=A1=A2connect=
+Retry=A1=A2name=A3=AC=BE=DF=CC=E5=BF=C9=D2=D4=B2=CE=BF=BCStackExc=
+hange.Redis.ConfigurationOptions=A1=A3</p></td></tr></tbody></tab=
+le></div></div></li><li class=3D"li"><p class=3D"p" style=3D"font=
+-size:0.875rem;">GetDatabase()=B7=B5=BB=D8=B5=C4=B6=D4=CF=F3=CA=C7=
+=C7=E1=C1=BF=BC=B6=B5=C4=A3=AC=C3=BF=B4=CE=D3=C3=B5=C4=CA=B1=BA=F2=
+=B4=D3 ConnectionMultiplexer =B6=D4=CF=F3=D6=D0=BB=F1=C8=A1=BC=B4=
+=BF=C9=A1=A3</p><pre class=3D"pre codeblock" style=3D"font-size:0=
+.875rem;background:rgb(247, 247, 247);"><code class=3D"hljs ebnf"=
+ style=3D"font-family:monospace;font-size:0.875rem;background:0px=
+ 0px transparent;color:rgb(0, 0, 0);"><span class=3D"hljs-attribu=
+te"> redisConn</span> =3D getRedisConn();=0A<span class=3D"hljs-a=
+ttribute"> var db</span> =3D redisConn.GetDatabase();</code></pre=
+></li><li class=3D"li"><p class=3D"p" style=3D"font-size:0.875rem=
+;">=CF=C2=C3=E6=B8=F8=B3=F65=D6=D6=CA=FD=BE=DD=BD=E1=B9=B9=B5=C4=20=
+demo=A3=AC=CB=FC=C3=C7=B5=C4 API =BA=CD=D4=AD=C9=FA=C2=D4=D3=D0=B2=
+=BB=CD=AC=A3=AC=B7=D6=B1=F0=D3=C3 String=A1=A2Hash=A1=A2List=A1=A2=
+Set=A1=A2SortedSet =BF=AA=CD=B7=B4=FA=B1=ED5=D6=D6=CA=FD=BE=DD=BD=
+=E1=B9=B9=A1=A3</p><ul class=3D"ul" id=3D"concept-dys-yvb-5db-ul-=
+kxv-lkc-5db"><li class=3D"li"><p class=3D"p" style=3D"font-size:0=
+.875rem;">string=A3=BA</p><pre class=3D"pre codeblock" style=3D"f=
+ont-size:0.875rem;background:rgb(247, 247, 247);"><code class=3D"=
+hljs arduino" style=3D"font-family:monospace;font-size:0.875rem;b=
+ackground:0px 0px transparent;color:rgb(0, 0, 0);"><span class=3D=
+"hljs-comment" style=3D"color:rgb(136, 136, 136);">//set get</spa=
+n>=0A<span class=3D"hljs-keyword">string</span> strKey =3D <span=20=
+class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"hello"</sp=
+an>;=0A<span class=3D"hljs-keyword">string</span> strValue =3D <s=
+pan class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"world"=
+</span>;=0A<span class=3D"hljs-keyword">bool</span> setResult =3D=
+ db.StringSet(strKey, strValue);=0A<span class=3D"hljs-built_in">=
+Console</span>.WriteLine(<span class=3D"hljs-string" style=3D"col=
+or:rgb(136, 0, 0);">"set "</span> + strKey + <span class=3D"hljs-=
+string" style=3D"color:rgb(136, 0, 0);">" "</span> + strValue + <=
+span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">", res=
+ult is "</span> + setResult);=0A<span class=3D"hljs-comment" styl=
+e=3D"color:rgb(136, 136, 136);">//incr</span>=0A<span class=3D"hl=
+js-keyword">string</span> counterKey =3D <span class=3D"hljs-stri=
+ng" style=3D"color:rgb(136, 0, 0);">"counter"</span>;=0A<span cla=
+ss=3D"hljs-keyword">long</span> counterValue =3D db.StringIncreme=
+nt(counterKey);=0A<span class=3D"hljs-built_in">Console</span>.Wr=
+iteLine(<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0)=
+;">"incr "</span> + counterKey + <span class=3D"hljs-string" styl=
+e=3D"color:rgb(136, 0, 0);">", result is "</span> + counterValue)=
+;=0A<span class=3D"hljs-comment" style=3D"color:rgb(136, 136, 136=
+);">//expire</span>=0Adb.KeyExpire(strKey, <span class=3D"hljs-ke=
+yword">new</span> TimeSpan(<span class=3D"hljs-number" style=3D"c=
+olor:rgb(0, 136, 0);">0</span>, <span class=3D"hljs-number" style=
+=3D"color:rgb(0, 136, 0);">0</span>, <span class=3D"hljs-number"=20=
+style=3D"color:rgb(0, 136, 0);">5</span>));=0AThread.Sleep(<span=20=
+class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">5</span> *=20=
+<span class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">1000<=
+/span>);=0A<span class=3D"hljs-built_in">Console</span>.WriteLine=
+(<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"exp=
+ire "</span> + strKey + <span class=3D"hljs-string" style=3D"colo=
+r:rgb(136, 0, 0);">", after 5 seconds, value is "</span> + db.Str=
+ingGet(strKey));=0A<span class=3D"hljs-comment" style=3D"color:rg=
+b(136, 136, 136);">//mset mget</span>=0AKeyValuePair&lt;RedisKey,=
+ RedisValue&gt; kv1 =3D <span class=3D"hljs-keyword">new</span> K=
+eyValuePair&lt;RedisKey, RedisValue&gt;(<span class=3D"hljs-strin=
+g" style=3D"color:rgb(136, 0, 0);">"key1"</span>, <span class=3D"=
+hljs-string" style=3D"color:rgb(136, 0, 0);">"value1"</span>);=0A=
+KeyValuePair&lt;RedisKey, RedisValue&gt; kv2 =3D <span class=3D"h=
+ljs-keyword">new</span> KeyValuePair&lt;RedisKey, RedisValue&gt;(=
+<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"key2=
+"</span>, <span class=3D"hljs-string" style=3D"color:rgb(136, 0,=20=
+0);">"value2"</span>);=0Adb.StringSet(<span class=3D"hljs-keyword=
+">new</span> KeyValuePair&lt;RedisKey, RedisValue&gt;[] {kv1,kv2}=
+);            =0ARedisValue[] values =3D db.StringGet(<span class=
+=3D"hljs-keyword">new</span> RedisKey[] {kv1.Key, kv2.Key});=0A<s=
+pan class=3D"hljs-built_in">Console</span>.WriteLine(<span class=3D=
+"hljs-string" style=3D"color:rgb(136, 0, 0);">"mget "</span> + kv=
+1.Key.ToString() + <span class=3D"hljs-string" style=3D"color:rgb=
+(136, 0, 0);">" "</span> + kv2.Key.ToString() + <span class=3D"hl=
+js-string" style=3D"color:rgb(136, 0, 0);">", result is "</span>=20=
++ values[<span class=3D"hljs-number" style=3D"color:rgb(0, 136, 0=
+);">0</span>] + <span class=3D"hljs-string" style=3D"color:rgb(13=
+6, 0, 0);">"&amp;&amp;"</span> + values[<span class=3D"hljs-numbe=
+r" style=3D"color:rgb(0, 136, 0);">1</span>]);</code></pre></li><=
+li class=3D"li"><p class=3D"p" style=3D"font-size:0.875rem;">hash=
+</p><pre class=3D"pre codeblock" style=3D"font-size:0.875rem;back=
+ground:rgb(247, 247, 247);"><code class=3D"hljs arduino" style=3D=
+"font-family:monospace;font-size:0.875rem;background:0px 0px tran=
+sparent;color:rgb(0, 0, 0);"><span class=3D"hljs-keyword">string<=
+/span> hashKey =3D <span class=3D"hljs-string" style=3D"color:rgb=
+(136, 0, 0);">"myhash"</span>;=0A<span class=3D"hljs-comment" sty=
+le=3D"color:rgb(136, 136, 136);">//hset</span>=0Adb.HashSet(hashK=
+ey,<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"f=
+1"</span>,<span class=3D"hljs-string" style=3D"color:rgb(136, 0,=20=
+0);">"v1"</span>);=0Adb.HashSet(hashKey,<span class=3D"hljs-strin=
+g" style=3D"color:rgb(136, 0, 0);">"f2"</span>, <span class=3D"hl=
+js-string" style=3D"color:rgb(136, 0, 0);">"v2"</span>);=0AHashEn=
+try[] values =3D db.HashGetAll(hashKey);=0A<span class=3D"hljs-co=
+mment" style=3D"color:rgb(136, 136, 136);">//hgetall</span>=0A<sp=
+an class=3D"hljs-built_in">Console</span>.Write(<span class=3D"hl=
+js-string" style=3D"color:rgb(136, 0, 0);">"hgetall "</span> + ha=
+shKey + <span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0)=
+;">", result is"</span>);=0A<span class=3D"hljs-built_in">for</sp=
+an> (<span class=3D"hljs-keyword">int</span> i =3D <span class=3D=
+"hljs-number" style=3D"color:rgb(0, 136, 0);">0</span>; i &lt; va=
+lues.Length;i++) =0A{=0A  HashEntry hashEntry =3D values[i];=0A =20=
+<span class=3D"hljs-built_in">Console</span>.Write(<span class=3D=
+"hljs-string" style=3D"color:rgb(136, 0, 0);">" "</span> + hashEn=
+try.Name.ToString() + <span class=3D"hljs-string" style=3D"color:=
+rgb(136, 0, 0);">" "</span> + hashEntry.Value.ToString());=0A}=0A=
+<span class=3D"hljs-built_in">Console</span>.WriteLine();</code><=
+/pre></li><li class=3D"li"><p class=3D"p" style=3D"font-size:0.87=
+5rem;">list</p><pre class=3D"pre codeblock" style=3D"font-size:0.=
+875rem;background:rgb(247, 247, 247);"><code class=3D"hljs tcl" s=
+tyle=3D"font-family:monospace;font-size:0.875rem;background:0px 0=
+px transparent;color:rgb(0, 0, 0);">//<span class=3D"hljs-keyword=
+">list</span> key=0A<span class=3D"hljs-keyword">string</span> li=
+stKey =3D <span class=3D"hljs-string" style=3D"color:rgb(136, 0,=20=
+0);">"myList"</span>;=0A//rpush=0Adb.ListRightPush(listKey, <span=
+ class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"a"</span>=
+);=0Adb.ListRightPush(listKey, <span class=3D"hljs-string" style=3D=
+"color:rgb(136, 0, 0);">"b"</span>);=0Adb.ListRightPush(listKey,=20=
+<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"c"</=
+span>);=0A//<span class=3D"hljs-keyword">lrange</span>=0ARedisVal=
+ue[] values =3D db.ListRange(listKey, <span class=3D"hljs-number"=
+ style=3D"color:rgb(0, 136, 0);">0</span>, <span class=3D"hljs-nu=
+mber" style=3D"color:rgb(0, 136, 0);">-1</span>);=0AConsole.Write=
+(<span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"lra=
+nge "</span> + listKey + <span class=3D"hljs-string" style=3D"col=
+or:rgb(136, 0, 0);">" 0 -1, result is "</span>);=0A<span class=3D=
+"hljs-keyword">for</span> (int i =3D <span class=3D"hljs-number"=20=
+style=3D"color:rgb(0, 136, 0);">0</span>; i &lt; values.Length; i=
+++)=0A{=0A Console.Write(values[i] + <span class=3D"hljs-string"=20=
+style=3D"color:rgb(136, 0, 0);">" "</span>);=0A}=0AConsole.WriteL=
+ine();</code></pre></li><li class=3D"li"><p class=3D"p" style=3D"=
+font-size:0.875rem;">set</p><pre class=3D"pre codeblock" style=3D=
+"font-size:0.875rem;background:rgb(247, 247, 247);"><code class=3D=
+"hljs pf" style=3D"font-family:monospace;font-size:0.875rem;backg=
+round:0px 0px transparent;color:rgb(0, 0, 0);">//<span class=3D"h=
+ljs-built_in">set</span> key=0Astring <span class=3D"hljs-built_i=
+n">set</span>Key =3D <span class=3D"hljs-string" style=3D"color:r=
+gb(136, 0, 0);">"mySet"</span>;=0A//sadd=0Adb.SetAdd(<span class=3D=
+"hljs-built_in">set</span>Key, <span class=3D"hljs-string" style=3D=
+"color:rgb(136, 0, 0);">"a"</span>);=0Adb.SetAdd(<span class=3D"h=
+ljs-built_in">set</span>Key, <span class=3D"hljs-string" style=3D=
+"color:rgb(136, 0, 0);">"b"</span>);=0Adb.SetAdd(<span class=3D"h=
+ljs-built_in">set</span>Key, <span class=3D"hljs-string" style=3D=
+"color:rgb(136, 0, 0);">"c"</span>);=0A//sismember=0Abool isConta=
+ins =3D db.SetContains(<span class=3D"hljs-built_in">set</span>Ke=
+y, <span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"a=
+"</span>);=0AConsole.WriteLine(<span class=3D"hljs-string" style=3D=
+"color:rgb(136, 0, 0);">"set "</span> + <span class=3D"hljs-built=
+_in">set</span>Key + <span class=3D"hljs-string" style=3D"color:r=
+gb(136, 0, 0);">" contains a is "</span> + isContains );</code></=
+pre></li><li class=3D"li"><p class=3D"p" style=3D"font-size:0.875=
+rem;">sortedset</p><pre class=3D"pre codeblock" style=3D"font-siz=
+e:0.875rem;background:rgb(247, 247, 247);"><code class=3D"hljs ls=
+l" style=3D"font-family:monospace;font-size:0.875rem;background:0=
+px 0px transparent;color:rgb(0, 0, 0);"><span class=3D"hljs-type"=
+>string</span> sortedSetKey =3D <span class=3D"hljs-string" style=
+=3D"color:rgb(136, 0, 0);">"myZset"</span>;=0A<span class=3D"hljs=
+-comment" style=3D"color:rgb(136, 136, 136);">//sadd</span>=0Adb.=
+SortedSetAdd(sortedSetKey, <span class=3D"hljs-string" style=3D"c=
+olor:rgb(136, 0, 0);">"xiaoming"</span>, <span class=3D"hljs-numb=
+er" style=3D"color:rgb(0, 136, 0);">85</span>);=0Adb.SortedSetAdd=
+(sortedSetKey, <span class=3D"hljs-string" style=3D"color:rgb(136=
+, 0, 0);">"xiaohong"</span>, <span class=3D"hljs-number" style=3D=
+"color:rgb(0, 136, 0);">100</span>);=0Adb.SortedSetAdd(sortedSetK=
+ey, <span class=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"=
+xiaofei"</span>, <span class=3D"hljs-number" style=3D"color:rgb(0=
+, 136, 0);">62</span>);=0Adb.SortedSetAdd(sortedSetKey, <span cla=
+ss=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">"xiaotang"</sp=
+an>, <span class=3D"hljs-number" style=3D"color:rgb(0, 136, 0);">=
+73</span>);=0A<span class=3D"hljs-comment" style=3D"color:rgb(136=
+, 136, 136);">//zrevrangebyscore</span>=0ARedisValue[] names =3D=20=
+db.SortedSetRangeByRank(sortedSetKey, <span class=3D"hljs-number"=
+ style=3D"color:rgb(0, 136, 0);">0</span>, <span class=3D"hljs-nu=
+mber" style=3D"color:rgb(0, 136, 0);">2</span>, Order.Ascending);=
+=0AConsole.Write(<span class=3D"hljs-string" style=3D"color:rgb(1=
+36, 0, 0);">"zrevrangebyscore "</span> + sortedSetKey + <span cla=
+ss=3D"hljs-string" style=3D"color:rgb(136, 0, 0);">" 0 2, result=20=
+is "</span>);=0Afor (int i =3D <span class=3D"hljs-number" style=3D=
+"color:rgb(0, 136, 0);">0</span>; i &lt; names.Length; i++)=0A{=0A=
+  Console.Write(names[i] + <span class=3D"hljs-string" style=3D"c=
+olor:rgb(136, 0, 0);">" "</span>);=0A}=0AConsole.WriteLine();</co=
+de></pre></li></ul></li></ol></section></div><div class=3D"title"=
+ style=3D"background:rgb(255, 255, 255);font-size:0.875rem;color:=
+rgb(55, 61, 65)">=CF=E0=B9=D8=CE=C4=B5=B5</div><div class=3D"reco=
+mmended-content recommended-docs" data-spm=3D"4" style=3D"backgro=
+und:rgb(255, 255, 255);"><ul class=3D"list" style=3D"font-size:0.=
+875rem;color:rgb(0, 193, 222);"><br class=3D"Apple-interchange-ne=
+wline"></ul></div><div class=3D"recommendation-area"><br></div><d=
+iv style=3D"color:gray;"><small>=C0=B4=D4=B4=A3=BA&nbsp;<a href=3D=
+"https://help.aliyun.com/document_detail/43848.html?spm=3Da2c4g.1=
+1186623.6.570.0jOLMt">https://help.aliyun.com/document_detail/438=
+48.html?spm=3Da2c4g.11186623.6.570.0jOLMt</a></small></div><br></=
+div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A
+
+------=_Next_Part_0000169203.618--
+
+------=_Next_Part_0000507609.458
+Content-Type: image/png;
+	name="0.021091659523858164.png"
+Content-Transfer-Encoding: base64
+Content-ID: <0.021091659523858164.png>
+Content-Location: 0.021091659523858164.png
+
+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
+
+------=_Next_Part_0000507609.458
+Content-Type: image/png;
+	name="0.0037106261353090364.png"
+Content-Transfer-Encoding: base64
+Content-ID: <0.0037106261353090364.png>
+Content-Location: 0.0037106261353090364.png
+
+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
+
+------=_Next_Part_0000507609.458--
+

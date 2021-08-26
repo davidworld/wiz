@@ -1,0 +1,128 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?U3BhcmvX99K11rTQ0NS0wuu31s72?=
+Date: Date: Fri, 23 Jul 2021 05:55:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0001437000.108"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0001437000.108
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000479000.927"
+
+
+------=_Next_Part_0000479000.927
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000479000.927
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+<title>Spark=D7=F7=D2=B5=D6=B4=D0=D0=D4=B4=C2=EB=B7=D6=CE=F6</tit=
+le>=0A    =0A<style id=3D"wiz_custom_css">html, .wiz-editor-body=20=
+{font-size: 12pt;}.wiz-editor-body {font-family: Helvetica, 'Hira=
+gino Sans GB', '=E5=BE=AE=E8=BD=AF=E9=9B=85=E9=BB=91', 'Microsoft=
+ YaHei UI', SimSun, SimHei, arial, sans-serif;line-height: 1.7;ma=
+rgin: 0 auto;padding: 20px 16px;padding: 1.25rem 1rem;}.wiz-edito=
+r-body h1,.wiz-editor-body h2,.wiz-editor-body h3,.wiz-editor-bod=
+y h4,.wiz-editor-body h5,.wiz-editor-body h6 {margin:20px 0 10px;=
+margin:1.25rem 0 0.625rem;padding: 0;font-weight: bold;}.wiz-edit=
+or-body h1 {font-size:20pt;font-size:1.67rem;}.wiz-editor-body h2=
+ {font-size:18pt;font-size:1.5rem;}.wiz-editor-body h3 {font-size=
+:15pt;font-size:1.25rem;}.wiz-editor-body h4 {font-size:14pt;font=
+-size:1.17rem;}.wiz-editor-body h5 {font-size:12pt;font-size:1rem=
+;}.wiz-editor-body h6 {font-size:12pt;font-size:1rem;color: #7777=
+77;margin: 1rem 0;}.wiz-editor-body div,.wiz-editor-body p,.wiz-e=
+ditor-body ul,.wiz-editor-body ol,.wiz-editor-body dl,.wiz-editor=
+-body li {margin:8px 0;}.wiz-editor-body blockquote,.wiz-editor-b=
+ody table,.wiz-editor-body pre,.wiz-editor-body code {margin:8px=20=
+0;}.wiz-editor-body .CodeMirror pre {margin:0;}.wiz-editor-body u=
+l,.wiz-editor-body ol {padding-left:32px;padding-left:2rem;}.wiz-=
+editor-body ol.wiz-list-level1 > li {list-style-type:decimal;}.wi=
+z-editor-body ol.wiz-list-level2 > li {list-style-type:lower-lati=
+n;}.wiz-editor-body ol.wiz-list-level3 > li {list-style-type:lowe=
+r-roman;}.wiz-editor-body blockquote {padding: 0 12px;}.wiz-edito=
+r-body blockquote > :first-child {margin-top:0;}.wiz-editor-body=20=
+blockquote > :last-child {margin-bottom:0;}.wiz-editor-body img {=
+border:0;max-width:100%;height:auto !important;margin:2px 0;}.wiz=
+-editor-body table {border-collapse:collapse;border:1px solid #bb=
+bbbb;}.wiz-editor-body td,.wiz-editor-body th {padding:4px 8px;bo=
+rder-collapse:collapse;border:1px solid #bbbbbb;min-height:28px;w=
+ord-break:break-word;box-sizing: border-box;}.wiz-hide {display:n=
+one !important;}</style></head>=0A=0A<body class=3D"wiz-editor-bo=
+dy" spellcheck=3D"false" ><div>=CC=E1=BD=BB=D7=F7=D2=B5</div><div=
+>RDD.collect() wordSort.collect()=B2=C5=BB=E1=B4=A5=B7=A2=D7=F7=D2=
+=B5=D6=B4=D0=D0=A3=AC=D4=DARDD=B5=C4=D4=B4=C2=EB=B5=C4collect=B7=BD=
+=B7=A8=B4=A5=B7=A2=C1=CBSparkContext=B5=C4runJob=B7=BD=B7=A8=C0=B4=
+=CC=E1=BD=BB=D7=F7=D2=B5</div><div>SparkContext.runJob =BD=F8=C8=EB=
+DAGScheduler=B5=C4runJob=B7=BD=B7=A8</div><div>DAGScheduler.runJo=
+b --&gt; DAGScheduler.submitJob =B4=B4=BD=A8=C1=CB=D2=BB=B8=F6Job=
+Waiter=B6=D4=CF=F3,</div><div>DAGSchedulerEventProcessLoop.post =B7=
+=A2=CB=CD=B8=F8DAGScheduler=B5=C4=C4=DA=C7=B6=C0=E0DAGSchedulerEv=
+entProcessLoop=BD=F8=D0=D0=B4=A6=C0=ED</div><div>DAGSchedulerEven=
+tProcessLoop.onReceive =BD=D3=CA=D5job=A3=AC=CC=E1=BD=BB=D7=F7=D2=
+=B5</div><div>=BB=AE=B7=D6=B5=F7=B6=C8=BD=D7=B6=CE</div><div>DAGS=
+cheduler.handleJobSubmitted =CA=B9=D3=C3=D7=EE=BA=F3=D2=BB=B8=F6R=
+DD=B4=B4=BD=A8=D2=BB=B8=F6finalStage &nbsp; &nbsp;</div><div>DAGS=
+cheduler.createResultStage	=B5=C3=B5=BD=CB=F9=D3=D0=B5=C4=B8=B8=C0=
+=E0stage=D2=D4=BC=B0=CB=FC=C3=C7=B5=C4id</div><div>DAGScheduler.g=
+etOrCreateParentStages	=B5=C3=B5=BD=CB=F9=D3=D0=B5=C4=B8=B8stage<=
+/div><div>DAGScheduler.getShuffleDependencies	=CD=F9=C7=B0=B5=B9=CD=
+=C6=A3=AC=C5=D0=B6=CF=CA=C7=B7=F1=D3=D0shuffle=D2=C0=C0=B5</div><=
+div>DAGScheduler.getOrCreateShuffleMapStage	-&gt;getMissingAncest=
+orShuffleDependencies =B7=B5=BB=D8=CB=F9=D3=D0=BF=ED=D2=C0=C0=B5<=
+/div><div>=CC=E1=BD=BB=B5=F7=B6=C8=BD=D7=B6=CE=A3=BA</div><div>DA=
+GScheduler.submitStage	=C8=E7=B9=FB=B4=E6=D4=DA=B8=B8=B5=F7=B6=C8=
+=BD=D7=B6=CE=A3=AC=D4=F2=B0=D1=B8=C3=B5=F7=B6=C8=BD=D7=B6=CE=B4=E6=
+=B7=C5=B5=BDwaitingStages=C1=D0=B1=ED=D6=D0=A3=AC=CD=AC=CA=B1=B5=DD=
+=B9=E9=B5=F7=D3=C3submitStage</div><div>DAGScheduler.getMissingPa=
+rentStages	=C5=D0=B6=CF=BF=ED=D2=C0=C0=B5=BA=CD=D5=AD=D2=C0=C0=B5=
+=C0=B4=BB=AE=B7=D6stage</div><div>=CC=E1=BD=BB=C8=CE=CE=F1</div><=
+div>DAGScheduler.submitMissingTasks	=B8=F8=C3=BF=B8=F6partition=B4=
+=B4=BD=A8=D2=BB=B8=F6task</div><div>DAGScheduler.getPreferredLocs=
+	=B8=F8=C3=BF=B8=F6task=BC=C6=CB=E3=D7=EE=BC=D1=CE=BB=D6=C3</div>=
+<div>TaskSchedulerImpl.submitTasks	=CC=E1=BD=BB=C8=CE=CE=F1</div>=
+<div>&nbsp;TaskSchedulerImpl.createTaskSetManager =C8=CE=CE=F1=D6=
+=B4=D0=D0=D7=B4=BF=F6=B5=C4=BC=E0=CA=D3=BA=CD=B9=DC=C0=ED</div><d=
+iv>&nbsp;SchedulableBuilder.addTaskSetManager	=BC=D3=C8=EB=C8=CE=CE=
+=F1=B5=F7=B6=C8=B3=D8=A3=AC=D6=A7=B3=D6=CF=C8=C8=EB=CF=C8=B3=F6=BA=
+=CD=B9=AB=C6=BD=B5=F7=B6=C8</div><div>&nbsp;CoarseGrainedSchedule=
+rBackend.reviveOffers	=CF=F2DriverEndpoint=B7=A2=CB=CD=CF=FB=CF=A2=
+=A3=AC=B5=F7=D3=C3makeOffers=B7=BD=B7=A8</div><div>&nbsp;CoarseGr=
+ainedSchedulerBackend.DriverEndpoint.makeOffers	=BB=F1=C8=A1=BC=AF=
+=C8=BA=D6=D0=BF=C9=D3=C3=B5=C4Executor=A3=AC=B6=D4=C8=CE=CE=F1=BC=
+=AF=B5=C4=C8=CE=CE=F1=B7=D6=C5=E4=D4=CB=D0=D0=D7=CA=D4=B4=A3=AC=D7=
+=EE=BA=F3=CC=E1=BD=BB=B5=BDlaunchTasks=B7=BD=B7=A8=D6=D0</div><di=
+v>&nbsp;TaskSchedulerImpl.resourceOffers	=B0=B4=D5=D5=BE=CD=BD=FC=
+=D4=AD=D4=F2=B7=D6=C5=E4=D7=CA=D4=B4</div><div>&nbsp; =BC=A4=BB=EE=
+=CB=F9=D3=D0slave=BD=DA=B5=E3=A3=AC=BC=C7=C2=BC=C6=E4hostname=A3=AC=
+=B2=A2=BC=EC=B2=E9=CA=C7=B7=F1=D3=D0=D0=C2=B5=C4executor=BC=D3=C8=
+=EB</div><div>&nbsp; Random.shuffle(offers)	=BD=ABworkers=B5=C4=CB=
+=B3=D0=F2=CB=E6=BB=FA=CF=B4=C5=C6=A3=AC=D2=D4=B1=DC=C3=E2=D7=DC=CA=
+=C7=C7=B0=BC=B8=B8=F6worker=B1=BB=B7=D6=C5=E4=B5=BD=C8=CE=CE=F1</=
+div><div>&nbsp; Pool.getSortedTaskSetQueue	=B0=B4=D3=C5=CF=C8=BC=B6=
+=C5=C5=D0=F2=B5=C4TaskSetManager=D0=F2=C1=D0=A3=AC=C8=CE=CE=F1=D3=
+=C5=CF=C8=BC=B6=CA=C7=D3=C9Pool=B5=C4=B5=F7=B6=C8=C4=A3=CA=BD(FIF=
+O/FAIR)=BE=F6=B6=A8=B5=C4</div><div>&nbsp; TaskSchedulerImpl.reso=
+urceOfferSingleTaskSet	=B0=B4=D5=D5=B5=F7=B6=C8=D3=C5=CF=C8=BC=B6=
+=CB=B3=D0=F2=B1=E9=C0=FATaskSet=A3=AC=D4=DA=CB=F9=D3=D0=CF=B5=CD=B3=
+=D7=CA=D4=B4(WorkerOffer)=C9=CF=B4=D3=D7=EE=B8=DFLocality=B5=BD=D7=
+=EE=B5=CDLocality=D2=C0=B4=CE=B3=A2=CA=D4=D6=B4=D0=D0=D7=EE=CA=CA=
+=BA=CF=B5=C4task</div><div>&nbsp;&nbsp;</div><div><span class=3D"=
+Apple-tab-span" style=3D"white-space:pre">	</span></div><div>mark=
+StageAsFinished =B1=EA=BC=C7stage=CD=EA=B3=C9</div><div><br></div=
+></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000479000.927--
+
+------=_Next_Part_0001437000.108--
+

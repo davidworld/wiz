@@ -1,0 +1,102 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?cmVnaW9uc2VydmVyvdPK1XNjYW4=?=
+Date: Date: Fri, 23 Jul 2021 05:55:32 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0001436859.376"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0001436859.376
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000478953.254"
+
+
+------=_Next_Part_0000478953.254
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000478953.254
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A<title>regionserver=BD=D3=CA=D5scan</title>=0A    =0A<style id=
+=3D"wiz_custom_css">html, .wiz-editor-body {font-size: 12pt;}.wiz=
+-editor-body {font-family: Helvetica, 'Hiragino Sans GB', '=E5=BE=
+=AE=E8=BD=AF=E9=9B=85=E9=BB=91', 'Microsoft YaHei UI', SimSun, Si=
+mHei, arial, sans-serif;line-height: 1.7;margin: 0 auto;padding:=20=
+20px 16px;padding: 1.25rem 1rem;}.wiz-editor-body h1,.wiz-editor-=
+body h2,.wiz-editor-body h3,.wiz-editor-body h4,.wiz-editor-body=20=
+h5,.wiz-editor-body h6 {margin:20px 0 10px;margin:1.25rem 0 0.625=
+rem;padding: 0;font-weight: bold;}.wiz-editor-body h1 {font-size:=
+20pt;font-size:1.67rem;}.wiz-editor-body h2 {font-size:18pt;font-=
+size:1.5rem;}.wiz-editor-body h3 {font-size:15pt;font-size:1.25re=
+m;}.wiz-editor-body h4 {font-size:14pt;font-size:1.17rem;}.wiz-ed=
+itor-body h5 {font-size:12pt;font-size:1rem;}.wiz-editor-body h6=20=
+{font-size:12pt;font-size:1rem;color: #777777;margin: 1rem 0;}.wi=
+z-editor-body div,.wiz-editor-body p,.wiz-editor-body ul,.wiz-edi=
+tor-body ol,.wiz-editor-body dl,.wiz-editor-body li {margin:8px 0=
+;}.wiz-editor-body blockquote,.wiz-editor-body table,.wiz-editor-=
+body pre,.wiz-editor-body code {margin:8px 0;}.wiz-editor-body .C=
+odeMirror pre {margin:0;}.wiz-editor-body ul,.wiz-editor-body ol=20=
+{padding-left:32px;padding-left:2rem;}.wiz-editor-body ol.wiz-lis=
+t-level1 > li {list-style-type:decimal;}.wiz-editor-body ol.wiz-l=
+ist-level2 > li {list-style-type:lower-latin;}.wiz-editor-body ol=
+.wiz-list-level3 > li {list-style-type:lower-roman;}.wiz-editor-b=
+ody blockquote {padding: 0 12px;}.wiz-editor-body blockquote > :f=
+irst-child {margin-top:0;}.wiz-editor-body blockquote > :last-chi=
+ld {margin-bottom:0;}.wiz-editor-body img {border:0;max-width:100=
+%;height:auto !important;margin:2px 0;}.wiz-editor-body table {bo=
+rder-collapse:collapse;border:1px solid #bbbbbb;}.wiz-editor-body=
+ td,.wiz-editor-body th {padding:4px 8px;border-collapse:collapse=
+;border:1px solid #bbbbbb;min-height:28px;word-break:break-word;b=
+ox-sizing: border-box;}.wiz-hide {display:none !important;}</styl=
+e></head>=0A=0A<body class=3D"wiz-editor-body"  spellcheck=3D"fal=
+se"><div>RSRpcServices.scan</div><div>&nbsp;scannerName =3D Strin=
+g.valueOf(scannerId);	=B8=F9=BE=DDscannerId=BB=F1=B5=C3scannerNam=
+e</div><div>&nbsp;checkOpen(); =C5=D0=B6=CFregionServer=CA=C7=B7=F1=
+=D5=FD=B3=A3</div><div>&nbsp;rsh =3D scanners.get(scannerName);	=BB=
+=F1=B5=C3RegionScannerHolder</div><div>&nbsp;scanner =3D region.g=
+etScanner(scan);	=BB=F1=B5=C3 RegionScanner&nbsp;</div><div>&nbsp=
+;scannerId =3D addScanner(scanner, region); =C7=A9=B6=A9=CD=A8=B9=
+=FD regionServer.leases.createLease =D7=E2=D4=BC</div><div>&nbsp;=
+scanner =3D rsh.s;	=BB=F1=B5=C3RegionScannerImpl</div><div>&nbsp;=
+getQuotaManager().checkQuota	=D0=A3=D1=E9=D7=E2=BB=A7=C8=DD=C1=BF=
+&nbsp;</div><div>&nbsp;moreRows =3D scanner.nextRaw(values, scann=
+erContext); =D1=AD=BB=B7=B5=F7=D3=C3=BB=F1=C8=A1=CA=FD=BE=DD</div=
+><div>HRegion.getScanner</div><div>&nbsp;startRegionOperation	=C5=
+=D0=B6=CFregion=D3=D0=D0=A7</div><div>&nbsp;instantiateRegionScan=
+ner =B3=F5=CA=BC=BB=AF=D2=BB=B8=F6 RegionScannerImpl&nbsp;</div><=
+div>&nbsp;getReadpoint	=B8=F9=BE=DD=CA=C2=CE=F1=BC=B6=B1=F0=BB=F1=
+=B5=C3pos=A3=A8=B8=D5=D0=B4=C8=EBmemstore=B5=C4pos=BB=B9=CA=C7=D2=
+=D1=BE=AD=D0=B4=C8=EBwal=B5=C4pos=A3=ACMultiVersionConcurrencyCon=
+trol=BF=D8=D6=C6readpoint=BA=CDwritepoint=A3=A9</div><div>&nbsp;s=
+canner =3D store.getScanner(scan, entry.getValue(), this.readPt);=
+ =B8=F9=BE=DDfamily=BB=F1=B5=C3=B6=E0=B8=F6store=B5=C4 StoreScann=
+er</div><div>&nbsp;StoreScanner</div><div>&nbsp;initializeKVHeap=20=
+=B3=F5=CA=BC=BB=AFstoreHeap=BA=CDjoinedHeap</div><div><span class=
+=3D"Apple-tab-span" style=3D"white-space:pre">	</span></div><div>=
+Leases</div><div>&nbsp;Leases extends HasThread =C6=F4=B6=AF=D2=BB=
+=B8=F6=CF=DF=B3=CC=A3=AC</div><div>&nbsp;leases.entrySet().iterat=
+or()	=C9=A8=C3=E8=CB=F9=D3=D0=D7=E2=D4=BC=CA=C7=B7=F1=CA=A7=D0=A7=
+</div><div>&nbsp;lease.getListener().leaseExpired(); =CA=A7=D0=A7=
+=B5=C4=BB=B0=BE=CD=B5=F7=D3=C3 ScannerListener.leaseExpired</div>=
+<div>&nbsp;RegionScanner.close =B9=D8=B1=D5=B2=BB=D4=D9=CA=B9=D3=C3=
+=B5=C4scanner</div><div>RegionScannerImpl.nextRaw</div><div>&nbsp=
+;moreValues =3D nextInternal(...)	=BB=F1=C8=A1=CA=FD=BE=DD</div><=
+div>&nbsp;populateResult	=B4=D3storeHeap=D6=D0=BB=F1=C8=A1=CA=FD=BE=
+=DD=B5=BDresult=D6=D0</div><div>&nbsp;stopRow =CD=A3=D6=B9=D0=D0=D6=
+=B1=BD=D3return</div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A
+
+------=_Next_Part_0000478953.254--
+
+------=_Next_Part_0001436859.376--
+

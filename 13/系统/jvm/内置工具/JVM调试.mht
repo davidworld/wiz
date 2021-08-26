@@ -1,0 +1,965 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?SlZNtffK1A==?=
+Date: Date: Fri, 23 Jul 2021 05:56:16 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0001570593.528"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0001570593.528
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000523531.443"
+
+
+------=_Next_Part_0000523531.443
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000523531.443
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<title>JVM=B5=F7=CA=D4</title>=0A    =0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A<style id=3D"wiz_custom_css">html, body {=
+font-size: 12pt;}body {font-family: Helvetica, 'Hiragino Sans GB'=
+, '=CE=A2=C8=ED=D1=C5=BA=DA', 'Microsoft YaHei UI', SimSun, SimHe=
+i, arial, sans-serif;line-height: 1.6;margin: 0 auto;padding: 20p=
+x 16px;padding: 1.25rem 1rem;}h1, h2, h3, h4, h5, h6 {margin:20px=
+ 0 10px;margin:1.25rem 0 0.625rem;padding: 0;font-weight: bold;}h=
+1 {font-size:20pt;font-size:1.67rem;}h2 {font-size:18pt;font-size=
+:1.5rem;}h3 {font-size:15pt;font-size:1.25rem;}h4 {font-size:14pt=
+;font-size:1.17rem;}h5 {font-size:12pt;font-size:1rem;}h6 {font-s=
+ize:12pt;font-size:1rem;color: #777777;margin: 1rem 0;}div, p, ul=
+, ol, dl, li {margin:0;}blockquote, table, pre, code {margin:8px=20=
+0;}ul, ol {padding-left:32px;padding-left:2rem;}ol.wiz-list-level=
+1 > li {list-style-type:decimal;}ol.wiz-list-level2 > li {list-st=
+yle-type:lower-latin;}ol.wiz-list-level3 > li {list-style-type:lo=
+wer-roman;}blockquote {padding:0 12px;padding:0 0.75rem;}blockquo=
+te > :first-child {margin-top:0;}blockquote > :last-child {margin=
+-bottom:0;}img {border:0;max-width:100%;height:auto !important;ma=
+rgin:2px 0;}table {border-collapse:collapse;border:1px solid #bbb=
+bbb;}td, th {padding:4px 8px;border-collapse:collapse;border:1px=20=
+solid #bbbbbb;min-height:28px;word-break:break-all;box-sizing: bo=
+rder-box;}.wiz-hide {display:none !important;}</style></head>=0A=0A=
+<body style class spellcheck=3D"false"><h2><span>JVM</span><span=20=
+style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Cambria;m=
+so-hansi-font-family:Cambria">=B5=F7=CA=D4</span></h2><p class=3D=
+"MsoNormal"><span>JDK</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=B1=
+=BE=C9=ED=CC=E1=B9=A9=C1=CB=BA=DC=B6=E0=B7=BD=B1=E3=B5=C4</span><=
+span>JVM</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-=
+font-family:Calibri;=0Amso-hansi-font-family:Calibri">=D0=D4=C4=DC=
+=B5=F7=D3=C5=BC=E0=BF=D8=B9=A4=BE=DF=A3=AC=B3=FD=C1=CB=BC=AF=B3=C9=
+=CA=BD=B5=C4</span><span>VisualVM</span><span style=3D"font-famil=
+y:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-famil=
+y:Calibri">=BA=CD</span><span>jConsole</span><span style=3D"font-=
+family:=CB=CE=CC=E5;mso-ascii-font-family:=0ACalibri;mso-hansi-fo=
+nt-family:Calibri">=CD=E2=A3=AC=BB=B9=D3=D0</span><span>jps</span=
+><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Ca=
+libri;mso-hansi-font-family:Calibri">=A1=A2</span><span>jstack</s=
+pan><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family=
+:Calibri;=0Amso-hansi-font-family:Calibri">=A1=A2</span><span>jma=
+p</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fa=
+mily:Calibri;mso-hansi-font-family:Calibri">=A1=A2</span><span>jh=
+at</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-f=
+amily:Calibri;=0Amso-hansi-font-family:Calibri">=A1=A2</span><spa=
+n>jstat</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-f=
+ont-family:Calibri;mso-hansi-font-family:Calibri">=A1=A2</span><s=
+pan>hprof</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii=
+-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=B5=C8=D0=A1=
+=C7=C9=B5=C4=B9=A4=BE=DF</span></p><p class=3D"MsoNormal"><span>O=
+utOfMemoryError</span><span style=3D"font-family:=CB=CE=CC=E5;mso=
+-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=A3=AC=C4=
+=DA=B4=E6=B2=BB=D7=E3</span><span>\</span><span style=3D"font-fam=
+ily:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-=
+family:Calibri">=C4=DA=B4=E6=D0=B9=C2=B6</span><span>\</span><spa=
+n style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri=
+;mso-hansi-font-family:Calibri">=CF=DF=B3=CC=CB=C0=CB=F8</span><s=
+pan>\</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-fon=
+t-family:Calibri;=0Amso-hansi-font-family:Calibri">=CB=F8=D5=F9=D3=
+=C3=A3=A8</span><span>Lock Contention</span><span style=3D"font-f=
+amily:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-f=
+amily:Calibri">=A3=A9</span><span>\Java</span><span style=3D"font=
+-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-f=
+ont-family:Calibri">=BD=F8=B3=CC=CF=FB=BA=C4</span><span>CPU</spa=
+n><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:C=
+alibri;mso-hansi-font-family:Calibri">=B9=FD=B8=DF</span></p><h3>=
+<span>A</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-f=
+ont-family:Calibri;mso-hansi-font-family:Calibri">=A1=A2</span><s=
+pan>jps</span></h3><p class=3D"MsoNormal" style=3D"margin-left: 2=
+1pt;"><span>(Java Virtual Machine Process Status Tool)&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp; </span></p><p class=3D"MsoNormal"><span><o:p>=
+&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&=
+nbsp; jps</span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-as=
+cii-font-family:Calibri;mso-hansi-font-family:Calibri">=D6=F7=D2=AA=
+=D3=C3=C0=B4=CA=E4=B3=F6</span><span>JVM</span><span style=3D"fon=
+t-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-=
+font-family:Calibri">=D6=D0=D4=CB=D0=D0=B5=C4=BD=F8=B3=CC=D7=B4=CC=
+=AC=D0=C5=CF=A2=A1=A3=D3=EF=B7=A8=B8=F1=CA=BD=C8=E7=CF=C2=A3=BA</=
+span></p><p class=3D"MsoNormal"><span>jps=0A[options] [hostid]</s=
+pan></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; </span><s=
+pan style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Ca=
+libri;mso-hansi-font-family:Calibri">=C8=E7=B9=FB=B2=BB=D6=B8=B6=A8=
+</span><span>hostid</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=
+=BE=CD=C4=AC=C8=CF=CE=AA=B5=B1=C7=B0=D6=F7=BB=FA=BB=F2=B7=FE=CE=F1=
+=C6=F7=A1=A3</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&=
+nbsp; </span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii=
+-font-family:Calibri;mso-hansi-font-family:Calibri">=C3=FC=C1=EE=D0=
+=D0=B2=CE=CA=FD=D1=A1=CF=EE=CB=B5=C3=F7=C8=E7=CF=C2=A3=BA</span><=
+/p><p class=3D"MsoNormal"><span>-q </span><span style=3D"font-fam=
+ily:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-fam=
+ily:Calibri">=B2=BB=CA=E4=B3=F6=C0=E0=C3=FB=A1=A2</span><span>Jar=
+</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fam=
+ily:Calibri;=0Amso-hansi-font-family:Calibri">=C3=FB=BA=CD=B4=AB=C8=
+=EB</span><span>main</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=B7=
+=BD=B7=A8=B5=C4=B2=CE=CA=FD</span></p><p class=3D"MsoNormal"><spa=
+n>-m </span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-fon=
+t-family:Calibri;mso-hansi-font-family:Calibri">=CA=E4=B3=F6=B4=AB=
+=C8=EB</span><span>main</span><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibr=
+i">=B7=BD=B7=A8=B5=C4=B2=CE=CA=FD</span></p><p class=3D"MsoNormal=
+"><span>-l </span><span style=3D"font-family:=CB=CE=CC=E5;mso-asc=
+ii-font-family:Calibri;mso-hansi-font-family:Calibri">=CA=E4=B3=F6=
+</span><span>main</span><span style=3D"font-family:=CB=CE=CC=E5;m=
+so-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=C0=
+=E0=BB=F2</span><span>Jar</span><span style=3D"font-family:=CB=CE=
+=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibr=
+i">=B5=C4=C8=AB=CF=DE=C3=FB</span></p><p class=3D"MsoNormal"><spa=
+n>-v </span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-fon=
+t-family:Calibri;mso-hansi-font-family:Calibri">=CA=E4=B3=F6=B4=AB=
+=C8=EB</span><span>JVM</span><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibr=
+i">=B5=C4=B2=CE=CA=FD</span></p><p class=3D"MsoNormal"><span styl=
+e=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri;ms=
+o-hansi-font-family:Calibri">=C0=FD=D7=D3</span><span>: jps =A8Cm=
+ =A8Cl -v</span></p><h3><span>B</span><span style=3D"font-family:=
+=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:=
+Calibri">=A1=A2</span><span> jstack</span></h3><p class=3D"MsoNor=
+mal" style=3D"margin-left: 21pt; text-indent: 21pt;"><span style=3D=
+"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-ha=
+nsi-font-family:Calibri;color:red">=B1=D8=D0=EB=D4=DA=B5=B1=C7=B0=
+=D3=C3=BB=A7=CF=C2=D4=CB=D0=D0=B7=F1=D4=F2=B3=F6=CF=D6</span><spa=
+n style=3D"color:red">Unable to open socket file: target process=20=
+not responding or=0AHotSpot VM not loaded<o:p></o:p></span></p><p=
+ class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; jstack</span><span=20=
+style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibr=
+i;mso-hansi-font-family:Calibri">=D6=F7=D2=AA=D3=C3=C0=B4=B2=E9=BF=
+=B4=C4=B3=B8=F6</span><span>Java</span><span style=3D"font-family=
+:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-fam=
+ily:Calibri">=BD=F8=B3=CC=C4=DA=B5=C4=CF=DF=B3=CC=B6=D1=D5=BB=D0=C5=
+=CF=A2=A1=A3=D3=EF=B7=A8=B8=F1=CA=BD=C8=E7=CF=C2=A3=BA</span></p>=
+<p class=3D"MsoNormal"><span>jstack=0A[option] pid</span></p><p c=
+lass=3D"MsoNormal"><span>jstack=0A[option] executable core</span>=
+</p><p class=3D"MsoNormal"><span>jstack=0A[option] [server-id@]re=
+mote-hostname-or-ip</span></p><p class=3D"MsoNormal"><span>&nbsp;=
+&nbsp;&nbsp; </span><span style=3D"font-family:=CB=CE=CC=E5;=0Ams=
+o-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=C3=FC=
+=C1=EE=D0=D0=B2=CE=CA=FD=D1=A1=CF=EE=CB=B5=C3=F7=C8=E7=CF=C2=A3=BA=
+</span></p><p class=3D"MsoNormal"><span>-l long=0Alistings</span>=
+<span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Cal=
+ibri;=0Amso-hansi-font-family:Calibri">=A3=AC=BB=E1=B4=F2=D3=A1=B3=
+=F6=B6=EE=CD=E2=B5=C4=CB=F8=D0=C5=CF=A2=A3=AC=D4=DA=B7=A2=C9=FA=CB=
+=C0=CB=F8=CA=B1=BF=C9=D2=D4=D3=C3</span><span>jstack=0A-l pid</sp=
+an><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=
+Calibri;=0Amso-hansi-font-family:Calibri">=C0=B4=B9=DB=B2=EC=CB=F8=
+=B3=D6=D3=D0=C7=E9=BF=F6</span></p><p class=3D"MsoNormal"><span>-=
+m mixed=0Amode</span><span style=3D"font-family:=CB=CE=CC=E5;mso-=
+ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=A3=AC=
+=B2=BB=BD=F6=BB=E1=CA=E4=B3=F6</span><span>Java</span><span style=
+=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-ha=
+nsi-font-family:Calibri">=B6=D1=D5=BB=D0=C5=CF=A2=A3=AC=BB=B9=BB=E1=
+=CA=E4=B3=F6</span><span>C/C++</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:=
+Calibri">=B6=D1=D5=BB=D0=C5=CF=A2=A3=A8=B1=C8=C8=E7</span><span>N=
+ative</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-fon=
+t-family:Calibri;mso-hansi-font-family:Calibri">=B7=BD=B7=A8=A3=A9=
+</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; jstack=
+</span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-=
+family:Calibri;mso-hansi-font-family:Calibri">=BF=C9=D2=D4=B6=A8=CE=
+=BB=B5=BD=CF=DF=B3=CC=B6=D1=D5=BB=A3=AC=B8=F9=BE=DD=B6=D1=D5=BB=D0=
+=C5=CF=A2=CE=D2=C3=C7=BF=C9=D2=D4=B6=A8=CE=BB=B5=BD=BE=DF=CC=E5=B4=
+=FA=C2=EB=A3=AC=CB=F9=D2=D4=CB=FC=D4=DA</span><span>JVM</span><sp=
+an style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibr=
+i;=0Amso-hansi-font-family:Calibri">=D0=D4=C4=DC=B5=F7=D3=C5=D6=D0=
+=CA=B9=D3=C3=B5=C3=B7=C7=B3=A3=B6=E0=A1=A3=CF=C2=C3=E6=CE=D2=C3=C7=
+=C0=B4=D2=BB=B8=F6=CA=B5=C0=FD=D5=D2=B3=F6=C4=B3=B8=F6</span><spa=
+n>Java</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-fo=
+nt-family:Calibri;=0Amso-hansi-font-family:Calibri">=BD=F8=B3=CC=D6=
+=D0=D7=EE=BA=C4=B7=D1</span><span>CPU</span><span style=3D"font-f=
+amily:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-f=
+amily:Calibri">=B5=C4</span><span>Java</span><span style=3D"font-=
+family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-fo=
+nt-family:Calibri">=CF=DF=B3=CC=B2=A2=B6=A8=CE=BB=B6=D1=D5=BB=D0=C5=
+=CF=A2=A3=AC=D3=C3=B5=BD=B5=C4=C3=FC=C1=EE=D3=D0</span><span>ps</=
+span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-famil=
+y:Calibri;mso-hansi-font-family:Calibri">=A1=A2</span><span>top</=
+span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-famil=
+y:Calibri;=0Amso-hansi-font-family:Calibri">=A1=A2</span><span>pr=
+intf</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font=
+-family:Calibri;mso-hansi-font-family:Calibri">=A1=A2</span><span=
+>jstack</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-f=
+ont-family:Calibri;=0Amso-hansi-font-family:Calibri">=A1=A2</span=
+><span>grep</span><span style=3D"font-family:=CB=CE=CC=E5;mso-asc=
+ii-font-family:Calibri;mso-hansi-font-family:Calibri">=A1=A3</spa=
+n></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; </span><spa=
+n style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Cali=
+bri;mso-hansi-font-family:Calibri">=B5=DA=D2=BB=B2=BD=CF=C8=D5=D2=
+=B3=F6</span><span>Java</span><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibr=
+i">=BD=F8=B3=CC</span><span>ID</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=A3=AC=CE=D2=B2=BF=CA=F0=D4=DA=B7=FE=CE=F1=C6=F7=C9=CF=B5=C4=
+</span><span>Java</span><span style=3D"font-family:=CB=CE=CC=E5;m=
+so-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=D3=
+=A6=D3=C3=C3=FB=B3=C6=CE=AA</span><span>mrf-center</span><span st=
+yle=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso=
+-hansi-font-family:Calibri">=A3=BA</span></p><p class=3D"MsoNorma=
+l"><span>root@ubuntu:/#=0Aps -ef | grep mrf-center | grep -v grep=
+</span></p><p class=3D"MsoNormal"><span>root&nbsp;&nbsp;&nbsp;&nb=
+sp; 217111&nbsp; 1 14:47 pts/3&nbsp;&nbsp;&nbsp; 00:02:10 java -j=
+ar mrf-center.jar</span></p><p class=3D"MsoNormal" style=3D"text-=
+indent: 20.25pt;"><span style=3D"font-family:=CB=CE=CC=E5;mso-asc=
+ii-font-family:Calibri;mso-hansi-font-family:Calibri">=B5=C3=B5=BD=
+=BD=F8=B3=CC</span><span>ID</span><span style=3D"font-family:=CB=CE=
+=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Cal=
+ibri">=CE=AA</span><span>21711</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=A3=AC=B5=DA=B6=FE=B2=BD=D5=D2=B3=F6=B8=C3=BD=F8=B3=CC=C4=DA=
+=D7=EE=BA=C4=B7=D1</span><span>CPU</span><span style=3D"font-fami=
+ly:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-f=
+amily:Calibri">=B5=C4=CF=DF=B3=CC=A3=AC=BF=C9=D2=D4=CA=B9=D3=C3</=
+span><span>ps -Lfp pid</span><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=
+=BB=F2=D5=DF</span><span>ps -mp pid -o THREAD, tid, time</span><s=
+pan style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Ca=
+libri;mso-hansi-font-family:Calibri">=BB=F2=D5=DF</span><span>top=
+ -Hp pid</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-=
+font-family:=0ACalibri;mso-hansi-font-family:Calibri">=A3=AC=CE=D2=
+=D5=E2=C0=EF=D3=C3=B5=DA=C8=FD=B8=F6=A3=AC=CA=E4=B3=F6=C8=E7=CF=C2=
+=A3=BA</span></p><p class=3D"MsoNormal" style=3D"text-indent: 20.=
+25pt;"><span><v:shapetype id=3D"_x0000_t75" coordsize=3D"21600,21=
+600" o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11=
+@9@5xe" filled=3D"f" stroked=3D"f"><v:stroke joinstyle=3D"miter">=
+<v:formulas><v:f eqn=3D"if lineDrawn pixelLineWidth 0"><v:f eqn=3D=
+"sum @0 1 0"><v:f eqn=3D"sum 0 0 @1"><v:f eqn=3D"prod @2 1 2"><v:=
+f eqn=3D"prod @3 21600 pixelWidth"><v:f eqn=3D"prod @3 21600 pixe=
+lHeight"><v:f eqn=3D"sum @0 0 1"><v:f eqn=3D"prod @6 1 2"><v:f eq=
+n=3D"prod @7 21600 pixelWidth"><v:f eqn=3D"sum @8 21600 0"><v:f e=
+qn=3D"prod @7 21600 pixelHeight"><v:f eqn=3D"sum @10 21600 0"></v=
+:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></v:f></=
+v:f></v:formulas><v:path o:extrusionok=3D"f" gradientshapeok=3D"t=
+" o:connecttype=3D"rect"><o:lock v:ext=3D"edit" aspectratio=3D"t"=
+></o:lock></v:path></v:stroke></v:shapetype><v:shape id=3D"_x0000=
+_i1025" type=3D"#_x0000_t75" alt style=3D"width:549.75pt; height:=
+456.75pt;"><img src></v:shape></span></p><p class=3D"MsoNormal"><=
+span>&nbsp;&nbsp;&nbsp; TIME</span><span style=3D"font-family:=CB=
+=CE=CC=E5;=0Amso-ascii-font-family:Calibri;mso-hansi-font-family:=
+Calibri">=C1=D0=BE=CD=CA=C7=B8=F7=B8=F6</span><span>Java</span><s=
+pan style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calib=
+ri;=0Amso-hansi-font-family:Calibri">=CF=DF=B3=CC=BA=C4=B7=D1=B5=C4=
+</span><span>CPU</span><span style=3D"font-family:=CB=CE=CC=E5;ms=
+o-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=CA=B1=
+=BC=E4=A3=AC</span><span>CPU</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:=
+Calibri">=CA=B1=BC=E4=D7=EE=B3=A4=B5=C4=CA=C7=CF=DF=B3=CC</span><=
+span>ID</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-f=
+ont-family:Calibri;mso-hansi-font-family:Calibri">=CE=AA</span><s=
+pan>21742</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii=
+-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=B5=C4=CF=DF=
+=B3=CC=A3=AC=D3=C3</span></p><p class=3D"MsoNormal"><span>printf=0A=
+"%x\n" 21742</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&=
+nbsp; </span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii=
+-font-family:Calibri;mso-hansi-font-family:Calibri">=B5=C3=B5=BD<=
+/span><span>21742</span><span style=3D"font-family:=CB=CE=CC=E5;m=
+so-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=B5=
+=C4=CA=AE=C1=F9=BD=F8=D6=C6=D6=B5=CE=AA</span><span>54ee</span><s=
+pan style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calib=
+ri;mso-hansi-font-family:Calibri">=A3=AC=CF=C2=C3=E6=BB=E1=D3=C3=B5=
+=BD=A1=A3</span><span>&nbsp;&nbsp;&nbsp; </span></p><p class=3D"M=
+soNormal"><span>&nbsp;&nbsp;&nbsp; OK</span><span style=3D"font-f=
+amily:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibri;mso-hansi-fon=
+t-family:Calibri">=A3=AC=CF=C2=D2=BB=B2=BD=D6=D5=D3=DA=C2=D6=B5=BD=
+</span><span>jstack</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=
+=C9=CF=B3=A1=C1=CB=A3=AC=CB=FC=D3=C3=C0=B4=CA=E4=B3=F6=BD=F8=B3=CC=
+</span><span>21711</span><span style=3D"font-family:=CB=CE=CC=E5;=
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=B5=C4=
+=B6=D1=D5=BB=D0=C5=CF=A2=A3=AC=C8=BB=BA=F3=B8=F9=BE=DD=CF=DF=B3=CC=
+</span><span>ID</span><span style=3D"font-family:=CB=CE=CC=E5;mso=
+-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=B5=C4=
+=CA=AE=C1=F9=BD=F8=D6=C6=D6=B5</span><span>grep</span><span style=
+=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-ha=
+nsi-font-family:Calibri">=A3=AC=C8=E7=CF=C2=A3=BA</span></p><p cl=
+ass=3D"MsoNormal"><span>root@ubuntu:/#=0Ajstack 21711 | grep 54ee=
+</span></p><p class=3D"MsoNormal"><span>"PollIntervalRetrySchedul=
+erThread"=0Aprio=3D10 tid=3D0x00007f950043e000 nid=3D0x54ee in Ob=
+ject.wait() [0x00007f94c6eda000]</span></p><p class=3D"MsoNormal"=
+><span>&nbsp;&nbsp;&nbsp; </span><span style=3D"font-family:=CB=CE=
+=CC=E5;=0Amso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=BF=C9=D2=D4=BF=B4=B5=BD</span><span>CPU</span><span style=3D=
+"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-ha=
+nsi-font-family:Calibri">=CF=FB=BA=C4=D4=DA</span><span>PollInter=
+valRetrySchedulerThread</span><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=
+=D5=E2=B8=F6=C0=E0=B5=C4</span><span>Object.wait()</span><span st=
+yle=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=0ACalibri;=
+mso-hansi-font-family:Calibri">=A3=AC=CE=D2=D5=D2=C1=CB=CF=C2=CE=D2=
+=B5=C4=B4=FA=C2=EB=A3=AC=B6=A8=CE=BB=B5=BD=CF=C2=C3=E6=B5=C4=B4=FA=
+=C2=EB=A3=BA</span></p><p class=3D"MsoNormal"><span>// Idle=0Awai=
+t</span></p><p class=3D"MsoNormal"><span>getLog().info("Thread=0A=
+[" + getName() + "] is idle waiting...");</span></p><p class=3D"M=
+soNormal"><span>schedulerThreadState=0A=3D PollTaskSchedulerThrea=
+dState.IdleWaiting;</span></p><p class=3D"MsoNormal"><span>long n=
+ow=0A=3D System.currentTimeMillis();</span></p><p class=3D"MsoNor=
+mal"><span>long=0AwaitTime =3D now + getIdleWaitTime();</span></p=
+><p class=3D"MsoNormal"><span>long=0AtimeUntilContinue =3D waitTi=
+me - now;</span></p><p class=3D"MsoNormal"><span>synchronized(sig=
+Lock)=0A{</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbs=
+p; try {</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; if(!halted.get()) {</span></p><p class=3D=
+"MsoNormal"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp; sigLock.wait(timeUntilContinue);</span></p><p=
+ class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp; }</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp;=20=
+} </span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; catc=
+h (InterruptedException ignore) {</span></p><p class=3D"MsoNormal=
+"><span>&nbsp;&nbsp;&nbsp; }</span></p><p class=3D"MsoNormal"><sp=
+an>}</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; </=
+span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-fa=
+mily:Calibri;mso-hansi-font-family:Calibri">=CB=FC=CA=C7=C2=D6=D1=
+=AF=C8=CE=CE=F1=B5=C4=BF=D5=CF=D0=B5=C8=B4=FD=B4=FA=C2=EB=A3=AC=C9=
+=CF=C3=E6=B5=C4</span><span>sigLock.wait(timeUntilContinue)</span=
+><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family=
+:Calibri;mso-hansi-font-family:Calibri">=BE=CD=B6=D4=D3=A6=C1=CB=C7=
+=B0=C3=E6=B5=C4</span><span>Object.wait()</span><span style=3D"fo=
+nt-family:=CB=CE=CC=E5;mso-ascii-font-family:=0ACalibri;mso-hansi=
+-font-family:Calibri">=A1=A3</span></p><h3><span>C</span><span st=
+yle=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso=
+-hansi-font-family:Calibri">=A1=A2</span><span> jmap </span><span=
+ style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=
+=0Amso-hansi-font-family:Calibri">=A1=A2</span><span>jhat</span><=
+/h3><p class=3D"MsoNormal"><span style=3D"font-family:=0A=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=
+=A3=A8</span><span>Memory Map</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:=0ACalibri;mso-hansi-font-family:=
+Calibri">=A3=A9=BA=CD=A3=A8</span><span>Java Heap=0AAnalysis Tool=
+</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fam=
+ily:Calibri;=0Amso-hansi-font-family:Calibri">=A3=A9</span></p><p=
+ class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; jmap</span><span st=
+yle=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibri;=
+mso-hansi-font-family:Calibri">=D3=C3=C0=B4=B2=E9=BF=B4=B6=D1=C4=DA=
+=B4=E6=CA=B9=D3=C3=D7=B4=BF=F6=A3=AC=D2=BB=B0=E3=BD=E1=BA=CF</spa=
+n><span>jhat</span><span style=3D"font-family:=CB=CE=CC=E5;mso-as=
+cii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=CA=B9=D3=
+=C3=A1=A3</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbs=
+p; jmap</span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-asci=
+i-font-family:Calibri;mso-hansi-font-family:Calibri">=D3=EF=B7=A8=
+=B8=F1=CA=BD=C8=E7=CF=C2=A3=BA</span></p><p class=3D"MsoNormal"><=
+span>jmap=0A[option] pid</span></p><p class=3D"MsoNormal"><span>j=
+map=0A[option] executable core</span></p><p class=3D"MsoNormal"><=
+span>jmap=0A[option] [server-id@]remote-hostname-or-ip</span></p>=
+<p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; </span><span styl=
+e=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibri;ms=
+o-hansi-font-family:Calibri">=C8=E7=B9=FB=D4=CB=D0=D0=D4=DA</span=
+><span>64</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii=
+-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=CE=BB</sp=
+an><span>JVM</span><span style=3D"font-family:=CB=CE=CC=E5;mso-as=
+cii-font-family:Calibri;mso-hansi-font-family:Calibri">=C9=CF=A3=AC=
+=BF=C9=C4=DC=D0=E8=D2=AA=D6=B8=B6=A8</span><span>-J-d64</span><sp=
+an style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibr=
+i;=0Amso-hansi-font-family:Calibri">=C3=FC=C1=EE=D1=A1=CF=EE=B2=CE=
+=CA=FD=A1=A3</span></p><p class=3D"MsoNormal"><span>jmap=0A-perms=
+tat pid</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp;=
+ </span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font=
+-family:Calibri;mso-hansi-font-family:Calibri">=B4=F2=D3=A1=BD=F8=
+=B3=CC=B5=C4=C0=E0=BC=D3=D4=D8=C6=F7=BA=CD=C0=E0=BC=D3=D4=D8=C6=F7=
+=BC=D3=D4=D8=B5=C4=B3=D6=BE=C3=B4=FA=B6=D4=CF=F3=D0=C5=CF=A2=A3=AC=
+=CA=E4=B3=F6=A3=BA=C0=E0=BC=D3=D4=D8=C6=F7=C3=FB=B3=C6=A1=A2=B6=D4=
+=CF=F3=CA=C7=B7=F1=B4=E6=BB=EE=A3=A8=B2=BB=BF=C9=BF=BF=A3=A9=A1=A2=
+=B6=D4=CF=F3=B5=D8=D6=B7=A1=A2=B8=B8=C0=E0=BC=D3=D4=D8=C6=F7=A1=A2=
+=D2=D1=BC=D3=D4=D8=B5=C4=C0=E0=B4=F3=D0=A1=B5=C8=D0=C5=CF=A2=A3=AC=
+=C8=E7=CF=C2=CD=BC=A3=BA</span></p><p class=3D"MsoNormal"><span>&=
+nbsp;&nbsp; </span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso=
+-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=CA=B9=D3=
+=C3</span><span>jmap -heap pid</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:=0ACalibri;mso-hansi-font-family:=
+Calibri">=B2=E9=BF=B4=BD=F8=B3=CC=B6=D1=C4=DA=B4=E6=CA=B9=D3=C3=C7=
+=E9=BF=F6=A3=AC=B0=FC=C0=A8=CA=B9=D3=C3=B5=C4</span><span>GC</spa=
+n><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:C=
+alibri;=0Amso-hansi-font-family:Calibri">=CB=E3=B7=A8=A1=A2=B6=D1=
+=C5=E4=D6=C3=B2=CE=CA=FD=BA=CD=B8=F7=B4=FA=D6=D0=B6=D1=C4=DA=B4=E6=
+=CA=B9=D3=C3=C7=E9=BF=F6=A1=A3=B1=C8=C8=E7=CF=C2=C3=E6=B5=C4=C0=FD=
+=D7=D3=A3=BA</span></p><p class=3D"MsoNormal"><span>root@ubuntu:/=
+#=0Ajmap -heap 21711</span></p><p class=3D"MsoNormal"><span>Attac=
+hing=0Ato process ID 21711, please wait...</span></p><p class=3D"=
+MsoNormal"><span>Debugger=0Aattached successfully.</span></p><p c=
+lass=3D"MsoNormal"><span>Server=0Acompiler detected.</span></p><p=
+ class=3D"MsoNormal"><span>JVM=0Aversion is 20.10-b01 </span></p>=
+<p class=3D"MsoNormal"><span>using=0Athread-local object allocati=
+on.</span></p><p class=3D"MsoNormal"><span>Parallel=0AGC with 4 t=
+hread(s)</span></p><p class=3D"MsoNormal"><span>&nbsp;</span></p>=
+<p class=3D"MsoNormal"><span>Heap=0AConfiguration:</span></p><p c=
+lass=3D"MsoNormal"><span>&nbsp;&nbsp; MinHeapFreeRatio =3D 40</sp=
+an></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; MaxHeapFreeRatio=
+ =3D 70</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; MaxHe=
+apSize&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D 2067791872 (1972.0MB)</s=
+pan></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; NewSize&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D 1310720 (1.25M=
+B)</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; MaxNewSize=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D 17592186044415 MB</span>=
+</p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; OldSize&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D 5439488 (5.1875MB)=
+</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; NewRatio&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D 2</span></p><p c=
+lass=3D"MsoNormal"><span>&nbsp;&nbsp; SurvivorRatio&nbsp;&nbsp;&n=
+bsp; =3D 8</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; Pe=
+rmSize&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D 217579=
+52 (20.75MB)</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;=20=
+MaxPermSize&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =3D 85983232 (82.0MB)</=
+span></p><p class=3D"MsoNormal"><span>&nbsp;</span></p><p class=3D=
+"MsoNormal"><span>Heap=0AUsage:</span></p><p class=3D"MsoNormal">=
+<span>PS Young=0AGeneration</span></p><p class=3D"MsoNormal"><spa=
+n>Eden=0ASpace:</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbs=
+p; capacity =3D 6422528 (6.125MB)</span></p><p class=3D"MsoNormal=
+"><span>&nbsp;&nbsp; used=3D 5445552 (5.1932830810546875MB)</span=
+></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; free=3D 976976 (0.=
+9317169189453125MB)</span></p><p class=3D"MsoNormal"><span>&nbsp;=
+&nbsp; 84.78829520089286% used</span></p><p class=3D"MsoNormal"><=
+span>From=0ASpace:</span></p><p class=3D"MsoNormal"><span>&nbsp;&=
+nbsp; capacity =3D 131072 (0.125MB)</span></p><p class=3D"MsoNorm=
+al"><span>&nbsp;&nbsp; used=3D 98304 (0.09375MB)</span></p><p cla=
+ss=3D"MsoNormal"><span>&nbsp;&nbsp; free=3D 32768 (0.03125MB)</sp=
+an></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; 75.0% used</span=
+></p><p class=3D"MsoNormal"><span>To=0ASpace:</span></p><p class=3D=
+"MsoNormal"><span>&nbsp;&nbsp; capacity =3D 131072 (0.125MB)</spa=
+n></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; used=3D 0 (0.0MB)=
+</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; free=3D 1310=
+72 (0.125MB)</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;=20=
+0.0% used</span></p><p class=3D"MsoNormal"><span>PS Old=0AGenerat=
+ion</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; capacity=20=
+=3D 35258368 (33.625MB)</span></p><p class=3D"MsoNormal"><span>&n=
+bsp;&nbsp; used=3D 4119544 (3.9287033081054688MB)</span></p><p cl=
+ass=3D"MsoNormal"><span>&nbsp;&nbsp; free=3D 31138824 (29.6962966=
+9189453MB)</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; 11=
+.683876009235595% used</span></p><p class=3D"MsoNormal"><span>PS=20=
+Perm=0AGeneration</span></p><p class=3D"MsoNormal"><span>&nbsp;&n=
+bsp; capacity =3D 52428800 (50.0MB)</span></p><p class=3D"MsoNorm=
+al"><span>&nbsp;&nbsp; used=3D 26075168 (24.867218017578125MB)</s=
+pan></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; free=3D 2635363=
+2 (25.132781982421875MB)</span></p><p class=3D"MsoNormal"><span>&=
+nbsp;&nbsp; 49.73443603515625% used</span></p><p class=3D"MsoNorm=
+al"><span>&nbsp;&nbsp; ....</span></p><p class=3D"MsoNormal"><spa=
+n>&nbsp;&nbsp;&nbsp; </span><span style=3D"font-family:=CB=CE=CC=E5=
+;=0Amso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=
+=CA=B9=D3=C3</span><span>jmap -histo[:live] pid</span><span style=
+=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=0ACalibri;mso=
+-hansi-font-family:Calibri">=B2=E9=BF=B4=B6=D1=C4=DA=B4=E6=D6=D0=B5=
+=C4=B6=D4=CF=F3=CA=FD=C4=BF=A1=A2=B4=F3=D0=A1=CD=B3=BC=C6=D6=B1=B7=
+=BD=CD=BC=A3=AC=C8=E7=B9=FB=B4=F8=C9=CF</span><span>live</span><s=
+pan style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calib=
+ri;=0Amso-hansi-font-family:Calibri">=D4=F2=D6=BB=CD=B3=BC=C6=BB=EE=
+=B6=D4=CF=F3=A3=AC=C8=E7=CF=C2=A3=BA</span></p><p class=3D"MsoNor=
+mal"><span>root@ubuntu:/#=0Ajmap -histo:live 21711 | more</span><=
+/p><p class=3D"MsoNormal"><span>&nbsp; num#instances&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #bytes&nbsp; class name</span=
+></p><p class=3D"MsoNormal"><span>-------------------------------=
+---------------</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbs=
+p; 1:38445&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5597736&nbsp=
+; &lt;constMethodKlass&gt;</span></p><p class=3D"MsoNormal"><span=
+>&nbsp;&nbsp; 2:38445&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5=
+237288&nbsp; &lt;methodKlass&gt;</span></p><p class=3D"MsoNormal"=
+><span>&nbsp;&nbsp; 3:3500&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; 3749504&nbsp; &lt;constantPoolKlass&gt;</span></p><p class=3D=
+"MsoNormal"><span>&nbsp;&nbsp; 4:60858&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp; 3242600&nbsp; &lt;symbolKlass&gt;</span></p><p cl=
+ass=3D"MsoNormal"><span>&nbsp;&nbsp; 5:3500&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp; 2715264&nbsp; &lt;instanceKlassKlass&gt;</sp=
+an></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; 6:2796&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2131424&nbsp; &lt;constantPoolCa=
+cheKlass&gt;</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;=20=
+7:5543&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1317400&nbsp; [I=
+</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp; 8:13714&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1010768&nbsp; [C</span></p>=
+<p class=3D"MsoNormal"><span>&nbsp;&nbsp; 9:4752&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; 1003344&nbsp; [B</span></p><p class=3D"=
+MsoNormal"><span>&nbsp; 10:1225&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; 639656&nbsp; &lt;methodDataKlass&gt;</span></p><p=20=
+class=3D"MsoNormal"><span>&nbsp; 11:14194&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; 454208&nbsp; java.lang.String</span></p>=
+<p class=3D"MsoNormal"><span>&nbsp; 12:3809&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp; 396136&nbsp; java.lang.Class</span></p=
+><p class=3D"MsoNormal"><span>&nbsp; 13:4979&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp; 311952&nbsp; [S</span></p><p class=3D=
+"MsoNormal"><span>&nbsp; 14:&nbsp;&nbsp;5598&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp; 287064[[I</span></p><p class=3D"MsoNo=
+rmal"><span>&nbsp; 15:3028&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp; 266464&nbsp; java.lang.reflect.Method</span></p><p clas=
+s=3D"MsoNormal"><span>&nbsp; 16:280&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; 163520&nbsp; &lt;objArrayKlassKlass&gt;</span>=
+</p><p class=3D"MsoNormal"><span>&nbsp; 17:4355&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 139360&nbsp; java.util.HashMap$Ent=
+ry</span></p><p class=3D"MsoNormal"><span>&nbsp; 18:1869&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 138568&nbsp; [Ljava.util.=
+HashMap$Entry;</span></p><p class=3D"MsoNormal"><span>&nbsp; 19:2=
+443&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 97720&n=
+bsp; java.util.LinkedHashMap$Entry</span></p><p class=3D"MsoNorma=
+l"><span>&nbsp; 20:2072&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp; 82880&nbsp; java.lang.ref.SoftReference</span></p><p=
+ class=3D"MsoNormal"><span>&nbsp; 21:1807&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 71528&nbsp; [Ljava.lang.Object;</s=
+pan></p><p class=3D"MsoNormal"><span>&nbsp; 22:&nbsp; &nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2206&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 70592java.lang.ref.WeakReference</=
+span></p><p class=3D"MsoNormal"><span>&nbsp; 23:934&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 52304&nbsp; java.util.Li=
+nkedHashMap</span></p><p class=3D"MsoNormal"><span>&nbsp; 24:871&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 48776&nbsp;=
+ java.beans.MethodDescriptor</span></p><p class=3D"MsoNormal"><sp=
+an>&nbsp; 25:1442&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp; 46144&nbsp; java.util.concurrent.ConcurrentHashMap$HashEnt=
+ry</span></p><p class=3D"MsoNormal"><span>&nbsp; 26:804&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 38592&nbsp; java.uti=
+l.HashMap</span></p><p class=3D"MsoNormal"><span>&nbsp; 27:948&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 37920java.uti=
+l.concurrent.ConcurrentHashMap$Segment</span></p><p class=3D"MsoN=
+ormal"><span>&nbsp; 28:1621&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; 35696&nbsp; [Ljava.lang.Class;</span></p><p clas=
+s=3D"MsoNormal"><span>&nbsp; 29:1313&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; 34880&nbsp; [Ljava.lang.String;</span><=
+/p><p class=3D"MsoNormal"><span>&nbsp; 30:1396&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33504&nbsp; java.util.LinkedL=
+ist$Entry</span></p><p class=3D"MsoNormal"><span>&nbsp; 31:462&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33264&nbsp; j=
+ava.lang.reflect.Field</span></p><p class=3D"MsoNormal"><span>&nb=
+sp; 32:1024&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ 32768&nbsp; java.util.Hashtable$Entry</span></p><p class=3D"MsoN=
+ormal"><span>&nbsp; 33:948&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp; 31440&nbsp; [Ljava.util.concurrent.ConcurrentHash=
+Map$HashEntry;</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp=
+;&nbsp; class name</span><span style=3D"font-family:=0A=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=CA=
+=C7=B6=D4=CF=F3=C0=E0=D0=CD=A3=AC=CB=B5=C3=F7=C8=E7=CF=C2=A3=BA</=
+span></p><p class=3D"MsoNormal"><span>B&nbsp; byte</span></p><p c=
+lass=3D"MsoNormal"><span>C&nbsp; char</span></p><p class=3D"MsoNo=
+rmal"><span>D&nbsp; double</span></p><p class=3D"MsoNormal"><span=
+>F&nbsp; float</span></p><p class=3D"MsoNormal"><span>I&nbsp; int=
+</span></p><p class=3D"MsoNormal"><span>J&nbsp; long</span></p><p=
+ class=3D"MsoNormal"><span>Z&nbsp; boolean</span></p><p class=3D"=
+MsoNormal"><span>[&nbsp; </span><span style=3D"font-family:=CB=CE=
+=CC=E5;=0Amso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=CA=FD=D7=E9=A3=AC=C8=E7</span><span>[I</span><span style=3D=
+"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-ha=
+nsi-font-family:Calibri">=B1=ED=CA=BE</span><span>int[]</span></p=
+><p class=3D"MsoNormal"><span>[L+</span><span style=3D"font-famil=
+y:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-famil=
+y:Calibri">=C0=E0=C3=FB</span><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:=0ACalibr=
+i">=C6=E4=CB=FB=B6=D4=CF=F3</span></p><p class=3D"MsoNormal"><spa=
+n>&nbsp;&nbsp;&nbsp; </span><span style=3D"font-family:=CB=CE=CC=E5=
+;=0Amso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=
+=BB=B9=D3=D0=D2=BB=B8=F6=BA=DC=B3=A3=D3=C3=B5=C4=C7=E9=BF=F6=CA=C7=
+=A3=BA=D3=C3</span><span>jmap</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:=
+Calibri">=B0=D1=BD=F8=B3=CC=C4=DA=B4=E6=CA=B9=D3=C3=C7=E9=BF=F6</=
+span><span>dump</span><span style=3D"font-family:=CB=CE=CC=E5;mso=
+-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=B5=BD=CE=
+=C4=BC=FE=D6=D0=A3=AC=D4=D9=D3=C3</span><span>jhat</span><span st=
+yle=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0A=
+mso-hansi-font-family:Calibri">=B7=D6=CE=F6=B2=E9=BF=B4=A1=A3</sp=
+an><span>jmap</span><span style=3D"font-family:=CB=CE=CC=E5;mso-a=
+scii-font-family:Calibri;mso-hansi-font-family:Calibri">=BD=F8=D0=
+=D0</span><span>dump</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=
+=C3=FC=C1=EE=B8=F1=CA=BD=C8=E7=CF=C2=A3=BA</span></p><p class=3D"=
+MsoNormal"><span>jmap=0A-dump:format=3Db,file=3DdumpFileName pid<=
+/span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; </span>=
+<span style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:=
+Calibri;mso-hansi-font-family:Calibri">=CE=D2=D2=BB=D1=F9=B5=D8=B6=
+=D4=C9=CF=C3=E6=BD=F8=B3=CC</span><span>ID</span><span style=3D"f=
+ont-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hans=
+i-font-family:Calibri">=CE=AA</span><span>21711</span><span style=
+=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-ha=
+nsi-font-family:Calibri">=BD=F8=D0=D0</span><span>Dump</span><spa=
+n style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri=
+;=0Amso-hansi-font-family:Calibri">=A3=BA</span></p><p class=3D"M=
+soNormal"><span>root@ubuntu:/#=0Ajmap -dump:format=3Db,file=3D/tm=
+p/dump.dat 21711</span></p><p class=3D"MsoNormal"><span>Dumping=0A=
+heap to /tmp/dump.dat ...</span></p><p class=3D"MsoNormal"><span>=
+Heap=0Adump file created</span></p><p class=3D"MsoNormal"><span>&=
+nbsp;&nbsp; dump</span><span style=3D"font-family:=CB=CE=CC=E5;=0A=
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=B3=F6=
+=C0=B4=B5=C4=CE=C4=BC=FE=BF=C9=D2=D4=D3=C3</span><span>MAT</span>=
+<span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Cal=
+ibri;=0Amso-hansi-font-family:Calibri">=A1=A2</span><span>VisualV=
+M</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fa=
+mily:Calibri;mso-hansi-font-family:Calibri">=B5=C8=B9=A4=BE=DF=B2=
+=E9=BF=B4=A3=AC=D5=E2=C0=EF=D3=C3</span><span>jhat</span><span st=
+yle=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0A=
+mso-hansi-font-family:Calibri">=B2=E9=BF=B4=A3=BA</span></p><p cl=
+ass=3D"MsoNormal"><span>root@ubuntu:/#=0Ajhat -port 9998 /tmp/dum=
+p.dat</span></p><p class=3D"MsoNormal"><span>Reading=0Afrom /tmp/=
+dump.dat...</span></p><p class=3D"MsoNormal"><span>Dump=0Afile cr=
+eated Tue Jan 28 17:46:14 CST 2014</span></p><p class=3D"MsoNorma=
+l"><span>Snapshot=0Aread, resolving...</span></p><p class=3D"MsoN=
+ormal"><span>Resolving=0A132207 objects...</span></p><p class=3D"=
+MsoNormal"><span>Chasing=0Areferences, expect 26 dots............=
+..............</span></p><p class=3D"MsoNormal"><span>Eliminating=
+=0Aduplicate references..........................</span></p><p cl=
+ass=3D"MsoNormal"><span>Snapshot=0Aresolved.</span></p><p class=3D=
+"MsoNormal"><span>Started=0AHTTP server on port 9998</span></p><p=
+ class=3D"MsoNormal"><span>Server=0Ais ready.</span></p><p class=3D=
+"MsoNormal"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span><span style=3D"=
+font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibri;mso-han=
+si-font-family:Calibri">=D7=A2=D2=E2=C8=E7=B9=FB</span><span>Dump=
+</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fam=
+ily:Calibri;=0Amso-hansi-font-family:Calibri">=CE=C4=BC=FE=CC=AB=B4=
+=F3=A3=AC=BF=C9=C4=DC=D0=E8=D2=AA=BC=D3=C9=CF</span><span>-J-Xmx5=
+12m</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-=
+family:Calibri;mso-hansi-font-family:Calibri">=D5=E2=D6=D6=B2=CE=CA=
+=FD=D6=B8=B6=A8=D7=EE=B4=F3=B6=D1=C4=DA=B4=E6=A3=AC=BC=B4</span><=
+span>jhat -J-Xmx512m -port 9998 /tmp/dump.dat</span><span style=3D=
+"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi=
+-font-family:Calibri">=A1=A3=C8=BB=BA=F3=BE=CD=BF=C9=D2=D4=D4=DA=E4=
+=AF=C0=C0=C6=F7=D6=D0=CA=E4=C8=EB=D6=F7=BB=FA=B5=D8=D6=B7</span><=
+span>:9998</span><span style=3D"font-family:=CB=CE=CC=E5;mso-asci=
+i-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=B2=E9=BF=
+=B4=C1=CB=A3=BA</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbs=
+p;&nbsp; </span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-as=
+cii-font-family:Calibri;mso-hansi-font-family:Calibri">=C9=CF=C3=E6=
+=BA=EC=CF=DF=BF=F2=B3=F6=C0=B4=B5=C4=B2=BF=B7=D6=B4=F3=BC=D2=BF=C9=
+=D2=D4=D7=D4=BC=BA=C8=A5=C3=FE=CB=F7=CF=C2=A3=AC=D7=EE=BA=F3=D2=BB=
+=CF=EE=D6=A7=B3=D6</span><span>OQL</span><span style=3D"font-fami=
+ly:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-f=
+amily:Calibri">=A3=A8=B6=D4=CF=F3=B2=E9=D1=AF=D3=EF=D1=D4=A3=A9=A1=
+=A3</span></p><h3><span>D</span><span style=3D"font-family:=CB=CE=
+=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibr=
+i">=A1=A2</span><span>jstat</span></h3><p class=3D"MsoNormal"><sp=
+an style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Cal=
+ibri;mso-hansi-font-family:Calibri">=A3=A8</span><span>JVM</span>=
+<span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Cal=
+ibri;=0Amso-hansi-font-family:Calibri">=CD=B3=BC=C6=BC=E0=B2=E2=B9=
+=A4=BE=DF=A3=A9</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbs=
+p;&nbsp; </span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-as=
+cii-font-family:Calibri;mso-hansi-font-family:Calibri">=D3=EF=B7=A8=
+=B8=F1=CA=BD=C8=E7=CF=C2=A3=BA</span></p><p class=3D"MsoNormal"><=
+span>jstat [=0AgeneralOption | outputOptions vmid [interval[s|ms]=
+ [count]] ]</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&n=
+bsp; vmid</span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-as=
+cii-font-family:Calibri;mso-hansi-font-family:Calibri">=CA=C7</sp=
+an><span>Java</span><span style=3D"font-family:=CB=CE=CC=E5;mso-a=
+scii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=D0=E9=
+=C4=E2=BB=FA</span><span>ID</span><span style=3D"font-family:=CB=CE=
+=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibr=
+i">=A3=AC=D4=DA</span><span>Linux/Unix</span><span style=3D"font-=
+family:=CB=CE=CC=E5;mso-ascii-font-family:=0ACalibri;mso-hansi-fo=
+nt-family:Calibri">=CF=B5=CD=B3=C9=CF=D2=BB=B0=E3=BE=CD=CA=C7=BD=F8=
+=B3=CC</span><span>ID</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=A1=
+=A3</span><span>interval</span><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:=0ACalibri;mso-hansi-font-family:Calibr=
+i">=CA=C7=B2=C9=D1=F9=CA=B1=BC=E4=BC=E4=B8=F4=A1=A3</span><span>c=
+ount</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font=
+-family:Calibri;mso-hansi-font-family:Calibri">=CA=C7=B2=C9=D1=F9=
+=CA=FD=C4=BF=A1=A3=B1=C8=C8=E7=CF=C2=C3=E6=CA=E4=B3=F6=B5=C4=CA=C7=
+</span><span>GC</span><span style=3D"font-family:=CB=CE=CC=E5;mso=
+-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=D0=C5=
+=CF=A2=A3=AC=B2=C9=D1=F9=CA=B1=BC=E4=BC=E4=B8=F4=CE=AA</span><spa=
+n>250ms</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-f=
+ont-family:Calibri;mso-hansi-font-family:Calibri">=A3=AC=B2=C9=D1=
+=F9=CA=FD=CE=AA</span><span>4</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:=
+Calibri">=A3=BA</span></p><p class=3D"MsoNormal"><span>root@ubunt=
+u:/#=0Ajstat -gc 21711 250 4</span></p><p class=3D"MsoNormal"><sp=
+an>&nbsp;S0CS1C&nbsp;&nbsp;&nbsp; S0U&nbsp;&nbsp;&nbsp; S1UEC&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; EU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp; OC&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; O=
+U&nbsp;&nbsp;&nbsp;PC&nbsp;&nbsp;&nbsp;&nbsp; PUYGC&nbsp;&nbsp;&n=
+bsp;&nbsp; YGCT&nbsp;&nbsp;&nbsp; FGCFGCT&nbsp;&nbsp;&nbsp;&nbsp;=
+ GCT&nbsp;&nbsp; </span></p><p class=3D"MsoNormal"><span>192.0&nb=
+sp; 192.064.0&nbsp;&nbsp; 0.0&nbsp;&nbsp;&nbsp; 6144.01854.9&nbsp=
+;&nbsp; 32000.0&nbsp;&nbsp;&nbsp;&nbsp; 4111.655296.0 25472.7&nbs=
+p;&nbsp;&nbsp; 702&nbsp;&nbsp;&nbsp; 0.4313&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp; 0.218&nbsp;&nbsp;&nbsp; 0.649</span></p><p class=3D"MsoN=
+ormal"><span>192.0&nbsp; 192.064.0&nbsp;&nbsp; 0.0&nbsp;&nbsp;&nb=
+sp; 6144.01972.2&nbsp;&nbsp; 32000.0&nbsp;&nbsp;&nbsp;&nbsp; 4111=
+.655296.0 25472.7&nbsp;&nbsp;&nbsp; 702&nbsp;&nbsp;&nbsp; 0.4313&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.218&nbsp;&nbsp;&nbsp; 0.649</span=
+></p><p class=3D"MsoNormal"><span>192.0&nbsp; 192.064.0&nbsp;&nbs=
+p; 0.0&nbsp;&nbsp;&nbsp; 6144.01972.2&nbsp;&nbsp; 32000.0&nbsp;&n=
+bsp;&nbsp;&nbsp; 4111.655296.0 25472.7&nbsp;&nbsp;&nbsp; 702&nbsp=
+;&nbsp;&nbsp; 0.4313&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.218&nbsp;&nb=
+sp;&nbsp; 0.649</span></p><p class=3D"MsoNormal"><span>192.0&nbsp=
+; 192.064.0&nbsp;&nbsp; 0.0&nbsp;&nbsp;&nbsp; 6144.02109.7&nbsp;&=
+nbsp; 32000.0&nbsp;&nbsp;&nbsp;&nbsp; 4111.655296.0 25472.7&nbsp;=
+ &nbsp;&nbsp;7020.431&nbsp;&nbsp; 3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+ 0.2180.649</span></p><p class=3D"MsoNormal" style=3D"text-indent=
+: 20.25pt;"><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-fon=
+t-family:Calibri;mso-hansi-font-family:Calibri">=D2=AA=C3=F7=B0=D7=
+=C9=CF=C3=E6=B8=F7=C1=D0=B5=C4=D2=E2=D2=E5=A3=AC=CF=C8=BF=B4</spa=
+n><span>JVM</span><span style=3D"font-family:=CB=CE=CC=E5;mso-asc=
+ii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=B6=D1=C4=
+=DA=B4=E6=B2=BC=BE=D6=A3=BA</span><span><v:shape id=3D"_x0000_i10=
+26" type=3D"#_x0000_t75" alt style=3D"width:399.75pt; height:210.=
+75pt;"><img src></v:shape></span></p><p class=3D"MsoNormal" style=
+=3D"text-indent: 20.25pt;"><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=BF=
+=C9=D2=D4=BF=B4=B3=F6=A3=BA=B6=D1=C4=DA=B4=E6</span><span> =3D </=
+span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-famil=
+y:Calibri;=0Amso-hansi-font-family:Calibri">=C4=EA=C7=E1=B4=FA</s=
+pan><span> + </span><span style=3D"font-family:=CB=CE=CC=E5;mso-a=
+scii-font-family:Calibri;mso-hansi-font-family:Calibri">=C4=EA=C0=
+=CF=B4=FA</span><span> + </span><span style=3D"font-family:=CB=CE=
+=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Cal=
+ibri">=D3=C0=BE=C3=B4=FA</span></p><p class=3D"MsoNormal"><span s=
+tyle=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:Calibri=
+;mso-hansi-font-family:Calibri">=C4=EA=C7=E1=B4=FA</span><span> =3D=
+ Eden</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-fon=
+t-family:=0ACalibri;mso-hansi-font-family:Calibri">=C7=F8</span><=
+span> + </span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-=
+font-family:Calibri;mso-hansi-font-family:Calibri">=C1=BD=B8=F6</=
+span><span>Survivor</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:=0ACalibri;mso-hansi-font-family:Calibri">=
+=C7=F8=A3=A8</span><span>From</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=BA=CD</span><span>To</span><span style=3D"font-family:=CB=CE=
+=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Cal=
+ibri">=A3=A9</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;=20=
+&nbsp;</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-fo=
+nt-family:Calibri;mso-hansi-font-family:Calibri">=CF=D6=D4=DA=C0=B4=
+=BD=E2=CA=CD=B8=F7=C1=D0=BA=AC=D2=E5=A3=BA</span></p><p class=3D"=
+MsoNormal"><span>S0C</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=A1=
+=A2</span><span>S1C</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=
+=A1=A2</span><span>S0U</span><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=
+=A1=A2</span><span>S1U</span><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibr=
+i">=A3=BA</span><span>Survivor 0/1</span><span style=3D"font-fami=
+ly:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-fami=
+ly:Calibri">=C7=F8=C8=DD=C1=BF=A3=A8</span><span>Capacity</span><=
+span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=0AC=
+alibri;mso-hansi-font-family:Calibri">=A3=A9=BA=CD=CA=B9=D3=C3=C1=
+=BF=A3=A8</span><span>Used</span><span style=3D"font-family:=CB=CE=
+=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibr=
+i">=A3=A9</span></p><p class=3D"MsoNormal"><span>EC</span><span s=
+tyle=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;ms=
+o-hansi-font-family:Calibri">=A1=A2</span><span>EU</span><span st=
+yle=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0A=
+mso-hansi-font-family:Calibri">=A3=BA</span><span>Eden</span><spa=
+n style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri=
+;mso-hansi-font-family:Calibri">=C7=F8=C8=DD=C1=BF=BA=CD=CA=B9=D3=
+=C3=C1=BF</span></p><p class=3D"MsoNormal"><span>OC</span><span s=
+tyle=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;ms=
+o-hansi-font-family:Calibri">=A1=A2</span><span>OU</span><span st=
+yle=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0A=
+mso-hansi-font-family:Calibri">=A3=BA=C4=EA=C0=CF=B4=FA=C8=DD=C1=BF=
+=BA=CD=CA=B9=D3=C3=C1=BF</span></p><p class=3D"MsoNormal"><span>P=
+C</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fa=
+mily:Calibri;mso-hansi-font-family:Calibri">=A1=A2</span><span>PU=
+</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fam=
+ily:Calibri;=0Amso-hansi-font-family:Calibri">=A3=BA=D3=C0=BE=C3=B4=
+=FA=C8=DD=C1=BF=BA=CD=CA=B9=D3=C3=C1=BF</span></p><p class=3D"Mso=
+Normal"><span>YGC</span><span style=3D"font-family:=CB=CE=CC=E5;m=
+so-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=A1=A2=
+</span><span>YGT</span><span style=3D"font-family:=CB=CE=CC=E5;ms=
+o-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=A3=
+=BA=C4=EA=C7=E1=B4=FA</span><span>GC</span><span style=3D"font-fa=
+mily:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-fa=
+mily:Calibri">=B4=CE=CA=FD=BA=CD</span><span>GC</span><span style=
+=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso=
+-hansi-font-family:Calibri">=BA=C4=CA=B1</span></p><p class=3D"Ms=
+oNormal"><span>FGC</span><span style=3D"font-family:=CB=CE=CC=E5;=
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=A1=A2=
+</span><span>FGCT</span><span style=3D"font-family:=CB=CE=CC=E5;m=
+so-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=A3=
+=BA</span><span>Full GC</span><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=
+=B4=CE=CA=FD=BA=CD</span><span>Full GC</span><span style=3D"font-=
+family:=CB=CE=CC=E5;mso-ascii-font-family:=0ACalibri;mso-hansi-fo=
+nt-family:Calibri">=BA=C4=CA=B1</span></p><p class=3D"MsoNormal">=
+<span>GCT</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii=
+-font-family:Calibri;mso-hansi-font-family:Calibri">=A3=BA</span>=
+<span>GC</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-=
+font-family:Calibri;=0Amso-hansi-font-family:Calibri">=D7=DC=BA=C4=
+=CA=B1</span></p><h3><span>E</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=A1=A2</span><span>hprof</span></h3><p class=3D"MsoNormal">=
+<span style=3D"font-family:=0A=CB=CE=CC=E5;mso-ascii-font-family:=
+Calibri;mso-hansi-font-family:Calibri">=A3=A8</span><span>Heap/CP=
+U Profiling Tool</span><span style=3D"font-family:=CB=CE=CC=E5;=0A=
+mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=A3=A9=
+</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; hprof<=
+/span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-f=
+amily:Calibri;mso-hansi-font-family:Calibri">=C4=DC=B9=BB=D5=B9=CF=
+=D6</span><span>CPU</span><span style=3D"font-family:=CB=CE=CC=E5=
+;mso-ascii-font-family:Calibri;=0Amso-hansi-font-family:Calibri">=
+=CA=B9=D3=C3=C2=CA=A3=AC=CD=B3=BC=C6=B6=D1=C4=DA=B4=E6=CA=B9=D3=C3=
+=C7=E9=BF=F6=A1=A3</span><span>&nbsp;&nbsp;&nbsp; </span><span st=
+yle=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibri;=
+mso-hansi-font-family:Calibri">=D3=EF=B7=A8=B8=F1=CA=BD=C8=E7=CF=C2=
+=A3=BA</span></p><p class=3D"MsoNormal"><span>java -agentlib:hpro=
+f[=3Doptions]=0AToBeProfiledClass</span></p><p class=3D"MsoNormal=
+"><span>java=0A-Xrunprof[:options] ToBeProfiledClass</span></p><p=
+ class=3D"MsoNormal"><span>javac=0A-J-agentlib:hprof[=3Doptions]=20=
+ToBeProfiledClass</span></p><p class=3D"MsoNormal"><span>&nbsp;&n=
+bsp;&nbsp; </span><span style=3D"font-family:=CB=CE=CC=E5;=0Amso-=
+ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=CD=EA=D5=
+=FB=B5=C4=C3=FC=C1=EE=D1=A1=CF=EE=C8=E7=CF=C2=A3=BA</span></p><p=20=
+class=3D"MsoNormal"><span>Option=0AName and Value&nbsp; Descripti=
+on&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Default</span=
+></p><p class=3D"MsoNormal"><span>---------------------&nbsp; ---=
+--------&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-------=
+</span></p><p class=3D"MsoNormal"><span>heap=3Ddump|sites|all&nbs=
+p;&nbsp;&nbsp; heap profiling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; all<=
+/span></p><p class=3D"MsoNormal"><span>cpu=3Dsamples|times|old&nb=
+sp; CPU usage&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp; off</span></p><p class=3D"MsoNormal"><span>monitor=3Dy|=
+n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p; monitor contention&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; n</span></p><p class=3D"MsoNormal"><=
+span>format=3Da|b&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp; text(txt) or binary output&nbsp;&nbsp;&n=
+bsp;&nbsp; a</span></p><p class=3D"MsoNormal"><span>file=3D&lt;fi=
+le&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp; write data to file&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; java.hprof[.txt]</span></p><p c=
+lass=3D"MsoNormal"><span>net=3D&lt;host&gt;:&lt;port&gt;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp; send data over a socket&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp; off</span></p><p class=3D"MsoNormal"><span=
+>depth=3D&lt;size&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; stack trace depth&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4</span></p><p cl=
+ass=3D"MsoNormal"><span>interval=3D&lt;ms&gt;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; sample interval in ms&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10</span></p><p cla=
+ss=3D"MsoNormal"><span>cutoff=3D&lt;value&gt;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; &nbsp;&nbsp;output cutoff point&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 0.0001</span></=
+p><p class=3D"MsoNormal"><span>lineno=3Dy|n&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; line number in=
+ traces?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; y</span>=
+</p><p class=3D"MsoNormal"><span>thread=3Dy|n&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; thread in tr=
+aces?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp; n</span></p><p class=3D"MsoNormal"><span>doe=3D=
+y|n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp; dump on exit?&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp; y</span></p><p class=3D"MsoNormal"><span>msa=3Dy|n=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp; Solaris micro state accounting=0An</spa=
+n></p><p class=3D"MsoNormal"><span>force=3Dy|n&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; force=
+ output to &lt;file&gt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp; y</span></p><p class=3D"MsoNormal"><span>verbose=3Dy|n&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; pr=
+int messages about dumps&nbsp;&nbsp;&nbsp;&nbsp; y</span></p><p c=
+lass=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; </span><span style=3D=
+"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibri;mso-ha=
+nsi-font-family:Calibri">=C0=B4=BC=B8=B8=F6=B9=D9=B7=BD=D6=B8=C4=CF=
+=C9=CF=B5=C4=CA=B5=C0=FD=A1=A3</span></p><p class=3D"MsoNormal"><=
+span>&nbsp;&nbsp;&nbsp; CPU Usage Sampling Profiling(cpu=3Dsample=
+s)</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-f=
+amily:Calibri;mso-hansi-font-family:Calibri">=B5=C4=C0=FD=D7=D3=A3=
+=BA</span></p><p class=3D"MsoNormal"><span>java=0A-agentlib:hprof=
+=3Dcpu=3Dsamples,interval=3D20,depth=3D3 Hello</span></p><p class=
+=3D"MsoNormal"><span>&nbsp;&nbsp;&nbsp; </span><span style=3D"fon=
+t-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibri;mso-hansi-=
+font-family:Calibri">=C9=CF=C3=E6=C3=BF=B8=F4</span><span>20</spa=
+n><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:C=
+alibri;=0Amso-hansi-font-family:Calibri">=BA=C1=C3=EB=B2=C9=D1=F9=
+</span><span>CPU</span><span style=3D"font-family:=CB=CE=CC=E5;ms=
+o-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=CF=FB=
+=BA=C4=D0=C5=CF=A2=A3=AC=B6=D1=D5=BB=C9=EE=B6=C8=CE=AA</span><spa=
+n>3</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-=
+family:Calibri;=0Amso-hansi-font-family:Calibri">=A3=AC=C9=FA=B3=C9=
+=B5=C4</span><span>profile</span><span style=3D"font-family:=CB=CE=
+=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibr=
+i">=CE=C4=BC=FE=C3=FB=B3=C6=CA=C7</span><span>java.hprof.txt</spa=
+n><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=0A=
+Calibri;mso-hansi-font-family:Calibri">=A3=AC=D4=DA=B5=B1=C7=B0=C4=
+=BF=C2=BC=A1=A3</span> </p><p class=3D"MsoNormal"><span>&nbsp;&nb=
+sp;&nbsp; CPU Usage Times Profiling(cpu=3Dtimes)</span><span styl=
+e=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-h=
+ansi-font-family:Calibri">=B5=C4=C0=FD=D7=D3=A3=AC=CB=FC=CF=E0=B6=
+=D4=D3=DA</span><span>CPU Usage Sampling Profile</span><span styl=
+e=3D"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibri;ms=
+o-hansi-font-family:Calibri">=C4=DC=B9=BB=BB=F1=B5=C3=B8=FC=BC=D3=
+=CF=B8=C1=A3=B6=C8=B5=C4</span><span>CPU</span><span style=3D"fon=
+t-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-=
+font-family:Calibri">=CF=FB=BA=C4=D0=C5=CF=A2=A3=AC=C4=DC=B9=BB=CF=
+=B8=B5=BD=C3=BF=B8=F6=B7=BD=B7=A8=B5=F7=D3=C3=B5=C4=BF=AA=CA=BC=BA=
+=CD=BD=E1=CA=F8=A3=AC=CB=FC=B5=C4=CA=B5=CF=D6=CA=B9=D3=C3=C1=CB=D7=
+=D6=BD=DA=C2=EB=D7=A2=C8=EB=BC=BC=CA=F5=A3=A8</span><span>BCI</sp=
+an><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=
+Calibri;=0Amso-hansi-font-family:Calibri">=A3=A9=A3=BA</span></p>=
+<p class=3D"MsoNormal"><span>javac=0A-J-agentlib:hprof=3Dcpu=3Dti=
+mes Hello.java</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp=
+;&nbsp; Heap Allocation Profiling(heap=3Dsites)</span><span style=
+=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-ha=
+nsi-font-family:Calibri">=B5=C4=C0=FD=D7=D3=A3=BA</span></p><p cl=
+ass=3D"MsoNormal"><span>javac=0A-J-agentlib:hprof=3Dheap=3Dsites=20=
+Hello.java</span></p><p class=3D"MsoNormal"><span>&nbsp;&nbsp;&nb=
+sp; Heap Dump(heap=3Ddump)</span><span style=3D"font-family:=CB=CE=
+=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibr=
+i">=B5=C4=C0=FD=D7=D3=A3=AC=CB=FC=B1=C8=C9=CF=C3=E6=B5=C4</span><=
+span>Heap Allocation Profiling</span><span style=3D"font-family:=CB=
+=CE=CC=E5;=0Amso-ascii-font-family:Calibri;mso-hansi-font-family:=
+Calibri">=C4=DC=C9=FA=B3=C9=B8=FC=CF=EA=CF=B8=B5=C4</span><span>H=
+eap Dump</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-=
+font-family:=0ACalibri;mso-hansi-font-family:Calibri">=D0=C5=CF=A2=
+=A3=BA</span></p><p class=3D"MsoNormal"><span>javac=0A-J-agentlib=
+:hprof=3Dheap=3Ddump Hello.java</span></p><p class=3D"MsoNormal"=20=
+style=3D"text-indent: 21pt;"><span style=3D"font-family:=CB=CE=CC=
+=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri">=
+=CB=E4=C8=BB=D4=DA</span><span>JVM</span><span style=3D"font-fami=
+ly:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;=0Amso-hansi-font-f=
+amily:Calibri">=C6=F4=B6=AF=B2=CE=CA=FD=D6=D0=BC=D3=C8=EB</span><=
+span>-Xrunprof:heap=3Dsites</span><span style=3D"font-family:=CB=CE=
+=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibr=
+i">=B2=CE=CA=FD=BF=C9=D2=D4=C9=FA=B3=C9</span><span>CPU/Heap Prof=
+ile</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-=
+family:=0ACalibri;mso-hansi-font-family:Calibri">=CE=C4=BC=FE=A3=AC=
+=B5=AB=B6=D4</span><span>JVM</span><span style=3D"font-family:=CB=
+=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-family:Cal=
+ibri">=D0=D4=C4=DC=D3=B0=CF=EC=B7=C7=B3=A3=B4=F3=A3=AC=B2=BB=BD=A8=
+=D2=E9=D4=DA=CF=DF=C9=CF=B7=FE=CE=F1=C6=F7=BB=B7=BE=B3=CA=B9=D3=C3=
+=A1=A3</span></p><p class=3D"MsoNormal" style=3D"text-indent: 21p=
+t;"><span><o:p>&nbsp;</o:p></span></p><h3><span style=3D"font-fam=
+ily:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-fam=
+ily:=0ACalibri">=D4=B6=B3=CC=B5=F7=CA=D4</span> </h3><p class=3D"=
+MsoNormal" style=3D"text-indent: 21pt;"><span style=3D"font-famil=
+y:=CB=CE=CC=E5;mso-ascii-font-family:Calibri;mso-hansi-font-famil=
+y:Calibri">=C6=F4=B6=AF=B2=CE=CA=FD=CC=ED=BC=D3</span><span>-serv=
+er -Xdebug -Xnoagent -Djava.compiler=3DNONE=0A-Xrunjdwp:transport=
+=3Ddt_socket,server=3Dy,suspend=3Dn,address=3D8909</span></p><p c=
+lass=3D"MsoNormal" style=3D"text-indent: 21pt;"><span>Eclipse</sp=
+an><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-family:=
+=0ACalibri;mso-hansi-font-family:Calibri">=B5=C4</span><span>debu=
+g</span><span style=3D"font-family:=CB=CE=CC=E5;mso-ascii-font-fa=
+mily:Calibri;mso-hansi-font-family:Calibri">=D6=D0=D0=C2=BD=A8=D2=
+=BB=B8=F6</span><span>remote java application </span><span style=3D=
+"font-family:=CB=CE=CC=E5;=0Amso-ascii-font-family:Calibri;mso-ha=
+nsi-font-family:Calibri">=CC=EE=C9=CF=D4=B6=B3=CC=B5=D8=D6=B7=BA=CD=
+=B6=CB=BF=DA</span><span>8909</span></p></body></html>=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000523531.443--
+
+------=_Next_Part_0001570593.528--
+

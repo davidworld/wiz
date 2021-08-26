@@ -1,0 +1,72 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?08W7r9Ghz+4=?=
+Date: Date: Fri, 23 Jul 2021 05:51:00 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000622218.038"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000622218.038
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000207406.853"
+
+
+------=_Next_Part_0000207406.853
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000207406.853
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>=D3=C5=BB=AF=D1=A1=CF=EE</title>=0A=0A=
+=0A=0A=0A=0A<style type=3D"text/css" id=3D"wiz_todo_style_id" wiz=
+_link_version=3D"01.00.09">.wiz-todo, .wiz-todo-img {width: 16px;=
+ height: 16px; cursor: default; padding: 0 10px 0 2px; vertical-a=
+lign: -10%;-webkit-user-select: none;} .wiz-todo-label { display:=
+ inline-block; padding-top: 7px; padding-bottom: 6px; line-height=
+: 1.5;} .wiz-todo-label-checked {  color: #666;} .wiz-todo-label-=
+unchecked {text-decoration: initial;} .wiz-todo-completed-info {p=
+adding-left: 44px; display: inline-block; } .wiz-todo-avatar { wi=
+dth:20px; height: 20px; vertical-align: -20%; margin-right:10px;=20=
+border-radius: 2px;} .wiz-todo-account, .wiz-todo-dt { color: #66=
+6; }</style>=0A<style type=3D"text/css" id=3D"wiz_custom_css">=0A=
+body=0A{=0A    font-family: Arial;=0A    font-size: 10.5pt;=0A  =20=
+ line-height: 1.5;=0A}=0Ahtml, body=0A{=0A    color: ;=0A    back=
+ground-color: ;=0A}=0Ah1 {=0A    font-size:1.5em;=0A    font-weig=
+ht:bold;=0A}=0Ah2 {=0A    font-size:1.4em;=0A    font-weight:bold=
+;=0A}=0Ah3 {=0A    font-size:1.3em;=0A    font-weight:bold;=0A}=0A=
+h4 {=0A    font-size:1.2em;=0A    font-weight:bold;=0A}=0Ah5 {=0A=
+    font-size:1.1em;=0A    font-weight:bold;=0A}=0Ah6 {=0A    fon=
+t-size:1.0em;=0A    font-weight:bold;=0A}=0Aimg {=0A    border:0;=
+=0A    max-width: 100%;=0A    height: auto !important;=0A}=0Abloc=
+kquote {=0A    margin-top:0px;=0A    margin-bottom:0px;=0A}=0Atab=
+le {=0A    border-collapse:collapse;=0A    border:1px solid #bbbb=
+bb;=0A}=0Atd {=0A    border-collapse:collapse;=0A    border:1px s=
+olid #bbbbbb;=0A}=0A</style>=0A</head>=0A=0A<body style><pre clas=
+s=3D"pre codeblock" style=3D"box-sizing: border-box; font-family:=
+ monospace, serif; font-size: 13px; white-space: pre-wrap; word-w=
+rap: break-word; padding: 5pt; background-color: white; border: t=
+hin dashed rgb(0, 110, 137); border-top-left-radius: 3px; border-=
+top-right-radius: 3px; border-bottom-right-radius: 3px; border-bo=
+ttom-left-radius: 3px; margin-top: 0.6em; margin-bottom: 0.6em; m=
+argin-right: 0.6em; color: rgb(102, 102, 102); line-height: 17.32=
+8125px;"># minimize swapiness=0A=0Asudo sysctl vm.swappiness=3D0=0A=
+=0Asudo bash -c 'echo "vm.swappiness=3D0"&gt;&gt; /etc/sysctl.con=
+f'=0A=0A# disable swap space until next reboot:=0A=0Asudo /sbin/s=
+wapoff -a</pre></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000207406.853--
+
+------=_Next_Part_0000622218.038--
+

@@ -1,0 +1,223 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?wv2y6dGv08W7rw==?=
+Date: Date: Fri, 23 Jul 2021 05:50:49 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000588420.202"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000588420.202
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000196140.116"
+
+
+------=_Next_Part_0000196140.116
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000196140.116
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A<title>=C2=FD=B2=E9=D1=AF=D3=C5=BB=AF</title>=0A    =0A<style=20=
+id=3D"wiz_custom_css">html, .wiz-editor-body {font-size: 12pt;}.w=
+iz-editor-body {font-family: Helvetica, 'Hiragino Sans GB', '=E5=BE=
+=AE=E8=BD=AF=E9=9B=85=E9=BB=91', 'Microsoft YaHei UI', SimSun, Si=
+mHei, arial, sans-serif;line-height: 1.7;margin: 0 auto;padding:=20=
+20px 16px;padding: 1.25rem 1rem;}.wiz-editor-body h1,.wiz-editor-=
+body h2,.wiz-editor-body h3,.wiz-editor-body h4,.wiz-editor-body=20=
+h5,.wiz-editor-body h6 {margin:20px 0 10px;margin:1.25rem 0 0.625=
+rem;padding: 0;font-weight: bold;}.wiz-editor-body h1 {font-size:=
+20pt;font-size:1.67rem;}.wiz-editor-body h2 {font-size:18pt;font-=
+size:1.5rem;}.wiz-editor-body h3 {font-size:15pt;font-size:1.25re=
+m;}.wiz-editor-body h4 {font-size:14pt;font-size:1.17rem;}.wiz-ed=
+itor-body h5 {font-size:12pt;font-size:1rem;}.wiz-editor-body h6=20=
+{font-size:12pt;font-size:1rem;color: #777777;margin: 1rem 0;}.wi=
+z-editor-body div,.wiz-editor-body p,.wiz-editor-body ul,.wiz-edi=
+tor-body ol,.wiz-editor-body dl,.wiz-editor-body li {margin:8px 0=
+;}.wiz-editor-body blockquote,.wiz-editor-body table,.wiz-editor-=
+body pre,.wiz-editor-body code {margin:8px 0;}.wiz-editor-body .C=
+odeMirror pre {margin:0;}.wiz-editor-body ul,.wiz-editor-body ol=20=
+{padding-left:32px;padding-left:2rem;}.wiz-editor-body ol.wiz-lis=
+t-level1 > li {list-style-type:decimal;}.wiz-editor-body ol.wiz-l=
+ist-level2 > li {list-style-type:lower-latin;}.wiz-editor-body ol=
+.wiz-list-level3 > li {list-style-type:lower-roman;}.wiz-editor-b=
+ody blockquote {padding: 0 12px;}.wiz-editor-body blockquote > :f=
+irst-child {margin-top:0;}.wiz-editor-body blockquote > :last-chi=
+ld {margin-bottom:0;}.wiz-editor-body img {border:0;max-width:100=
+%;height:auto !important;margin:2px 0;}.wiz-editor-body table {bo=
+rder-collapse:collapse;border:1px solid #bbbbbb;}.wiz-editor-body=
+ td,.wiz-editor-body th {padding:4px 8px;border-collapse:collapse=
+;border:1px solid #bbbbbb;min-height:28px;word-break:break-word;b=
+ox-sizing: border-box;}.wiz-hide {display:none !important;}</styl=
+e></head>=0A=0A<body class=3D"wiz-editor-body"  spellcheck=3D"fal=
+se"><div>### =B2=BD=D6=E8=CB=B5=C3=F7</div><div>* =C3=F7=C8=B7=D0=
+=E8=D2=AA=D3=C5=BB=AF=B5=C4SQL</div><div>* =C3=F7=C8=B7=CE=CA=CC=E2=
+</div><div>* =D3=C5=BB=AFsql</div><div><br></div><div>### =C3=F7=C8=
+=B7=D0=E8=D2=AA=D3=C5=BB=AF=B5=C4SQL</div><div>* =C2=FD=C8=D5=D6=BE=
+</div><div>&nbsp; - =C2=FD=C8=D5=D6=BE=C5=E4=D6=C3</div><div>```<=
+/div><div>## =C2=FD=C8=D5=D6=BE=BF=AA=B9=D8/=CE=C4=BC=FE</div><di=
+v>show VARIABLES like 'slow_query_log%';</div><div><br></div><div=
+>## =C2=FD=C8=D5=D6=BE =B3=AC=CA=B1=CA=B1=BC=E4</div><div>show va=
+riables like 'long_query_time%';</div><div>show variables like 'm=
+in_examined_row_limit';</div><div><br></div><div>## =BC=C7=C2=BC=CE=
+=B4=CA=B9=D3=C3=CB=F7=D2=FD</div><div>show variables like 'log_qu=
+eries_not_using_indexes';</div><div><br></div><div><br></div><div=
+>## =C9=E8=D6=C3=BF=AA=B9=D8=A3=A8=D0=E8=D2=AA=D4=DA=D0=C2=B5=C4s=
+ession=D6=D0=B2=C5=C4=DC=BF=B4=B5=BD=C5=E4=D6=C3=CA=C7=B7=F1=C9=FA=
+=D0=A7=A3=A9=A3=AC=D6=D8=C6=F4=CA=A7=D0=A7=A3=AC=D0=E8=D2=AA=D4=DA=
+my.ini=C5=E4=D6=C3=B2=C5=BB=E1=D3=C0=BE=C3=C9=FA=D0=A7</div><div>=
+set global long_query_time=3D0; -- =D0=E8=D2=AA=D6=D8=D0=C2=B5=C7=
+=C2=BC</div><div>set global slow_query_log=3D1; -- =B2=BB=D0=E8=D2=
+=AA=D6=D8=D0=C2=B5=C7=C2=BC</div><div>set global log_queries_not_=
+using_indexes =3D 1; -- =B2=BB=D0=E8=D2=AA=D6=D8=D0=C2=B5=C7=C2=BC=
+</div><div>```</div><div>&nbsp; - =C2=FD=C8=D5=D6=BE=B7=D6=CE=F6m=
+ysqldumpslow.pl</div><div>```</div><div>## windows =D0=E8=D2=AA=B0=
+=B2=D7=B0perl=BF=CD=BB=A7=B6=CB=A3=AC=B2=C9=D3=C3=CA=B9=D3=C3mysq=
+ldumpslow.pl</div><div>-s order (c count)(at =C6=BD=BE=F9=CA=B1=BC=
+=E4)(al =C6=BD=BE=F9=BC=CF=CB=F8=CA=B1=BC=E4)(ar =C6=BD=BE=F9=D0=D0=
+=CA=FD)(l =BC=CF=CB=F8=CA=B1=BC=E4)(r =D0=D0=CA=FD)(t =B2=E9=D1=AF=
+=CA=B1=BC=E4)</div><div>-r =B7=B4=D7=AA=B2=E9=D1=AF=A3=AC=BB=F9=B1=
+=BE=C3=BB=D3=C3</div><div>-t num topN</div><div>-a =B2=BB=D7=F6=B2=
+=CE=CA=FD=B3=E9=CF=F3</div><div>-n num =B2=BB=B6=AE=CA=B2=C3=B4=D2=
+=E2=CB=BC</div><div>-g pattern sql=B5=C4=D5=FD=D4=F2=B1=ED=B4=EF=CA=
+=BD</div><div>-h host =D6=F7=BB=FA</div><div>-i Name =B7=FE=CE=F1=
+=C6=F7</div><div>-l =B2=BB=BC=D3=C9=CF=CB=F9=CA=B1=BC=E4</div><di=
+v>### =C8=C8=B5=E3topN=B5=C4sql=D7=F6=D3=C5=BB=AF</div><div>-s c=20=
+-t 10 file</div><div>### =C2=FDsql topN=B5=C4sql=D3=C5=BB=AF</div=
+><div>-s at -t 10 file</div><div>### =B2=E9=D1=AF=CC=F5=CA=FD =C0=
+=CB=B7=D1cpu=D7=CA=D4=B4</div><div>-s ar -t 10 file</div><div>```=
+</div><div>* =D6=B8=B1=EA</div><div>&nbsp; - =CF=EC=D3=A6 =CA=B1=BC=
+=E4</div><div>&nbsp; - =B2=E9=D1=AF</div><div>* =B7=FE=CE=F1=C6=F7=
+=BC=E0=BF=D8</div><div>&nbsp; - profile</div><div>&nbsp; - status=
+</div><div>&nbsp; - global status</div><div><br></div><div>### =C3=
+=F7=C8=B7=CE=CA=CC=E2</div><div>* sql=CA=C7=B7=F1=B4=E6=D4=DA=B2=E9=
+=D1=AF=B2=BB=D0=E8=D2=AA=B5=C4=CA=FD=BE=DD=A3=A8=B2=E9=D1=AF=B5=BD=
+=C3=BB=D3=C3=CA=B9=D3=C3=B5=C4=CA=FD=BE=DD=A3=AC=C8=E7=B6=E0=D3=E0=
+=B5=C4=C1=D0=BB=F2=D5=DF=B6=E0=D3=E0=B5=C4=D7=D6=B6=CE=A3=A9</div=
+><div>&nbsp; - =B6=E0=D3=E0=B5=C4=D0=D0</div><div>&nbsp; &nbsp; -=
+ =D3=A6=D3=C3=B2=E9=D1=AF=C1=CB=A3=AC=C8=B4=C3=BB=D3=D0=CA=B9=D3=C3=
+=A3=AC=D5=E2=D6=D6=B5=E4=D0=CD=B3=A1=BE=B0=BF=C9=D2=D4=D3=C3limit=
+=BD=F8=D0=D0=D3=C5=BB=AF</div><div>&nbsp; - =B6=E0=D3=E0=B5=C4=C1=
+=D0=A3=AC=CC=D8=B1=F0=CA=C7=B1=ED=D6=D0=C8=E7=B9=FB=D3=D0=B4=F3=D7=
+=D6=B6=CE=A3=AC=B6=D4cpu=D0=D4=C4=DC=BA=CDio=D0=D4=C4=DC=B6=BC=D3=
+=D0=BA=DC=B4=F3=CB=F0=BA=C4</div><div>&nbsp; &nbsp; - select *</d=
+iv><div>&nbsp; &nbsp; - =B6=E0=B1=ED=B9=D8=C1=AA=B2=E9=D1=AF sele=
+ct *</div><div>* =C9=A8=C3=E8=C1=CB=B9=FD=B6=E0=B5=C4=BC=C7=C2=BC=
+</div><div>&nbsp; - =D6=B8=B1=EA</div><div>&nbsp; &nbsp; - =CF=EC=
+=D3=A6=CA=B1=BC=E4 =B2=BB=B9=D8=D7=A2=A3=AC=D6=BB=C4=DC=D6=A4=C3=F7=
+=D3=D0=CE=CA=CC=E2</div><div>&nbsp; &nbsp; - =B7=B5=BB=D8=D0=D0=CA=
+=FD/=C9=A8=C3=E8=D0=D0=CA=FD =D3=D0=D2=E2=D2=E5=A3=AC=D6=BB=C4=DC=
+=D6=A4=C3=F7=D3=D0=CE=CA=CC=E2</div><div>&nbsp; &nbsp; - =B7=B5=BB=
+=D8=D0=D0=CA=FD + =B7=C3=CE=CA=C0=E0=D0=CD  =BC=B4=CD=A8=B9=FDexp=
+lain=B6=A8=CE=BB =CD=C6=BC=F6=B7=BD=CA=BD</div><div>* explain =C8=
+=E7=BA=CE=B6=A8=CE=BB</div><div>&nbsp; - type =B7=C3=CE=CA=C0=E0=D0=
+=CD</div><div>&nbsp; &nbsp; - ALL &lt; Index &lt; ref &lt; ref-eq=
+ &lt; const</div><div>&nbsp; &nbsp; &nbsp; - ALL =D4=AD=CA=BC=B5=C4=
+sql=A3=AC=C8=AB=B1=ED=C9=A8=C3=E8=A1=A3=D6=BB=D3=D0=D5=E6=D5=FD=D0=
+=E8=D2=AA=C8=AB=B1=ED=C9=A8=C3=E8=A3=A8=C8=E7count(* )=B5=C8=CD=B3=
+=BC=C6=B2=D9=D7=F7=A3=A9=B5=C4=B2=C5=CE=DE=B7=A8=D3=C5=BB=AF=A3=AC=
+=C0=ED=C2=DB=C9=CF=CA=C7=D2=BB=B6=A8=BF=C9=D2=D4=D3=C5=BB=AF=B5=C4=
+sql</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - =B4=E6=D4=DA=CC=F5=BC=
+=FE=A3=AC=B5=AB=CA=C7=CC=F5=BC=FE=C9=E6=BC=B0=B5=BD=D7=D6=B6=CE=C3=
+=BB=D3=D0=C9=E8=D6=C3=CB=F7=D2=FD=A3=AC=CD=A8=B9=FD=C9=E8=D6=C3=CB=
+=F7=D2=FD</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - order by =D7=D6=
+=B6=CE extra using filesort =A3=AC=BD=A8=C1=A2=CB=F7=D2=FD=BD=F8=D0=
+=D0=D3=C5=BB=AF</div><div>&nbsp; &nbsp; &nbsp; - index =CA=B9=D3=C3=
+=CB=F7=D2=FD=BD=F8=D0=D0=C8=AB=B1=ED=C9=A8=C3=E8=A3=AC=D6=BB=D3=D0=
+order by =CB=F7=D2=FD=D7=D6=B6=CE=B3=A1=BE=B0=CE=DE=B7=A8=D3=C5=BB=
+=AF</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - =BB=D8=B1=ED=A3=ACsel=
+ect=B5=C4=C4=DA=C8=DD</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - =B4=
+=E6=D4=DA=CB=F7=D2=FD=A3=AC=B5=AB=CA=C7=CB=F7=D2=FD=CA=A7=D0=A7</=
+div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - =BA=AF=CA=FD</div><=
+div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - =CD=AC=D2=E5=B1=ED=
+=B4=EF=A3=AC=B6=F8=B2=BB=CA=B9=D3=C3=BA=AF=CA=FD</div><div>&nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; - =D2=FE=D0=CE=C0=E0=D0=CD=D7=AA=BB=BB=
+ =D7=D6=B7=FB=B4=AE=D2=FE=D0=CE=BB=E1=D7=AA=BB=BB=B3=C9=CA=FD=D6=B5=
+=D4=DA=BA=CD=CA=FD=D6=B5=B1=C8=BD=CF=CA=B1</div><div>&nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; - field + 1 =3D 2 =D5=E2=D6=D6=D2=B2=BB=E1=
+=CA=B9=CB=F7=D2=FD=CA=A7=D0=A7</div><div>&nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; - =C0=EB=C9=A2=B2=BB=B8=DF=B5=C4=CB=F7=D2=FD=D0=A7=C2=CA=
+=D2=B2=BA=DC=B5=CD=A3=AC=D3=C5=BB=AF=C6=F7=BB=E1=B7=C5=C6=FA=CB=F7=
+=D2=FD=A3=AC=B8=C4=D3=C3all</div><div>&nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; - or</div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - like=20=
+"%"</div><div>&nbsp; &nbsp; &nbsp; - range =CB=F7=D2=FD=B7=B6=CE=A7=
+=A3=AC=D5=E2=B8=F6=B2=E3=B4=CE=BB=F9=B1=BE=BE=CD=B2=BB=D0=E8=D2=AA=
+=D3=C5=BB=AF=C1=CB</div><div>&nbsp; &nbsp; &nbsp; &nbsp; - =D2=BB=
+=B0=E3=CA=C7&gt; &lt; between and =CA=B9=D3=C3=CB=F7=D2=FD=D7=D6=B6=
+=CE=A3=AC=B2=BB=D0=E8=D2=AA=D3=C5=BB=AF=A3=AC=B3=FD=B7=C7</div><d=
+iv>&nbsp; &nbsp; &nbsp; - ref</div><div>&nbsp; &nbsp; &nbsp; - re=
+f-eq</div><div>&nbsp; &nbsp; &nbsp; - const</div><div>&nbsp; - ex=
+tra</div><div>&nbsp; &nbsp; - using filesort</div><div>&nbsp; &nb=
+sp; &nbsp; - =CD=A8=B9=FD=CE=AAorder by=B5=C4=D7=D6=B6=CE=CC=ED=BC=
+=D3=CB=F7=D2=FD=A3=AC=C0=FB=D3=C3=CB=F7=D2=FD=B5=C4=D3=D0=D0=F2=D0=
+=D4=BD=F8=D0=D0=D3=C5=BB=AF</div><div>### =D3=C5=BB=AF=B7=BD=CA=BD=
+</div><div>1. =D4=DAall =BA=CD index=CA=C7=D6=D8=B5=E3</div><div>=
+2. =D6=F7=D2=AA=B5=C4=CB=BC=C2=B7=CA=C7=CC=ED=BC=D3=CB=F7=D2=FD=A3=
+=AC=B5=AB=CA=C7=CA=B9=D3=C3=CB=F7=D2=FD=B1=D8=D0=EB=BF=BC=C2=C7=BF=
+=D5=BC=E4=D3=C5=BB=AF</div><div>* =D7=CA=D4=B4=D3=C5=BB=AF</div><=
+div>&nbsp; - =BC=C7=C2=BC=CA=FD</div><div>&nbsp; - io</div><div>&=
+nbsp; - cpu=B5=C8</div><div>* =CB=F7=D2=FD=D3=C5=BB=AF</div><div>=
+&nbsp; - =BF=D5=BC=E4=D3=C5=BB=AF</div><div>&nbsp; &nbsp; - =D7=EE=
+=D7=F3=CA=CA=C5=E4 =BD=DA=CA=A1=CB=F7=D2=FD=BF=D5=BC=E4</div><div=
+>&nbsp; &nbsp; &nbsp; - =D2=BB=B0=E3=CA=C7=C6=B5=C2=CA=B8=DF+=D7=D6=
+=B6=CE=B3=A4=B5=C4=B7=C5=D6=C3=D4=DA=D7=F3=B1=DF=D7=F7=CE=AA=C1=AA=
+=BA=CF=CB=F7=D2=FD</div><div>&nbsp; &nbsp; - =D7=EE=CF=C2=CA=CA=C5=
+=E4</div><div>&nbsp; - =B8=B2=B8=C7=CB=F7=D2=FD</div><div>&nbsp;=20=
+&nbsp; - =D3=C3=D3=DA=D3=C5=BB=AF=BB=D8=B1=ED=B6=F8=B2=FA=C9=FA=B5=
+=C4=D0=D4=C4=DC=CB=F0=BA=C4</div><div>* =C1=AC=BD=D3=D3=C5=BB=AF<=
+/div><div>&nbsp; - =D0=A1=B1=ED=C7=FD=B6=AF</div><div>&nbsp; - =B1=
+=BB=C7=FD=B6=AF=B1=ED =CB=F7=D2=FD=D3=C5=BB=AF</div><div>* =CC=D8=
+=CA=E2=D3=C5=BB=AF=B3=A1=BE=B0=CB=B5=C3=F7</div><div>&nbsp; - =B4=
+=F3=B1=EDcount() =B4=D3=CA=FD=BE=DD=BF=E2=B2=E3=C3=E6=CE=DE=B7=A8=
+=D3=C5=BB=AF=A3=AC=B5=AB=CA=C7=BF=C9=D2=D4=CD=A8=B9=FD=D3=A6=D3=C3=
+=B8=C4=D4=EC=B5=C4=B7=BD=CA=BD=BD=F8=D0=D0=D3=C5=BB=AF</div><div>=
+&nbsp; &nbsp; - =CA=B9=D3=C3innodb=D2=FD=C7=E6=A3=AC=D3=C9=D3=DAm=
+vcc=BB=FA=D6=C6=A3=AC=B5=BC=D6=C2count=D0=E8=D2=AA=CA=B5=CA=C2=BC=
+=C6=CB=E3=BC=C7=C2=BC=CA=FD</div><div>&nbsp; &nbsp; - count(* ) ~=
+~ count(1) &gt; count(id) &gt; count(=D7=D6=B6=CE)</div><div>&nbs=
+p; &nbsp; &nbsp; - count(* ) innodb=D2=FD=C7=E6=D7=F6=C1=CB=CC=D8=
+=CA=E2=D3=C5=BB=AF=A3=AC=B5=DA=D2=BB=B8=F6=B2=BB=BB=E1=B7=C3=CE=CA=
+=CB=F9=D3=D0=B5=C4=CA=FD=BE=DD=A3=AC=B5=DA=B6=FE=B8=F6=BB=E1=CA=B9=
+=D3=C3=C6=D5=CD=A8=B5=C4=CB=F7=D2=FD=BD=F8=D0=D0index</div><div>&=
+nbsp; &nbsp; &nbsp; - count=B2=BB=C4=DC=CE=AA=D2=BB=B0=E3=B5=C4=D7=
+=D6=B6=CE=A3=AC=D2=F2=CE=AA=BF=C9=BF=D5=A3=AC</div><div>&nbsp; &n=
+bsp; - =D3=C5=BB=AF=B7=BD=CA=BD</div><div>&nbsp; &nbsp; &nbsp; -=20=
+=B6=D4=B4=F3=B1=ED=BE=A1=C1=BF=B2=BB=D2=AA=CA=B9=D3=C3count=B5=C4=
+=B2=D9=D7=F7</div><div>&nbsp; &nbsp; &nbsp; - =CD=A8=B9=FD=CA=C2=CE=
+=F1=D0=D4=CC=D8=D0=D4=BD=F8=D0=D0=D3=C5=BB=AF</div><div>&nbsp; -=20=
+=CB=F7=D2=FD=CA=A7=D0=A7</div><div>&nbsp; &nbsp; - =BC=FB=C9=CF=CE=
+=C4</div><div>&nbsp; - =B3=AC=B4=F3=B1=ED like =B5=BC=D6=C2=CB=F7=
+=D2=FD=CA=A7=D0=A7</div><div>&nbsp; &nbsp; - =CB=D1=CB=F7=D2=FD=C7=
+=E6=A3=AC=D5=E2=D6=D6=B3=A1=BE=B0=B2=BB=CA=C7=CA=FD=BE=DD=BF=E2=BA=
+=CF=CA=CA=B5=C4=B3=A1=BE=B0</div><div>&nbsp; &nbsp; - =B4=CB=CA=B1=
+=CA=FD=BE=DD=BF=E2=C7=BF=B5=F7=B5=C4=CA=C7=CA=FD=BE=DD=B5=C4=C2=E4=
+=B5=D8=A3=BB=B2=E9=D1=AF=D2=D1=BE=AD=B3=AC=B9=FD=C1=CB=B7=B6=B3=EB=
+</div><div>&nbsp; * =C6=E4=CB=FB=D3=C5=BB=AF=B3=A1=BE=B0</div><di=
+v><br></div><div>#### explain</div><div>* =B8=B4=D4=D3=B2=E9=D1=AF=
+=A3=AC=B6=E0=B1=ED=B9=D8=C1=AA</div><div>&nbsp; - =BE=CD=CA=C7=D2=
+=BB=B8=F6=B8=F6=B5=C4=B5=A5=B1=ED=A3=AC=CB=F7=D2=FD=D3=C5=BB=AF</=
+div><div>&nbsp; - =D0=A1=B1=ED=C7=FD=B6=AF =C4=BF=C7=B0=D2=BB=B0=E3=
+mysql=D7=D4=B6=AF=D3=C5=BB=AF=D5=E2=B8=F6</div><div>&nbsp; - =B1=BB=
+=C7=FD=B6=AF=B1=ED =C1=AC=BD=D3=CC=F5=BC=FE</div><div>* =B6=E0=CC=
+=F5=BC=FE</div><div><br></div><div>### =CC=D8=CA=E2=B3=A1=BE=B0=B5=
+=C4=B6=A8=CE=BB</div><div>* =CB=B2=C2=FD=B5=C4sql</div><div>&nbsp=
+; - WAL=BB=FA=D6=C6=BF=C9=C4=DC=B5=BC=D6=C2=CB=B2=CA=B1=B5=C4=C2=FD=
+sql</div><div><br></div><div>### =D3=C5=BB=AF=CA=B1=C6=DA</div><d=
+iv>* =B2=E9=D1=AF=CC=F5=BC=FE=D0=E8=C7=F3</div><div>* =C2=FDsql=D3=
+=C5=BB=AF</div><div><br></div><div>### =CD=C6=BC=F6=D7=CA=C1=CF</=
+div><div>* =B8=DF=D0=D4=C4=DCMysql</div><div><br></div></body></h=
+tml>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000196140.116--
+
+------=_Next_Part_0000588420.202--
+

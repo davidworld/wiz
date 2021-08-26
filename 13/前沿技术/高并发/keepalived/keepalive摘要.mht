@@ -1,0 +1,233 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?a2VlcGFsaXZl1arSqg==?=
+Date: Date: Fri, 23 Jul 2021 05:50:28 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000526686.474"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000526686.474
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000175562.022"
+
+
+------=_Next_Part_0000175562.022
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000175562.022
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A<title>keepalive=D5=AA=D2=AA</title>=0A    =0A<style id=3D=
+"wiz_custom_css">html, .wiz-editor-body {font-size: 12pt;}.wiz-ed=
+itor-body {font-family: Helvetica, 'Hiragino Sans GB', '=E5=BE=AE=
+=E8=BD=AF=E9=9B=85=E9=BB=91', 'Microsoft YaHei UI', SimSun, SimHe=
+i, arial, sans-serif;line-height: 1.7;margin: 0 auto;padding: 20p=
+x 16px;padding: 1.25rem 1rem;}.wiz-editor-body h1,.wiz-editor-bod=
+y h2,.wiz-editor-body h3,.wiz-editor-body h4,.wiz-editor-body h5,=
+.wiz-editor-body h6 {margin:20px 0 10px;margin:1.25rem 0 0.625rem=
+;padding: 0;font-weight: bold;}.wiz-editor-body h1 {font-size:20p=
+t;font-size:1.67rem;}.wiz-editor-body h2 {font-size:18pt;font-siz=
+e:1.5rem;}.wiz-editor-body h3 {font-size:15pt;font-size:1.25rem;}=
+.wiz-editor-body h4 {font-size:14pt;font-size:1.17rem;}.wiz-edito=
+r-body h5 {font-size:12pt;font-size:1rem;}.wiz-editor-body h6 {fo=
+nt-size:12pt;font-size:1rem;color: #777777;margin: 1rem 0;}.wiz-e=
+ditor-body div,.wiz-editor-body p,.wiz-editor-body ul,.wiz-editor=
+-body ol,.wiz-editor-body dl,.wiz-editor-body li {margin:8px 0;}.=
+wiz-editor-body blockquote,.wiz-editor-body table,.wiz-editor-bod=
+y pre,.wiz-editor-body code {margin:8px 0;}.wiz-editor-body .Code=
+Mirror pre {margin:0;}.wiz-editor-body ul,.wiz-editor-body ol {pa=
+dding-left:32px;padding-left:2rem;}.wiz-editor-body ol.wiz-list-l=
+evel1 > li {list-style-type:decimal;}.wiz-editor-body ol.wiz-list=
+-level2 > li {list-style-type:lower-latin;}.wiz-editor-body ol.wi=
+z-list-level3 > li {list-style-type:lower-roman;}.wiz-editor-body=
+ blockquote {padding: 0 12px;}.wiz-editor-body blockquote > :firs=
+t-child {margin-top:0;}.wiz-editor-body blockquote > :last-child=20=
+{margin-bottom:0;}.wiz-editor-body img {border:0;max-width:100%;h=
+eight:auto !important;margin:2px 0;}.wiz-editor-body table {borde=
+r-collapse:collapse;border:1px solid #bbbbbb;}.wiz-editor-body td=
+,.wiz-editor-body th {padding:4px 8px;border-collapse:collapse;bo=
+rder:1px solid #bbbbbb;min-height:28px;word-break:break-word;box-=
+sizing: border-box;}.wiz-hide {display:none !important;}</style><=
+/head>=0A=0A<body class=3D"wiz-editor-body" spellcheck=3D"false">=
+<div><a href=3D"http://www.keepalived.org/LVS-NAT-Keepalived-HOWT=
+O.html">http://www.keepalived.org/LVS-NAT-Keepalived-HOWTO.html</=
+a> </div><div><a href=3D"http://www.keepalived.org/manpage.html">=
+http://www.keepalived.org/manpage.html</a></div><div>vi &nbsp;/et=
+c/keepalived/keepalived.conf&nbsp;</div><div>ipvsadm -Ln &nbsp;<b=
+r class=3D"Apple-interchange-newline"><span>ip addr show =BB=F2 i=
+p a</span></div><div>ifconfig</div><div><pre style=3D"font-size:=20=
+0.938rem; font-family: 'Courier New' !important;">echo <span styl=
+e=3D"font-family:&quot;Courier New&quot; !important;font-size:0.7=
+5rem;color:rgb(128, 0, 0);">'</span><span style=3D"font-family:&q=
+uot;Courier New&quot; !important;font-size:0.75rem;color:rgb(128,=
+ 0, 0);">net.ipv4.ip_nonlocal_bind =3D 1</span><span style=3D"fon=
+t-family:&quot;Courier New&quot; !important;font-size:0.75rem;col=
+or:rgb(128, 0, 0);">'</span> &gt;&gt;/etc/<span style=3D"font-siz=
+e: 0.75rem; font-family: 'Courier New' !important;">sysctl.conf=0A=
+sysctl </span>-<span style=3D"font-size: 0.75rem; font-family: 'C=
+ourier New' !important;">p</span></pre></div><div><span>route -n<=
+/span></div><div>&nbsp;arp -a -i ens160</div><div>ifconfig lo:<sp=
+an style=3D"line-height: 1.7;">0  192.168.1.123 broadcast  192.16=
+8.1.123 netmask 255.255.255.255 up</span></div><div class=3D"orig=
+in-content" style=3D"line-height: 1.7; color: rgb(25, 31, 37); fo=
+nt-size: 0.875rem;"><span style=3D"line-height: 1.7; font-size: 1=
+rem;">curl</span><span style=3D"line-height: 1.7; font-size: 1rem=
+;">&nbsp;</span><a href=3D"http://172.30.223.10/" style=3D"line-h=
+eight: 1.7; font-size: 1rem;">http://172.30.223.10/</a><br></div>=
+<div style=3D"line-height: 1.7;"><span>&gt; /var/log/messages</sp=
+an></div><div style=3D"line-height: 1.7;"><span>/usr/sbin/keepali=
+ved -D -d -S 0&nbsp;</span></div><div style=3D"line-height: 1.7;"=
+><span>ps -ef|grep keepalived<br class=3D"Apple-interchange-newli=
+ne"></span><span><span>/usr/sbin/keepalived -help</span></span></=
+div><h3><span>=C8=D5=D6=BE=B2=E9=BF=B4=BA=CD=C9=E8=D6=C3=A3=BA</s=
+pan></h3><div style=3D"line-height: 1.7;"><span>tail -200f /var/l=
+og/messages</span></div><div style=3D"line-height: 1.7;"><span><s=
+pan style=3D"font-size:0.8125rem;">/etc/rsyslog.conf</span></span=
+><span><br></span></div><div style=3D"line-height: 1.7;"><span><s=
+pan style=3D"font-size:0.8125rem;"><span>service rsyslog restart<=
+span class=3D"Apple-converted-space">&nbsp;</span></span><br></sp=
+an></span></div><div><span style=3D"font-size: 0.813rem; line-hei=
+ght: 22.1px;">=B1=E0=D2=EB=B0=B2=D7=B0keepalived=A3=BA</span></di=
+v><div style=3D"line-height: 1.7;"><span>Installed: autogen-libop=
+ts-5.18-5.el7.x86_64</span></div><div style=3D"line-height: 1.7;"=
+><span><span style=3D"color:rgb(136, 0, 0);font-size:0.875rem;fon=
+t-style:italic;background-color:rgb(246, 248, 250);">yum install=20=
+-y libnfnetlink-devel zlib zlib-devel gcc gcc-c++ openssl openssl=
+-devel openssh</span></span></div><p style=3D"line-height:1.7;col=
+or:rgb(79, 79, 79);font-size:1rem;font-style:italic;background-co=
+lor:rgb(255, 255, 255)">./configure&nbsp;--prefix=3D/usr/local/ke=
+epalived</p><div><font color=3D"#880000"><span style=3D"font-size=
+: 0.875rem; line-height: 23.8px;"><i><span style=3D"color: rgb(0,=
+ 0, 0); font-size: 1rem; font-style: italic;">ipvsadm=C3=FC=C1=EE=
+=A3=BA</span><br></i></span></font><div class=3D"origin-content"=20=
+style=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875rem=
+;font-style:italic;background-color:rgb(246, 248, 250)"><span sty=
+le=3D"color: rgb(136, 0, 0); font-style: italic;">=B2=E9=BF=B4=C1=
+=B4=BD=D3=D7=B4=CC=AC &nbsp;ipvsadm -lnc</span><br></div><div cla=
+ss=3D"origin-content" style=3D"line-height:1.7;color:rgb(25, 31,=20=
+37);font-size:0.875rem;font-style:italic;background-color:rgb(246=
+, 248, 250)"><span style=3D"color: rgb(136, 0, 0); font-style: it=
+alic;"><span style=3D"color: rgb(0, 0, 0); font-size: 1rem; backg=
+round-color: rgb(255, 255, 255);">ipvsadm -Ln &nbsp;</span><br></=
+span></div><div class=3D"origin-content" style=3D"line-height:1.7=
+;color:rgb(25, 31, 37);font-size:0.875rem;font-style:italic;backg=
+round-color:rgb(246, 248, 250)"><span style=3D"color: rgb(136, 0,=
+ 0); font-style: italic;">=D0=E9=C4=E2=BB=FA=CD=F8=C2=E7=B9=CA=D5=
+=CF=B7=D6=CE=F6 &nbsp; https://www.jianshu.com/p/5847b5e05aa6</sp=
+an></div><span style=3D"line-height: 1.7;"><br class=3D"Apple-int=
+erchange-newline"></span></div><div class=3D"origin-content" styl=
+e=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875rem"><b=
+r></div><div class=3D"origin-content" style=3D"line-height:1.7;co=
+lor:rgb(25, 31, 37);font-size:0.875rem">*************************=
+*************************</div><h3>realserver=BD=C5=B1=BE=A3=BA</=
+h3><div class=3D"origin-content" style=3D"line-height:1.7;color:r=
+gb(25, 31, 37);font-size:0.875rem"># vim /bss/zzl/keepalived/lvs_=
+dr_rs.sh</div><div class=3D"origin-content" style=3D"line-height:=
+1.7;color:rgb(25, 31, 37);font-size:0.875rem"><br></div><div clas=
+s=3D"origin-content" style=3D"line-height:1.7;color:rgb(25, 31, 3=
+7);font-size:0.875rem">#! /bin/bash</div><div class=3D"origin-con=
+tent" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.=
+875rem"><br></div><div class=3D"origin-content" style=3D"line-hei=
+ght:1.7;color:rgb(25, 31, 37);font-size:0.875rem">vip=3D192.168.1=
+.123</div><div class=3D"origin-content" style=3D"line-height:1.7;=
+color:rgb(25, 31, 37);font-size:0.875rem"><br></div><div class=3D=
+"origin-content" style=3D"line-height:1.7;color:rgb(25, 31, 37);f=
+ont-size:0.875rem">ifconfig lo:0 $vip broadcast $vip netmask 255.=
+255.255.255 up</div><div class=3D"origin-content" style=3D"line-h=
+eight:1.7;color:rgb(25, 31, 37);font-size:0.875rem"><br></div><di=
+v class=3D"origin-content" style=3D"line-height:1.7;color:rgb(25,=
+ 31, 37);font-size:0.875rem">route add -host $vip lo:0</div><div=20=
+class=3D"origin-content" style=3D"line-height:1.7;color:rgb(25, 3=
+1, 37);font-size:0.875rem"><br></div><div class=3D"origin-content=
+" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875r=
+em">echo "1" &gt;/proc/sys/net/ipv4/conf/lo/arp_ignore</div><div=20=
+class=3D"origin-content" style=3D"line-height:1.7;color:rgb(25, 3=
+1, 37);font-size:0.875rem"><br></div><div class=3D"origin-content=
+" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875r=
+em">echo "2" &gt;/proc/sys/net/ipv4/conf/lo/arp_announce</div><di=
+v class=3D"origin-content" style=3D"line-height:1.7;color:rgb(25,=
+ 31, 37);font-size:0.875rem"><br></div><div class=3D"origin-conte=
+nt" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.87=
+5rem">echo "1" &gt;/proc/sys/net/ipv4/conf/all/arp_ignore</div><d=
+iv class=3D"origin-content" style=3D"line-height:1.7;color:rgb(25=
+, 31, 37);font-size:0.875rem"><br></div><div class=3D"origin-cont=
+ent" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.8=
+75rem">echo "2" &gt;/proc/sys/net/ipv4/conf/all/arp_announce</div=
+><div class=3D"origin-content" style=3D"line-height:1.7;color:rgb=
+(25, 31, 37);font-size:0.875rem"><br></div><div class=3D"origin-c=
+ontent" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:=
+0.875rem">**************************************</div><h3>dr=C4=A3=
+=CA=BD=B7=FE=CE=F1=B6=CB=BD=C5=B1=BE=A3=BA</h3><div class=3D"orig=
+in-content" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-s=
+ize:0.875rem">&nbsp;vim /bss/zzl/keepalived/lvs_dr.sh</div><div c=
+lass=3D"origin-content" style=3D"line-height:1.7;color:rgb(25, 31=
+, 37);font-size:0.875rem">&nbsp;</div><div class=3D"origin-conten=
+t" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875=
+rem">&nbsp;#! /bin/bash</div><div class=3D"origin-content" style=3D=
+"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875rem"><br></=
+div><div class=3D"origin-content" style=3D"line-height:1.7;color:=
+rgb(25, 31, 37);font-size:0.875rem">echo 1 &gt; /proc/sys/net/ipv=
+4/ip_forward</div><div class=3D"origin-content" style=3D"line-hei=
+ght:1.7;color:rgb(25, 31, 37);font-size:0.875rem"><br></div><div=20=
+class=3D"origin-content" style=3D"line-height:1.7;color:rgb(25, 3=
+1, 37);font-size:0.875rem">ipv=3D/sbin/ipvsadm</div><div class=3D=
+"origin-content" style=3D"line-height:1.7;color:rgb(25, 31, 37);f=
+ont-size:0.875rem"><br></div><div class=3D"origin-content" style=3D=
+"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875rem">vip=3D=
+192.168.1.123</div><div class=3D"origin-content" style=3D"line-he=
+ight:1.7;color:rgb(25, 31, 37);font-size:0.875rem"><br></div><div=
+ class=3D"origin-content" style=3D"line-height:1.7;color:rgb(25,=20=
+31, 37);font-size:0.875rem">rs1=3D192.168.1.21</div><div class=3D=
+"origin-content" style=3D"line-height:1.7;color:rgb(25, 31, 37);f=
+ont-size:0.875rem"><br></div><div class=3D"origin-content" style=3D=
+"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875rem">rs2=3D=
+192.168.1.22</div><div class=3D"origin-content" style=3D"line-hei=
+ght:1.7;color:rgb(25, 31, 37);font-size:0.875rem"><br></div><div=20=
+class=3D"origin-content" style=3D"line-height:1.7;color:rgb(25, 3=
+1, 37);font-size:0.875rem">ifconfig ens160:0 down</div><div class=
+=3D"origin-content" style=3D"line-height:1.7;color:rgb(25, 31, 37=
+);font-size:0.875rem"><br></div><div class=3D"origin-content" sty=
+le=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875rem">i=
+fconfig ens160:0 $vip broadcast $vip netmask 255.255.255.255 up</=
+div><div class=3D"origin-content" style=3D"line-height:1.7;color:=
+rgb(25, 31, 37);font-size:0.875rem"><br></div><div class=3D"origi=
+n-content" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-si=
+ze:0.875rem">route add -host $vip dev ens160:0</div><div class=3D=
+"origin-content" style=3D"line-height:1.7;color:rgb(25, 31, 37);f=
+ont-size:0.875rem"><br></div><div class=3D"origin-content" style=3D=
+"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875rem">$ipv -=
+C</div><div class=3D"origin-content" style=3D"line-height:1.7;col=
+or:rgb(25, 31, 37);font-size:0.875rem"><br></div><div class=3D"or=
+igin-content" style=3D"line-height:1.7;color:rgb(25, 31, 37);font=
+-size:0.875rem">$ipv -A -t $vip:8767 -s wrr</div><div class=3D"or=
+igin-content" style=3D"line-height:1.7;color:rgb(25, 31, 37);font=
+-size:0.875rem"><br></div><div class=3D"origin-content" style=3D"=
+line-height:1.7;color:rgb(25, 31, 37);font-size:0.875rem">$ipv -a=
+ -t $vip:8767 -r $rs1:8767 -g -w 3</div><div class=3D"origin-cont=
+ent" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.8=
+75rem"><br></div><div class=3D"origin-content" style=3D"line-heig=
+ht:1.7;color:rgb(25, 31, 37);font-size:0.875rem">$ipv -a -t $vip:=
+8767 -r $rs2:8767 -g -w 1</div><div class=3D"origin-content" styl=
+e=3D"line-height:1.7;color:rgb(25, 31, 37);font-size:0.875rem">**=
+******************************************</div><div class=3D"ori=
+gin-content" style=3D"line-height:1.7;color:rgb(25, 31, 37);font-=
+size:0.875rem"><br></div><div class=3D"origin-content" style=3D"l=
+ine-height:1.7;color:rgb(25, 31, 37);font-size:0.875rem"><br></di=
+v><div class=3D"origin-content" style=3D"line-height:1.7;color:rg=
+b(25, 31, 37);font-size:0.875rem"><br></div><div><br></div></body=
+></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000175562.022--
+
+------=_Next_Part_0000526686.474--
+

@@ -1,0 +1,705 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?c29sckNsb3VkIMv30v24/NDCwt+8rdGnz7CxyrzH?=
+Date: Date: Fri, 23 Jul 2021 05:51:06 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000641061.826"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000641061.826
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000213687.816"
+
+
+------=_Next_Part_0000213687.816
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000213687.816
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>solrCloud =CB=F7=D2=FD=B8=FC=D0=C2=C2=
+=DF=BC=AD=D1=A7=CF=B0=B1=CA=BC=C7</title>=0A=0A=0A=0A=0A<style ty=
+pe=3D"text/css" id=3D"wiz_todo_style_id" wiz_link_version=3D"01.0=
+0.09">.wiz-todo, .wiz-todo-img {width: 16px; height: 16px; cursor=
+: default; padding: 0 10px 0 2px; vertical-align: -10%;-webkit-us=
+er-select: none;} .wiz-todo-label { display: inline-block; paddin=
+g-top: 7px; padding-bottom: 6px; line-height: 1.5;} .wiz-todo-lab=
+el-checked {  color: #666;} .wiz-todo-label-unchecked {text-decor=
+ation: initial;} .wiz-todo-completed-info {padding-left: 44px; di=
+splay: inline-block; } .wiz-todo-avatar { width:20px; height: 20p=
+x; vertical-align: -20%; margin-right:10px; border-radius: 2px;}=20=
+.wiz-todo-account, .wiz-todo-dt { color: #666; }</style>=0A<style=
+ type=3D"text/css" id=3D"wiz_custom_css">=0Abody=0A{=0A    font-f=
+amily: Arial;=0A    font-size: 10.5pt;=0A    line-height: 1.5;=0A=
+}=0Ahtml, body=0A{=0A    color: ;=0A    background-color: ;=0A}=0A=
+h1 {=0A    font-size:1.5em;=0A    font-weight:bold;=0A}=0Ah2 {=0A=
+    font-size:1.4em;=0A    font-weight:bold;=0A}=0Ah3 {=0A    fon=
+t-size:1.3em;=0A    font-weight:bold;=0A}=0Ah4 {=0A    font-size:=
+1.2em;=0A    font-weight:bold;=0A}=0Ah5 {=0A    font-size:1.1em;=0A=
+    font-weight:bold;=0A}=0Ah6 {=0A    font-size:1.0em;=0A    fon=
+t-weight:bold;=0A}=0Aimg {=0A    border:0;=0A    max-width: 100%;=
+=0A    height: auto !important;=0A}=0Ablockquote {=0A    margin-t=
+op:0px;=0A    margin-bottom:0px;=0A}=0Atable {=0A    border-colla=
+pse:collapse;=0A    border:1px solid #bbbbbb;=0A}=0Atd {=0A    bo=
+rder-collapse:collapse;=0A    border:1px solid #bbbbbb;=0A}=0A</s=
+tyle>=0A</head>=0A=0A<body style><p class=3D"p1"><span class=3D"s=
+1">ZkCoreNodeProps =B7=E2=D7=B0=C1=CB=D2=BB=B8=F6node=B5=C4=CF=E0=
+=B9=D8=D0=C5=CF=A2=A3=AC=B0=FC=C0=A8</span><strong>base_url=A3=AC=
+core_name,state,node_name,core_url,isLeader</strong></p>=0A<p cla=
+ss=3D"p2"><strong></strong></p>=0A<p class=3D"p4"><span style=3D"=
+font-size:24px">SolrCmdDistributor</span></p>=0A<p class=3D"p6">s=
+olr=B7=D6=B2=BC=CA=BD=B8=FC=D0=C2=B5=C4=D2=BB=B8=F6=D6=D8=D2=AA=CA=
+=B5=CF=D6=B9=A4=BE=DF=C0=E0=A3=AC=D2=F2=CE=AA=CB=FC=B1=BE=C9=ED=B5=
+=C4=D6=BB=B8=BA=D4=F0=B7=D6=B2=BC=CA=BD=B5=C4=C7=EB=C7=F3=B4=A6=C0=
+=ED=A3=AC=B2=A2=C3=BB=D3=D0=BA=DC=B6=E0=B5=C4=D2=B5=CE=F1=C2=DF=BC=
+=AD=A1=A3</p>=0A<div class=3D"dp-highlighter bg_java"><div class=3D=
+"bar"><div class=3D"tools"><b>[java]</b> <a href=3D"http://blog.c=
+sdn.net/duck_genuine/article/details/8473502#" class=3D"ViewSourc=
+e" title=3D"view plain">view plain</a><a href=3D"http://blog.csdn=
+.net/duck_genuine/article/details/8473502#" class=3D"CopyToClipbo=
+ard" title=3D"copy">copy</a><div style=3D"position: absolute; lef=
+t: 428px; top: 566px; width: 18px; height: 18px; z-index: 99;"><e=
+mbed id=3D"ZeroClipboardMovie_1" src=3D"http://static.blog.csdn.n=
+et/scripts/ZeroClipboard/ZeroClipboard.swf" loop=3D"false" menu=3D=
+"false" quality=3D"best" bgcolor=3D"#ffffff" name=3D"ZeroClipboar=
+dMovie_1" allowscriptaccess=3D"always" allowfullscreen=3D"false"=20=
+type=3D"application/x-shockwave-flash" pluginspage=3D"http://www.=
+macromedia.com/go/getflashplayer" flashvars=3D"id=3D1&amp;width=3D=
+18&amp;height=3D18" wmode=3D"transparent" align=3D"middle" height=
+=3D"18" width=3D"18"></div></div></div><ol class=3D"dp-j"><li cla=
+ss=3D"alt">staticAdjustableSemaphoresemaphore&nbsp;=3D&nbsp;<span=
+ class=3D"keyword">new</span>&nbsp;AdjustableSemaphore(<span clas=
+s=3D"number">8</span>);&nbsp;&nbsp;</li></ol></div>=0A<p></p>=0A<=
+p class=3D"p6">=CF=DE=D6=C6=CD=AC=CA=B1=B2=A2=B7=A2=B5=C4=C7=EB=C7=
+=F3=D7=EE=B6=E0=CA=FD=A1=A3=B4=D3=B9=B9=D4=EC=BA=AF=CA=FD=BF=B4=BF=
+=C9=D2=D4=B8=FA=BD=E1=B5=E3=CA=FD=CF=E0=B9=D8=A3=AC=B5=AB=D7=EE=B4=
+=F3=CA=C716.</p>=0A<p class=3D"p4"></p>=0A<div class=3D"dp-highli=
+ghter bg_java"><div class=3D"bar"><div class=3D"tools"><b>[java]<=
+/b> <a href=3D"http://blog.csdn.net/duck_genuine/article/details/=
+8473502#" class=3D"ViewSource" title=3D"view plain">view plain</a=
+><a href=3D"http://blog.csdn.net/duck_genuine/article/details/847=
+3502#" class=3D"CopyToClipboard" title=3D"copy">copy</a><div styl=
+e=3D"position: absolute; left: 428px; top: 679px; width: 18px; he=
+ight: 18px; z-index: 99;"><embed id=3D"ZeroClipboardMovie_2" src=3D=
+"http://static.blog.csdn.net/scripts/ZeroClipboard/ZeroClipboard.=
+swf" loop=3D"false" menu=3D"false" quality=3D"best" bgcolor=3D"#f=
+fffff" name=3D"ZeroClipboardMovie_2" allowscriptaccess=3D"always"=
+ allowfullscreen=3D"false" type=3D"application/x-shockwave-flash"=
+ pluginspage=3D"http://www.macromedia.com/go/getflashplayer" flas=
+hvars=3D"id=3D2&amp;width=3D18&amp;height=3D18" wmode=3D"transpar=
+ent" align=3D"middle" height=3D"18" width=3D"18"></div></div></di=
+v><ol class=3D"dp-j"><li class=3D"alt"><span class=3D"keyword">pu=
+blic</span>&nbsp;SolrCmdDistributor(intnumHosts,&nbsp;ThreadPoolE=
+xecutorexecutor)&nbsp;{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nb=
+sp;<span class=3D"keyword">int</span>&nbsp;maxPermits&nbsp;=3D&nb=
+sp;Math.max(<span class=3D"number">16</span>,&nbsp;numHosts&nbsp;=
+*&nbsp;<span class=3D"number">16</span>);&nbsp;&nbsp;</li><li cla=
+ss=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"comment">//&nbs=
+p;limits&nbsp;how&nbsp;many&nbsp;tasks&nbsp;can&nbsp;actually&nbs=
+p;execute&nbsp;at&nbsp;once</span>&nbsp;&nbsp;</li><li>&nbsp;&nbs=
+p;&nbsp;&nbsp;<span class=3D"keyword">if</span>&nbsp;(maxPermits&=
+nbsp;!=3D&nbsp;semaphore.getMaxPermits())&nbsp;{&nbsp;&nbsp;</li>=
+<li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;semaphore.s=
+etMaxPermits(maxPermits);&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&=
+nbsp;}&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;</li><li>&nb=
+sp;&nbsp;&nbsp;&nbsp;completionService&nbsp;=3D&nbsp;<span class=3D=
+"keyword">new</span>&nbsp;ExecutorCompletionService&lt;Request&gt=
+;(executor);&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;=
+&nbsp;pending&nbsp;=3D&nbsp;<span class=3D"keyword">new</span>&nb=
+sp;HashSet&lt;Future&lt;Request&gt;&gt;();&nbsp;&nbsp;</li><li>&n=
+bsp;&nbsp;}&nbsp;&nbsp;</li></ol></div><br>=0A<br>=0A<div class=3D=
+"dp-highlighter bg_java"><div class=3D"bar"><div class=3D"tools">=
+<b>[java]</b> <a href=3D"http://blog.csdn.net/duck_genuine/articl=
+e/details/8473502#" class=3D"ViewSource" title=3D"view plain">vie=
+w plain</a><a href=3D"http://blog.csdn.net/duck_genuine/article/d=
+etails/8473502#" class=3D"CopyToClipboard" title=3D"copy">copy</a=
+><div style=3D"position: absolute; left: 428px; top: 980px; width=
+: 18px; height: 18px; z-index: 99;"><embed id=3D"ZeroClipboardMov=
+ie_3" src=3D"http://static.blog.csdn.net/scripts/ZeroClipboard/Ze=
+roClipboard.swf" loop=3D"false" menu=3D"false" quality=3D"best" b=
+gcolor=3D"#ffffff" name=3D"ZeroClipboardMovie_3" allowscriptacces=
+s=3D"always" allowfullscreen=3D"false" type=3D"application/x-shoc=
+kwave-flash" pluginspage=3D"http://www.macromedia.com/go/getflash=
+player" flashvars=3D"id=3D3&amp;width=3D18&amp;height=3D18" wmode=
+=3D"transparent" align=3D"middle" height=3D"18" width=3D"18"></di=
+v></div></div><ol class=3D"dp-j"><li class=3D"alt">privatefinalMa=
+p&lt;Node,List&lt;AddRequest&gt;&gt;&nbsp;adds&nbsp;=3D&nbsp;<spa=
+n class=3D"keyword">new</span>&nbsp;HashMap&lt;Node,List&lt;AddRe=
+quest&gt;&gt;();&nbsp;&nbsp;</li><li>privatefinalMap&lt;Node,List=
+&lt;DeleteRequest&gt;&gt;&nbsp;deletes&nbsp;=3D&nbsp;<span class=3D=
+"keyword">new</span>&nbsp;HashMap&lt;Node,List&lt;DeleteRequest&g=
+t;&gt;();&nbsp;&nbsp;</li></ol></div><br>=0A<p></p>=0A<p class=3D=
+"p7"><br>=0A</p>=0A<p class=3D"p6">=D5=E2=C1=BD=B8=F6=D7=D6=B6=CE=
+=D6=F7=D2=AA=CA=C7=CA=B5=CF=D6=D3=C3=D3=DA=BB=BA=B4=E6=B8=FC=D0=C2=
+=C7=EB=C7=F3</p>=0A<p class=3D"p6">=D6=B4=D0=D0=BB=BA=B4=E6=B5=C4=
+=C7=EB=C7=F3=A3=AC=B5=F7=D3=C3=CF=C2=C3=E6=B7=BD=B7=A8</p>=0A<p c=
+lass=3D"p4"></p>=0A<div class=3D"dp-highlighter bg_java"><div cla=
+ss=3D"bar"><div class=3D"tools"><b>[java]</b> <a href=3D"http://b=
+log.csdn.net/duck_genuine/article/details/8473502#" class=3D"View=
+Source" title=3D"view plain">view plain</a><a href=3D"http://blog=
+.csdn.net/duck_genuine/article/details/8473502#" class=3D"CopyToC=
+lipboard" title=3D"copy">copy</a><div style=3D"position: absolute=
+; left: 428px; top: 1189px; width: 18px; height: 18px; z-index: 9=
+9;"><embed id=3D"ZeroClipboardMovie_4" src=3D"http://static.blog.=
+csdn.net/scripts/ZeroClipboard/ZeroClipboard.swf" loop=3D"false"=20=
+menu=3D"false" quality=3D"best" bgcolor=3D"#ffffff" name=3D"ZeroC=
+lipboardMovie_4" allowscriptaccess=3D"always" allowfullscreen=3D"=
+false" type=3D"application/x-shockwave-flash" pluginspage=3D"http=
+://www.macromedia.com/go/getflashplayer" flashvars=3D"id=3D4&amp;=
+width=3D18&amp;height=3D18" wmode=3D"transparent" align=3D"middle=
+" height=3D"18" width=3D"18"></div></div></div><ol class=3D"dp-j"=
+><li class=3D"alt">publicvoid&nbsp;finish()&nbsp;{&nbsp;&nbsp;</l=
+i><li>&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;<span=20=
+class=3D"comment">//&nbsp;piggyback&nbsp;on&nbsp;any&nbsp;outstan=
+ding&nbsp;adds&nbsp;or&nbsp;deletes&nbsp;if&nbsp;possible.</span>=
+&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;flushAdds(<span class=3D"n=
+umber">1</span>);&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&=
+nbsp;flushDeletes(<span class=3D"number">1</span>);&nbsp;&nbsp;</=
+li><li>&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;check=
+Responses(<span class=3D"keyword">true</span>);&nbsp;&nbsp;</li><=
+li>&nbsp;}&nbsp;&nbsp;</li></ol></div><br>=0A<br>=0A<p class=3D"p=
+6">=CC=E1=BD=BB=C7=EB=C7=F3</p>=0A<p class=3D"p4"></p>=0A<div cla=
+ss=3D"dp-highlighter bg_java"><div class=3D"bar"><div class=3D"to=
+ols"><b>[java]</b> <a href=3D"http://blog.csdn.net/duck_genuine/a=
+rticle/details/8473502#" class=3D"ViewSource" title=3D"view plain=
+">view plain</a><a href=3D"http://blog.csdn.net/duck_genuine/arti=
+cle/details/8473502#" class=3D"CopyToClipboard" title=3D"copy">co=
+py</a><div style=3D"position: absolute; left: 428px; top: 1480px;=
+ width: 18px; height: 18px; z-index: 99;"><embed id=3D"ZeroClipbo=
+ardMovie_5" src=3D"http://static.blog.csdn.net/scripts/ZeroClipbo=
+ard/ZeroClipboard.swf" loop=3D"false" menu=3D"false" quality=3D"b=
+est" bgcolor=3D"#ffffff" name=3D"ZeroClipboardMovie_5" allowscrip=
+taccess=3D"always" allowfullscreen=3D"false" type=3D"application/=
+x-shockwave-flash" pluginspage=3D"http://www.macromedia.com/go/ge=
+tflashplayer" flashvars=3D"id=3D5&amp;width=3D18&amp;height=3D18"=
+ wmode=3D"transparent" align=3D"middle" height=3D"18" width=3D"18=
+"></div></div></div><ol class=3D"dp-j"><li class=3D"alt"><span cl=
+ass=3D"keyword">void</span>&nbsp;submit(UpdateRequestExt&nbsp;ure=
+q,&nbsp;Node&nbsp;node)&nbsp;{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&n=
+bsp;&nbsp;Request&nbsp;sreq&nbsp;=3D&nbsp;<span class=3D"keyword"=
+>new</span>&nbsp;Request();&nbsp;&nbsp;</li><li class=3D"alt">&nb=
+sp;&nbsp;&nbsp;&nbsp;sreq.node&nbsp;=3D&nbsp;node;&nbsp;&nbsp;</l=
+i><li>&nbsp;&nbsp;&nbsp;&nbsp;sreq.ureq&nbsp;=3D&nbsp;ureq;&nbsp;=
+&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;submit(sreq)=
+;&nbsp;&nbsp;</li><li>&nbsp;&nbsp;}&nbsp;&nbsp;</li></ol></div><b=
+r>=0A<p class=3D"p6">=C8=BB=BA=F3=CA=C7=BC=EC=B2=E9=CF=EC=D3=A6=BD=
+=E1=B9=FB=A3=AC=B5=F7=D3=C3</p>=0A<p class=3D"p11">void checkResp=
+onses(booleanblock) &nbsp;=D7=F7=CE=AA=BC=EC=B2=E9=C9=CF=D2=BB=B4=
+=CE=CC=E1=BD=BB=B5=C4=C7=EB=C7=F3=CF=EC=D3=A6=A1=A3=B5=B1=C7=EB=C7=
+=F3=D0=E8=D2=AA=D6=D8=CA=D4=B5=C4=CA=B1=BA=F2=A3=AC=BB=E1=C4=AC=C8=
+=CF=D6=D8=CA=D4=D7=EE=B4=F3=B4=CE=CA=FD10=B4=CE<span class=3D"s2"=
+>&nbsp;</span></p>=0A<p class=3D"p12"><br>=0A</p>=0A<p class=3D"p=
+11">=BD=AB=D7=EE=D6=D5=BD=E1=B9=FB=B7=B5=BB=D8=B5=BD=CF=EC=D3=A6=BD=
+=E1=B9=FB=C0=EF=A3=AC=D3=D0=D2=EC=B3=A3=D2=B2=BB=E1=BC=C7=C2=BC=CF=
+=C2=C0=B4=A1=A3</p>=0A<p class=3D"p11">=B7=D6=B2=BC=CA=BD=D4=F6=BC=
+=D3=B8=FC=D0=C2</p>=0A<p class=3D"p11"></p>=0A<div class=3D"dp-hi=
+ghlighter bg_java"><div class=3D"bar"><div class=3D"tools"><b>[ja=
+va]</b> <a href=3D"http://blog.csdn.net/duck_genuine/article/deta=
+ils/8473502#" class=3D"ViewSource" title=3D"view plain">view plai=
+n</a><a href=3D"http://blog.csdn.net/duck_genuine/article/details=
+/8473502#" class=3D"CopyToClipboard" title=3D"copy">copy</a><div=20=
+style=3D"position: absolute; left: 428px; top: 1813px; width: 18p=
+x; height: 18px; z-index: 99;"><embed id=3D"ZeroClipboardMovie_6"=
+ src=3D"http://static.blog.csdn.net/scripts/ZeroClipboard/ZeroCli=
+pboard.swf" loop=3D"false" menu=3D"false" quality=3D"best" bgcolo=
+r=3D"#ffffff" name=3D"ZeroClipboardMovie_6" allowscriptaccess=3D"=
+always" allowfullscreen=3D"false" type=3D"application/x-shockwave=
+-flash" pluginspage=3D"http://www.macromedia.com/go/getflashplaye=
+r" flashvars=3D"id=3D6&amp;width=3D18&amp;height=3D18" wmode=3D"t=
+ransparent" align=3D"middle" height=3D"18" width=3D"18"></div></d=
+iv></div><ol class=3D"dp-j"><li class=3D"alt">publicvoid&nbsp;dis=
+tribAdd(AddUpdateCommand&nbsp;cmd,&nbsp;List&lt;Node&gt;&nbsp;nod=
+es,&nbsp;ModifiableSolrParams&nbsp;params)&nbsp;<span class=3D"ke=
+yword">throws</span>&nbsp;IOException&nbsp;{&nbsp;&nbsp;</li><li>=
+&nbsp;&nbsp;</li><li class=3D"alt"><span class=3D"comment">//=D6=B4=
+=D0=D0=C7=B0=B6=BC=BB=E1=C8=A5=B5=F4=D6=AE=C7=B0=BB=B9=BB=E1=BC=EC=
+=B2=E9=BF=C9=C4=DC=C3=BB=CF=EC=D3=A6=CD=EA=B5=C4=C7=EB=C7=F3=A3=AC=
+=B2=BB=B5=C8=B4=FD=A3=AC=D6=B1=BD=D3=C9=BE=B3=FD=BE=C9=B5=C4=C7=EB=
+=C7=F3=A1=A3</span>&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;c=
+heckResponses(<span class=3D"keyword">false</span>);&nbsp;&nbsp;<=
+/li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><l=
+i>&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"comment">//&nbsp;=C8=B7=B1=
+=A3=CB=F9=D3=D0=C9=BE=B3=FD=B5=C4=C7=EB=C7=F3=B1=BB=D6=B4=D0=D0</=
+span>&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;</li><li>&nbs=
+p;&nbsp;&nbsp;&nbsp;flushDeletes(<span class=3D"number">1</span>)=
+;&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"comm=
+ent">//=BF=CB=C2=A1=B8=FC=D0=C2=C7=EB=C7=F3=D6=D8=D3=C3</span>&nb=
+sp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;AddUpdate=
+Command&nbsp;clone&nbsp;=3D&nbsp;<span class=3D"keyword">new</spa=
+n>&nbsp;AddUpdateCommand(<span class=3D"keyword">null</span>);&nb=
+sp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;clone.solrDoc&nbsp;=3D&=
+nbsp;cmd.solrDoc;&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&=
+nbsp;&nbsp;clone.commitWithin&nbsp;=3D&nbsp;cmd.commitWithin;&nbs=
+p;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;clone.overwrite&nbsp;=3D=
+&nbsp;cmd.overwrite;&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbs=
+p;&nbsp;&nbsp;clone.setVersion(cmd.getVersion());&nbsp;&nbsp;</li=
+><li>&nbsp;&nbsp;&nbsp;&nbsp;AddRequest&nbsp;addRequest&nbsp;=3D&=
+nbsp;<span class=3D"keyword">new</span>&nbsp;AddRequest();&nbsp;&=
+nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;addRequest.cm=
+d&nbsp;=3D&nbsp;clone;&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbs=
+p;addRequest.params&nbsp;=3D&nbsp;params;&nbsp;&nbsp;</li><li cla=
+ss=3D"alt">&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;<span class=3D"comment">//=D4=F6=BC=D3=B6=D4=C3=BF=B8=F6=
+=BD=DA=B5=E3=B5=C4=C7=EB=C7=F3=B5=BD=BB=BA=B4=E6adds=C0=EF</span>=
+&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;<span=20=
+class=3D"keyword">for</span>&nbsp;(Nodenode&nbsp;:&nbsp;nodes)&nb=
+sp;{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;List=
+&lt;AddRequest&gt;&nbsp;alist&nbsp;=3D&nbsp;adds.get(node);&nbsp;=
+&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+<span class=3D"keyword">if</span>&nbsp;(alist&nbsp;=3D=3D&nbsp;<s=
+pan class=3D"keyword">null</span>)&nbsp;{&nbsp;&nbsp;</li><li>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alist&nbsp;=3D&nbsp;=
+<span class=3D"keyword">new</span>&nbsp;ArrayList&lt;AddRequest&g=
+t;(<span class=3D"number">2</span>);&nbsp;&nbsp;</li><li class=3D=
+"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;adds.put(no=
+de,&nbsp;alist);&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;}&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;alist.add(addRequest);&nbsp;&nbsp;</li><li>&nbsp;&=
+nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;=
+&nbsp;&nbsp;<span class=3D"comment">//=D6=B4=D0=D0=BB=BA=B4=E6add=
+s=B5=C4=C7=EB=C7=F3</span>&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;=
+&nbsp;flushAdds(maxBufferedAddsPerServer);&nbsp;&nbsp;</li><li cl=
+ass=3D"alt">&nbsp;&nbsp;}&nbsp;&nbsp;</li></ol></div>=0A<p class=3D=
+"p13">=C6=E4=CB=FC=B5=C4doDelete,addCommit=B5=C4=C7=EB=C7=F3=C2=DF=
+=BC=AD=B5=C4=B4=A6=C0=ED=B6=BC=CF=E0=B2=EE=B2=BB=B6=E0</p>=0A<p c=
+lass=3D"p10"><br>=0A</p>=0A<p class=3D"p14"><span style=3D"font-s=
+ize:24px">DistributedUpdateProcessor</span></p>=0A<p class=3D"p3"=
+><br>=0A</p>=0A<p class=3D"p14">=D5=E2=B8=F6=CA=C7solrCloud=D6=F7=
+=D2=AA=B5=C4=D2=BB=B8=F6=B8=FC=D0=C2=B4=A6=C0=ED=C1=B4=A3=AC=CA=B9=
+=D3=C3cloud=C4=A3=CA=BD=B5=C4=CA=B1=BA=F2=B1=D8=D2=AA=B5=C4=D2=BB=
+=B8=F6=B4=A6=C0=ED=C1=B4=A3=AC=B8=BA=D4=F0=B7=D6=B2=BC=CA=BD=B8=FC=
+=D0=C2=B5=C4=C2=DF=BC=AD=B4=A6=C0=ED</p>=0A<p class=3D"p15">=D2=BB=
+=B8=F6=D6=D8=D2=AA=B5=C4hash=CB=E3=B7=A8=A3=AC=D7=F7=CE=AA=B8=FC=D0=
+=C2=BC=C7=C2=BC=BE=DF=CC=E5=B7=D6=C5=E4=B5=BD=C4=C4=B8=F6shard=B5=
+=C4=CB=E3=B7=A8</p>=0A<p class=3D"p11">=D5=E2=CB=E3=B7=A8=D3=A6=B8=
+=C3=BB=E1=D4=DA=BA=F3=C6=DA=D6=D8=B9=B9=B2=A2=C9=E8=BC=C6=CE=AA=B2=
+=E5=BC=FE=B7=BD=CA=BD =A3=AC=BF=C9=B1=BB=D3=C3=BB=A7=D7=D4=B6=A8=D2=
+=E9=B5=C4hash=CB=E3=B7=A8=CC=E6=BB=BB=A1=A3</p>=0A<div class=3D"d=
+p-highlighter bg_java"><div class=3D"bar"><div class=3D"tools"><b=
+>[java]</b> <a href=3D"http://blog.csdn.net/duck_genuine/article/=
+details/8473502#" class=3D"ViewSource" title=3D"view plain">view=20=
+plain</a><a href=3D"http://blog.csdn.net/duck_genuine/article/det=
+ails/8473502#" class=3D"CopyToClipboard" title=3D"copy">copy</a><=
+div style=3D"position: absolute; left: 428px; top: 2622px; width:=
+ 18px; height: 18px; z-index: 99;"><embed id=3D"ZeroClipboardMovi=
+e_7" src=3D"http://static.blog.csdn.net/scripts/ZeroClipboard/Zer=
+oClipboard.swf" loop=3D"false" menu=3D"false" quality=3D"best" bg=
+color=3D"#ffffff" name=3D"ZeroClipboardMovie_7" allowscriptaccess=
+=3D"always" allowfullscreen=3D"false" type=3D"application/x-shock=
+wave-flash" pluginspage=3D"http://www.macromedia.com/go/getflashp=
+layer" flashvars=3D"id=3D7&amp;width=3D18&amp;height=3D18" wmode=3D=
+"transparent" align=3D"middle" height=3D"18" width=3D"18"></div><=
+/div></div><ol class=3D"dp-j"><li class=3D"alt"><span class=3D"ke=
+yword">private</span>&nbsp;<span class=3D"keyword">int</span>&nbs=
+p;hash(AddUpdateCommandcmd)&nbsp;{&nbsp;&nbsp;</li><li>&nbsp;&nbs=
+p;&nbsp;&nbsp;String&nbsp;hashableId&nbsp;=3D&nbsp;cmd.getHashabl=
+eId();&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keywo=
+rd">return</span>&nbsp;Hash.murmurhash3_x86_32(hashableId,&nbsp;<=
+span class=3D"number">0</span>,&nbsp;hashableId.length(),&nbsp;<s=
+pan class=3D"number">0</span>);&nbsp;&nbsp;</li><li class=3D"alt"=
+>&nbsp;&nbsp;}&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;</li><=
+li class=3D"alt">&nbsp;&nbsp;<span class=3D"keyword">private</spa=
+n>&nbsp;<span class=3D"keyword">int</span>&nbsp;hash(DeleteUpdate=
+Commandcmd)&nbsp;{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;<s=
+pan class=3D"keyword">return</span>&nbsp;Hash.murmurhash3_x86_32(=
+cmd.getId(),&nbsp;<span class=3D"number">0</span>,&nbsp;cmd.getId=
+().length(),&nbsp;<span class=3D"number">0</span>);&nbsp;&nbsp;</=
+li><li class=3D"alt">&nbsp;&nbsp;}&nbsp;&nbsp;</li></ol></div>=0A=
+<p class=3D"p4">=C6=E4=D6=D0cmd.getHashableId()=B7=BD=B7=A8=B7=B5=
+=BB=D8=B5=C4=D6=F7=D2=AA=CA=C7=CE=C4=B5=B5=B5=C4=D6=F7=BC=FC=B5=C4=
+=D6=B5</p>=0A<p class=3D"p11">=CD=A8=B9=FDhash=D6=B5=B6=A8=CE=BB=B8=
+=FC=D0=C2=B5=BD=C4=C4=B8=F6shard</p>=0A<div class=3D"dp-highlight=
+er bg_java"><div class=3D"bar"><div class=3D"tools"><b>[java]</b>=
+ <a href=3D"http://blog.csdn.net/duck_genuine/article/details/847=
+3502#" class=3D"ViewSource" title=3D"view plain">view plain</a><a=
+ href=3D"http://blog.csdn.net/duck_genuine/article/details/847350=
+2#" class=3D"CopyToClipboard" title=3D"copy">copy</a><div style=3D=
+"position: absolute; left: 428px; top: 2905px; width: 18px; heigh=
+t: 18px; z-index: 99;"><embed id=3D"ZeroClipboardMovie_8" src=3D"=
+http://static.blog.csdn.net/scripts/ZeroClipboard/ZeroClipboard.s=
+wf" loop=3D"false" menu=3D"false" quality=3D"best" bgcolor=3D"#ff=
+ffff" name=3D"ZeroClipboardMovie_8" allowscriptaccess=3D"always"=20=
+allowfullscreen=3D"false" type=3D"application/x-shockwave-flash"=20=
+pluginspage=3D"http://www.macromedia.com/go/getflashplayer" flash=
+vars=3D"id=3D8&amp;width=3D18&amp;height=3D18" wmode=3D"transpare=
+nt" align=3D"middle" height=3D"18" width=3D"18"></div></div></div=
+><ol class=3D"dp-j"><li class=3D"alt"><span class=3D"keyword">pri=
+vate</span>&nbsp;String&nbsp;getShard(<span class=3D"keyword">int=
+</span>&nbsp;hash,&nbsp;String&nbsp;collection,&nbsp;ClusterState=
+&nbsp;clusterState)&nbsp;{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;=
+&nbsp;<span class=3D"keyword">return</span>&nbsp;clusterState.get=
+Shard(hash,&nbsp;collection);&nbsp;&nbsp;</li><li class=3D"alt">&=
+nbsp;&nbsp;}&nbsp;&nbsp;</li></ol></div>=0A<p><br>=0A</p>=0A<p cl=
+ass=3D"p11">&nbsp;=CD=A8=B9=FD=C8=A1=B5=BDcollection=B6=D4=D3=A6=B5=
+=C4RangeInfo=A3=AC=BC=C6=CB=E3=B8=C3hash=D6=B5=D7=F9=C2=E4=D4=DA=C4=
+=C4=B8=F6Range=A3=AC=BE=CD=BF=C9=D2=D4=BC=C6=CB=E3=B5=BD=CF=E0=D3=
+=A6=B5=C4shard</p>=0A<p class=3D"p11">&nbsp;</p>=0A<div class=3D"=
+dp-highlighter bg_java"><div class=3D"bar"><div class=3D"tools"><=
+b>[java]</b> <a href=3D"http://blog.csdn.net/duck_genuine/article=
+/details/8473502#" class=3D"ViewSource" title=3D"view plain">view=
+ plain</a><a href=3D"http://blog.csdn.net/duck_genuine/article/de=
+tails/8473502#" class=3D"CopyToClipboard" title=3D"copy">copy</a>=
+<div style=3D"position: absolute; left: 428px; top: 3106px; width=
+: 18px; height: 18px; z-index: 99;"><embed id=3D"ZeroClipboardMov=
+ie_9" src=3D"http://static.blog.csdn.net/scripts/ZeroClipboard/Ze=
+roClipboard.swf" loop=3D"false" menu=3D"false" quality=3D"best" b=
+gcolor=3D"#ffffff" name=3D"ZeroClipboardMovie_9" allowscriptacces=
+s=3D"always" allowfullscreen=3D"false" type=3D"application/x-shoc=
+kwave-flash" pluginspage=3D"http://www.macromedia.com/go/getflash=
+player" flashvars=3D"id=3D9&amp;width=3D18&amp;height=3D18" wmode=
+=3D"transparent" align=3D"middle" height=3D"18" width=3D"18"></di=
+v></div></div><ol class=3D"dp-j"><li class=3D"alt"><span class=3D=
+"keyword">public</span>&nbsp;String&nbsp;getShard(<span class=3D"=
+keyword">int</span>&nbsp;hash,&nbsp;String&nbsp;collection)&nbsp;=
+{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;RangeInfo&nbsp;rangInfo&n=
+bsp;=3D&nbsp;getRanges(collection);&nbsp;&nbsp;</li><li class=3D"=
+alt">&nbsp;&nbsp;&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;<span cla=
+ss=3D"keyword">int</span>&nbsp;cnt&nbsp;=3D&nbsp;<span class=3D"n=
+umber">0</span>;&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&n=
+bsp;<span class=3D"keyword">for</span>&nbsp;(Range&nbsp;range&nbs=
+p;:&nbsp;rangInfo.ranges)&nbsp;{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;<span class=3D"keyword">if</span>&nbsp;(range.i=
+ncludes(hash))&nbsp;{&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword">return</=
+span>&nbsp;rangInfo.shardList.get(cnt);&nbsp;&nbsp;</li><li>&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</li><li class=3D"alt">&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;cnt++;&nbsp;&nbsp;</li><li>&nbsp;&nbsp;=
+&nbsp;}&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp=
+;</li><li>&nbsp;&nbsp;&nbsp;<span class=3D"keyword">throw</span>&=
+nbsp;<span class=3D"keyword">new</span>&nbsp;IllegalStateExceptio=
+n(<span class=3D"string">"The&nbsp;HashPartitioner&nbsp;failed"</=
+span>);&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;}&nbsp;&nbsp;</li=
+></ol></div>=0A<p><br>=0A</p>=0A<p class=3D"p14">HashPartitioner<=
+/p>=0A<p class=3D"p3"><br>=0A</p>=0A<p class=3D"p14"><span class=3D=
+"s3">=D7=F6=CE=AA=C7=D0=B7=D6=CE=AA=B6=E0=B8=F6=B7=B6=CE=A7=B5=C4=
+</span>Range=A3=AC=D6=F7=D2=AA=CA=B5=CF=D6=B7=BD=B7=A8=C8=E7=CF=C2=
+=A3=BA</p>=0A<p class=3D"p13"><br>=0A</p>=0A<div class=3D"dp-high=
+lighter bg_java"><div class=3D"bar"><div class=3D"tools"><b>[java=
+]</b> <a href=3D"http://blog.csdn.net/duck_genuine/article/detail=
+s/8473502#" class=3D"ViewSource" title=3D"view plain">view plain<=
+/a><a href=3D"http://blog.csdn.net/duck_genuine/article/details/8=
+473502#" class=3D"CopyToClipboard" title=3D"copy">copy</a><div st=
+yle=3D"position: absolute; left: 428px; top: 3539px; width: 18px;=
+ height: 18px; z-index: 99;"><embed id=3D"ZeroClipboardMovie_10"=20=
+src=3D"http://static.blog.csdn.net/scripts/ZeroClipboard/ZeroClip=
+board.swf" loop=3D"false" menu=3D"false" quality=3D"best" bgcolor=
+=3D"#ffffff" name=3D"ZeroClipboardMovie_10" allowscriptaccess=3D"=
+always" allowfullscreen=3D"false" type=3D"application/x-shockwave=
+-flash" pluginspage=3D"http://www.macromedia.com/go/getflashplaye=
+r" flashvars=3D"id=3D10&amp;width=3D18&amp;height=3D18" wmode=3D"=
+transparent" align=3D"middle" height=3D"18" width=3D"18"></div></=
+div></div><ol class=3D"dp-j"><li class=3D"alt"><span class=3D"key=
+word">public</span>&nbsp;List&lt;Range&gt;&nbsp;partitionRange(<s=
+pan class=3D"keyword">int</span>&nbsp;partitions,&nbsp;<span clas=
+s=3D"keyword">int</span>&nbsp;min,&nbsp;<span class=3D"keyword">i=
+nt</span>&nbsp;max)&nbsp;{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;=
+&nbsp;<span class=3D"keyword">assert</span>&nbsp;max&nbsp;&gt;=3D=
+&nbsp;min;&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&n=
+bsp;<span class=3D"keyword">if</span>&nbsp;(partitions&nbsp;=3D=3D=
+&nbsp;<span class=3D"number">0</span>)&nbsp;<span class=3D"keywor=
+d">return</span>&nbsp;Collections.EMPTY_LIST;&nbsp;&nbsp;</li><li=
+>&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword">long</span>&nbsp=
+;range&nbsp;=3D&nbsp;(<span class=3D"keyword">long</span>)max&nbs=
+p;-&nbsp;(<span class=3D"keyword">long</span>)min;&nbsp;&nbsp;</l=
+i><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keywor=
+d">long</span>&nbsp;srange&nbsp;=3D&nbsp;Math.max(<span class=3D"=
+number">1</span>,&nbsp;range&nbsp;/&nbsp;partitions);&nbsp;&nbsp;=
+</li><li>&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nb=
+sp;List&lt;Range&gt;&nbsp;ranges&nbsp;=3D&nbsp;<span class=3D"key=
+word">new</span>&nbsp;ArrayList&lt;Range&gt;(partitions);&nbsp;&n=
+bsp;</li><li>&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp=
+;&nbsp;<span class=3D"keyword">long</span>&nbsp;start&nbsp;=3D&nb=
+sp;min;&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D=
+"keyword">long</span>&nbsp;end&nbsp;=3D&nbsp;start;&nbsp;&nbsp;</=
+li><li class=3D"alt">&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp=
+;<span class=3D"keyword">while</span>&nbsp;(end&nbsp;&lt;&nbsp;ma=
+x)&nbsp;{&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;end&nbsp;=3D&nbsp;start&nbsp;+&nbsp;srange;&nbsp;&=
+nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"=
+comment">//&nbsp;make&nbsp;last&nbsp;range&nbsp;always&nbsp;end&n=
+bsp;exactly&nbsp;on&nbsp;MAX_VALUE</span>&nbsp;&nbsp;</li><li cla=
+ss=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"key=
+word">if</span>&nbsp;(ranges.size()&nbsp;=3D=3D&nbsp;partitions&n=
+bsp;-&nbsp;<span class=3D"number">1</span>)&nbsp;{&nbsp;&nbsp;</l=
+i><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;end&nbsp;=3D=
+&nbsp;max;&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;}&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;ranges.add(<span class=3D"keyword">new</span>&nbsp;Range=
+((<span class=3D"keyword">int</span>)start,&nbsp;(<span class=3D"=
+keyword">int</span>)end));&nbsp;&nbsp;</li><li class=3D"alt">&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;start&nbsp;=3D&nbsp;end&nbsp;+&nb=
+sp;1L;&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;<=
+/li><li class=3D"alt">&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbs=
+p;<span class=3D"keyword">return</span>&nbsp;ranges;&nbsp;&nbsp;<=
+/li><li class=3D"alt">&nbsp;&nbsp;}&nbsp;&nbsp;</li></ol></div>=0A=
+<p class=3D"p13">=D6=B8=B6=A8=C1=CB=C4=B3=B8=F6=B7=B6=CE=A7[min,m=
+ax]=C7=D0=B7=D6=CE=AA=B6=E0=B8=F6partitions=B5=C4Ranges;=C7=D0=B7=
+=D6=B5=C4=B7=B6=CE=A7=CA=C7=B0=B4=C6=BD=BE=F9=B5=C4=C7=D0=B7=D6=A1=
+=A3</p>=0A<p class=3D"p14">Range=C0=E0=B7=E2=D7=B0=C1=CB=D6=F7=BC=
+=FChash=D6=B5=B7=B6=CE=A7=A1=BEmin,max=A1=BF</p>=0A<p class=3D"p1=
+4">RangeInfo=B7=E2=D7=B0=D2=BB=B8=F6collection=CF=C2=CB=F9=D3=D0s=
+hard=D0=C5=CF=A2=B6=D4=D3=A6=B5=C4Range,=D6=F7=D2=AA=CA=B5=CF=D6=B7=
+=BD=B7=A8=C8=E7=CF=C2=A3=BA</p>=0A<div class=3D"dp-highlighter bg=
+_java"><div class=3D"bar"><div class=3D"tools"><b>[java]</b> <a h=
+ref=3D"http://blog.csdn.net/duck_genuine/article/details/8473502#=
+" class=3D"ViewSource" title=3D"view plain">view plain</a><a href=
+=3D"http://blog.csdn.net/duck_genuine/article/details/8473502#" c=
+lass=3D"CopyToClipboard" title=3D"copy">copy</a><div style=3D"pos=
+ition: absolute; left: 428px; top: 4100px; width: 18px; height: 1=
+8px; z-index: 99;"><embed id=3D"ZeroClipboardMovie_11" src=3D"htt=
+p://static.blog.csdn.net/scripts/ZeroClipboard/ZeroClipboard.swf"=
+ loop=3D"false" menu=3D"false" quality=3D"best" bgcolor=3D"#fffff=
+f" name=3D"ZeroClipboardMovie_11" allowscriptaccess=3D"always" al=
+lowfullscreen=3D"false" type=3D"application/x-shockwave-flash" pl=
+uginspage=3D"http://www.macromedia.com/go/getflashplayer" flashva=
+rs=3D"id=3D11&amp;width=3D18&amp;height=3D18" wmode=3D"transparen=
+t" align=3D"middle" height=3D"18" width=3D"18"></div></div></div>=
+<ol class=3D"dp-j"><li class=3D"alt"><span class=3D"keyword">priv=
+ate</span>&nbsp;RangeInfo&nbsp;addRangeInfo(String&nbsp;collectio=
+n)&nbsp;{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;List&lt;Ran=
+ge&gt;&nbsp;ranges;&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp=
+;&nbsp;&nbsp;RangeInfo&nbsp;rangeInfo=3D&nbsp;<span class=3D"keyw=
+ord">new</span>&nbsp;RangeInfo();&nbsp;&nbsp;</li><li>&nbsp;&nbsp=
+;&nbsp;&nbsp;Map&lt;String,Slice&gt;&nbsp;slices&nbsp;=3D&nbsp;ge=
+tSlices(collection);&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbs=
+p;&nbsp;&nbsp;<span class=3D"keyword">if</span>&nbsp;(slices&nbsp=
+;=3D=3D&nbsp;<span class=3D"keyword">null</span>)&nbsp;{&nbsp;&nb=
+sp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"ke=
+yword">throw</span>&nbsp;<span class=3D"keyword">new</span>&nbsp;=
+SolrException(ErrorCode.BAD_REQUEST,&nbsp;<span class=3D"string">=
+"Can&nbsp;not&nbsp;find&nbsp;collection&nbsp;"</span>&nbsp;&nbsp;=
+</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;+&nbsp;collection&nbsp;+&nbsp;<span class=3D"st=
+ring">"&nbsp;in&nbsp;"</span>&nbsp;+&nbsp;<span class=3D"keyword"=
+>this</span>);&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp=
+;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;Set&lt;Stri=
+ng&gt;&nbsp;shards&nbsp;=3D&nbsp;slices.keySet();&nbsp;&nbsp;</li=
+><li>&nbsp;&nbsp;&nbsp;&nbsp;ArrayList&lt;String&gt;&nbsp;shardLi=
+st&nbsp;=3D&nbsp;<span class=3D"keyword">new</span>&nbsp;ArrayLis=
+t&lt;String&gt;(shards.size());&nbsp;&nbsp;</li><li class=3D"alt"=
+>&nbsp;&nbsp;&nbsp;&nbsp;shardList.addAll(shards);&nbsp;&nbsp;</l=
+i><li>&nbsp;&nbsp;&nbsp;&nbsp;Collections.sort(shardList);&nbsp;&=
+nbsp;&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;r=
+anges&nbsp;=3D&nbsp;hp.partitionRange(shards.size(),&nbsp;Integer=
+.MIN_VALUE,&nbsp;Integer.MAX_VALUE);&nbsp;&nbsp;</li><li>&nbsp;&n=
+bsp;&nbsp;&nbsp;rangeInfo.ranges&nbsp;=3D&nbsp;ranges;&nbsp;&nbsp=
+;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;rangeInfo.shardLi=
+st&nbsp;=3D&nbsp;shardList;&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp=
+;&nbsp;rangeInfos.put(collection,&nbsp;rangeInfo);&nbsp;&nbsp;</l=
+i><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keywor=
+d">return</span>&nbsp;rangeInfo;&nbsp;&nbsp;</li><li>&nbsp;&nbsp;=
+}&nbsp;&nbsp;</li></ol></div><br>=0A<p></p>=0A<p class=3D"p13">=B4=
+=D3=C9=CF=C3=E6=B7=BD=B7=A8=B5=C4=CA=B5=CF=D6=BF=C9=D2=D4=BF=B4=B5=
+=BD=A3=AC=BB=E1=CF=C8=BD=AB=CB=F9=D3=D0shard=B5=C4=C3=FB=B3=C6=C5=
+=C5=D0=F2=A3=AC=C8=BB=BA=F3=B8=F9=BE=DDshard=B5=C4=B4=F3=D0=A1=C7=
+=D0=B7=D6=CF=E0=D3=A6=B5=C4=B6=E0=B8=F6=B5=C4=B7=B6=CE=A7 =A3=AC=C3=
+=BF=D2=BB=B8=F6shard=D4=DA=C5=C5=D0=F2=CD=EA=B5=C4=CE=BB=D6=C3 =D3=
+=D0=B6=D4=D3=A6=B5=C4=B7=B6=CE=A7Range=A3=AC=C1=BD=D5=DF=B5=C4=D0=
+=C5=CF=A2=B4=E6=B7=C5=D4=DARangeInfo.</p>=0A<p class=3D"p13">=B2=BB=
+=D3=C3=B5=A3=D0=C4=A3=AC=C9=CF=C3=E6=B0=B4=D5=FB=CA=FD=D7=EE=D0=A1=
+=D6=B5 =A3=AC=D7=EE=B4=F3=D6=B5=B5=C4=C6=BD=BE=F9=C7=D0=B7=D6=B5=C4=
+=B7=B6=CE=A7=BB=E1=B5=BC=D6=C2=B7=D6=C5=E4=B2=BB=D4=C8=B5=C4=C7=E9=
+=BF=F6=A3=AC</p>=0A<p class=3D"p13">=BF=C9=C4=DC=C4=E3=BB=E1=B5=A3=
+=D0=C4=C8=E7=B9=FB=CE=D2=B5=C4=D6=F7=BC=FC=D6=B5=CA=C7=D5=FB=CA=FD=
+=A3=AC=C4=C7=D6=F7=BC=FC=B5=C4hash=D6=B5=BB=E1=B2=BB=BB=E1=B8=FA=CB=
+=FB=B5=C4=D6=B5=CB=F9=B6=D4=D3=A6=C4=D8=A3=AC=D5=E2=D1=F9=B5=C4=BB=
+=B0=A3=AC=BB=E1=C8=C3hash=B3=F6=C0=B4=B5=C4=CA=FD=BE=DD=CF=C8=CC=EE=
+=C2=FA=0A=D0=A1=B5=C4shard=A3=AC=C6=E4=CB=FCshard=B2=BB=B9=BB=D4=C8=
+=B3=C6=A1=A3=C6=E4=CA=B5=C9=E8=BC=C6=D5=DF=B1=BE=C9=ED=CA=B9=D3=C3=
+=B5=C4hash=CB=E3=B7=A8=CA=C7=D5=EB=B6=D4=C8=CE=BA=CE=C0=E0=D0=CD=A3=
+=AC=C8=A1=B5=C4=D6=F7=BC=FC=D6=B5=D2=B2=CA=C7=D2=D4=D7=D6=BD=DA=CA=
+=FD=D7=E9=C8=A5=D7=F6hash=A1=A3=D5=E2=B8=F6=BF=C9=D2=D4=D7=D4=BC=BA=
+=CA=B9=D3=C3=CB=FC=0A=B5=C4hash=CB=E3=B7=A8=C8=A5=D0=A3=D1=E9=A1=A3=
+</p>=0A<p class=3D"p10"><br>=0A</p>=0A<p class=3D"p14"><span styl=
+e=3D"font-size:24px"><span class=3D"s4">=D4=D9=C0=B4=BF=B4=D2=BB=CF=
+=C2</span>DistributedUpdateProcessor</span></p>=0A<p class=3D"p3"=
+><br>=0A</p>=0A<p class=3D"p3"><br>=0A</p>=0A<p class=3D"p6">=CF=C8=
+=BF=B4add=C7=EB=C7=F3=A3=AC=C7=EB=C7=F3=B5=C4=C0=B4=D4=B4=D3=D0=B6=
+=E0=D6=D6=A3=BA</p>=0A<p class=3D"p7"><br>=0A</p>=0A<p class=3D"p=
+6">privateList&lt;Node&gt; setupRequest(inthash)&nbsp;</p>=0A<p c=
+lass=3D"p6">=B4=CB=B7=BD=B7=A8=BE=CD=CA=C7=CE=AA=C1=CB=C5=D0=B6=CF=
+=C9=CF=C3=E6=C7=EB=C7=F3=C0=B4=D4=B4=B6=F8=BE=F6=B6=A8=B7=D6=B7=A2=
+=B5=C4=BD=E1=B5=E3</p>=0A<ol class=3D"ol1">=0A<li class=3D"li6">=C7=
+=EB=C7=F3=C0=B4=D7=D4leader=D7=AA=B7=A2=A3=BA<span class=3D"s2">F=
+ROMLEADER=A3=AC</span>=C4=C7=C3=B4=BE=CD=D6=BB=D0=E8=D2=AA=D0=B4=B5=
+=BD=B1=BE=B5=D8ulog,=B2=BB=D0=E8=D2=AA=D7=AA=B7=A2=B8=F8leader=A3=
+=AC=D2=B2=B2=BB=D0=E8=D2=AA=D7=AA=B7=A2=B8=F8=C6=E4=CB=FCreplicas=
+</li><li class=3D"li6">=C7=EB=C7=F3=B2=BB=CA=C7=C0=B4=D7=D4leader=
+=A3=AC=B5=AB=D7=D4=BC=BA=BE=CD=CA=C7leader=A3=AC=C4=C7=C3=B4=BE=CD=
+=D0=E8=D2=AA=BD=AB=C7=EB=C7=F3=D0=B4=B5=BD=B1=BE=B5=D8=A3=AC=CB=B3=
+=B1=E3=B7=D6=B7=A2=B8=F8=C6=E4=CB=FB=B5=C4replicas.</li><li class=
+=3D"li6">=C7=EB=C7=F3=B2=BB=CA=C7=C0=B4=D7=D4leader=A3=AC=B5=AB=D7=
+=D4=BC=BA=D3=D6=B2=BB=CA=C7leader,=D2=B2=BE=CD=CA=C7=B8=C3=B8=FC=D0=
+=C2=C7=EB=C7=F3=CA=C7=D7=EE=D4=AD=CA=BC=B5=C4=B8=FC=D0=C2=C7=EB=C7=
+=F3=A3=AC=C4=C7=C3=B4=D0=E8=D2=AA=BD=AB=C7=EB=C7=F3=D0=B4=B5=BD=B1=
+=BE=B5=D8ulog=A3=AC=CB=B3=B1=E3=D7=AA=B7=A2=B8=F8leader,=D4=D9=D3=
+=C9leader=B7=D6=B7=A2</li></ol>=0A<p class=3D"p10"><br>=0A</p>=0A=
+<p class=3D"p13">=CB=F9=D2=D4=CE=AA=C1=CB=B2=BB=C8=C3=B8=FC=D0=C2=
+=C7=EB=C7=F3=B2=BB=BB=E1=D7=AA=B7=A2=C0=B4=D7=AA=B7=A2=C8=A5=A1=A3=
+=CC=E1=BD=BB=CB=F7=D2=FD=B5=C4=CA=B1=BA=F2=A3=AC=D6=BB=CC=E1=BD=BB=
+=B8=F8=CB=F9=D3=D0leader=CA=C7=D7=EE=BC=D1=D1=A1=D4=F1=A1=A3</p>=0A=
+<p class=3D"p13">=D2=B2=BE=CD=CA=C7=C4=DC=D4=A4=CF=C8=D6=AA=B5=C0=
+=B8=C3=CA=FD=BE=DD =CA=C7=D2=AA=B5=BD=C4=C4=B8=F6leader=A3=AC=D5=E2=
+=B8=F6solrj=BA=C3=CF=F1=D3=D0=CA=B5=CF=D6=A1=A3solrcloudserver=A3=
+=AC=B7=D6=B6=D4=B8=FC=D0=C2=B5=C4=CA=FD=BE=DD=D4=A4=CF=C8=D7=F6=B7=
+=D6=B7=A2=C7=EB=C7=F3=A1=A3</p>=0A<p class=3D"p13">=CF=C8=C0=B4=BD=
+=B2=D2=BB=CF=C2=D4=F6=BC=D3=B5=C4=B8=FC=D0=C2=C2=DF=BC=AD</p>=0A<=
+p class=3D"p13"></p>=0A<div class=3D"dp-highlighter bg_java"><div=
+ class=3D"bar"><div class=3D"tools"><b>[java]</b> <a href=3D"http=
+://blog.csdn.net/duck_genuine/article/details/8473502#" class=3D"=
+ViewSource" title=3D"view plain">view plain</a><a href=3D"http://=
+blog.csdn.net/duck_genuine/article/details/8473502#" class=3D"Cop=
+yToClipboard" title=3D"copy">copy</a><div style=3D"position: abso=
+lute; left: 428px; top: 5093px; width: 18px; height: 18px; z-inde=
+x: 99;"><embed id=3D"ZeroClipboardMovie_12" src=3D"http://static.=
+blog.csdn.net/scripts/ZeroClipboard/ZeroClipboard.swf" loop=3D"fa=
+lse" menu=3D"false" quality=3D"best" bgcolor=3D"#ffffff" name=3D"=
+ZeroClipboardMovie_12" allowscriptaccess=3D"always" allowfullscre=
+en=3D"false" type=3D"application/x-shockwave-flash" pluginspage=3D=
+"http://www.macromedia.com/go/getflashplayer" flashvars=3D"id=3D1=
+2&amp;width=3D18&amp;height=3D18" wmode=3D"transparent" align=3D"=
+middle" height=3D"18" width=3D"18"></div></div></div><ol class=3D=
+"dp-j"><li class=3D"alt"><span class=3D"annotation">@Override</sp=
+an>&nbsp;&nbsp;</li><li>&nbsp;&nbsp;<span class=3D"keyword">publi=
+c</span>&nbsp;<span class=3D"keyword">void</span>&nbsp;processAdd=
+(AddUpdateCommand&nbsp;cmd)&nbsp;<span class=3D"keyword">throws</=
+span>&nbsp;IOException&nbsp;{&nbsp;&nbsp;</li><li class=3D"alt">&=
+nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword">int</span>&nbsp;ha=
+sh&nbsp;=3D&nbsp;<span class=3D"number">0</span>;&nbsp;&nbsp;</li=
+><li>&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword">if</span>&nb=
+sp;(zkEnabled)&nbsp;{<span class=3D"comment">//cloud=C4=A3=CA=BD=CF=
+=C2</span>&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;zkCheck();<span class=3D"comment">//=BC=EC=B2=E9z=
+k=C1=AC=BD=D3=D7=B4=CC=AC</span>&nbsp;&nbsp;</li><li>&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;hash&nbsp;=3D&nbsp;hash(cmd);<span class=3D=
+"comment">//=C8=A1=B5=C3=B8=FC=D0=C2=C7=EB=C7=F3hash=D6=B5=A3=AC=D4=
+=D9=BE=F6=B6=A8hash=B5=BD=C4=C4=D2=BB=B8=F6shard</span>&nbsp;&nbs=
+p;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<spa=
+n class=3D"comment">//=C5=D0=B6=CF=B8=FC=D0=C2=C7=EB=C7=F3=C0=B4=D4=
+=B4=A3=AC=BE=F6=B6=A8=D0=E8=D2=AA=D7=AA=B7=A2=B5=C4nodes</span>&n=
+bsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nodes&nbsp=
+;=3D&nbsp;setupRequest(hash);&nbsp;&nbsp;</li><li class=3D"alt">&=
+nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;<span class=3D"keyword">else</span>=
+&nbsp;{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i=
+sLeader&nbsp;=3D&nbsp;getNonZkLeaderAssumption(req);&nbsp;&nbsp;<=
+/li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</li><=
+li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><li class=3D"alt">&nb=
+sp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword">boolean</span>&nbsp;=
+dropCmd&nbsp;=3D&nbsp;<span class=3D"keyword">false</span>;&nbsp;=
+&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword">if=
+</span>&nbsp;(!forwardToLeader)&nbsp;{<span class=3D"comment">//=B2=
+=BB=D0=E8=D2=AA=D7=AA=B7=A2=A3=AC=BC=B4=CA=C7=C7=EB=C7=F3=C0=B4=D4=
+=B4=CA=C7=D3=C9leader=D7=AA=B7=A2=C0=B4=B5=C4=A3=AC=BB=F2=D5=DF=B1=
+=BE=C8=CB=BE=CD=CA=C7leader</span>&nbsp;&nbsp;</li><li class=3D"a=
+lt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dropCmd&nbsp;=3D&nbsp;ver=
+sionAdd(cmd);<span class=3D"comment">//=BE=F6=B6=A8=B8=C3=C7=EB=C7=
+=F3=CA=C7=B7=F1=B6=AA=C6=FA=A3=AC=B6=AA=C6=FA=D4=AD=D2=F2=A3=BA1=A3=
+=A9=D6=BB=D0=E8=D2=AA=B8=FC=D0=C2=B5=BDulog=A3=AC=D2=B2=BE=CD=CA=C7=
+=C7=EB=C7=F3=CA=C7=C0=B4=D4=B4leader=D7=AA=B7=A2=C0=B4=B5=C4=A3=AC=
+=B2=BB=D0=E8=D0=B4=B5=BD=CB=F7=D2=FD=A1=A32=A3=A9ulog=D2=D1=D3=D0=
+=B8=C3=B8=FC=D0=C2=BC=C7=C2=BC=C7=D2=B0=E6=B1=BE=B1=C8=B5=B1=C7=B0=
+=B5=C4=B0=E6=B1=BE=B8=FC=D0=C2=A3=AC=D4=F2=BF=C9=D2=D4=B6=AA=C6=FA=
+=A1=A3</span>&nbsp;&nbsp;</li><li>&nbsp;&nbsp;</li><li class=3D"a=
+lt">&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</li><li>&nbsp;&nbsp;</l=
+i><li class=3D"alt">&nbsp;&nbsp;&nbsp;<span class=3D"comment">//&=
+nbsp;=BF=C9=D2=D4=B6=AA=C6=FA=B8=C3=C7=EB=C7=F3=A3=AC=B2=BB=D0=E8=
+=D2=AA=D0=B4=B5=BDlucene=CB=F7=D2=FD</span>&nbsp;&nbsp;</li><li>&=
+nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword">if</span>&nbsp;(dr=
+opCmd)&nbsp;{&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;<span class=3D"comment">//&nbsp;TODO:&nbsp;do&=
+nbsp;we&nbsp;need&nbsp;to&nbsp;add&nbsp;anything&nbsp;to&nbsp;the=
+&nbsp;response?</span>&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;<span class=3D"keyword">return</span>;&nbsp;&nbsp;<=
+/li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li><l=
+i>&nbsp;&nbsp;&nbsp;&nbsp;ModifiableSolrParams&nbsp;params&nbsp;=3D=
+&nbsp;<span class=3D"keyword">null</span>;&nbsp;&nbsp;</li><li cl=
+ass=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword">if</s=
+pan>&nbsp;(nodes&nbsp;!=3D&nbsp;<span class=3D"keyword">null</spa=
+n>)&nbsp;{&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;params&nbsp;=3D&nbsp;<span class=3D"keyword">new</span>&n=
+bsp;ModifiableSolrParams(filterParams(req.getParams()));&nbsp;&nb=
+sp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</li=
+><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<spa=
+n class=3D"comment">//=D0=E8=D2=AA=D7=AA=B7=A2=B8=C3=C7=EB=C7=F3=A3=
+=AC=D7=AA=B7=A2leader,=BB=F2=D5=DF=D3=C9leader=B7=D6=B7=A2</span>=
+&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;params.s=
+et(DISTRIB_UPDATE_PARAM,&nbsp;&nbsp;&nbsp;</li><li class=3D"alt">=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(isLeader&nbsp;?&nbsp;&nbsp;=
+&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Distrib=
+Phase.FROMLEADER.toString()&nbsp;:&nbsp;&nbsp;&nbsp;</li><li clas=
+s=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DistribPhase=
+.TOLEADER.toString()));&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;<span class=3D"keyword">if</span>&nbsp;(isLeader)&=
+nbsp;{&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;params.set(<span class=3D"string">"distri=
+b.from"</span>,&nbsp;ZkCoreNodeProps.getCoreUrl(&nbsp;&nbsp;</li>=
+<li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;zkController.getBaseUrl(),&nbsp;req.getCore().getName(=
+)));&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp;}&nbsp;&nbsp;</li><li>&nbsp;&nbsp;</li><li class=3D"alt=
+">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;params.set(<span class=3D"s=
+tring">"distrib.from"</span>,&nbsp;ZkCoreNodeProps.getCoreUrl(&nb=
+sp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;zkController.getBaseUrl(),&nbsp;req.getCore().getNam=
+e()));&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;</li><li>&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"comment">//=D7=AA=
+=B7=A2=C7=EB=C7=F3=B5=BDnodes&nbsp;&nbsp;&nbsp;&nbsp;</span>&nbsp=
+;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;cmdDistrib.distribAdd(cmd,&nbsp;nodes,&nbsp;params);&nbsp;&nbsp;=
+</li><li>&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</li><li class=3D"a=
+lt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"comment">//=D4=F6=
+=BC=D3=B8=FC=D0=C2=B5=C4=CF=EC=D3=A6=C4=DA=C8=DD&nbsp;</span>&nbs=
+p;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword">=
+if</span>&nbsp;(returnVersions&nbsp;&amp;&amp;&nbsp;rsp&nbsp;!=3D=
+&nbsp;<span class=3D"keyword">null</span>&nbsp;&amp;&amp;&nbsp;id=
+Field&nbsp;!=3D&nbsp;<span class=3D"keyword">null</span>)&nbsp;{&=
+nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;<span class=3D"keyword">if</span>&nbsp;(addsResponse&nbsp;=3D=
+=3D&nbsp;<span class=3D"keyword">null</span>)&nbsp;{&nbsp;&nbsp;<=
+/li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;addsRespo=
+nse&nbsp;=3D&nbsp;<span class=3D"keyword">new</span>&nbsp;NamedLi=
+st&lt;String&gt;();&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rsp.add(<span class=3D"strin=
+g">"adds"</span>,addsResponse);&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=3D"keyword">if</span>&n=
+bsp;(scratch&nbsp;=3D=3D&nbsp;<span class=3D"keyword">null</span>=
+)&nbsp;scratch&nbsp;=3D&nbsp;<span class=3D"keyword">new</span>&n=
+bsp;CharsRef();&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;idField.getType().indexedToReadable(cmd.getIndexedId(),&nb=
+sp;scratch);&nbsp;&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;addsResponse.add(scratch.toString(),&nbsp;cmd.g=
+etVersion());&nbsp;&nbsp;</li><li>&nbsp;&nbsp;&nbsp;&nbsp;}&nbsp;=
+&nbsp;</li><li class=3D"alt">&nbsp;&nbsp;}&nbsp;&nbsp;</li></ol><=
+/div><br>=0A<p class=3D"p13">=B4=A6=C0=ED=C9=BE=B3=FD=C2=DF=BC=AD=
+=D2=B2=CA=C7=B2=EE=B2=BB=B6=E0=A1=A3</p>=0A<p class=3D"p13">=D4=DD=
+=CA=B1=B5=BD=D5=E2=C0=EF=A3=AC=D3=D0=B4=FD=B2=B9=B3=E4=A1=A3=A1=A3=
+</p>=0A<p class=3D"p13"><br><div style=3D"color:gray"><small>=C0=B4=
+=D4=B4=A3=BA&nbsp;&lt;<a href=3D"http://blog.csdn.net/duck_genuin=
+e/article/details/8473502">http://blog.csdn.net/duck_genuine/arti=
+cle/details/8473502</a><small>&gt;</small></small></div><small><s=
+mall>&nbsp;</small></small><br></p>=0A=0A=0A=0A</body></html>=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A
+
+------=_Next_Part_0000213687.816--
+
+------=_Next_Part_0000641061.826--
+

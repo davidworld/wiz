@@ -1,0 +1,273 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?U29scs7KzOK749fc?=
+Date: Date: Fri, 23 Jul 2021 05:51:10 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000651093.398"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000651093.398
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000217031.146"
+
+
+------=_Next_Part_0000217031.146
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000217031.146
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>Solr=CE=CA=CC=E2=BB=E3=D7=DC</title>=
+=0A=0A=0A=0A=0A<style type=3D"text/css" id=3D"wiz_todo_style_id"=20=
+wiz_link_version=3D"01.00.09">.wiz-todo, .wiz-todo-img {width: 16=
+px; height: 16px; cursor: default; padding: 0 10px 0 2px; vertica=
+l-align: -10%;-webkit-user-select: none;} .wiz-todo-label { displ=
+ay: inline-block; padding-top: 7px; padding-bottom: 6px; line-hei=
+ght: 1.5;} .wiz-todo-label-checked {  color: #666;} .wiz-todo-lab=
+el-unchecked {text-decoration: initial;} .wiz-todo-completed-info=
+ {padding-left: 44px; display: inline-block; } .wiz-todo-avatar {=
+ width:20px; height: 20px; vertical-align: -20%; margin-right:10p=
+x; border-radius: 2px;} .wiz-todo-account, .wiz-todo-dt { color:=20=
+#666; }</style>=0A=0A=0A=0A=0A<style type=3D"text/css" id=3D"wiz_=
+custom_css">=0Abody=0A{=0A    font-family: Arial;=0A    font-size=
+: 10.5pt;=0A    line-height: 1.5;=0A}=0Ahtml, body=0A{=0A    colo=
+r: ;=0A    background-color: ;=0A}=0Ah1 {=0A    font-size:1.5em;=0A=
+    font-weight:bold;=0A}=0Ah2 {=0A    font-size:1.4em;=0A    fon=
+t-weight:bold;=0A}=0Ah3 {=0A    font-size:1.3em;=0A    font-weigh=
+t:bold;=0A}=0Ah4 {=0A    font-size:1.2em;=0A    font-weight:bold;=
+=0A}=0Ah5 {=0A    font-size:1.1em;=0A    font-weight:bold;=0A}=0A=
+h6 {=0A    font-size:1.0em;=0A    font-weight:bold;=0A}=0Aimg {=0A=
+    border:0;=0A    max-width: 100%;=0A    height: auto !importan=
+t;=0A}=0Ablockquote {=0A    margin-top:0px;=0A    margin-bottom:0=
+px;=0A}=0Atable {=0A    border-collapse:collapse;=0A    border:1p=
+x solid #bbbbbb;=0A}=0Atd {=0A    border-collapse:collapse;=0A  =20=
+ border:1px solid #bbbbbb;=0A}=0A</style>=0A</head>=0A=0A<body st=
+yle><div><div id=3D"highlighter_855965" class=3D"syntaxhighlighte=
+r  xml"><table border=3D"0"><tbody><tr><td class=3D"code"><div cl=
+ass=3D"container"><div class=3D"line number1 index0 alt2"><code c=
+lass=3D"xml plain">PERFORMANCE WARNING: Overlapping onDeckSearche=
+rs=3DX</code></div></div></td></tr></tbody></table></div></div> =0A=
+<p> =B9=D9=B7=BD=BB=D8=B4=F0=A3=BA </p> =0A<p> This warning means=
+ that at least one searcher hadn't yet finished =0Awarming in the=
+ background, when a commit was issued and another searcher=0A sta=
+rted warming. This can not only eat up a lot of ram (as multiple=20=
+on =0Adeck searches warm caches simultaneously) but it can also c=
+reate a =0Afeedback cycle, since the more searchers warming in pa=
+rallel means each =0Asearcher might take longer to warm.&nbsp; </=
+p> =0A<p> Typically the way to avoid this error is to either redu=
+ce the =0Afrequency of commits, or reduce the amount of warming a=
+ searcher does =0Awhile it's on deck (by reducing the work in new=
+Searcher listeners, =0Aand/or reducing the autowarmCount on your=20=
+caches) </p> =0A<p> See also the &lt;maxWarmingSearchers/&gt; opt=
+ion in SolrConfigXml. </p> =0A<p> =CA=B9=D3=C3=B5=C4=CA=C7solr4=B5=
+=C4=BB=B0=BF=C9=D2=D4=C9=E8=D6=C3=D4=DAautoCommit=C0=EF=C3=E6=C9=E8=
+=D6=C3openSearcher=3Dfalse=C0=B4=BD=E2=BE=F6=D5=E2=B8=F6=CE=CA=CC=
+=E2.</p><p><br></p><p>=B2=D9=D7=F7=A3=BA</p><p>=D0=DE=B8=C4SolrCo=
+nfig.xml</p><p>&nbsp;&lt;maxWarmingSearchers&gt;1&lt;/maxWarmingS=
+earchers&gt;<br></p><br><p><br></p><p>su: cannot set user id: Res=
+ource temporarily unavailable<br></p><p>* &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp;soft &nbsp; &nbsp;nproc &nbsp; &nbsp; 10240<span style=
+=3D"font-size: 10.5pt; line-height: 1.5;">&nbsp;</span>&nbsp;</p>=
+<p>=B5=F7=B4=F3=D7=EE=B4=F3=CF=DF=B3=CC=CA=FD</p><p><br></p><p><b=
+r></p><p></p><p>org.apache.zookeeper.KeeperException$NoNodeExcept=
+ion: KeeperErrorCode =3D NoNode for /overseer/queue-work/qn-00000=
+04424</p><p><span class=3D"Apple-tab-span" style=3D"white-space:p=
+re">	</span>at org.apache.zookeeper.KeeperException.create(Keeper=
+Exception.java:111)</p><p><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre">	</span>at org.apache.zookeeper.KeeperException=
+.create(KeeperException.java:51)</p><p><span class=3D"Apple-tab-s=
+pan" style=3D"white-space:pre">	</span>at org.apache.zookeeper.Zo=
+oKeeper.getData(ZooKeeper.java:1155)</p><p><span class=3D"Apple-t=
+ab-span" style=3D"white-space:pre">	</span>at org.apache.solr.com=
+mon.cloud.SolrZkClient$8.execute(SolrZkClient.java:307)</p><p><sp=
+an class=3D"Apple-tab-span" style=3D"white-space:pre">	</span>at=20=
+org.apache.solr.common.cloud.SolrZkClient$8.execute(SolrZkClient.=
+java:304)</p><p><span class=3D"Apple-tab-span" style=3D"white-spa=
+ce:pre">	</span>at org.apache.solr.common.cloud.ZkCmdExecutor.ret=
+ryOperation(ZkCmdExecutor.java:74)</p><p><span class=3D"Apple-tab=
+-span" style=3D"white-space:pre">	</span>at org.apache.solr.commo=
+n.cloud.SolrZkClient.getData(SolrZkClient.java:304)</p><p><span c=
+lass=3D"Apple-tab-span" style=3D"white-space:pre">	</span>at org.=
+apache.solr.servlet.ZookeeperInfoServlet$ZKPrinter.printTree(Zook=
+eeperInfoServlet.java:279)</p><p><span class=3D"Apple-tab-span" s=
+tyle=3D"white-space:pre">	</span>at org.apache.solr.servlet.Zooke=
+eperInfoServlet$ZKPrinter.printTree(ZookeeperInfoServlet.java:322=
+)</p><p><span class=3D"Apple-tab-span" style=3D"white-space:pre">=
+	</span>at org.apache.solr.servlet.ZookeeperInfoServlet$ZKPrinter=
+.printTree(ZookeeperInfoServlet.java:322)</p><p><span class=3D"Ap=
+ple-tab-span" style=3D"white-space:pre">	</span>at org.apache.sol=
+r.servlet.ZookeeperInfoServlet$ZKPrinter.printTree(ZookeeperInfoS=
+ervlet.java:322)</p><p><span class=3D"Apple-tab-span" style=3D"wh=
+ite-space:pre">	</span>at org.apache.solr.servlet.ZookeeperInfoSe=
+rvlet$ZKPrinter.print(ZookeeperInfoServlet.java:226)</p><p><span=20=
+class=3D"Apple-tab-span" style=3D"white-space:pre">	</span>at org=
+.apache.solr.servlet.ZookeeperInfoServlet.doGet(ZookeeperInfoServ=
+let.java:104)</p><p><span class=3D"Apple-tab-span" style=3D"white=
+-space:pre">	</span>at javax.servlet.http.HttpServlet.service(Htt=
+pServlet.java:624)</p><p><span class=3D"Apple-tab-span" style=3D"=
+white-space:pre">	</span>at javax.servlet.http.HttpServlet.servic=
+e(HttpServlet.java:731)</p><p><span class=3D"Apple-tab-span" styl=
+e=3D"white-space:pre">	</span>at org.apache.catalina.core.Applica=
+tionFilterChain.internalDoFilter(ApplicationFilterChain.java:303)=
+</p><p><span class=3D"Apple-tab-span" style=3D"white-space:pre">=09=
+</span>at org.apache.catalina.core.ApplicationFilterChain.doFilte=
+r(ApplicationFilterChain.java:208)</p><p><span class=3D"Apple-tab=
+-span" style=3D"white-space:pre">	</span>at org.apache.tomcat.web=
+socket.server.WsFilter.doFilter(WsFilter.java:52)</p><p><span cla=
+ss=3D"Apple-tab-span" style=3D"white-space:pre">	</span>at org.ap=
+ache.catalina.core.ApplicationFilterChain.internalDoFilter(Applic=
+ationFilterChain.java:241)</p><p><span class=3D"Apple-tab-span" s=
+tyle=3D"white-space:pre">	</span>at org.apache.catalina.core.Appl=
+icationFilterChain.doFilter(ApplicationFilterChain.java:208)</p><=
+p><span class=3D"Apple-tab-span" style=3D"white-space:pre">	</spa=
+n>at org.apache.solr.servlet.SolrDispatchFilter.doFilter(SolrDisp=
+atchFilter.java:466)</p><p><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre">	</span>at org.apache.solr.servlet.SolrDispatch=
+Filter.doFilter(SolrDispatchFilter.java:207)</p><p><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre">	</span>at org.apache.=
+catalina.core.ApplicationFilterChain.internalDoFilter(Application=
+FilterChain.java:241)</p><p><span class=3D"Apple-tab-span" style=3D=
+"white-space:pre">	</span>at org.apache.catalina.core.Application=
+FilterChain.doFilter(ApplicationFilterChain.java:208)</p><p><span=
+ class=3D"Apple-tab-span" style=3D"white-space:pre">	</span>at or=
+g.apache.catalina.core.StandardWrapperValve.invoke(StandardWrappe=
+rValve.java:220)</p><p><span class=3D"Apple-tab-span" style=3D"wh=
+ite-space:pre">	</span>at org.apache.catalina.core.StandardContex=
+tValve.invoke(StandardContextValve.java:122)</p><p><span class=3D=
+"Apple-tab-span" style=3D"white-space:pre">	</span>at org.apache.=
+catalina.core.StandardHostValve.invoke(StandardHostValve.java:170=
+)</p><p><span class=3D"Apple-tab-span" style=3D"white-space:pre">=
+	</span>at org.apache.catalina.valves.ErrorReportValve.invoke(Err=
+orReportValve.java:103)</p><p><span class=3D"Apple-tab-span" styl=
+e=3D"white-space:pre">	</span>at org.apache.catalina.valves.Acces=
+sLogValve.invoke(AccessLogValve.java:950)</p><p><span class=3D"Ap=
+ple-tab-span" style=3D"white-space:pre">	</span>at org.apache.cat=
+alina.core.StandardEngineValve.invoke(StandardEngineValve.java:11=
+6)</p><p><span class=3D"Apple-tab-span" style=3D"white-space:pre"=
+>	</span>at org.apache.catalina.connector.CoyoteAdapter.service(C=
+oyoteAdapter.java:423)</p><p><span class=3D"Apple-tab-span" style=
+=3D"white-space:pre">	</span>at org.apache.coyote.http11.Abstract=
+Http11Processor.process(AbstractHttp11Processor.java:1079)</p><p>=
+<span class=3D"Apple-tab-span" style=3D"white-space:pre">	</span>=
+at org.apache.coyote.AbstractProtocol$AbstractConnectionHandler.p=
+rocess(AbstractProtocol.java:620)</p><p><span class=3D"Apple-tab-=
+span" style=3D"white-space:pre">	</span>at org.apache.tomcat.util=
+.net.JIoEndpoint$SocketProcessor.run(JIoEndpoint.java:318)</p><p>=
+<span class=3D"Apple-tab-span" style=3D"white-space:pre">	</span>=
+at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolEx=
+ecutor.java:1145)</p><p><span class=3D"Apple-tab-span" style=3D"w=
+hite-space:pre">	</span>at java.util.concurrent.ThreadPoolExecuto=
+r$Worker.run(ThreadPoolExecutor.java:615)</p><p><span class=3D"Ap=
+ple-tab-span" style=3D"white-space:pre">	</span>at org.apache.tom=
+cat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:=
+61)</p><p><span class=3D"Apple-tab-span" style=3D"white-space:pre=
+">	</span>at java.lang.Thread.run(Thread.java:744)</p><p><br></p>=
+<p><br></p><p></p><p>2015-05-15 10:44:51,302 [myid:3] - INFO &nbs=
+p;[ProcessThread(sid:3 cport:-1)::PrepRequestProcessor@627] - Got=
+ user-level KeeperException when processing sessionid:0x24d4ffbd1=
+b80025 type:create cxid:0x13e4 zxid:0x3000c28f4 txntype:-1 reqpat=
+h:n/a Error Path:/overseer Error:KeeperErrorCode =3D NodeExists f=
+or /overseer</p><p>2015-05-15 10:44:51,303 [myid:3] - INFO &nbsp;=
+[ProcessThread(sid:3 cport:-1)::PrepRequestProcessor@627] - Got u=
+ser-level KeeperException when processing sessionid:0x24d4ffbd1b8=
+0025 type:delete cxid:0x13e5 zxid:0x3000c28f5 txntype:-1 reqpath:=
+n/a Error Path:/collections/vas/leaders/20150105 Error:KeeperErro=
+rCode =3D NoNode for /collections/vas/leaders/20150105</p><p>2015=
+-05-15 10:44:51,303 [myid:3] - INFO &nbsp;[ProcessThread(sid:3 cp=
+ort:-1)::PrepRequestProcessor@627] - Got user-level KeeperExcepti=
+on when processing sessionid:0x24d4ffbd1b80025 type:delete cxid:0=
+x13e6 zxid:0x3000c28f6 txntype:-1 reqpath:n/a Error Path:/collect=
+ions/vas/leaders/20150116 Error:KeeperErrorCode =3D NoNode for /c=
+ollections/vas/leaders/20150116</p><p>2015-05-15 10:44:51,303 [my=
+id:3] - INFO &nbsp;[ProcessThread(sid:3 cport:-1)::PrepRequestPro=
+cessor@627] - Got user-level KeeperException when processing sess=
+ionid:0x24d4ffbd1b80025 type:create cxid:0x13e7 zxid:0x3000c28f7=20=
+txntype:-1 reqpath:n/a Error Path:/overseer Error:KeeperErrorCode=
+ =3D NodeExists for /overseer</p><p>2015-05-15 10:44:51,303 [myid=
+:3] - INFO &nbsp;[ProcessThread(sid:3 cport:-1)::PrepRequestProce=
+ssor@627] - Got user-level KeeperException when processing sessio=
+nid:0x24d4ffbd1b80025 type:create cxid:0x13e8 zxid:0x3000c28f8 tx=
+ntype:-1 reqpath:n/a Error Path:/overseer Error:KeeperErrorCode =3D=
+ NodeExists for /overseer</p><p>2015-05-15 10:44:51,303 [myid:3]=20=
+- INFO &nbsp;[ProcessThread(sid:3 cport:-1)::PrepRequestProcessor=
+@627] - Got user-level KeeperException when processing sessionid:=
+0x24d4ffbd1b80025 type:delete cxid:0x13e9 zxid:0x3000c28f9 txntyp=
+e:-1 reqpath:n/a Error Path:/collections/vas/leaders/20150110 Err=
+or:KeeperErrorCode =3D NoNode for /collections/vas/leaders/201501=
+10</p><p>2015-05-15 10:44:51,304 [myid:3] - INFO &nbsp;[ProcessTh=
+read(sid:3 cport:-1)::PrepRequestProcessor@627] - Got user-level=20=
+KeeperException when processing sessionid:0x24d4ffbd1b80025 type:=
+create cxid:0x13eb zxid:0x3000c28fa txntype:-1 reqpath:n/a Error=20=
+Path:/overseer Error:KeeperErrorCode =3D NodeExists for /overseer=
+</p><p>2015-05-15 10:44:51,304 [myid:3] - INFO &nbsp;[ProcessThre=
+ad(sid:3 cport:-1)::PrepRequestProcessor@627] - Got user-level Ke=
+eperException when processing sessionid:0x24d4ffbd1b80025 type:de=
+lete cxid:0x13ec zxid:0x3000c28fb txntype:-1 reqpath:n/a Error Pa=
+th:/collections/vas/leaders/20150114 Error:KeeperErrorCode =3D No=
+Node for /collections/vas/leaders/20150114</p><p>2015-05-15 10:44=
+:51,304 [myid:3] - INFO &nbsp;[ProcessThread(sid:3 cport:-1)::Pre=
+pRequestProcessor@627] - Got user-level KeeperException when proc=
+essing sessionid:0x24d4ffbd1b80025 type:create cxid:0x13ed zxid:0=
+x3000c28fc txntype:-1 reqpath:n/a Error Path:/overseer Error:Keep=
+erErrorCode =3D NodeExists for /overseer</p><p>2015-05-15 10:44:5=
+1,304 [myid:3] - INFO &nbsp;[ProcessThread(sid:3 cport:-1)::PrepR=
+equestProcessor@627] - Got user-level KeeperException when proces=
+sing sessionid:0x24d4ffbd1b80025 type:delete cxid:0x13ef zxid:0x3=
+000c28fd txntype:-1 reqpath:n/a Error Path:/collections/vas/leade=
+rs/20150115 Error:KeeperErrorCode =3D NoNode for /collections/vas=
+/leaders/20150115</p><p><br></p><p><p>[zk: dn81:3181(CONNECTED) 6=
+] ls /collections/vas/leaders &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&=
+nbsp;</p><p>[20150108, 20150107, 20150106, 20150208, 20150105, 20=
+150209, 20150206, 20150207, 20150129, 20150128, 20150204, 2015012=
+7, 20150109, 20150205, 20150126, 20150202, 20150125, 20150203, 20=
+150124, 20150201, 20150123, 20150122, 20150104, 20150121, 2015010=
+3, 20150120, 20150102, 20150101, 20150130, 20150131, 20150210, 20=
+150117, 20150116, 20150119, 20150118, 20150113, 20150112, 2015011=
+5, 20150114, 20150111, 20150110]</p><p><br></p><p><p>[zk: dn81:31=
+81(CONNECTED) 5] get /collections/call/leaders/20150</p><p><br></=
+p><p>20150108 &nbsp; 20150107 &nbsp; 20150208 &nbsp; 20150106 &nb=
+sp; 20150209 &nbsp; 20150105 &nbsp; 20150206 &nbsp; 20150207 &nbs=
+p; 20150129 &nbsp; 20150204 &nbsp; 20150128 &nbsp; 20150205 &nbsp=
+; 20150127 &nbsp; 20150109</p><p>20150202 &nbsp; 20150126 &nbsp;=20=
+20150203 &nbsp; 20150125 &nbsp; 20150124 &nbsp; 20150201 &nbsp; 2=
+0150123 &nbsp; 20150122 &nbsp; 20150104 &nbsp; 20150121 &nbsp; 20=
+150103 &nbsp; 20150120 &nbsp; 20150102 &nbsp; 20150101</p><p>2015=
+0130 &nbsp; 20150131 &nbsp; 20150210 &nbsp; 20150117 &nbsp; 20150=
+116 &nbsp; 20150119 &nbsp; 20150118 &nbsp; 20150113 &nbsp; 201501=
+12 &nbsp; 20150115 &nbsp; 20150114 &nbsp; 20150111 &nbsp; 2015011=
+0</p><p><br></p><p><p>[zk: dn81:3181(CONNECTED) 1] ls /collection=
+s/net/leaders&nbsp;</p><p>[20150108, 20150107, 20150106, 20150208=
+, 20150105, 20150209, 20150206, 20150129, 20150207, 20150128, 201=
+50204, 20150109, 20150127, 20150205, 20150126, 20150202, 20150125=
+, 20150203, 20150124, 20150123, 20150201, 20150104, 20150122, 201=
+50103, 20150121, 20150120, 20150102, 20150101, 20150130, 20150131=
+, 20150210, 20150117, 20150116, 20150119, 20150118, 20150113, 201=
+50112, 20150115, 20150114, 20150111, 20150110]</p><p><br></p><p><=
+p>[zk: dn81:3181(CONNECTED) 2] ls /collections/sms/leaders</p><p>=
+[20150108, 20150107, 20150208, 20150106, 20150209, 20150105, 2015=
+0206, 20150207, 20150129, 20150128, 20150204, 20150205, 20150127,=
+ 20150109, 20150126, 20150202, 20150203, 20150125, 20150124, 2015=
+0201, 20150123, 20150122, 20150104, 20150121, 20150103, 20150120,=
+ 20150102, 20150101, 20150130, 20150131, 20150210, 20150117, 2015=
+0116, 20150119, 20150118, 20150113, 20150112, 20150115, 20150114,=
+ 20150111, 20150110]</p></p></p><p><br></p><p><br></p></p></p><p>=
+</p><p></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p=
+><p><br></p><p><br></p>=0A=0A=0A=0A</body></html>=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+
+
+------=_Next_Part_0000217031.146--
+
+------=_Next_Part_0000651093.398--
+

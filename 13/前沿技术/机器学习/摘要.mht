@@ -1,0 +1,272 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?1arSqg==?=
+Date: Date: Fri, 23 Jul 2021 05:50:43 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000572250.695"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000572250.695
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000190750.624"
+
+
+------=_Next_Part_0000190750.624
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000190750.624
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html><html><head>=0D=0A<meta http-equiv=3D"Content-Type=
+" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A<title>=D5=AA=D2=AA</title>=0A    =0A<style id=3D=
+"wiz_custom_css">html, body {font-size: 12pt;}body {font-family:=20=
+Helvetica, 'Hiragino Sans GB', '=CE=A2=C8=ED=D1=C5=BA=DA', 'Micro=
+soft YaHei UI', SimSun, SimHei, arial, sans-serif;line-height: 1.=
+6;margin: 0 auto;padding: 20px 16px;padding: 1.25rem 1rem;}h1, h2=
+, h3, h4, h5, h6 {margin:20px 0 10px;margin:1.25rem 0 0.625rem;pa=
+dding: 0;font-weight: bold;}h1 {font-size:20pt;font-size:1.67rem;=
+}h2 {font-size:18pt;font-size:1.5rem;}h3 {font-size:15pt;font-siz=
+e:1.25rem;}h4 {font-size:14pt;font-size:1.17rem;}h5 {font-size:12=
+pt;font-size:1rem;}h6 {font-size:12pt;font-size:1rem;color: #7777=
+77;margin: 1rem 0;}div, p, ul, ol, dl, li {margin:0;}blockquote,=20=
+table, pre, code {margin:8px 0;}ul, ol {padding-left:32px;padding=
+-left:2rem;}ol.wiz-list-level1 > li {list-style-type:decimal;}ol.=
+wiz-list-level2 > li {list-style-type:lower-latin;}ol.wiz-list-le=
+vel3 > li {list-style-type:lower-roman;}blockquote {padding:0 12p=
+x;padding:0 0.75rem;}blockquote > :first-child {margin-top:0;}blo=
+ckquote > :last-child {margin-bottom:0;}img {border:0;max-width:1=
+00%;height:auto !important;margin:2px 0;}table {border-collapse:c=
+ollapse;border:1px solid #bbbbbb;}td, th {padding:4px 8px;border-=
+collapse:collapse;border:1px solid #bbbbbb;min-height:28px;word-b=
+reak:break-all;box-sizing: border-box;}.wiz-hide {display:none !i=
+mportant;}</style></head>=0A=0A<body class spellcheck=3D"false"><=
+div>=B0=B2=D7=B0 python -m &nbsp;pip install --upgrade https://st=
+orage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.0rc0-cp2=
+7-none-linux_x86_64.whl --proxy <a href=3D"http://zhengzhl:sdf345=
+@192.168.13.19:7777">http://zhengzhl:sdf345@192.168.13.19:7777</a=
+></div><div>:<br></div><div>http://www.deeplearningbook.org/</div=
+><div><a href=3D"http://cs224d.stanford.edu/syllabus.html">http:/=
+/cs224d.stanford.edu/syllabus.html</a></div><div> <br></div><div>=
+<br></div><div>=B6=A8=D2=E5=D5=BC=CE=BB</div><div>x=3Dtf.placehol=
+der(tf.float32,shape=3D(3,2),name=3D'input')<br></div><div>w1 =3D=
+ tf.Variable(tf.random_normal([2,3],stddev=3D1,seed=3D1))<br></di=
+v><div>=B1=E4=C1=BF=B3=F5=CA=BC=BB=AF</div><div>init_top =3D tf.i=
+nitialize_all_variables()<br></div><div>sess.run(init_top)<br></d=
+iv><div>=B4=AB=C8=EB=D5=BC=CE=BB=D6=B5</div><div>print (sess.run(=
+y,feed_dict=3D{x:[[0.7,0.9],[0.1,0.4],[0.5,0.8]]}))<br></div><div=
+>=CF=DE=B6=A8=B7=B6=CE=A7 tf.clip_by_value(y,1e-10,1.0)<br></div>=
+<div><br></div><h3>=BD=BB=B2=E6=EC=D8=CB=F0=CA=A7=BA=AF=CA=FD<br>=
+</h3><div><span><span data-wiz-span=3D"data-wiz-span">s</span></s=
+pan><span style=3D"font-size: 0.833rem; color: windowtext; font-f=
+amily: 'Courier New';"></span><span><span data-wiz-span=3D"data-w=
+iz-span">oftmax=D7=F7=D3=C3=CA=C7=C8=C3=CB=F9=D3=D0=B5=C4=B8=C5=C2=
+=CA=BA=CD=CE=AA1=A3=BA y</span></span><span><span data-wiz-span=3D=
+"data-wiz-span">&nbsp;=3D&nbsp;tf.nn.softmax(tf.matmul(x,&nbsp;W)=
+&nbsp;+&nbsp;b)</span></span><br></div><div>cross_entropy =3D -tf=
+.reduce_mean(<span style=3D"color: inherit; font-size: 1rem; line=
+-height: 1.6;">y_*tf.log(tf.clip_by_value(y,1e-10,1.0)))</span></=
+div><div><span style=3D"line-height: 1.6;"><span><span data-wiz-s=
+pan=3D"data-wiz-span">cross_entropy2</span></span></span><span st=
+yle=3D"color: inherit; font-size: 1rem; line-height: 1.6;"><span=20=
+style=3D"font-size:0.833rem;color:WindowText;font-family:'Courier=
+ New';"></span></span><span style=3D"line-height: 1.6;"><span><sp=
+an data-wiz-span=3D"data-wiz-span">&nbsp;=3D&nbsp;tf.reduce_mean(=
+-tf.reduce_sum(y_&nbsp;*&nbsp;tf.log(y),&nbsp;reduction_indices=3D=
+[</span></span></span><span style=3D"color: inherit; font-size: 1=
+rem; line-height: 1.6;"><span style=3D"font-size:0.833rem;color:W=
+indowText;font-family:'Courier New';"><span style=3D"color: rgb(1=
+28, 0, 0);"></span></span></span><span style=3D"line-height: 1.6;=
+"><span><span><span data-wiz-span=3D"data-wiz-span">1</span></spa=
+n></span></span><span style=3D"color: inherit; font-size: 1rem; l=
+ine-height: 1.6;"><span style=3D"font-size:0.833rem;color:WindowT=
+ext;font-family:'Courier New';"></span></span><span style=3D"line=
+-height: 1.6;"><span><span data-wiz-span=3D"data-wiz-span">]))</s=
+pan></span></span><span style=3D"color: inherit; font-size: 1rem;=
+ line-height: 1.6;"><br></span></div><div><span style=3D"color: i=
+nherit; font-size: 1rem; line-height: 1.6;">=B6=E0=B7=D6=C0=E0=CE=
+=CA=CC=E2=CA=CA=BA=CFsoftmax+cross_entrpy=A3=AC=B7=D6=C0=E0=CE=CA=
+=CC=E2=BD=BB=B2=E6=B5=D5=BE=CD=CA=C7=CB=F0=CA=A7=BA=AF=CA=FD<br><=
+/span></div><div><span style=3D"color: inherit; font-size: 1rem;=20=
+line-height: 1.6;"><span style=3D"font-size: 0.833rem; color: win=
+dowtext;"><span data-wiz-span=3D"data-wiz-span" style=3D"font-siz=
+e: 1rem; color: inherit;">y2</span></span></span><span style=3D"c=
+olor: inherit; font-size: 1rem; line-height: 1.6;"><span style=3D=
+"font-size:0.833rem;color:WindowText;font-family:'Courier New';">=
+</span></span><span style=3D"color: inherit; font-size: 1rem; lin=
+e-height: 1.6;"><span style=3D"font-size: 0.833rem; color: window=
+text;"><span data-wiz-span=3D"data-wiz-span" style=3D"font-size:=20=
+1rem; color: inherit;">=3Dtf.matmul(x,&nbsp;W)&nbsp;+&nbsp;b</spa=
+n></span></span><span style=3D"color: inherit; font-size: 1rem; l=
+ine-height: 1.6;"><br></span></div><div><span style=3D"color: inh=
+erit; font-size: 1rem; line-height: 1.6;"><span data-wiz-span=3D"=
+data-wiz-span" style=3D"font-size: 1rem; color: inherit;">cross_e=
+ntropy3 =3D&nbsp;</span></span><span style=3D"color: inherit; fon=
+t-size: 1rem; line-height: 1.6;"><span style=3D"font-size: 0.833r=
+em; color: windowtext; font-family: 'Courier New';"></span></span=
+><span style=3D"color: inherit; font-size: 1rem; line-height: 1.6=
+;"><span style=3D"font-size: 0.833rem; color: windowtext;"><span=20=
+data-wiz-span=3D"data-wiz-span" style=3D"font-size: 1rem; color:=20=
+inherit;">tf</span></span></span><span style=3D"color: inherit; f=
+ont-size: 1rem; line-height: 1.6;"><span style=3D"font-size: 0.83=
+3rem; color: windowtext; font-family: 'Courier New';"><span></spa=
+n></span></span><span style=3D"color: inherit; font-size: 1rem; l=
+ine-height: 1.6;"><span style=3D"font-size: 0.833rem; color: wind=
+owtext;"><span><span data-wiz-span=3D"data-wiz-span" style=3D"fon=
+t-size: 1rem; color: inherit;">.reduce_sum(</span></span></span><=
+/span><span style=3D"color: inherit; font-size: 1rem; line-height=
+: 1.6;"><span style=3D"font-size: 0.833rem; color: windowtext; fo=
+nt-family: 'Courier New';"></span></span><span style=3D"color: in=
+herit; font-size: 1rem; line-height: 1.6;"><span style=3D"font-si=
+ze: 0.833rem; color: windowtext;"><span data-wiz-span=3D"data-wiz=
+-span" style=3D"font-size: 1rem; color: inherit;">tf</span></span=
+></span><span style=3D"color: inherit; font-size: 1rem; line-heig=
+ht: 1.6;"><span style=3D"font-size: 0.833rem; color: windowtext;=20=
+font-family: 'Courier New';"><span></span></span></span><span sty=
+le=3D"color: inherit; font-size: 1rem; line-height: 1.6;"><span s=
+tyle=3D"font-size: 0.833rem; color: windowtext;"><span><span data=
+-wiz-span=3D"data-wiz-span" style=3D"font-size: 1rem; color: inhe=
+rit;">.nn.softmax_cross_</span></span></span></span><span style=3D=
+"color: inherit; font-size: 1rem; line-height: 1.6;"><span style=3D=
+"font-size: 0.833rem; color: windowtext;"><span></span></span></s=
+pan><span style=3D"color: inherit; font-size: 1rem; line-height:=20=
+1.6;"><span style=3D"font-size:0.833rem;color:WindowText;font-fam=
+ily:'Courier New';"><span></span></span></span><span style=3D"col=
+or: inherit; font-size: 1rem; line-height: 1.6;"><span style=3D"f=
+ont-size: 0.833rem; color: windowtext;"><span><span data-wiz-span=
+=3D"data-wiz-span" style=3D"font-size: 1rem; color: inherit;">ent=
+ropy_with_logits(labels=3Dy_,&nbsp;logits=3Dy2))</span></span></s=
+pan></span><span style=3D"color: inherit; font-size: 1rem; line-h=
+eight: 1.6;"><br></span></div><div>=B6=D4=D3=DA=BB=D8=B9=E9=CE=CA=
+=CC=E2=A3=AC=D7=EE=B3=A3=D3=C3=B5=C4=CB=F0=CA=A7=BA=AF=CA=FD=CA=C7=
+=BE=F9=B7=BD=CE=F3=B2=EE=A3=A8MSE=A3=A9</div><div>mse =3D tf.redu=
+ce_mean(tf.square(y_-y))<br></div><div>=D7=D4=B6=A8=D2=E5=CB=F0=CA=
+=A7=BA=AF=CA=FD+L2=D5=FD=D4=F2=BB=AF=CB=F0=CA=A7=A3=AC0.5=CA=C7la=
+mada=B2=CE=CA=FD<br></div><div>loss =3D tf.reduce_sum(tf.select(t=
+f.greater(y,y_),<span style=3D"color: inherit; font-size: 1rem; l=
+ine-height: 1.6;">(y-y_)*loss_more,(y_-y)*loss_less))</span></div=
+><div><span style=3D"color: inherit; font-size: 1rem; line-height=
+: 1.6;">&nbsp; &nbsp;&nbsp;</span><span style=3D"color: inherit;=20=
+font-size: 1rem; line-height: 1.6;">&nbsp; &nbsp;&nbsp;</span><sp=
+an style=3D"color: inherit; font-size: 1rem; line-height: 1.6;">&=
+nbsp; &nbsp;&nbsp;</span><span style=3D"color: inherit; font-size=
+: 1rem; line-height: 1.6;">+tf.contrib.layers.l2_regularizer(0.5)=
+(w1)</span></div><h3>=C9=F1=BE=AD=CD=F8=C2=E7=D3=C5=BB=AF</h3><di=
+v>=D5=FD=D4=F2=BB=AF=CB=F0=CA=A7=BC=D3=C8=EB=C3=FB=B3=C6=CE=AA'lo=
+sses'=B5=C4=BC=AF=BA=CF=C0=EF<br></div><div>tf.add_to_collection(=
+'losses',tf.contrib.layers.l2_regularizer(0.0001)(w))<br></div><d=
+iv>=BC=C6=CB=E3=C7=B0=CF=F2=B4=AB=B2=A5=BD=DA=B5=E3=A3=AC=CA=B9=D3=
+=C3RELU=BC=A4=BB=EE=BA=AF=CA=FD<br></div><div>cur_layer =3D tf.nn=
+.relu(tf.matmul(cur_layer,weight)+bias)<br></div><div>=BC=C6=CB=E3=
+=C4=A3=D0=CD=CA=FD=BE=DD=B5=C4=BE=F9=D6=B5=BB=AF=CB=F0=CA=A7=BC=D3=
+=C8=EB=CB=F0=CA=A7=BC=AF=BA=CF<br></div><div>mse_loss =3D tf.redu=
+ce_mean(tf.square(y_-cur_layer))<br></div><div><br></div><div>#=D1=
+=A7=CF=B0=C2=CA=B5=C4=C9=E8=D6=C3=A3=BA=D6=B8=CA=FD=CB=A5=BC=F5=B7=
+=A8=A3=AC=B2=CE=CA=FD=A3=BA=B3=F5=CA=BC=B2=CE=CA=FD=A3=AC=C8=AB=BE=
+=D6=B2=BD=D6=E8=A3=AC=C3=BF=D1=B5=C1=B7100=C2=D6=B3=CB=D2=D4=CB=A5=
+=BC=F5=CB=D9=B6=C80,96(=B5=B1staircase=3DTrue=B5=C4=CA=B1=BA=F2)<=
+br></div><div>learning_rate =3D tf.train.exponential_decay(LEARNI=
+NG_RATE_BASE,#=BB=F9=B4=A1=B5=C4=D1=A7=CF=B0=C2=CA<br></div><div>=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp;  global_step,#=B5=FC=B4=FA=B5=C4=C2=
+=D6=CA=FD<br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  mnist.tra=
+in.num_examples/BATCH_SIZE,#=C2=D6=CA=FD<br></div><div>&nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp;  LEARNING_RATE_DECAY)#=D1=A7=CF=B0=C2=CA=CB=A5=
+=BC=F5=CB=D9=B6=C8<br></div><div>train_step =3D tf.train.Gradient=
+DescentOptimizer(learning_rate).minimize(loss,global_step=3Dgloba=
+l_step)<br></div><div><br></div><div>#=BB=AC=B6=AF=C6=BD=BE=F9=CB=
+=A5=BC=F5=C2=CA<br></div><div>MOVING_AVERAGE_DECAY =3D 0.99<br></=
+div><div>#=B3=F5=CA=BC=BB=AF=BB=AC=B6=AF=C6=BD=BE=F9=B5=C4=BA=AF=CA=
+=FD=C0=E0=A3=AC=BC=D3=C8=EB=D1=B5=C1=B7=C2=D6=CA=FD=B5=C4=B1=E4=C1=
+=BF=BF=C9=D2=D4=BC=D3=BF=EC=D0=E8=C4=EA=D4=E7=C6=DA=B1=E4=C1=BF=B5=
+=C4=B8=FC=D0=C2=CB=D9=B6=C8<br></div><div>variable_averages =3D t=
+f.train.ExponentialMovingAverage(MOVING_AVERAGE_DECAY,global_step=
+)<br></div><div>#=B6=D4=C9=F1=BE=AD=CD=F8=C2=E7=C0=EF=CB=F9=D3=D0=
+=BF=C9=D1=B5=C1=B7=B2=CE=CA=FD=A3=A8=C1=D0=B1=ED=A3=A9=D3=A6=D3=C3=
+=BB=AC=B6=AF=C6=BD=BE=F9=C4=A3=D0=CD=A3=AC=C3=BF=B4=CE=BD=F8=D0=D0=
+=D5=E2=B8=F6=B2=D9=D7=F7=A3=AC=C1=D0=B1=ED=C0=EF=B5=C4=D4=AA=CB=D8=
+=B6=BC=BB=E1=B5=C3=B5=BD=B8=FC=D0=C2<br></div><div>variable_avera=
+ges_op =3D variable_averages.apply(tf.trainable_variables())<br><=
+/div><div><br></div><div>average_y =3D inference(x,variable_avera=
+ges,reuse=3DTrue)<br></div><div>#=D4=DA=D1=B5=C1=B7=C9=F1=BE=AD=CD=
+=F8=C2=E7=C4=A3=D0=CD=B5=C4=CA=B1=BA=F2=A3=AC=C3=BF=B9=FD=D2=BB=B1=
+=DF=CA=FD=BE=DD=BC=C8=D0=E8=D2=AA=CD=A8=B9=FD=B7=B4=CF=F2=B4=AB=B2=
+=A5=B8=FC=D0=C2=CD=F8=C2=E7=B5=C4=B2=CE=CA=FD<br></div><div>&nbsp=
+; &nbsp; #=D3=D6=D0=E8=D2=AA=B8=FC=D0=C2=C3=BF=D2=BB=B8=F6=B2=CE=CA=
+=FD=B5=C4=BB=AC=B6=AF=C6=BD=BE=F9=D6=B5=A1=A3=CE=AA=C1=CB=D2=BB=B4=
+=CE=CD=EA=B3=C9=B6=E0=D6=D6=B2=D9=D7=F7=A3=ACtensroflow=CC=E1=B9=A9=
+=C1=CB=C1=BD=D6=D6=BB=FA=D6=C6=A1=A3<br></div><div>&nbsp; &nbsp;=20=
+#=CF=C2=C3=E6=B5=C4=C1=BD=D0=D0=B3=CC=D0=F2=BA=CD=A3=BAtrain_op =3D=
+ tf.group(train_step,variables_average_op)=B5=C8=BC=DB<br></div><=
+div>&nbsp; &nbsp; with tf.control_dependencies([train_step,variab=
+le_averages_op]):<br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; train=
+_op =3D tf.no_op(name=3D'train')<br></div><div><br></div><div>=C8=
+=A1=D7=EE=B4=F3=D6=B5=B5=C4=CF=C2=B1=EA tf.argmax(average_y,1)<br=
+></div><div>=C7=F3=D7=BC=C8=B7=C2=CA&nbsp;correct_prediction =3D=20=
+tf.equal(tf.argmax(average_y,1),tf.argmax(y_,1))</div><div>accura=
+cy =3D tf.reduce_mean(tf.cast(correct_prediction,tf.float32))<br>=
+</div><h3>=B1=E4=C1=BF=B1=A3=B4=E6=BA=CD=B6=C1=C8=A1</h3><div>=B1=
+=A3=B4=E6=B1=E4=C1=BF</div><div>v =3D tf.Variable(2,dtype=3Dtf.fl=
+oat32,name=3D"v")<br></div><div>saver =3D tf.train.Saver()<br></d=
+iv><div>saver.save(sess,'model/model.ckpt')<br></div><div>=BB=F2=D5=
+=DF</div><div>saver.save(sess,os.path.join(MODEL_SAVE_PATH,MODEL_=
+NAME),global_step=3Dglobal_step) <br></div><div>=B6=C1=C8=A1=B1=E4=
+=C1=BF</div><div>v =3D tf.Variable(3,dtype=3Dtf.float32,name=3D"v=
+")<br></div><div>saver =3D tf.train.Saver()<br></div><div>saver.r=
+estore(sess,'./model/model.ckpt')<br></div><div>=BB=F2=D5=DF=A3=BA=
+</div><div>ckpt =3D tf.train.get_checkpoint_state(MODEL_SAVE_PATH=
+)<br></div><div>if ckpt and ckpt.model_checkpoint_path:<br></div>=
+<div>&nbsp; &nbsp;&nbsp;saver.restore(sess,ckpt.model_checkpoint_=
+path)<br></div><div>print sess.run(v) &nbsp;#=B4=F2=D3=A1=B5=C4=CA=
+=C72=B2=BB=CA=C7=C8=FD<br></div><h3>=CF=F2=C1=BF=B2=D9=D7=F7</h3>=
+<div>reshape_xv =3D np.reshape(xv,(leNet5_train.BATCH_SIZE,<br></=
+div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n=
+bsp; &nbsp; &nbsp; leNet5_inference.IMAGE_SIZE,<br></div><div>&nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp=
+; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=20=
+&nbsp; leNet5_inference.IMAGE_SIZE,<br></div><div>&nbsp; &nbsp; &=
+nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; leNet=
+5_inference.NUM_CHANNELS))<br></div><div>=CF=D4=CA=BE=CF=F2=C1=BF=
+=CE=AC=B6=C8 print (tf.convert_to_tensor(reshape_xv).get_shape().=
+as_list())<br></div><h3>=BE=ED=BB=FD=C9=F1=BE=AD=CD=F8=C2=E7</h3>=
+<div>=BE=ED=BB=FD=B2=E3=A3=BA</div><div>conv1 =3D tf.nn.conv2d(in=
+put_tensor,conv1_weights,strides=3D[1,1,1,1],padding=3D'SAME')<br=
+></div><div>relu1 =3D tf.nn.relu(tf.nn.bias_add(conv1,conv1_biase=
+s))<br></div><div>=B3=D8=BB=AF=B2=E3=A3=BA</div><div>pool1 =3D tf=
+.nn.max_pool(relu1,ksize=3D[1,2,2,1],strides=3D[1,2,2,1],padding=3D=
+'SAME')<br></div><div>=C8=AB=C1=AC=BD=D3=B2=E3=A3=BA</div><div>fc=
+1 =3D tf.nn.relu(tf.matmul(reshaped,fc1_weights)+fc1_bias)<br></d=
+iv><div>=B7=C0=D6=B9=B9=FD=C4=E2=BA=CF=A3=BA</div><div>if train:<=
+br></div><div>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; fc1 =3D t=
+f.nn.dropout(fc1,0.5)<br></div><h3>=CD=BC=CF=F1=B4=A6=C0=ED</h3><=
+div><br></div><div><br></div><h3>RNN</h3><div>&nbsp;=B6=A8=D2=E5l=
+stm=C4=A3=D0=CD</div><div>&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;l=
+stm_cell =3D tf.contrib.rnn.BasicLSTMCell(HIDDEN_SIZE)<br></div><=
+div>&nbsp; &nbsp; &nbsp; &nbsp; if is_training:<br></div><div>&nb=
+sp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; lstm_cell =3D tf.contrib.r=
+nn.DropoutWrapper(lstm_cell, output_keep_prob=3DKEEP_PROB)<br></d=
+iv><div>&nbsp; &nbsp; &nbsp; &nbsp; cell =3D tf.contrib.rnn.Multi=
+RNNCell([lstm_cell]*NUM_LAYERS)&nbsp; &nbsp;&nbsp;</div><div>embe=
+dding =3D tf.get_variable("embedding", [VOCAB_SIZE, HIDDEN_SIZE])=
+<br></div><div><br></div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000190750.624--
+
+------=_Next_Part_0000572250.695--
+

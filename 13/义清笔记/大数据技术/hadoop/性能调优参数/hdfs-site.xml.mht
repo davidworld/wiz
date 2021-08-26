@@ -1,0 +1,373 @@
+From: WizMime<support@wiz.cn>
+Subject: =?gb2312?B?aGRmcy1zaXRlLnhtbA==?=
+Date: Date: Fri, 23 Jul 2021 05:51:03 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="multipart/alternative";
+	boundary="----=_Next_Part_0000629388.452"
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000629388.452
+Content-Type: multipart/alternative;
+	boundary="----=_Next_Part_0000209796.008"
+
+
+------=_Next_Part_0000209796.008
+Content-Type: text/plain;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+This is a multi-part message in MIME format.
+
+------=_Next_Part_0000209796.008
+Content-Type: text/html;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+
+<!doctype html>=0A<html><head>=0D=0A<meta http-equiv=3D"Content-T=
+ype" content=3D"text/html; charset=3Dgb2312">=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A<meta http-equiv=3D"X-UA-Compatible" content=
+=3D"IE=3D8"/>=0A=0A=0A<title>hdfs-site.xml</title>=0A=0A=0A=0A=0A=
+<style type=3D"text/css" id=3D"wiz_todo_style_id" wiz_link_versio=
+n=3D"01.00.09">.wiz-todo, .wiz-todo-img {width: 16px; height: 16p=
+x; cursor: default; padding: 0 10px 0 2px; vertical-align: -10%;-=
+webkit-user-select: none;} .wiz-todo-label { display: inline-bloc=
+k; padding-top: 7px; padding-bottom: 6px; line-height: 1.5;} .wiz=
+-todo-label-checked {  color: #666;} .wiz-todo-label-unchecked {t=
+ext-decoration: initial;} .wiz-todo-completed-info {padding-left:=
+ 44px; display: inline-block; } .wiz-todo-avatar { width:20px; he=
+ight: 20px; vertical-align: -20%; margin-right:10px; border-radiu=
+s: 2px;} .wiz-todo-account, .wiz-todo-dt { color: #666; }</style>=
+=0A<style type=3D"text/css" id=3D"wiz_custom_css">=0Abody=0A{=0A=20=
+   font-family: Arial;=0A    font-size: 10.5pt;=0A    line-height=
+: 1.5;=0A}=0Ahtml, body=0A{=0A    color: ;=0A    background-color=
+: ;=0A}=0Ah1 {=0A    font-size:1.5em;=0A    font-weight:bold;=0A}=
+=0Ah2 {=0A    font-size:1.4em;=0A    font-weight:bold;=0A}=0Ah3 {=
+=0A    font-size:1.3em;=0A    font-weight:bold;=0A}=0Ah4 {=0A   =20=
+font-size:1.2em;=0A    font-weight:bold;=0A}=0Ah5 {=0A    font-si=
+ze:1.1em;=0A    font-weight:bold;=0A}=0Ah6 {=0A    font-size:1.0e=
+m;=0A    font-weight:bold;=0A}=0Aimg {=0A    border:0;=0A    max-=
+width: 100%;=0A    height: auto !important;=0A}=0Ablockquote {=0A=
+    margin-top:0px;=0A    margin-bottom:0px;=0A}=0Atable {=0A   =20=
+border-collapse:collapse;=0A    border:1px solid #bbbbbb;=0A}=0At=
+d {=0A    border-collapse:collapse;=0A    border:1px solid #bbbbb=
+b;=0A}=0A</style>=0A</head>=0A=0A<body style><div><h3><b>=CF=B5=CD=
+=B3=C5=E4=D6=C3</b></h3><div>Swap&nbsp;turned&nbsp;off=A3=A8=B9=D8=
+=B1=D5=A3=A9</div><div><b><i>root# sysctl -w vm.swappiness=3D0</i=
+></b><br></div><div><b><i>root# echo "vm.swappiness =3D 0" &gt;&g=
+t; /etc/sysctl.conf</i></b></div><div><b><i><br></i></b></div><di=
+v><span style=3D"font-weight: normal;">max user processes &amp;&n=
+bsp;open files limit</span></div><div><b><i>root#&nbsp;<span styl=
+e=3D"font-size: 10.5pt; line-height: 1.5;">vi /etc/security/limit=
+s.conf&nbsp;</span></i></b><span style=3D"font-weight: normal;"><=
+br></span></div><div><div style=3D"font-size: 10.5pt; line-height=
+: 1.5;">ffcs &nbsp;soft &nbsp; &nbsp;nproc &nbsp; 30720</div><div=
+ style=3D"font-size: 10.5pt; line-height: 1.5;">ffcs &nbsp;hard &=
+nbsp; nproc &nbsp; &nbsp;30720</div><div style=3D"font-size: 10.5=
+pt; line-height: 1.5;">ffcs &nbsp;soft nofile &nbsp; &nbsp; 10240=
+00</div><div style=3D"font-size: 10.5pt; line-height: 1.5;">ffcs=20=
+&nbsp; hard nofile &nbsp; &nbsp;1024000</div><div><b><i>root# ech=
+o "session required pam_limits.so" &gt;&gt; /etc/pam.d/common-ses=
+sion</i></b><br></div></div><div><b><i><br></i></b></div><div><b>=
+<i><br></i></b></div><div><br></div><h3><b>HDFS=C5=E4=D6=C3=B2=CE=
+=CA=FD=B5=F7=D3=C5</b></h3><div><b style=3D"font-size: 10.5pt; li=
+ne-height: 1.5;">hadoop-env.sh</b><br></div><div><span style=3D"f=
+ont-size: 10.5pt; line-height: 1.5;">HADOOP_OPTS=B6=BC=D4=F6=BC=D3=
+=C1=CB-XX:+UseConcMarkSweepGC=A1=A3 JDK=B5=C4=CE=C4=B5=B5=D6=D0=CD=
+=C6=BC=F6=CF=D6=B4=FA=B6=E0=BA=CB=B4=A6=C0=ED=C6=F7=CF=B5=CD=B3=A3=
+=AC=B2=C9=D3=C3=D5=E2=D6=D6GC=B7=BD=CA=BD=A3=AC=BF=C9=D2=D4=B3=E4=
+=B7=D6=C0=FB=D3=C3CPU=B5=C4=B2=A2=B7=A2=C4=DC=C1=A6=A1=A3</span><=
+br></div><div><p>=D5=E2=B8=F6=B8=C4=B6=AF=B6=D4=D0=D4=C4=DC=B5=C4=
+=BB=FD=BC=AB=D3=B0=CF=EC=BA=DC=B4=F3</p></div></div><div><b>core-=
+site.xml</b></div><div><b>&nbsp;</b><span style=3D"font-size: 10.=
+5pt; line-height: 1.5;">=B2=E9=BF=B4=A3=BA</span><span style=3D"f=
+ont-size: 10.5pt; line-height: 1.5;">hdfs getconf -confKey&nbsp;<=
+/span>fs.trash.interval<span style=3D"font-size: 10.5pt; line-hei=
+ght: 1.5;">&nbsp; =C4=AC=C8=CF=D6=B5=A3=BA0</span></div><div><div=
+>&nbsp;&lt;property&gt;</div><div>&nbsp; &nbsp; &lt;name&gt;fs.tr=
+ash.interval&lt;/name&gt;</div><div>&nbsp; &nbsp; &lt;value&gt;14=
+40&lt;/value&gt;</div><div>&nbsp; &lt;/property&gt;</div></div><d=
+iv>=CB=B5=C3=F7=A3=BA</div><div>=D5=E2=B8=F6=CA=C7=BF=AA=C6=F4hdf=
+s=CE=C4=BC=FE=C9=BE=B3=FD=D7=D4=B6=AF=D7=AA=D2=C6=B5=BD=C0=AC=BB=F8=
+=CF=E4=B5=C4=D1=A1=CF=EE=A3=AC=D6=B5=CE=AA=C0=AC=BB=F8=CF=E4=CE=C4=
+=BC=FE=C7=E5=B3=FD=CA=B1=BC=E4=A1=A3=D2=BB=B0=E3=BF=AA=C6=F4=D5=E2=
+=B8=F6=BB=E1=B1=C8=BD=CF=BA=C3=A3=AC=D2=D4=B7=C0=B4=ED=CE=F3=C9=BE=
+=B3=FD=D6=D8=D2=AA=CE=C4=BC=FE=A1=A3=B5=A5=CE=BB=CA=C7=B7=D6=D6=D3=
+=A1=A3<br></div><div><br></div><div><div><span style=3D"font-size=
+: 10.5pt; line-height: 1.5;">=B2=E9=BF=B4=A3=BA</span><span style=
+=3D"font-size: 10.5pt; line-height: 1.5;">hdfs getconf -confKey&n=
+bsp;</span>fs.trash.checkpoint.interval<span style=3D"font-size:=20=
+10.5pt; line-height: 1.5;">&nbsp; =C4=AC=C8=CF=D6=B5=A3=BA0</span=
+></div><div><div>&nbsp;&lt;property&gt;</div><div>&nbsp; &nbsp; &=
+lt;name&gt;fs.trash.interval&lt;/name&gt;</div><div>&nbsp; &nbsp;=
+ &lt;value&gt;90&lt;/value&gt;</div><div>&nbsp; &lt;/property&gt;=
+</div></div><div>=CB=B5=C3=F7=A3=BA</div><div>=B1=ED=CA=BE=BB=D8=CA=
+=D5=D5=BE=BC=EC=B2=E9=B5=E3=B5=C4=BC=E4=B8=F4=CA=B1=BC=E4=A3=AC=B5=
+=A5=CE=BB=D2=B2=CA=C7=B7=D6=D6=D3=A3=AC=D6=BB=C4=DC=D4=DA=B7=FE=CE=
+=F1=B6=CB=C9=E8=D6=C3=A1=A3=D5=E2=B8=F6=B2=CE=CA=FD=C4=AC=C8=CF=CA=
+=C70=A3=AC=BE=CD=B5=C8=D3=DAfs.trash.interval=A1=A3<br></div></di=
+v><div><br></div><div><br></div><div><div>=B2=E9=BF=B4=A3=BA<span=
+ style=3D"font-size: 10.5pt; line-height: 1.5;">hdfs getconf -con=
+fKey&nbsp;</span>fs.checkpoint.period<span style=3D"font-size: 10=
+.5pt; line-height: 1.5;">&nbsp; &nbsp; =C4=AC=C8=CF=D6=B5=A3=BA36=
+00</span></div><div><span style=3D"font-size: 10.5pt; line-height=
+: 1.5;">&nbsp; &lt;property&gt;</span><br></div><div><div>&nbsp;=20=
+&nbsp; &lt;name&gt;fs.checkpoint.period&lt;/name&gt;</div><div>&n=
+bsp; &nbsp; &lt;value&gt;1800&lt;/value&gt;</div><div>&nbsp; &lt;=
+/property&gt;</div></div><div>=CB=B5=C3=F7=A3=BA</div>=BF=D8=D6=C6=
+ secondary namenode =B5=C4 checkpoint =CA=B1=BC=E4=BC=E4=B8=F4=A1=
+=A3=C8=E7=B9=FB=BE=E0=C0=EB=C9=CF=B4=CE checkpoint =B5=C4=CA=B1=BC=
+=E4=B4=F3=D3=DA=D5=E2=B8=F6=B2=CE=CA=FD=B5=C4=C9=E8=B6=A8=A3=AC=BE=
+=CD=BB=E1=B4=A5=B7=A2 checkpoint=A1=A3secondary namenode =95=FE=B0=
+=D1 namenode =B5=C4 fsimage =BA=CD editlog =D7=F6 snapshot=A1=A3=C8=
+=E7=B9=FB=B4=E6=C8=A1 Hadoop =B5=C4=B4=CE=CA=FD=C6=B5=B7=B1=BB=F2=
+=CE=AA=C1=CB=9Cp=C9=D9=D6=D8=C6=F0 namenode =B5=C4 downtime=A3=AC=
+=BF=C9=D2=D4=B0=D1=DF@=B8=F6=D6=B5=C9=E8=D0=A1=D2=BB=B5=E3=A1=A3<=
+div><br></div><div>=B2=E9=BF=B4=A3=BA<span style=3D"font-size: 10=
+.5pt; line-height: 1.5;">hdfs getconf -confKey&nbsp;</span>fs.che=
+ckpoint.size<span style=3D"font-size: 10.5pt; line-height: 1.5;">=
+&nbsp; &nbsp;</span><br></div><div>&nbsp;&nbsp;<span style=3D"fon=
+t-size: 10.5pt; line-height: 1.5;">&lt;property&gt;</span></div><=
+div>&nbsp; &nbsp; &lt;name&gt;&nbsp;fs.checkpoint.size&lt;/name&g=
+t;</div><div>&nbsp; &nbsp; &lt;value&gt;134217728&lt;/value&gt;</=
+div><div>&nbsp; &lt;/property&gt;</div><div>=CB=B5=C3=F7=A3=BA</d=
+iv><div>=C8=E7=B9=FB Hadoop =B7=C7=B3=A3=B5=C4=C3=A6=C2=B5=A3=ACe=
+ditlog =BF=C9=C4=DC=BB=E1=D4=DA=B6=CC=CA=B1=BC=E4=83=C8=B1=E4=B5=C4=
+=BA=DC=B4=F3=A3=ACfs.checkpoint.period =B5=C4=C9=E8=B6=A8=B2=BB=BC=
+=FB=B5=C3=BF=C9=D2=D4=CD=EA=C8=AB=D4=A4=B2=E2=D5=E2=B8=F6=D7=B4=BF=
+=F6=A3=AC=CB=F9=D2=D4=B1=A3=CF=D5=B5=C4=D7=F6=B7=A8=BB=E1=B6=E0=C9=
+=E8=B6=A8=D5=E2=B8=F6=D6=B5=A3=AC=D2=D4=B1=A3=D6=A4=B5=B1=CA=FD=BE=
+=DD=B4=F3=B5=BD=B3=AC=B9=FD fs.checkpoint.size =B5=C4=D6=B5=D2=B2=
+=BB=E1=B4=A5=B7=A2 checkpoint=A1=A3</div><div><br></div><div><div=
+>=B2=E9=BF=B4=A3=BA<span style=3D"font-size: 10.5pt; line-height:=
+ 1.5;">hdfs getconf -confKey&nbsp;</span><span style=3D"font-size=
+: 10.5pt; line-height: 1.5;">io.file.buffer.size &nbsp; =C4=AC=C8=
+=CF=D6=B5=A3=BA</span><span style=3D"font-size: 10.5pt; line-heig=
+ht: 1.5;">4096=A3=A84KB=A3=A9</span></div><div>&nbsp;&nbsp;<span=20=
+style=3D"font-size: 10.5pt; line-height: 1.5;">&lt;property&gt;</=
+span></div><div>&nbsp; &nbsp; &lt;name&gt;io.file.buffer.size&lt;=
+/name&gt;</div><div>&nbsp; &nbsp; &lt;value&gt;131072&lt;/value&g=
+t;</div><div>&nbsp; &lt;/property&gt;</div></div><div><br></div><=
+div>=CB=B5=C3=F7=A3=BA</div><div>=DF@=CA=C7=B6=C1=D0=B4 sequence=20=
+file =B5=C4 buffer size, =BF=C9=BC=F5=C9=D9 I/O =B4=CE=CA=FD=A1=A3=
+=D4=DA=B4=F3=D0=CD=B5=C4 Hadoop cluster=A3=AC=BD=A8=D2=E9=BF=C9=C9=
+=E8=B6=A8=CE=AA 65536 =B5=BD 131072<br></div><div><br></div><div>=
+=B2=E9=BF=B4=A3=BA<span style=3D"font-size: 10.5pt; line-height:=20=
+1.5;">hdfs getconf -confKey&nbsp;</span><span style=3D"font-size:=
+ 10.5pt; line-height: 1.5;">ipc.client.connection.maxidletime &nb=
+sp; &nbsp; =C4=AC=C8=CF=D6=B5=A3=BA</span><span style=3D"font-siz=
+e: 10.5pt; line-height: 1.5;">10000(=BA=C1=C3=EB)</span></div><di=
+v><span style=3D"font-size: 10.5pt; line-height: 1.5;">&nbsp;</sp=
+an><span style=3D"font-size: 10.5pt; line-height: 1.5;">&nbsp;</s=
+pan><span style=3D"font-size: 10.5pt; line-height: 1.5;">&lt;prop=
+erty&gt;</span></div><div>&nbsp; &nbsp; &lt;name&gt;ipc.client.co=
+nnection.maxidletime&lt;/name&gt;</div><div>&nbsp; &nbsp; &lt;val=
+ue&gt;60000&lt;/value&gt;</div><div>&nbsp; &lt;/property&gt;</div=
+><div>=CB=B5=C3=F7=A3=BA<br></div><div>=C9=E8=B6=A8 Hadoop client=
+ =C1=AC=BD=D3=95r=D7=EE=B4=F3=B5=C4=CF=D0=D6=C3=A3=AC=C4=AC=C8=CF=
+=CA=C7=CA=C7 10 =C3=EB=A1=A3=C8=E7=B9=FB Hadoop cluster =B5=C4=CD=
+=F8=C2=E7=C1=AA=CF=B5=B2=BB=CE=C8=A3=AC=BF=C9=D2=D4=B0=D1=D5=E2=B8=
+=F6=D6=B5=C9=E8=B5=BD 60000(60=C3=EB) &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp;&nbsp;</div></div><b><div><b><br></b></div><div><b>=
+<br></b></div>hdfs-site.xml =A3=A8=D7=B7=BC=D3=B2=CE=CA=FD=A3=A9<=
+/b><div><b><br></b></div><div><div>=B2=E9=BF=B4=A3=BAhdfs getconf=
+ -confKey<b>&nbsp;</b>dfs.block.size<span style=3D"font-size: 10.=
+5pt; line-height: 1.5;">&nbsp; =C4=AC=C8=CF=D6=B5=A3=BA</span><sp=
+an style=3D"font-size: 10.5pt; line-height: 1.5;">67108864</span>=
+</div><div><b><br></b><div><div>&nbsp; &lt;property&gt;</div><div=
+>&nbsp; &nbsp; &lt;name&gt;dfs.block.size&lt;/name&gt;</div><div>=
+&nbsp; &nbsp; &lt;value&gt;134217728&lt;/value&gt;</div><div>&nbs=
+p; &lt;/property&gt;</div></div></div></div><div><b>=CB=B5=C3=F7=A3=
+=BA</b></div><div>=C4=AC=C8=CF=C3=BF=82=80 block =CA=C7 64MB=A1=A3=
+=C8=E7=B9=FB=B4_=B6=A8=B4=E6=C8=A1=B5=C4=CE=C4=BC=FE=BF=E9=B6=BC=BA=
+=DC=B4=F3=BF=C9=D2=D4=B8=C4=9E=E9 134217728(128MB)=A1=A3Client =D2=
+=B2=BF=C9=D7=D4=D0=D0=BE=F6=B6=A8=D2=AA=CA=B9=D3=C3=B5=C4 block s=
+ize =B6=F8=B2=BB=D0=E8=D2=AA=B8=FC=B8=C4=D5=FB=82=80 cluster =B5=C4=
+=C9=E8=B6=A8=A1=A3 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbs=
+p; &nbsp; &nbsp; &nbsp; &nbsp;<b><br></b><div><b><br></b></div><d=
+iv>=B2=E9=BF=B4=A3=BAhdfs getconf -confKey<b>&nbsp;</b><span styl=
+e=3D"font-size: 10.5pt; line-height: 1.5;">dfs.namenode.handler.c=
+ount &nbsp; =C4=AC=C8=CF=D6=B5=A3=BA10</span></div><div><b><br></=
+b><div><div>&nbsp; &lt;property&gt;</div><div>&nbsp; &nbsp; &lt;n=
+ame&gt;dfs.namenode.handler.count&lt;/name&gt;</div><div>&nbsp; &=
+nbsp; &lt;value&gt;100&lt;/value&gt;</div><div>&nbsp; &lt;/proper=
+ty&gt;</div></div><div>=CB=B5=C3=F7=A3=BA</div><div>=C9=E8=B6=A8=20=
+namenode server threads =B5=C4=CA=FD=C1=BF=A3=AC=D5=E2=D0=A9 thre=
+ads =95=FE=D3=C3 RPC =B8=FA=C6=E4=CB=FB=B5=C4 datanodes =B9=B5=CD=
+=A8=A1=A3=B5=B1 =0Adatanodes =CA=FD=C1=BF=CC=AB=B6=E0=CA=B1=BB=E1=
+=B7=A2=ACF=BA=DC=C8=DD=D2=D7=B3=F6=ACF RPC timeout=A3=AC=BD=E2=9B=
+Q=B7=BD=B7=A8=CA=C7=CC=E1=C9=FD=CD=F8=C2=E7=CB=D9=B6=C8=BB=F2=CC=E1=
+=B8=DF=D5=E2=B8=F6=D6=B5=A3=AC=B5=AB=D2=AA=D7=A2=D2=E2=B5=C4=CA=C7=
+ thread =0A=CA=FD=C1=BF=B6=E0=D2=B2=B1=ED=CA=BE namenode =CF=FB=BA=
+=C4=B5=C4=C4=DA=B4=E6=D2=B2=CB=E6=D7=C5=D4=F6=BC=D3&nbsp;</div><d=
+iv>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;=
+ &nbsp; &nbsp; &nbsp;<br></div><div>=B2=E9=BF=B4=A3=BA&nbsp;hdfs=20=
+getconf -confKey dfs.datanode.handler.count &nbsp; &nbsp; =C4=AC=C8=
+=CF=D6=B5=A3=BA10</div></div><div><br></div><div><div>&nbsp; &lt;=
+property&gt;</div><div>&nbsp; &nbsp; &lt;name&gt;dfs.datanode.han=
+dler.count&lt;/name&gt;</div><div>&nbsp; &nbsp; &lt;value&gt;20&l=
+t;/value&gt;</div><div>&nbsp; &lt;/property&gt;</div></div><div>=CB=
+=B5=C3=F7=A3=BA</div><div>=D6=B8=B6=A8 data node =C9=CF=D3=C3=B5=C4=
+ thread =CA=FD=C1=BF=A1=A3<br></div><div><br></div><div><div>=B2=E9=
+=BF=B4=A3=BA&nbsp;hdfs getconf -confKey dfs.datanode.max.xcievers=
+ &nbsp; =C4=AC=C8=CF=D6=B5=A3=BA256</div><div><br></div><div><div=
+>&nbsp; &lt;property&gt;</div><div>&nbsp; &nbsp; &lt;name&gt;dfs.=
+datanode.max.xcievers<span style=3D"font-size: 10.5pt; line-heigh=
+t: 1.5;">&lt;/name&gt;</span></div><div>&nbsp; &nbsp; &lt;value&g=
+t;<span class=3D"number">131072</span>&lt;/value&gt;</div><div><s=
+pan style=3D"font-size: 10.5pt; line-height: 1.5;">&nbsp; &lt;/pr=
+operty&gt;</span></div></div><div>=CB=B5=C3=F7=A3=BA</div><div>=D5=
+=E2=B8=F6=D6=B5=CA=C7=D6=B8=B6=A8 datanode =BF=C9=CD=AC=95r=B4=A6=
+=C0=ED=B5=C4=D7=EE=B4=F3=CE=C4=BC=FE=CA=FD=C1=BF<br></div><div><b=
+r></div><div>=B2=E9=BF=B4=A3=BA<span style=3D"font-size: 10.5pt;=20=
+line-height: 1.5;">&nbsp;hdfs getconf -confKey</span><span style=3D=
+"font-size: 10.5pt; line-height: 1.5;">&nbsp;&nbsp;</span><span s=
+tyle=3D"font-size: 10.5pt; line-height: 1.5;">dfs.datanode.du.res=
+erved &nbsp;&nbsp;</span><span style=3D"font-size: 10.5pt; line-h=
+eight: 1.5;">=C4=AC=C8=CF=D6=B5=A3=BA0</span></div><div><div>&nbs=
+p; &lt;property&gt;</div><div>&nbsp; &nbsp; &lt;name&gt;dfs.datan=
+ode.du.reserved<span style=3D"font-size: 10.5pt; line-height: 1.5=
+;">&lt;/name&gt;</span></div><div>&nbsp; &nbsp; &lt;value&gt;1073=
+741824&lt;/value&gt;</div><div>&nbsp; &lt;/property&gt;</div></di=
+v><div><br></div><div>=CB=B5=C3=F7=A3=BA</div><div>=C4=AC=C8=CF=D6=
+=B5=B1=ED=CA=BE data nodes =BB=E1=CA=B9=D3=C3=D5=FB=B8=F6 =B4=C5=C5=
+=CC=A3=AC=D0=B4=C2=FA=D6=AE=BA=F3=BB=E1=B5=BC=D6=C2=CE=DE=B7=A8=D4=
+=D9=D0=B4=C8=EB M/R jobs=A1=A3=C8=E7=B9=FB=BB=B9=D3=D0=C6=E4=CB=FB=
+=B3=CC=CA=BD=B9=B2=D3=C3=D5=E2=D0=A9=C4=BF=C2=BC=D2=B2=BB=E1=CA=DC=
+=B5=BD=D3=B0=CF=EC=A1=A3=BD=A8=D2=E9=B1=A3=C1=F4=D6=C1=C9=D9 1073=
+741824(1G) =B5=C4=BF=D5=BC=E4=A1=A3 &nbsp; &nbsp; &nbsp; &nbsp; &=
+nbsp;&nbsp;</div><div><br></div><div><div>=B2=E9=BF=B4=A3=BA<span=
+ style=3D"font-size: 10.5pt; line-height: 1.5;">&nbsp;hdfs getcon=
+f -confKey</span><span style=3D"font-size: 10.5pt; line-height: 1=
+.5;">&nbsp;</span>dfs.balance.bandwidthPerSec<span style=3D"font-=
+size: 10.5pt; line-height: 1.5;">&nbsp;&nbsp;&nbsp;</span><span s=
+tyle=3D"font-size: 10.5pt; line-height: 1.5;">=C4=AC=C8=CF=D6=B5=A3=
+=BA1M</span></div><div><div>&nbsp; &lt;property&gt;</div><div>&nb=
+sp; &nbsp; &lt;name&gt;dfs.balance.bandwidthPerSec<span style=3D"=
+font-size: 10.5pt; line-height: 1.5;">&lt;/name&gt;</span></div><=
+div>&nbsp; &nbsp; &lt;value&gt;20971520&lt;/value&gt;</div><div>&=
+nbsp; &lt;/property&gt;</div></div><div><br></div><div>=CB=B5=C3=F7=
+=A3=BA</div><div>=D4=DA=CD=A8=B9=FDstart-balancer.sh=D7=F6=B8=BA=D4=
+=D8=BE=F9=BA=E2=CA=B1=BF=D8=D6=C6=B4=AB=CA=E4=CE=C4=BC=FE=B5=C4=CB=
+=D9=B6=C8=A3=AC=C4=AC=C8=CF=CE=AA1M/s=A3=AC=BF=C9=C5=E4=D6=C3=CE=AA=
+=BC=B8=CA=AEM/s=A3=AC=B1=C8=C8=E7=A3=BA20M/s &nbsp; &nbsp; &nbsp;=
+ &nbsp;&nbsp;</div></div><div><br></div><div><br></div><div><br><=
+/div><h3>HBase=C5=E4=D6=C3=B2=CE=CA=FD=B5=F7=D3=C5</h3><div><br><=
+/div><div><div><span style=3D"font-size: 10.5pt; line-height: 1.5=
+;">&lt;property&gt;</span><br></div><div><div>&nbsp; &nbsp; &lt;n=
+ame&gt;zookeeper.session.timeout&lt;/name&gt;</div><div>&nbsp; &n=
+bsp; &lt;value&gt;<span class=3D"number">90000</span>&lt;/value&g=
+t;</div><div><span style=3D"font-size: 10.5pt; line-height: 1.5;"=
+>&lt;/property&gt;</span></div></div><div>=CB=B5=C3=F7=A3=BA</div=
+><div><span style=3D"font-size: 10.5pt; line-height: 1.5;">zookee=
+per.session.timeout=D6=B8=B6=A8zk&nbsp;Client=D3=EBzk&nbsp;Server=
+&nbsp;Quorum=D6=AE=BC=E4=B5=C4=BB=E1=BB=B0=B5=C4=D7=EE=B3=A4=CA=B1=
+=0A=BC=E4=A3=ACRegionServerTracker=BC=E0=CC=FDrs=B5=C4znode=B5=C4=
+=B1=E4=BB=AF=A3=AC=B3=AC=B9=FDsession&nbsp;time&nbsp;out=B5=C4=D6=
+=B5=A3=AC=BE=CD=C8=CF=B6=A8=B8=C3RegionServer=0A=B3=F6=B4=ED=C1=CB=
+=A3=AC=C8=BB=BA=F3=CD=A8=B9=FDServerManager=B5=C4expireServer=BD=AB=
+=C6=E4=BC=D3=C8=EBDead&nbsp;RegionServer&nbsp;Lists=D6=D0=A1=A3=D5=
+=E2=D1=F9=B5=C8=0ARegionServer=B7=A2=CB=CD=D0=C4=CC=F8=B8=F8HMast=
+er=CA=B1=A3=AC=B7=A2=CF=D6=B8=C3RegionServer=CE=BB=D3=DADead&nbsp=
+;RegionServer&nbsp;Lists=D6=D0=A3=AC=BB=E1=C5=D7=B3=F6=0AYouAreDe=
+adException=A1=A3=C8=BB=BA=F3=A3=ACRegionServer=BB=E1=BF=AA=CA=BC=
+=D6=B4=D0=D0shutdown=CF=B5=CD=B3=B2=D9=D7=F7=A1=A3 &nbsp;</span><=
+/div><div><span style=3D"font-size: 10.5pt; line-height: 1.5;">=D7=
+=A2=0A=D2=E2=A3=BA=D5=E2=C0=EF=C9=E8=D6=C3=B5=C4zookeeper.session=
+.timeout=D3=EBzookeeper=C9=E8=D6=C3=B5=C4ticktime=B9=B2=CD=AC=D3=B0=
+=CF=ECsession=B5=C4=C9=FA=B4=E6=D6=DC=C6=DA=A3=AC=D2=BB=B0=E3=0A=B6=
+=F8=D1=D4=A3=ACsessionTimeOut=3D&nbsp;Min(=D3=A6=D3=C3=C9=E8=D6=C3=
+=B5=C4zookeeper.session.timeout=A3=ACticktime*</span><span class=3D=
+"number" style=3D"font-size: 10.5pt; line-height: 1.5;">20</span>=
+<span style=3D"font-size: 10.5pt; line-height: 1.5;">) &nbsp;</sp=
+an><span style=3D"font-size: 10.5pt; line-height: 1.5;">&nbsp;</s=
+pan></div></div><div><span style=3D"font-size: 10.5pt; line-heigh=
+t: 1.5;"><br></span></div><div><span style=3D"font-size: 10.5pt;=20=
+line-height: 1.5;">&nbsp;&lt;property&gt;</span><br></div><div><d=
+iv>&nbsp; &nbsp; &lt;name&gt;hbase.regionserver.handler.count&lt;=
+/name&gt;</div><div>&nbsp; &nbsp; &lt;value&gt;150&lt;/value&gt;<=
+/div><div>&nbsp; &lt;/property&gt;</div></div><div>=CB=B5=C3=F7=A3=
+=BA</div><div>regionserver=B5=C4=B9=A4=D7=F7=CF=DF=B3=CC=CA=FD=C1=
+=BF=A3=AC=C4=AC=C8=CF=CA=C710=A3=AC=B9=D9=B7=BD=C4=AC=C8=CF=D6=B5=
+=CC=AB=D0=A1=A3=AC<span style=3D"font-size: 10.5pt; line-height:=20=
+1.5;">Matching&nbsp;number&nbsp;of&nbsp;active&nbsp;regions</span=
+><span style=3D"font-size: 10.5pt; line-height: 1.5;">,=CD=A8=B3=A3=
+</span><span style=3D"font-size: 10.5pt; line-height: 1.5;">=B6=BC=
+=B5=F7=B5=BD100~200=D6=AE=BC=E4=A3=AC=CC=E1=B8=DFregionserver=D0=D4=
+=C4=DC=A1=A3</span></div><div><br></div></div><div><div><div><spa=
+n style=3D"font-size: 10.5pt; line-height: 1.5;">&nbsp;&lt;proper=
+ty&gt;</span><br></div><div><div>&nbsp; &nbsp; &lt;name&gt;hbase.=
+regionserver.lease.period&lt;/name&gt;</div><div>&nbsp; &nbsp; &l=
+t;value&gt;<span class=3D"number">240000</span>&lt;/value&gt;</di=
+v><div><span style=3D"font-size: 10.5pt; line-height: 1.5;">&nbsp=
+; &lt;/property&gt;</span></div></div><div>=CB=B5=C3=F7=A3=BA</di=
+v><div><span style=3D"font-size: 10.5pt; line-height: 1.5;">hbase=
+.regionserver.lease.period=B5=C4=C9=E8=D6=C3=CA=C7Tradeoff=A3=AC=D2=
+=F2=CE=AA=D4=DAHBase&nbsp;Client=B2=D9=D7=F7=B9=FD=0A=B3=CC=D6=D0=
+=A3=AC=C8=E7=B9=FBRegionServer=B5=C4=CF=EC=D3=A6=CB=D9=B6=C8=B9=FD=
+=C2=FD=BB=F2=D5=DF=B3=F6=CF=D6=C1=CBLong&nbsp;FullGC=A3=AC=B3=AC=B9=
+=FD=C1=CB=C9=E8=D6=C3=D6=B5=A3=AC=D4=F2=C5=D7=B3=F6lease&nbsp;exp=
+ired=A1=A3 &nbsp;</span><span style=3D"font-size: 10.5pt; line-he=
+ight: 1.5;">ps=A3=BAhbase.regionserver.lease.period=B5=C4=C9=E8=D6=
+=C3=D2=AA=BA=CDhbase.rpc.timeout=B1=A3=B3=D6=D2=BB=D6=C2=A3=AC=D7=
+=EE=BA=C3hbase.rpc.timeout=B5=C4=D6=B5=C2=D4=B4=F3=D3=DAhbase.reg=
+ionserver.lease.period &nbsp;</span><span style=3D"font-size: 10.=
+5pt; line-height: 1.5;">&nbsp;</span></div><div><br></div></div><=
+div><div>&lt;property&gt; &nbsp;</div><div>&nbsp; &nbsp; &lt;name=
+&gt;hbase.hregion.max.filesize&lt;/name&gt; &nbsp;</div><div>&nbs=
+p; &nbsp; &lt;value&gt;107374182400&lt;/value&gt; &nbsp;</div><di=
+v>&lt;/property&gt;</div></div></div><div>=CB=B5=C3=F7=A3=BA<span=
+ style=3D"font-size: 10.5pt; line-height: 1.5;">=CD=A8=B9=FD=BD=AB=
+=D5=E2=B8=F6=B2=CE=CA=FD=D6=B5=B5=F7=B4=F3=B5=BD=C4=B3=B8=F6=BA=DC=
+=C4=D1=B4=EF=B5=BD=B5=C4=D6=B5=A3=AC=B1=C8=C8=E7100G=A3=AC=BE=CD=BF=
+=C9=D2=D4=BC=E4=BD=D3=BD=FB=D3=C3=D7=D4=B6=AFsplit=A3=A8RegionSer=
+ver=B2=BB=BB=E1=B6=D4=CE=B4=B5=BD=B4=EF100G=B5=C4region=D7=F6spli=
+t=A3=A9=A1=A3&nbsp;</span></div><div><span style=3D"font-size: 10=
+.5pt; line-height: 1.5;"><br></span></div><div><span style=3D"fon=
+t-size: 10.5pt; line-height: 1.5;"><br></span></div><div><div><di=
+v>&lt;property&gt; &nbsp;</div><div>&nbsp; &nbsp; &lt;name&gt;hba=
+se.hstore.blockingStoreFiles&lt;/name&gt; &nbsp;</div><div>&nbsp;=
+ &nbsp; &lt;value&gt;2100000000&lt;/value&gt; &nbsp;</div><div>&l=
+t;/property&gt;</div></div><div>=CB=B5=C3=F7=A3=BA=C4=AC=C8=CF=D6=
+=B5=CA=C77=A3=AC<span style=3D"font-size: 10.5pt; line-height: 1.=
+5;">=D4=DAflush=CA=B1=A3=AC=B5=B1=D2=BB=B8=F6region=D6=D0=B5=C4St=
+ore=A3=A8Coulmn&nbsp;Family=A3=A9=C4=DA=D3=D0=B3=AC=B9=FD</span><=
+span class=3D"number" style=3D"font-size: 10.5pt; line-height: 1.=
+5;">7</span><span style=3D"font-size: 10.5pt; line-height: 1.5;">=
+=B8=F6storefile=CA=B1=A3=AC=D4=F2block=CB=F9=D3=D0=B5=C4=D0=B4=C7=
+=EB=C7=F3=BD=F8=D0=D0compaction=A3=AC=D2=D4=BC=F5=C9=D9storefile=CA=
+=FD=C1=BF=A1=A3&nbsp;</span><span style=3D"font-size: 10.5pt; lin=
+e-height: 1.5;">block=D0=B4=C7=EB=C7=F3=BB=E1=D1=CF=D6=D8=D3=B0=CF=
+=EC=B5=B1=C7=B0regionServer=B5=C4=CF=EC=D3=A6=CA=B1=BC=E4=A3=AC=B5=
+=AB=B9=FD=B6=E0=B5=C4storefile=D2=B2=BB=E1=D3=B0=CF=EC=B6=C1=D0=D4=
+=C4=DC=A1=A3=B4=D3=CA=B5=BC=CA=D3=A6=D3=C3=C0=B4=BF=B4=A3=AC=CE=AA=
+=C1=CB=BB=F1=C8=A1=BD=CF=C6=BD=BB=AC=B5=C4=CF=EC=D3=A6=CA=B1=BC=E4=
+=A3=AC=BF=C9=BD=AB=D6=B5=C9=E8=CE=AA=CE=DE=CF=DE=B4=F3=A1=A3=C8=E7=
+=B9=FB=C4=DC=C8=DD=C8=CC=CF=EC=D3=A6=CA=B1=BC=E4=B3=F6=CF=D6=BD=CF=
+=B4=F3=B5=C4=B2=A8=B7=E5=B2=A8=B9=C8=A3=AC=C4=C7=C3=B4=C4=AC=C8=CF=
+=BB=F2=B8=F9=BE=DD=D7=D4=C9=ED=B3=A1=BE=B0=B5=F7=D5=FB=BC=B4=BF=C9=
+=A1=A3&nbsp;</span><span style=3D"font-size: 10.5pt; line-height:=
+ 1.5;">&nbsp;</span></div></div><div><span style=3D"font-size: 10=
+.5pt; line-height: 1.5;"><br></span></div><div><div>&lt;property&=
+gt; &nbsp;</div><div>&nbsp; &nbsp; &lt;name&gt;hbase.hregion.majo=
+rcompaction&lt;/name&gt; &nbsp;</div><div>&nbsp; &nbsp; &lt;value=
+&gt;0&lt;/value&gt; &nbsp;</div><div>&lt;/property&gt;&nbsp;</div=
+></div><div>=CB=B5=C3=F7=A3=BA</div><div>Turn&nbsp;off&nbsp;auto&=
+nbsp;major&nbsp;compaction<br></div><div><br></div><div><div><div=
+>&lt;property&gt; &nbsp;</div><div>&nbsp; &nbsp; &lt;name&gt;hbas=
+e.client.write.buffer&lt;/name&gt; &nbsp;</div><div>&nbsp; &nbsp;=
+ &lt;value&gt;6291456&lt;/value&gt; &nbsp;</div><div>&lt;/propert=
+y&gt;&nbsp;</div></div><div>=CB=B5=C3=F7=A3=BA</div><div>=D0=B4=BB=
+=BA=B4=E6=B4=F3=D0=A1=A3=AC=C4=AC=C8=CF=CE=AA2M=A3=AC=CD=C6=BC=F6=
+=C9=E8=D6=C3=CE=AA6M=A3=AC=B5=A5=CE=BB=CA=C7=D7=D6=BD=DA=A3=AC=B5=
+=B1=C8=BB=B2=BB=CA=C7=D4=BD=B4=F3=D4=BD=BA=C3=A3=AC=C8=E7=B9=FB=CC=
+=AB=B4=F3=A3=AC=D4=F2=D5=BC=D3=C3=B5=C4=C4=DA=B4=E6=CC=AB=B6=E0=A3=
+=BB<br></div></div><div><br></div><div><br></div><div><br></div><=
+/div></body></html>=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=
+=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A=0A
+
+------=_Next_Part_0000209796.008--
+
+------=_Next_Part_0000629388.452--
+
